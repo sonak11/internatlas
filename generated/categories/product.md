@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**246** tracked · **132** open now
+**246** tracked · **130** open now
 
 ## Current openings
 
@@ -55,7 +55,6 @@
 | [Databricks](generated/companies/databricks.md) | [Product Management Intern (2027) - Belgrade](https://databricks.com/company/careers/open-positions/job?gh_jid=8863328002) | Belgrade | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Databricks](generated/companies/databricks.md) | [Product Management Intern (2027) - Berlin](https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002) | Berlin | Onsite | 2025-08-29 | Rolling | 🟢 Open | ❔ |
 | [Databricks](generated/companies/databricks.md) | [Product Management Intern (Summer 2027)](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) | Bellevue | Onsite | 2023-08-17 | Rolling | 🟢 Open | ❔ |
-| [Datadog](generated/companies/datadog.md) | [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | NYC | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [Dick's Sporting Goods](generated/companies/dick-s-sporting-goods.md) | [Product Management Intern - Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/Customer-Support-Center/Product-Management---Summer-2027-Corporate-Internship_202608791-1) | Pittsburgh, PA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [DTCC](generated/companies/dtcc.md) | [Product Management Intern - 2027 Internship Program](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214410) | Tampa, FL +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Duolingo](generated/companies/duolingo.md) | [Product Manager, MBA Intern](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) | Pittsburgh, PA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
@@ -124,7 +123,6 @@
 | [Trimble](generated/companies/trimble.md) | [Product Management Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57893) | Westminster, CO | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Trimble](generated/companies/trimble.md) | [Product Management Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Product-Management-Intern_R57675-1) | Westminster, CO +1 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [UL Solutions](generated/companies/ul-solutions.md) | [Product Management Intern](https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625) | Northbrook, IL +1 | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
-| [Uline](generated/companies/uline.md) | [Product Management Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939) | Waukegan, IL +4 | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [DC Power Product Management Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279952) | Delaware, OH | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Energy Storage Product Management Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279379) | Delaware, OH | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [IT Systems Product Management Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279239) | Westerville, OH | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
@@ -169,6 +167,7 @@
 | [Cox](generated/companies/cox.md) | [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185) | Long Island | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Cox](generated/companies/cox.md) | [Product Management Intern - Summer 2027](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174) | Atlanta, GA | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Datadog](generated/companies/datadog.md) | [Product Management Intern](https://careers.datadoghq.com/detail/8143729/?gh_jid=8143729) | Paris | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
+| [Datadog](generated/companies/datadog.md) | [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241) | NYC | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | [Dedalus Labs](generated/companies/dedalus-labs.md) | [Product Manager Intern](https://jobs.ashbyhq.com/dedalus-labs/ca4245ff-0dee-4f16-80ca-24912d72079c/application?embed=true) | SF | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [DTCC](generated/companies/dtcc.md) | [Product Management Intern](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214160) | Tampa, FL +1 | Onsite | 2026-07-08 | Rolling | 🔴 Closed | ❔ |
 | [Duolingo](generated/companies/duolingo.md) | [Associate Product Manager Intern](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002) | Pittsburgh, PA | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
@@ -241,6 +240,7 @@
 | [TikTok](generated/companies/tiktok.md) | [Product Manager Intern - Tiktok-Product-Search](https://lifeattiktok.com/search/7663349357178620165) | San Jose, CA | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Tuckernuck](generated/companies/tuckernuck.md) | [Product Management Intern](https://tnuck.bamboohr.com/careers/273/) | Washington, DC | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | [U.S. Bank](generated/companies/u-s-bank.md) | [Product Management Intern](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766) | Minneapolis, MN | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
+| [Uline](generated/companies/uline.md) | [Product Management Intern](https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Internship---Summer-2027_R265939) | Waukegan, IL +4 | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Ulta Beauty](generated/companies/ulta-beauty.md) | [Digital Product Management Intern](https://careers.ulta.com/jobs/423575?icims=1) | Bolingbrook, IL | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | [Upbring](generated/companies/upbring.md) | [Product Manager Intern](https://careers-upbring.icims.com/jobs/7139/job?mobile=true&needsRedirect=false) | Austin, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [USAA](generated/companies/usaa.md) | [Digital Technical Product Management Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Digital-Technical-Product-Management-Intern_R0120759) | San Antonio, TX | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
@@ -283,7 +283,6 @@
 - Appian (2)
 - Brunswick (2)
 - Cadence Solutions (2)
-- Datadog (2)
 - DTCC (2)
 - Electronic Arts (2)
 - Gemini (2)
@@ -299,6 +298,7 @@
 - Workday (2)
 - Zebra Technologies (2)
 - Blackhawk Network Holdings (2)
+- Datadog (2)
 - Geotab (2)
 - PricewaterhouseCoopers (PwC) (2)
 - ROCKWOOL Group (2)
@@ -334,7 +334,6 @@
 - Roblox (1)
 - Tradeweb (1)
 - UL Solutions (1)
-- Uline (1)
 - Viget (1)
 - 7-Eleven (1)
 - ABC News (1)
@@ -373,6 +372,7 @@
 - The Home Depot (1)
 - Tuckernuck (1)
 - U.S. Bank (1)
+- Uline (1)
 - Ulta Beauty (1)
 - Upbring (1)
 - Vanguard (1)

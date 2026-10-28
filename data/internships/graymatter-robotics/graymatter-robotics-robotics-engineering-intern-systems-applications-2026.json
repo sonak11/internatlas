@@ -5,17 +5,13 @@
     "name": "GrayMatter Robotics",
     "slug": "graymatter-robotics"
   },
-  "role": "Robotics Engineering Intern - Systems & Applications",
+  "role": "Robotics Engineering Intern: Systems & Applications",
   "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/graymatter-robotics/aa7c2419-7bb9-4080-9403-937c4db01bb6/application?embed=true",
+  "apply_url": "https://jobs.ashbyhq.com/graymatter-robotics/1cdbf03d-438b-46f8-808e-76fb6cfd4320/application?embed=true",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
-    {
-      "state": "LA",
-      "country": "USA"
-    },
     {
       "city": "Carson",
       "state": "CA",
@@ -46,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-11",
+    "posted": "2026-10-28",
     "discovered": "2026-09-11",
-    "last_verified": "2026-10-17"
+    "last_verified": "2026-10-28"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

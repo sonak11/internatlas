@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**251** tracked · **147** open now
+**253** tracked · **149** open now
 
 ## Current openings
 
@@ -66,6 +66,8 @@
 | [KLA](generated/companies/kla.md) | [Research Scientist Intern - Plasma Light Source Characterization](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033) | Ann Arbor, MI | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [KLA](generated/companies/kla.md) | [Research Scientist Intern - Plasma Light Source Characterization](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2) | Ann Arbor, MI | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [KLA Corporation](generated/companies/kla-corporation.md) | [Research Scientist Intern - Plasma Light Source Characterization](https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-1) | Ann Arbor, MI | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
+| [Mercor](generated/companies/mercor.md) | [Research Engineer Intern, Benchmarking](https://go.vansh.nyc/WT) | San Francisco, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| [Mercor](generated/companies/mercor.md) | [Research Engineer Intern, Environments, Data and Post-Training](https://go.vansh.nyc/WU) | San Francisco, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, Advanced Materials for Soft Robotics (PhD)](https://www.metacareers.com/profile/job_details/25514049594874160) | Redmond, WA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ❌ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, Computational Chemist](https://www.metacareers.com/profile/job_details/2059739221232640) | Redmond, WA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ❌ |
 | [Meta](generated/companies/meta.md) | [Research Scientist Intern, Organic Optoelectronic Materials (PhD)](https://www.metacareers.com/profile/job_details/843617948284299) | Redmond, WA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ❌ |
@@ -288,6 +290,7 @@
 - Intel (2)
 - Jane Street (2)
 - KLA (2)
+- Mercor (2)
 - Mistral AI (2)
 - Qorvo (2)
 - Salesforce (2)

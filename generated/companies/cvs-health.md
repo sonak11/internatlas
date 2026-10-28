@@ -12,7 +12,6 @@
 | CVS Health | [Innovation & Technology Data Science Intern](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067) | NYC | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | CVS Health | [Innovation & Technology Intern - Data Engineering](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1084831-1) | Irving, TX | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | CVS Health | [Innovation & Technology Intern, Data Engineering](https://go.vansh.nyc/OI) | Irving, TX | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
-| CVS Health | [Innovation & Technology Internship - Data Engineering](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Graduate-_R1081101) | NYC | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | CVS Health | [Innovation & Technology Internship - Data Science](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038) | NYC | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | CVS Health | [Innovation & Technology Internship - Product & Agile Delivery](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Hartford-Farmington-Ave-Rogers/Innovation---Technology-Internship---Product---Agile-Delivery---Summer-2027--Undergraduate-_R1080767) | Dallas, TX +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | CVS Health | [Innovation & Technology Internship - Software Engineering: Data & Intelligence](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114) | NYC | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
@@ -25,6 +24,7 @@
 | CVS Health | [Software Engineer Intern, Platform & Applications](https://go.vansh.nyc/fj) | Scottsdale, AZ +3 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | CVS Health | [Software Engineering Intern, Data & Intelligence](https://go.vansh.nyc/gu) | New York, NY | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | CVS Health | [Software Engineering: Data & Intelligence Intern, Innovation & Technology](https://go.vansh.nyc/fn) | New York, NY | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| CVS Health | [Innovation & Technology Internship - Data Engineering](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Graduate-_R1081101) | NYC | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

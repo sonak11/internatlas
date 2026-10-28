@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**306** tracked · **195** open now
+**308** tracked · **197** open now
 
 ## Current openings
 
@@ -170,6 +170,8 @@
 | [RTX](generated/companies/rtx.md) | [FPGA Engineer Intern](https://go.vansh.nyc/F5) | McKinney, TX | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [FPGA Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/FPGA-Engineering-Intern--Summer-2027--Onsite-_01880037) | McKinney, TX | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [SK Hynix Memory Solution](generated/companies/sk-hynix-memory-solution.md) | [ASIC Design Intern](https://go.vansh.nyc/gp) | San Jose, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [Skyband Systems](generated/companies/skyband-systems.md) | [Avionics Hardware & Test Engineer Intern](https://jobs.ashbyhq.com/skyband%20systems/74d42f88-5265-4879-9c6d-61f532e89b20/application?embed=true) | Kirkland, WA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
+| [Skyband Systems](generated/companies/skyband-systems.md) | [Avionics Hardware & Test Engineer Intern](https://jobs.ashbyhq.com/skyband%20systems/36bb9bd3-7ecb-42fe-908a-7d7486620d77/application?embed=true) | Kirkland, WA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Skydio](generated/companies/skydio.md) | [Hardware Test and Reliability Intern](https://go.vansh.nyc/By) | San Mateo, CA | Onsite | 2026-10-25 | Rolling | 🟢 Open | ❔ |
 | [Skydio](generated/companies/skydio.md) | [Hardware Test and Reliability Intern - Summer 2027](https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800/application?embed=true) | San Mateo, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Skydio](generated/companies/skydio.md) | [Wireless Hardware Engineer Intern](https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application?embed=true) | San Mateo, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
@@ -355,6 +357,7 @@
 - Nokia (2)
 - Optiver (2)
 - Rivian (2)
+- Skyband Systems (2)
 - Solidigm (2)
 - The Toro Company (2)
 - Two Sigma (2)
