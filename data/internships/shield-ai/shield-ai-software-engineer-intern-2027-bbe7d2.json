@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "visa-software-engineer-intern-2027-cf8740",
+  "id": "shield-ai-software-engineer-intern-2027-bbe7d2",
   "company": {
-    "name": "Visa",
-    "slug": "visa"
+    "name": "Shield AI",
+    "slug": "shield-ai"
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/Vy",
+  "apply_url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Foster City",
+      "city": "San Diego",
       "state": "CA",
       "country": "USA"
     }
@@ -25,10 +25,12 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-27",
-    "discovered": "2026-10-27",
+    "posted": "2026-10-26",
+    "discovered": "2026-10-28",
     "last_verified": "2026-10-28"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

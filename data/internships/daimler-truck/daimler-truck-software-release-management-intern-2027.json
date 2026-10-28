@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "visa-software-engineer-intern-2027-f777a9",
+  "id": "daimler-truck-software-release-management-intern-2027",
   "company": {
-    "name": "Visa",
-    "slug": "visa"
+    "name": "Daimler Truck",
+    "slug": "daimler-truck"
   },
-  "role": "Software Engineer Intern",
+  "role": "Software Release Management Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/Vz",
+  "apply_url": "https://go.vansh.nyc/Xd",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ashburn",
-      "state": "VA",
+      "city": "Portland",
+      "state": "OR",
       "country": "USA"
     }
   ],
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-27",
-    "discovered": "2026-10-27",
+    "posted": "2026-10-28",
+    "discovered": "2026-10-28",
     "last_verified": "2026-10-28"
   },
   "status": "open",

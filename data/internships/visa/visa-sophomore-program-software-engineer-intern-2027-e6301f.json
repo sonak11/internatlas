@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "visa-software-engineer-intern-2027-64a1d1",
+  "id": "visa-sophomore-program-software-engineer-intern-2027-e6301f",
   "company": {
     "name": "Visa",
     "slug": "visa"
   },
-  "role": "Software Engineer Intern",
+  "role": "Sophomore Program Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/VC",
+  "apply_url": "https://go.vansh.nyc/Vx",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
+      "city": "Bellevue",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -41,7 +41,7 @@
   },
   "dates": {
     "posted": "2026-10-27",
-    "discovered": "2026-10-27",
+    "discovered": "2026-10-28",
     "last_verified": "2026-10-28"
   },
   "status": "open",

@@ -7,14 +7,14 @@
   },
   "role": "Sophomore Program Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/VE",
+  "apply_url": "https://go.vansh.nyc/VB",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ashburn",
-      "state": "VA",
+      "city": "Denver",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
