@@ -6,6 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Workday | [Analytics Engineer Intern](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Analytics-Engineer-Intern_JR-0111200) | Pleasanton, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
+| Workday | [Analytics Engineer Intern](https://go.vansh.nyc/Y6) | Pleasanton, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | Workday | [Cybersecurity Engineer Intern](https://go.vansh.nyc/gd) | Pleasanton, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | Workday | [Machine Learning Engineer Intern](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806) | Toronto +1 | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | Workday | [Machine Learning Engineer Intern](https://go.vansh.nyc/Gs) | Pleasanton, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
@@ -22,4 +24,4 @@
 
 ## Related
 
-Browse more roles in: [🧠 Machine Learning](../categories/machine-learning.md), [🧭 Product](../categories/product.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🛠 Data Engineering](../categories/data-engineering.md), [🧠 Machine Learning](../categories/machine-learning.md), [🧭 Product](../categories/product.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "id": "keyrock-quantitative-analyst-intern-digital-assets-market-making-hig-2027",
+  "company": {
+    "name": "Keyrock",
+    "slug": "keyrock"
+  },
+  "role": "Quantitative Analyst Intern - Digital Assets Market Making - High-Frequency Trading",
+  "category": "quant",
+  "apply_url": "https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33/application?embed=true",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "London",
+      "country": "UK"
+    },
+    {
+      "city": "Brussels",
+      "country": "Belgium"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-28",
+    "discovered": "2026-10-28",
+    "last_verified": "2026-10-28"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

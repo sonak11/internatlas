@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "epic-games-gameplay-programmer-intern-2027-ead8c8",
+  "id": "tapestry-e-commerce-intern-e-commerce-2027",
   "company": {
-    "name": "Epic Games",
-    "slug": "epic-games"
+    "name": "Tapestry",
+    "slug": "tapestry"
   },
-  "role": "Gameplay Programmer Intern",
+  "role": "E-Commerce Intern - E-Commerce",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/6S",
+  "apply_url": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/MBA-Intern--E-Commerce_JR20545",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cary",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -39,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-21",
-    "discovered": "2026-10-25",
+    "posted": "2026-10-28",
+    "discovered": "2026-10-28",
     "last_verified": "2026-10-28"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

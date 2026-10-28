@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-ms-phd-perception-evaluation-2027",
+  "id": "t-mobile-associate-technical-product-manager-intern-2027-b65f25",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "T-Mobile",
+    "slug": "t-mobile"
   },
-  "role": "2027 Summer Intern, MS/PhD, Perception, Evaluation",
-  "category": "software-engineering",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8248327",
+  "role": "Associate Technical Product Manager Intern",
+  "category": "product",
+  "apply_url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Associate-Technical-Product-Manager-Internship_REQ380499",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mountain View",
-      "state": "CA",
+      "city": "Frisco",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -27,8 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -44,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-02",
-    "discovered": "2026-10-06",
+    "posted": "2026-10-28",
+    "discovered": "2026-10-28",
     "last_verified": "2026-10-28"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

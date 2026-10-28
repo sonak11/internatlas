@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "id": "revantage-corporate-services-insurance-technology-ai-analytics-intern-2027",
+  "company": {
+    "name": "Revantage Corporate Services",
+    "slug": "revantage-corporate-services"
+  },
+  "role": "Insurance Technology & AI Analytics Intern",
+  "category": "ai",
+  "apply_url": "https://go.vansh.nyc/Y7",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-28",
+    "discovered": "2026-10-28",
+    "last_verified": "2026-10-28"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

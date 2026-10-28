@@ -1,17 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "vsp-vision-software-engineer-intern-2027-578202",
+  "id": "linkedin-software-engineer-intern-first-play-2027-7ef316",
   "company": {
-    "name": "VSP Vision",
-    "slug": "vsp-vision"
+    "name": "LinkedIn",
+    "slug": "linkedin"
   },
-  "role": "Software Engineer Intern",
+  "role": "Software Engineer Intern - First Play",
   "category": "software-engineering",
-  "apply_url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068",
+  "apply_url": "https://jobs.smartrecruiters.com/LinkedIn3/744000158394370",
   "season": "summer",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Mountain View",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,

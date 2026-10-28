@@ -6,8 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Arch Capital Group | [Security Operations Intern](https://go.vansh.nyc/Hm) | Greensboro, NC | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Arch Capital Group | [Data and Analytics Intern](https://archgroup.wd1.myworkdayjobs.com/careers/job/Farmington-CT-United-States-of-America/Data-and-Analytics-Intern_R26_845) | Farmington, CT | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
+| Arch Capital Group | [Security Operations Intern](https://go.vansh.nyc/Hm) | Greensboro, NC | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

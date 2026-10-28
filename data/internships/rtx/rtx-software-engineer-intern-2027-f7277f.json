@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "icf-international-data-engineer-intern-2027-883248",
+  "id": "rtx-software-engineer-intern-2027-f7277f",
   "company": {
-    "name": "ICF International",
-    "slug": "icf-international"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Data Engineer Intern",
-  "category": "data-engineering",
-  "apply_url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01885169",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Reston",
+      "city": "Sterling",
       "state": "VA",
       "country": "USA"
     }
@@ -40,14 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-07",
-    "discovered": "2026-10-26",
+    "posted": "2026-10-28",
+    "discovered": "2026-10-28",
     "last_verified": "2026-10-28"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify",
-    "remote-available"
+    "src:simplify"
   ]
 }

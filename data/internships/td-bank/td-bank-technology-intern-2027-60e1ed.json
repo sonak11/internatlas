@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "agco-ai-data-science-intern-2027-4dbb5f",
+  "id": "td-bank-technology-intern-2027-60e1ed",
   "company": {
-    "name": "AGCO",
-    "slug": "agco"
+    "name": "TD Bank",
+    "slug": "td-bank"
   },
-  "role": "AI & Data Science Intern",
-  "category": "ai",
-  "apply_url": "https://go.vansh.nyc/Ct",
-  "season": "spring",
+  "role": "Technology Intern",
+  "category": "software-engineering",
+  "apply_url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship---Technology_R_1518239",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Champaign",
-      "state": "IL",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -40,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-14",
-    "discovered": "2026-10-26",
+    "posted": "2026-10-22",
+    "discovered": "2026-10-28",
     "last_verified": "2026-10-28"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

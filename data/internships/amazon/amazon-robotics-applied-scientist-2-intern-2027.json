@@ -1,19 +1,43 @@
 {
   "schema_version": "1.0",
-  "id": "sonos-software-engineering-intern-2027-da68e8",
+  "id": "amazon-robotics-applied-scientist-2-intern-2027",
   "company": {
-    "name": "Sonos",
-    "slug": "sonos"
+    "name": "Amazon",
+    "slug": "amazon"
   },
-  "role": "Software Engineering Intern",
+  "role": "Robotics Applied Scientist 2 Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/XB",
-  "season": "summer",
+  "apply_url": "https://amazon.jobs/en/jobs/10591833/2027-applied-science-internship-robotics-united-states",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "North Reading",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "Bellevue",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Sunnyvale",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Westborough",
       "state": "MA",
       "country": "USA"
     }
@@ -25,10 +49,12 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -47,6 +73,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

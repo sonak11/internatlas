@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Leidos | [Cloud Engineering Intern](https://go.vansh.nyc/bl) | Remote | Remote | 2026-10-16 | Rolling | 🟢 Open | ❌ |
+| Leidos | [Data Engineer Intern](https://go.vansh.nyc/Y4) | Fort Belvoir, VA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❌ |
 | Leidos | [Electrical Design Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400) | Huntsville, AL | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Leidos | [Network Site Design Intern](https://go.vansh.nyc/ea) | Remote | Remote | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | Leidos | [Performance Enablement AI/ML Intern](https://go.vansh.nyc/CC) | USA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |

@@ -15,8 +15,8 @@
 | ICF International | [Cloud Engineer Intern, AWS/Azure](https://go.vansh.nyc/ai) | Reston, VA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | ICF International | [Data Analytics Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Analytics--Reston--VA-or-Remote-_R2603382-1) | Reston, VA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | ICF International | [Data Engineer Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380) | Reston, VA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
-| ICF International | [Data Engineer Intern](https://go.vansh.nyc/FN) | USA +1 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | ICF International | [Data Scientist Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252) | Reston, VA +1 | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
+| ICF International | [Data Scientist Seasonal Associate Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Data-Scientist_R2603639) | Reston, VA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | ICF International | [Full-Stack Developer Intern](https://go.vansh.nyc/dK) | Remote | Remote | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | ICF International | [Software Developer Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002) | Reston, VA | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | ICF International | [Software Engineer Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522) | Reston, VA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |

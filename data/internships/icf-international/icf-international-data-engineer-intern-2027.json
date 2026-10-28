@@ -7,14 +7,11 @@
   },
   "role": "Data Engineer Intern",
   "category": "data-engineering",
-  "apply_url": "https://go.vansh.nyc/FN",
+  "apply_url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Engineer--Reston--VA-or-Remote-_R2603380",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "country": "USA"
-    },
     {
       "city": "Reston",
       "state": "VA",
@@ -50,7 +47,7 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03",
+    "src:simplify",
     "remote-available"
   ]
 }

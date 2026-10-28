@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| GAF | [Master Data Management Intern](https://go.vansh.nyc/GE) | Parsippany-Troy Hills, NJ | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
+| GAF | [Master Data Management Intern](https://go.vansh.nyc/GE) | Parsippany-Troy Hills, NJ | Onsite | 2026-10-12 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

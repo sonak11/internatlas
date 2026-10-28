@@ -7,15 +7,11 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/X3",
+  "apply_url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068",
   "season": "summer",
   "year": 2027,
-  "work_mode": "onsite",
-  "locations": [
-    {
-      "country": "USA"
-    }
-  ],
+  "work_mode": "remote",
+  "locations": [],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -45,7 +41,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03",
-    "remote-available"
+    "src:simplify"
   ]
 }

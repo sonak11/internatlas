@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "cenovus-energy-student-risk-analytics-intern-2027",
+  "company": {
+    "name": "Cenovus Energy",
+    "slug": "cenovus-energy"
+  },
+  "role": "Student Risk Analytics Intern",
+  "category": "software-engineering",
+  "apply_url": "https://cenovus.wd3.myworkdayjobs.com/careers/job/CA-AB-Calgary/Student--Risk-Analytics--Calgary--May-2027-_R-411263",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Calgary",
+      "country": "AB"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-28",
+    "discovered": "2026-10-28",
+    "last_verified": "2026-10-28"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
