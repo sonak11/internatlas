@@ -11,13 +11,8 @@
   "apply_url": "https://www.samsara.com/company/careers/roles/8325371?gh_jid=8325371",
   "season": "summer",
   "year": 2027,
-  "work_mode": "onsite",
-  "locations": [
-    {
-      "city": "Phoenix",
-      "country": "USA"
-    }
-  ],
+  "work_mode": "remote",
+  "locations": [],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -42,7 +37,7 @@
   "dates": {
     "posted": "2026-10-26",
     "discovered": "2026-10-26",
-    "last_verified": "2026-10-28"
+    "last_verified": "2026-10-29"
   },
   "status": "open",
   "tags": [

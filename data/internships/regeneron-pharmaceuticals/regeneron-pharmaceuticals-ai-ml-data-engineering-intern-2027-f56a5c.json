@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "id": "regeneron-pharmaceuticals-ai-ml-data-engineering-intern-2027-f56a5c",
+  "company": {
+    "name": "Regeneron Pharmaceuticals",
+    "slug": "regeneron-pharmaceuticals"
+  },
+  "role": "AI/ML & Data Engineering Intern",
+  "category": "machine-learning",
+  "apply_url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Cambridge",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Armonk",
+      "state": "NY",
+      "country": "USA"
+    },
+    {
+      "city": "Warren",
+      "state": "NJ",
+      "country": "USA"
+    },
+    {
+      "city": "Sleepy Hollow",
+      "state": "NY",
+      "country": "USA"
+    },
+    {
+      "city": "Tarrytown",
+      "state": "NY",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-28",
+    "discovered": "2026-10-29",
+    "last_verified": "2026-10-29"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "figma-phd-intern-security-engineer-2027-2027",
+  "company": {
+    "name": "Figma",
+    "slug": "figma",
+    "career_page": "https://www.figma.com/careers"
+  },
+  "role": "PhD Intern, Security Engineer (2027)",
+  "category": "security",
+  "apply_url": "https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "San Francisco",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-28",
+    "discovered": "2026-10-29",
+    "last_verified": "2026-10-29"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:ats"
+  ]
+}

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**310** tracked · **199** open now
+**312** tracked · **201** open now
 
 ## Current openings
 
@@ -95,7 +95,9 @@
 | [Google](generated/companies/google.md) | [Hardware Engineer Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/97352132356645574) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Silicon Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/136529930677560006) | Madison, WI +2 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Graphcore](generated/companies/graphcore.md) | [Hardware Intern](https://job-boards.greenhouse.io/graphcore/jobs/8894753002) | Bristol | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [Graphcore](generated/companies/graphcore.md) | [Hardware Intern](https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902078002) | Bristol | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Graphcore](generated/companies/graphcore.md) | [Silicon Intern](https://job-boards.greenhouse.io/graphcore/jobs/8879329002) | Bristol +1 | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [Graphcore](generated/companies/graphcore.md) | [Silicon Intern](https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902082002) | Bristol +1 | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Hermeus](generated/companies/hermeus.md) | [Flight Software Engineering Intern](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) | Atlanta, GA | Onsite | 2026-03-06 | Rolling | 🟢 Open | ❌ |
 | [Hermeus](generated/companies/hermeus.md) | [Flight Software Engineering Intern, Simulation/Hardware-In-The-Loop](https://go.vansh.nyc/fR) | Los Angeles, CA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [ASIC Design Engineer Intern](https://go.vansh.nyc/FM) | Sunnyvale, CA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
@@ -341,6 +343,7 @@
 - Tesla (5)
 - Cadence Design Systems (4)
 - Google (4)
+- Graphcore (4)
 - Hermeus (4)
 - Intel (4)
 - Bedrock Robotics (3)
@@ -353,7 +356,6 @@
 - ByteDance (2)
 - Garmin (2)
 - GlobalFoundries (2)
-- Graphcore (2)
 - Hudson River Trading (2)
 - Motorola (2)
 - Nokia (2)
