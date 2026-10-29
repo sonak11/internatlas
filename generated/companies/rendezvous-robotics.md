@@ -6,6 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Rendezvous Robotics | [Software Engineer Intern](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009) | Golden, CO | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
+| Rendezvous Robotics | [Software Engineer Intern](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009) | Golden, CO | Onsite | 2026-07-22 | Rolling | 🟢 Open | ❔ |
 | Rendezvous Robotics | [Software Engineering Intern, Spring 2027](https://go.vansh.nyc/5h) | Golden, CO | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❌ |
 | Rendezvous Robotics | [Software Engineering Intern](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009) | Golden, CO | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❌ |
 

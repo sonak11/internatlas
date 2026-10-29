@@ -17,7 +17,6 @@
 | [American Express](generated/companies/american-express.md) | [Data Science Intern - Global Decision Science - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266) | NYC | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [American Express](generated/companies/american-express.md) | [Data Science Intern - Global Decision Science - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013265) | NYC | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [American Family Insurance Group](generated/companies/american-family-insurance-group.md) | [Data Engineering / Data Science Intern](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Summer-2027-Intern---Data-Engineering_R39674) | Madison, WI | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
-| [APEX Analytix](generated/companies/apex-analytix.md) | [Data Science Intern](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53) | Greensboro, NC | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Applied Materials](generated/companies/applied-materials.md) | [Data Science Intern](https://go.vansh.nyc/Ya) | Santa Clara, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Applied Materials](generated/companies/applied-materials.md) | [Data Science Intern](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Science-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2627525) | Santa Clara, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Applied Materials](generated/companies/applied-materials.md) | [Data Scientist Intern](https://go.vansh.nyc/Y3) | Austin, TX | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
@@ -44,6 +43,7 @@
 | [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140) | Atlanta, GA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137) | Charleston, SC | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408) | Annapolis Junction, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern - University - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409) | Fort Walton Beach, FL | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern - University - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050) | El Segundo, CA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | [C3.ai](generated/companies/c3-ai.md) | [Data Scientist Intern - Summer 2027](https://c3.ai/job-description/8738918002?gh_jid=8738918002) | Redwood City, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Campbell Soup Company](generated/companies/campbell-soup-company.md) | [Data Science Intern](https://go.vansh.nyc/QO) | Camden, NJ | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
@@ -203,6 +203,7 @@
 | [American Institutes for Research](generated/companies/american-institutes-for-research.md) | [Data Science Intern](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5404816008) | Arlington County | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
 | [Amgen](generated/companies/amgen.md) | [Data Scientist Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704) | Remote | Remote | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | [Amgen](generated/companies/amgen.md) | [Data Scientist Intern - Amgen’s Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722) | Remote | Remote | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
+| [APEX Analytix](generated/companies/apex-analytix.md) | [Data Science Intern](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53) | Greensboro, NC | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | [Arevon](generated/companies/arevon.md) | [Data Science Intern - Interconnection & Transmission](https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007) | Scottsdale, AZ | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [Ascension](generated/companies/ascension.md) | [Data Science Intern](https://jobs.ascension.org/us/en/job/2026-465186) | St. Louis, MO | Onsite | 2026-10-12 | Rolling | 🔴 Closed | ❔ |
 | [AtkinsRéalis](generated/companies/atkinsr-alis.md) | [Data Scientist Intern - Summer 2027](https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1) | Tempe, AZ | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
@@ -219,7 +220,6 @@
 | [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249837) | McLean, VA | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249842) | McLean, VA | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0249866) | McLean, VA | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
-| [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern - University - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409) | Fort Walton Beach, FL | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Booz Allen Hamilton](generated/companies/booz-allen-hamilton.md) | [Games Data Scientist Intern](https://go.vansh.nyc/QN) | Lexington, MA | Onsite | 2026-10-18 | Rolling | 🔴 Closed | ❔ |
 | [Boston Scientific](generated/companies/boston-scientific.md) | [Data Science Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813600504) | Arden Hills, MN | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | [Boston Scientific](generated/companies/boston-scientific.md) | [R&D Research Data Science Intern](https://bostonscientific.eightfold.ai/careers/job/563602813667382) | USA | Onsite | 2026-09-28 | Rolling | 🔴 Closed | ❔ |
@@ -413,7 +413,6 @@
 - AARP (1)
 - American Electric Power (1)
 - American Family Insurance Group (1)
-- APEX Analytix (1)
 - AspenTech (1)
 - BlueCross BlueShield of Nebraska (1)
 - C3.ai (1)
@@ -470,6 +469,7 @@
 - AlixPartners (1)
 - Allied Solutions (1)
 - American Institutes for Research (1)
+- APEX Analytix (1)
 - Arevon (1)
 - Ascension (1)
 - AtkinsRéalis (1)

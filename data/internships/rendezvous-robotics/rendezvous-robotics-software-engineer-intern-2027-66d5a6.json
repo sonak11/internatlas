@@ -1,17 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "vsp-vision-software-engineer-intern-2027-c47878",
+  "id": "rendezvous-robotics-software-engineer-intern-2027-66d5a6",
   "company": {
-    "name": "VSP Vision",
-    "slug": "vsp-vision"
+    "name": "Rendezvous Robotics",
+    "slug": "rendezvous-robotics"
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071",
+  "apply_url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009",
   "season": "summer",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Golden",
+      "state": "CO",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -34,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-28",
-    "discovered": "2026-10-28",
+    "posted": "2026-09-16",
+    "discovered": "2026-10-29",
     "last_verified": "2026-10-29"
   },
   "status": "open",

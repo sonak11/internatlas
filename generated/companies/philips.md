@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Philips | [AI & Analytics Analyst Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012) | Nashville, TN | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Philips | [Insights and Analytics Intern - Health Systems Marketing](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern-Insights-and-Analytics--Health-Systems-Marketing--Cambridge--MA---Summer-2027_593454) | Cambridge, MA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | Philips | [Service Offer Design Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern----Service-Offer-Design---Cambridge--MA---Summer-2027_593517) | Cambridge, MA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Philips | [AI Engineer Intern - Enterprise AI & Workflow Automation](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---AI-Engineer--Enterprise-AI---Workflow-Automation---Plymouth--MN---Summer-2027_591991) | Colorado Springs, CO +3 | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |

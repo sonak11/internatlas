@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**235** tracked · **156** open now
+**236** tracked · **157** open now
 
 ## Current openings
 
@@ -119,6 +119,7 @@
 | [Qualcomm](generated/companies/qualcomm.md) | [Camera Design Implementation Intern](https://qualcomm.eightfold.ai/careers/job/446721678727) | Vancouver | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Camera Design Implementation Intern](https://go.vansh.nyc/es) | Vancouver | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Camera Design Implementation Intern](https://go.vansh.nyc/ek) | Markham | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| [Qualcomm](generated/companies/qualcomm.md) | [Design Automation & Quality Assurance Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721349404) | Toronto | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Design Automation & Quality Assurance Engineering Intern](https://go.vansh.nyc/RC) | Ottawa | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Digital Design Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721156182) | Toronto | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Digital Design Engineer Intern](https://go.vansh.nyc/Q0) | Toronto | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
@@ -249,9 +250,9 @@
 - Marvell (30)
 - Tesla (18)
 - Qorvo (12)
+- Qualcomm (12)
 - Astera Labs (11)
 - Micron Technology (11)
-- Qualcomm (11)
 - NVIDIA (8)
 - NXP Semiconductors (8)
 - Vertiv (7)

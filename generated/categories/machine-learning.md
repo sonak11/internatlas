@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**376** tracked · **262** open now
+**377** tracked · **262** open now
 
 ## Current openings
 
@@ -28,7 +28,6 @@
 | [Aramco Americas](generated/companies/aramco-americas.md) | [AI/ML Engineering Intern](https://go.vansh.nyc/Mo) | Houston, TX | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Atoms](generated/companies/atoms.md) | [Machine Learning PhD Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002) | Seattle, WA +3 | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Atoms](generated/companies/atoms.md) | [ML PhD Software Engineer Intern](https://go.vansh.nyc/7v) | Multiple Locations Available | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
-| [Aurora Innovation](generated/companies/aurora-innovation.md) | [Data & ML Platform Engineer Intern](https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true) | SF +2 | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Bedrock Robotics](generated/companies/bedrock-robotics.md) | [Behavior Machine Learning Engineer Intern - World Models](https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application?embed=true) | SF | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Bedrock Robotics](generated/companies/bedrock-robotics.md) | [Onboard Infrastructure Engineer Intern - ML Inference](https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8/application?embed=true) | SF | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Bose](generated/companies/bose.md) | [Audio Machine Learning Intern Co-op](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Audio-Machine-Learning-Intern-Co-op_R29277) | Bloomfield Hills, MI +2 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
@@ -142,6 +141,7 @@
 | [pony.ai](generated/companies/pony-ai.md) | [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply) | Fremont, CA | Onsite | 2026-05-29 | Rolling | 🟢 Open | ❔ |
 | [Q2](generated/companies/q2.md) | [Machine Learning Engineer Intern](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800) | Cary, NC | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [Q2](generated/companies/q2.md) | [Machine Learning Intern](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797) | Austin, TX | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
+| [Qualcomm](generated/companies/qualcomm.md) | [Deep Learning Research Intern](https://go.vansh.nyc/YP) | Markham | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Deep Learning Research Intern - Interim Engineering Intern - Systems](https://qualcomm.eightfold.ai/careers/job/446721828828) | Markham | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Deep Learning Research Intern, Interim Engineering Systems](https://go.vansh.nyc/Yh) | Markham | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Machine Learning & Artificial Intelligence Engineering Intern](https://go.vansh.nyc/Rr) | San Diego, CA +6 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
@@ -285,6 +285,7 @@
 | [Atoms](generated/companies/atoms.md) | [Machine Learning Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8869106002) | SF | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | [Atoms](generated/companies/atoms.md) | [Machine Learning Engineer Intern](https://job-boards.greenhouse.io/atoms/jobs/8869105002) | SF | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [Aurora Innovation](generated/companies/aurora-innovation.md) | [Behavior and Planning Intern - ML Research](https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4/application?embed=true) | SF +2 | Onsite | 2026-09-24 | Rolling | 🔴 Closed | ❔ |
+| [Aurora Innovation](generated/companies/aurora-innovation.md) | [Data & ML Platform Engineer Intern](https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true) | SF +2 | Onsite | 2026-09-24 | Rolling | 🔴 Closed | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [AI/ML Platform Intern](https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061) | Toronto | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [AI/ML Platform Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--AI-ML-Platform--Winter-_26WD101061-1) | Toronto | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Machine Learning Developer Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Machine-Learning-Developer_25WD92311-2) | Toronto | Onsite | 2026-06-10 | Rolling | 🔴 Closed | ❔ |
@@ -393,8 +394,8 @@
 - General Motors (13)
 - Tesla (10)
 - AMD (8)
+- Qualcomm (8)
 - Pinterest (7)
-- Qualcomm (7)
 - IMC Trading (6)
 - Rivian (6)
 - Jump Trading (5)
@@ -420,7 +421,6 @@
 - Corning (3)
 - RTX (3)
 - AeroVironment (2)
-- Aurora Innovation (2)
 - Bedrock Robotics (2)
 - Bot Auto (2)
 - Castleton Commodities International (2)
@@ -440,6 +440,7 @@
 - Sigma Computing (2)
 - Trimble (2)
 - Amgen (2)
+- Aurora Innovation (2)
 - Cisco (2)
 - Genesis Molecular AI (2)
 - Instacart (2)

@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-29",
-  "count": 8398,
+  "count": 8414,
   "internships": [
     {
       "schema_version": "1.0",
@@ -28359,7 +28359,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-10-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -28414,7 +28414,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-10-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -35255,7 +35255,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48274,7 +48274,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-10-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48337,7 +48337,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-10-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48396,7 +48396,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-10-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -48515,7 +48515,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-10-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -62958,9 +62958,9 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-01",
-        "last_verified": "2026-09-05"
+        "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -63844,9 +63844,9 @@
       "dates": {
         "posted": "2026-08-28",
         "discovered": "2026-09-01",
-        "last_verified": "2026-09-05"
+        "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -68601,6 +68601,113 @@
     },
     {
       "schema_version": "1.0",
+      "id": "boston-scientific-ai-solutions-engineering-intern-2027-25c1d4",
+      "company": {
+        "name": "Boston Scientific",
+        "slug": "boston-scientific"
+      },
+      "role": "AI Solutions Engineering Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/YR",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Arden Hills",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-29",
+        "discovered": "2026-10-29",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "boston-scientific-ai-solutions-engineering-intern-2027",
+      "company": {
+        "name": "Boston Scientific",
+        "slug": "boston-scientific"
+      },
+      "role": "AI Solutions Engineering Intern",
+      "category": "ai",
+      "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813547675",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Arden Hills",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-29",
+        "discovered": "2026-10-29",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "boston-scientific-data-engineer-intern-2027",
       "company": {
         "name": "Boston Scientific",
@@ -68915,7 +69022,7 @@
         "discovered": "2026-09-29",
         "last_verified": "2026-10-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -80526,6 +80633,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "capital-de-recherche-tower-software-developer-intern-2027",
+      "company": {
+        "name": "Capital de Recherche Tower",
+        "slug": "capital-de-recherche-tower"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.tower-research.ca/postes-vacants/?gh_jid=8212194",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Montreal",
+          "country": "QC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-17",
+        "discovered": "2026-10-29",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "capital-one-ai-engineer-intern-2027",
       "company": {
         "name": "Capital One",
@@ -82528,6 +82686,114 @@
       "dates": {
         "posted": "2026-10-23",
         "discovered": "2026-10-24",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "castelion-electrical-engineer-intern-avionics-2026",
+      "company": {
+        "name": "Castelion",
+        "slug": "castelion"
+      },
+      "role": "Electrical Engineer Intern - Avionics",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/castelioncorporation/jobs/4417146009",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Torrance",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-10-29",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "castelion-embedded-software-engineer-intern-2026",
+      "company": {
+        "name": "Castelion",
+        "slug": "castelion"
+      },
+      "role": "Embedded Software Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://job-boards.greenhouse.io/castelioncorporation/jobs/4386047009",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Torrance",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-07",
+        "discovered": "2026-10-29",
         "last_verified": "2026-10-29"
       },
       "status": "open",
@@ -115918,7 +116184,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -117783,6 +118049,110 @@
         "last_verified": "2026-10-22"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "disney-enterprise-technology-data-software-engineering-intern-2027",
+      "company": {
+        "name": "Disney",
+        "slug": "disney"
+      },
+      "role": "Enterprise Technology & Data Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/YL",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Orlando",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-29",
+        "discovered": "2026-10-29",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "disney-full-stack-web-development-intern-walt-disney-animation-stud-2027",
+      "company": {
+        "name": "Disney",
+        "slug": "disney"
+      },
+      "role": "Full Stack Web Development Intern, Walt Disney Animation Studios",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/YM",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Burbank",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-29",
+        "discovered": "2026-10-29",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -132853,6 +133223,58 @@
       "dates": {
         "posted": "2026-10-06",
         "discovered": "2026-10-23",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ericsson-ai-and-automation-engineer-intern-2027",
+      "company": {
+        "name": "Ericsson",
+        "slug": "ericsson"
+      },
+      "role": "AI and Automation Engineer Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/YK",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Plano",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-29",
+        "discovered": "2026-10-29",
         "last_verified": "2026-10-29"
       },
       "status": "open",
@@ -164108,7 +164530,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164213,7 +164635,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164266,7 +164688,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164319,7 +164741,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164371,7 +164793,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164423,7 +164845,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164477,7 +164899,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164530,7 +164952,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164581,7 +165003,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164635,7 +165057,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164686,7 +165108,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164737,7 +165159,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164788,7 +165210,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164840,7 +165262,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -164891,7 +165313,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165047,7 +165469,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165100,7 +165522,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165208,7 +165630,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165261,7 +165683,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165315,7 +165737,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165417,7 +165839,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165572,7 +165994,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165625,7 +166047,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -184552,6 +184974,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "hp-inc-software-engineer-intern-2027-1e872f",
+      "company": {
+        "name": "HP Inc.",
+        "slug": "hp-inc"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-28",
+        "discovered": "2026-10-29",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "hp-inc-software-engineer-intern-2027",
       "company": {
         "name": "HP Inc.",
@@ -184560,6 +185033,57 @@
       "role": "Software Engineer Intern",
       "category": "software-engineering",
       "apply_url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-28",
+        "discovered": "2026-10-29",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hp-inc-software-engineer-intern-connectivity-2027-24d08c",
+      "company": {
+        "name": "HP Inc.",
+        "slug": "hp-inc"
+      },
+      "role": "Software Engineer Intern - Connectivity",
+      "category": "software-engineering",
+      "apply_url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -220200,14 +220724,14 @@
       },
       "role": "Software Engineering Intern",
       "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/cj",
+      "apply_url": "https://go.vansh.nyc/YO",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Salt Lake City",
-          "state": "UT",
+          "city": "Carlsbad",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -220219,9 +220743,9 @@
       "eligibility": {
         "graduation_years": [],
         "degree_levels": [],
-        "citizenship_required": false,
+        "citizenship_required": true,
         "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
+        "visa_sponsorship": "no"
       },
       "interview": {},
       "tech": {
@@ -220233,11 +220757,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-10-19",
+        "posted": "2026-10-29",
         "discovered": "2026-10-21",
-        "last_verified": "2026-10-26"
+        "last_verified": "2026-10-29"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -294608,6 +295132,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "philips-ai-analytics-analyst-intern-2027",
+      "company": {
+        "name": "Philips",
+        "slug": "philips"
+      },
+      "role": "AI & Analytics Analyst Intern",
+      "category": "ai",
+      "apply_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Nashville",
+          "state": "TN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-22",
+        "discovered": "2026-10-29",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "philips-ai-engineer-intern-enterprise-ai-workflow-automation-2027",
       "company": {
         "name": "Philips",
@@ -308717,6 +309293,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "qualcomm-deep-learning-research-intern-2027",
+      "company": {
+        "name": "Qualcomm",
+        "slug": "qualcomm"
+      },
+      "role": "Deep Learning Research Intern",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/YP",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Markham",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-29",
+        "discovered": "2026-10-29",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "qualcomm-deep-learning-research-intern-interim-engineering-intern-sys-2027",
       "company": {
         "name": "Qualcomm",
@@ -308818,6 +309445,57 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "qualcomm-design-automation-quality-assurance-engineer-intern-2027",
+      "company": {
+        "name": "Qualcomm",
+        "slug": "qualcomm"
+      },
+      "role": "Design Automation & Quality Assurance Engineer Intern",
+      "category": "design",
+      "apply_url": "https://qualcomm.eightfold.ai/careers/job/446721349404",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-29",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -314776,6 +315454,110 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rendezvous-robotics-software-engineer-intern-2027-66d5a6",
+      "company": {
+        "name": "Rendezvous Robotics",
+        "slug": "rendezvous-robotics"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Golden",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-16",
+        "discovered": "2026-10-29",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rendezvous-robotics-software-engineer-intern-2027",
+      "company": {
+        "name": "Rendezvous Robotics",
+        "slug": "rendezvous-robotics"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329122009",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Golden",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-22",
+        "discovered": "2026-10-29",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -345925,6 +346707,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "samsung-research-america-health-ai-scholar-intern-digital-health-algorithms-team-2027",
+      "company": {
+        "name": "Samsung Research America",
+        "slug": "samsung-research-america"
+      },
+      "role": "Health AI Scholar Intern - Digital Health Algorithms Team",
+      "category": "ai",
+      "apply_url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-27",
+        "discovered": "2026-10-29",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "samsung-research-america-memory-and-personalization-intern-memory-and-personalization-2026",
       "company": {
         "name": "Samsung Research America",
@@ -357324,7 +358160,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-10-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -387741,6 +388577,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tesla-software-engineer-intern-software-engineer-infotainment-plat-2027",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Software Engineer Intern - Software Engineer - Infotainment Platforms Validation",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/286261",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-09",
+        "discovered": "2026-10-29",
+        "last_verified": "2026-10-29"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tesla-software-engineer-intern-software-engineer-it-apps-2026",
       "company": {
         "name": "Tesla",
@@ -394318,7 +395206,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-10-29"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -436788,52 +437676,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "vsp-vision-software-engineer-intern-2027-c47878",
-      "company": {
-        "name": "VSP Vision",
-        "slug": "vsp-vision"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "remote",
-      "locations": [],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-28",
-        "discovered": "2026-10-28",
-        "last_verified": "2026-10-29"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "vsp-vision-software-engineer-intern-2027-d850b6",
       "company": {
         "name": "VSP Vision",
@@ -436887,7 +437729,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068",
+      "apply_url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071",
       "season": "summer",
       "year": 2027,
       "work_mode": "remote",

@@ -16,7 +16,6 @@
 | The Federal Reserve System | [Policy & Analysis Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Policy---Analysis_R-0000033766) | Dallas, TX | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | The Federal Reserve System | [REIN Data Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089) | Atlanta, GA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | The Federal Reserve System | [Statistics and Analysis Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Statistics-and-Analysis-Intern---2027_R-0000033645) | Cleveland, OH | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
-| The Federal Reserve System | [Technology Risk Intern](https://go.vansh.nyc/cR) | Dallas, TX | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | The Federal Reserve System | [Analyst Intern - Summer 2027](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Internship--Analyst---Summer-2027_R-0000033129-1) | Kansas City, MO | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | The Federal Reserve System | [Business Survey Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Fall-2026-Business-Survey-Intern_R-0000032532) | Richmond, VA | Onsite | 2026-06-17 | Rolling | 🔴 Closed | ❔ |
 | The Federal Reserve System | [Graduate Intern - Markets Group](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern---Markets-Group---New-York---Graduate-Intern_R-0000033033) | NYC | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
@@ -30,6 +29,7 @@
 | The Federal Reserve System | [Statistics Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern----Statistics---Sophomore-Intern_R-0000033027) | NYC | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | The Federal Reserve System | [System IT Intern, Credit Risk Management](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---System-IT--Credit-Risk-Management-_R-0000033624) | Dallas, TX | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
 | The Federal Reserve System | [Technical Intern - Federal Reserve - National IT](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Technical-Internship_R-0000033194) | Richmond, VA | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
+| The Federal Reserve System | [Technology Risk Intern](https://go.vansh.nyc/cR) | Dallas, TX | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 | The Federal Reserve System | [Windows Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Windows_R-0000033715) | Dallas, TX | Onsite | 2026-10-15 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

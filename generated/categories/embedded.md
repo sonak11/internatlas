@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**232** tracked · **153** open now
+**233** tracked · **153** open now
 
 ## Current openings
 
@@ -37,7 +37,7 @@
 | [Astera Labs](generated/companies/astera-labs.md) | [Firmware Engineer Intern Co-op](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739956005) | San Jose, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Astera Labs](generated/companies/astera-labs.md) | [Firmware Engineer Intern, Optical](https://go.vansh.nyc/Fn) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Base Power](generated/companies/base-power.md) | [Firmware Engineer Intern](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application?embed=true) | Austin, TX | Onsite | 2026-05-27 | Rolling | 🟢 Open | ❔ |
-| [Boston Scientific](generated/companies/boston-scientific.md) | [R&D Firmware Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813547667) | Arden Hills, MN | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
+| [Castelion](generated/companies/castelion.md) | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/castelioncorporation/jobs/4386047009) | Torrance, CA | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | [CesiumAstro](generated/companies/cesiumastro.md) | [Embedded Software Engineer Intern](https://jobs.lever.co/CesiumAstro/d25bf640-2b2b-48d6-ab79-8a06b246caaa/apply) | Austin, TX | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [CesiumAstro](generated/companies/cesiumastro.md) | [Embedded Software Engineer Intern](https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply) | Westminster, CO | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Embedded Software Developer Intern](https://go.vansh.nyc/CD) | Ottawa | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
@@ -168,6 +168,7 @@
 | [Astranis](generated/companies/astranis.md) | [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | SF | Onsite | 2025-12-31 | Rolling | 🔴 Closed | ❔ |
 | [Atomic Semi](generated/companies/atomic-semi.md) | [Embedded Software Engineering Intern](https://jobs.ashbyhq.com/AtomicSemi/13e95284-dbcf-4cf2-8151-c9687dfc1889) | San Francisco, CA | Onsite | 2025-08-15 | Rolling | 🔴 Closed | ✅ |
 | [Axon](generated/companies/axon.md) | [Embedded Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003) | Boston, MA +1 | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
+| [Boston Scientific](generated/companies/boston-scientific.md) | [R&D Firmware Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813547667) | Arden Hills, MN | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Embedded Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232) | Ottawa | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Embedded Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031219) | Ottawa | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Embedded Firmware Engineer Intern](https://jobs.eu.lever.co/cirrus/0af920c1-6ecb-447f-9b22-3eda6b8d4ed8/apply) | Phoenix, AZ | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
@@ -295,7 +296,7 @@
 - Analog Devices (1)
 - Aptiv (1)
 - Base Power (1)
-- Boston Scientific (1)
+- Castelion (1)
 - fab2 (1)
 - General Matter (1)
 - Heron Power (1)
@@ -319,6 +320,7 @@
 - Astranis (1)
 - Atomic Semi (1)
 - Axon (1)
+- Boston Scientific (1)
 - Cisco (1)
 - Daktronics (1)
 - Draper (1)

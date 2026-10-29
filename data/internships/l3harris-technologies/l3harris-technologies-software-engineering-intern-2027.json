@@ -7,14 +7,14 @@
   },
   "role": "Software Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/cj",
+  "apply_url": "https://go.vansh.nyc/YO",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Salt Lake City",
-      "state": "UT",
+      "city": "Carlsbad",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -26,9 +26,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": false,
+    "citizenship_required": true,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-19",
+    "posted": "2026-10-29",
     "discovered": "2026-10-21",
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-10-29"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:vanshb03"

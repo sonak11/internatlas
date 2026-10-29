@@ -18,8 +18,10 @@
 | Qualcomm | [Camera Design Implementation Intern](https://qualcomm.eightfold.ai/careers/job/446721678727) | Vancouver | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Camera Design Implementation Intern](https://go.vansh.nyc/es) | Vancouver | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Camera Design Implementation Intern](https://go.vansh.nyc/ek) | Markham | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Qualcomm | [Deep Learning Research Intern](https://go.vansh.nyc/YP) | Markham | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Deep Learning Research Intern - Interim Engineering Intern - Systems](https://qualcomm.eightfold.ai/careers/job/446721828828) | Markham | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Deep Learning Research Intern, Interim Engineering Systems](https://go.vansh.nyc/Yh) | Markham | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
+| Qualcomm | [Design Automation & Quality Assurance Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721349404) | Toronto | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Design Automation & Quality Assurance Engineering Intern](https://go.vansh.nyc/RC) | Ottawa | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Digital Design Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721156182) | Toronto | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Digital Design Engineer Intern](https://go.vansh.nyc/Q0) | Toronto | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
