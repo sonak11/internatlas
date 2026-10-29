@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "autodesk-research-intern-ai-research-2027-0f864e",
+  "id": "ptc-arena-engineering-intern-2027",
   "company": {
-    "name": "Autodesk",
-    "slug": "autodesk"
+    "name": "PTC",
+    "slug": "ptc"
   },
-  "role": "Research Intern - AI Research",
-  "category": "ai",
-  "apply_url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/PhD-Researcher--AI-Research_26WD101373",
+  "role": "Arena Engineering Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/Zw",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "San Mateo",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-07",
-    "discovered": "2026-10-07",
+    "posted": "2026-10-29",
+    "discovered": "2026-10-29",
     "last_verified": "2026-10-29"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**262** tracked · **154** open now
+**265** tracked · **157** open now
 
 ## Current openings
 
@@ -143,6 +143,9 @@
 | [Together AI](generated/companies/together-ai.md) | [Research Intern, Model Shaping](https://go.vansh.nyc/IP) | San Francisco, CA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Systems Research Engineer Intern - GPU Programming](https://job-boards.greenhouse.io/togetherai/jobs/5238460007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Systems Research Engineer Intern - GPU Programming](https://job-boards.greenhouse.io/togetherai/jobs/5238411007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| [Toyota Research Institute](generated/companies/toyota-research-institute.md) | [Human Interactive Driving Research Intern, Learning-Based Control for Safe Autonomous Driving](https://go.vansh.nyc/Zo) | Los Altos, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| [Toyota Research Institute](generated/companies/toyota-research-institute.md) | [Human Interactive Driving Research Intern, Perception for Driving at the Limits](https://go.vansh.nyc/Zu) | Los Altos, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| [Toyota Research Institute](generated/companies/toyota-research-institute.md) | [Robotics Intern, Human-Machine Interaction Research](https://go.vansh.nyc/Zx) | Los Altos, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [TPG](generated/companies/tpg.md) | [Research Assistant Intern, Data Analytics and Reporting](https://go.vansh.nyc/RV) | USA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Trace3](generated/companies/trace3.md) | [Innovation Research & Development Lab Intern](https://go.vansh.nyc/SL) | Irvine, CA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Trata](generated/companies/trata.md) | [Research Scientist Intern](https://go.vansh.nyc/2C) | San Francisco, CA +1 | Onsite | 2026-05-14 | Rolling | 🟢 Open | ❌ |
@@ -283,6 +286,7 @@
 - General Motors (6)
 - AQR Capital Management (4)
 - Tencent (4)
+- Toyota Research Institute (4)
 - Cloudflare (4)
 - Abundant (3)
 - Dow Jones (3)
@@ -398,7 +402,6 @@
 - Sony Music Entertainment (1)
 - Swift (1)
 - Thomson Reuters (1)
-- Toyota Research Institute (1)
 - Trend Micro (1)
 - University of Virginia (1)
 - WisdomTree (1)

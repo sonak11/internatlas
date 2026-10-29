@@ -6,8 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Connor, Clark & Lunn Financial Group | [Investment Analytics Engineering Intern](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413204009) | Toronto | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
-| Connor, Clark & Lunn Financial Group | [Investment Analytics Engineering Intern](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413182009) | Vancouver | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
+| Connor, Clark & Lunn Financial Group | [Investment Analytics Engineering Intern](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413204009) | Toronto | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
+| Connor, Clark & Lunn Financial Group | [Investment Analytics Engineering Intern](https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413182009) | Vancouver | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

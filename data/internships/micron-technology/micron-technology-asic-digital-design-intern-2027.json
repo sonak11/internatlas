@@ -1,29 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-bs-ms-software-engineering-commercializat-2027",
+  "id": "micron-technology-asic-digital-design-intern-2027",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "Micron Technology",
+    "slug": "micron-technology"
   },
-  "role": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-  "category": "software-engineering",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+  "role": "ASIC Digital Design Intern",
+  "category": "hardware",
+  "apply_url": "https://go.vansh.nyc/Z8",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mountain View",
-      "country": "USA"
-    },
-    {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "Mountain View",
-      "state": "CA",
+      "city": "Minneapolis",
+      "state": "MN",
       "country": "USA"
     }
   ],
@@ -34,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -51,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-09-14",
+    "posted": "2026-10-29",
+    "discovered": "2026-10-29",
     "last_verified": "2026-10-29"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

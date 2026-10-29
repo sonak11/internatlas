@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "caci-software-development-intern-2027-4c7dad",
+  "id": "toyota-research-institute-human-interactive-driving-research-intern-learning-based-con-2027",
   "company": {
-    "name": "CACI",
-    "slug": "caci"
+    "name": "Toyota Research Institute",
+    "slug": "toyota-research-institute"
   },
-  "role": "Software Development Intern",
-  "category": "software-engineering",
-  "apply_url": "https://caci.wd1.myworkdayjobs.com/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085",
+  "role": "Human Interactive Driving Research Intern, Learning-Based Control for Safe Autonomous Driving",
+  "category": "research",
+  "apply_url": "https://go.vansh.nyc/Zo",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Oklahoma City",
-      "state": "OK",
+      "city": "Los Altos",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-05",
-    "discovered": "2026-10-05",
+    "posted": "2026-10-29",
+    "discovered": "2026-10-29",
     "last_verified": "2026-10-29"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

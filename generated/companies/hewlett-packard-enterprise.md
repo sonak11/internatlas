@@ -13,6 +13,7 @@
 | Hewlett Packard Enterprise | [ASIC Engineer Intern](https://go.vansh.nyc/Er) | Durham, NC | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [ASIC Firmware and Diagnostic Intern](https://go.vansh.nyc/M3) | Bloomington, MN +1 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [ASIC Intern](https://go.vansh.nyc/GQ) | Sunnyvale, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
+| Hewlett Packard Enterprise | [ASIC Verification Engineering Intern](https://go.vansh.nyc/Zt) | Roseville, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [Cloud Developer Intern](https://go.vansh.nyc/EL) | San Jose, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [Data Science Intern](https://go.vansh.nyc/OD) | Andover, MA +9 | Onsite | 2026-08-30 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [Embedded Software Engineer Intern](https://go.vansh.nyc/dn) | Roseville, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |

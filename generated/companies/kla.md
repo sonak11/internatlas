@@ -16,6 +16,7 @@
 | KLA | [Software Engineer Intern, C++, Linux](https://go.vansh.nyc/ho) | Milpitas, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | KLA | [Software Engineering Intern](https://go.vansh.nyc/h2) | Milpitas, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | KLA | [Software Engineering Intern, AI/ML for Diagnostics & Calibration](https://go.vansh.nyc/gN) | Milpitas, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| KLA | [Software Intern](https://go.vansh.nyc/Zl) | Milpitas, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

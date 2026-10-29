@@ -7,10 +7,10 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | First Solar (US) | [Data Analytics Intern](https://go.vansh.nyc/K4) | Perrysburg, OH | Onsite | 2026-09-26 | Rolling | 🟢 Open | ❔ |
-| First Solar (US) | [Data Engineering Intern](https://go.vansh.nyc/K3) | Perrysburg, OH | Onsite | 2026-09-26 | Rolling | 🟢 Open | ❔ |
 | First Solar (US) | [Data Science Intern](https://go.vansh.nyc/K2) | Perrysburg, OH | Onsite | 2026-09-26 | Rolling | 🟢 Open | ❔ |
 | First Solar (US) | [Data Science Intern, Device Characterization](https://go.vansh.nyc/H7) | Perrysburg, OH | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | First Solar (US) | [Software Engineer Intern](https://go.vansh.nyc/Vk) | Perrysburg, OH | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
+| First Solar (US) | [Data Engineering Intern](https://go.vansh.nyc/K3) | Perrysburg, OH | Onsite | 2026-09-26 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
