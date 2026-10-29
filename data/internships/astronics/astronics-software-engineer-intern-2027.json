@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineer-intern-2027-e29389",
+  "id": "astronics-software-engineer-intern-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Astronics",
+    "slug": "astronics"
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017",
+  "apply_url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4431835009",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cambridge",
-      "state": "MA",
+      "city": "Kirkland",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -25,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-19",
-    "discovered": "2026-10-24",
+    "posted": "2026-10-05",
+    "discovered": "2026-10-29",
     "last_verified": "2026-10-29"
   },
   "status": "open",

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "id": "connor-clark-lunn-financial-group-investment-analytics-engineering-intern-2027",
+  "company": {
+    "name": "Connor, Clark & Lunn Financial Group",
+    "slug": "connor-clark-lunn-financial-group"
+  },
+  "role": "Investment Analytics Engineering Intern",
+  "category": "data-engineering",
+  "apply_url": "https://cclfg.cclgroup.com/careers/opportunities/posting/?gh_jid=4413182009",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Vancouver",
+      "country": "BC"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-21",
+    "discovered": "2026-10-29",
+    "last_verified": "2026-10-29"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
