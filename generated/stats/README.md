@@ -14,7 +14,7 @@ _Generated 2026-10-30_
 | Marvell | 92 |
 | Royal Bank of Canada | 90 |
 | Booz Allen | 81 |
-| Waymo | 80 |
+| Waymo | 81 |
 | American Express | 77 |
 | AMD | 76 |
 | NVIDIA | 76 |
@@ -24,7 +24,7 @@ _Generated 2026-10-30_
 | General Motors | 55 |
 | L3Harris Technologies | 53 |
 | Jump Trading | 50 |
-| Qorvo | 50 |
+| Qorvo | 49 |
 | Cloudflare | 46 |
 | Anduril | 43 |
 | Coinbase | 43 |
@@ -33,42 +33,42 @@ _Generated 2026-10-30_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 5017 | `███████████████` |
-| ai | 736 | `██` |
-| machine-learning | 386 | `█` |
+| software-engineering | 5025 | `███████████████` |
+| ai | 740 | `██` |
+| machine-learning | 391 | `█` |
 | quant | 373 | `█` |
 | data-science | 327 | `█` |
-| hardware | 318 | `█` |
-| research | 266 | `█` |
+| hardware | 320 | `█` |
+| research | 267 | `█` |
 | product | 259 | `█` |
-| design | 236 | `█` |
-| embedded | 234 | `█` |
+| design | 237 | `█` |
+| embedded | 235 | `█` |
 | data-engineering | 176 | `█` |
-| security | 138 | `█` |
-| cloud | 114 | `█` |
+| security | 140 | `█` |
+| cloud | 115 | `█` |
 
 ## Newest listings
 
+- 2026-10-30 — **Altera**: [FPGA Development Tools Intern](https://go.vansh.nyc/10V)
+- 2026-10-30 — **Altera**: [Hardware Design Engineer Intern](https://go.vansh.nyc/10W)
 - 2026-10-30 — **Amazon**: [Software Development Engineer Intern, Machine Learning/Automated Reasoning](https://go.vansh.nyc/10y)
 - 2026-10-30 — **Axon**: [Software Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003)
 - 2026-10-30 — **Axon**: [Software Engineer Intern](https://go.vansh.nyc/10l)
 - 2026-10-30 — **Barclays**: [Chief Client Office Intern, Client Data & Engineering Group](https://go.vansh.nyc/10x)
+- 2026-10-30 — **Carnegie Mellon University**: [Agentic Development Intern](https://go.vansh.nyc/10D)
+- 2026-10-30 — **Carnegie Mellon University**: [Cyber Range Development Intern](https://go.vansh.nyc/10C)
+- 2026-10-30 — **Carnegie Mellon University**: [Enabling Mission Capability at Scale Intern](https://go.vansh.nyc/110)
+- 2026-10-30 — **Carnegie Mellon University**: [Full-Stack Software Development Intern](https://go.vansh.nyc/10A)
+- 2026-10-30 — **Dow Jones**: [Software Engineering Intern](https://go.vansh.nyc/10X)
+- 2026-10-30 — **Ensco**: [Information Security Intern](https://go.vansh.nyc/10M)
 - 2026-10-30 — **Fussball Club Cincinnati LLC (“FC Cincinnati”)**: [Data Analyst Intern](https://job-boards.greenhouse.io/fccincinnati/jobs/8105405003)
 - 2026-10-30 — **Fussball Club Cincinnati LLC (“FC Cincinnati”)**: [Data Analyst Intern](https://go.vansh.nyc/10v)
+- 2026-10-30 — **GardaWorld**: [Infrastructure Engineer Intern](https://go.vansh.nyc/10Z)
+- 2026-10-30 — **GCM Grosvenor**: [Cybersecurity Intern](https://go.vansh.nyc/10U)
 - 2026-10-30 — **GlobalFoundries**: [Device Engineering Intern - Silicon Photonics](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263)
 - 2026-10-30 — **MITRE**: [Critical Infrastructure Protection Intern](https://go.vansh.nyc/10s)
 - 2026-10-30 — **MITRE**: [Data Science and Engineering Intern](https://go.vansh.nyc/10t)
 - 2026-10-30 — **MITRE**: [Trustworthy AI Intern](https://go.vansh.nyc/10r)
-- 2026-10-30 — **Newmont**: [Resource Modeling Intern](https://jobs.newmont.com/us/en/job/45053)
-- 2026-10-30 — **Nissan**: [Procurement Transformation Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Procurement-Transformation---Summer-2027---Franklin--TN_R00214279)
-- 2026-10-30 — **Nissan**: [Purchasing Transformation Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Purchasing-Transformation-Intern---Summer-2027---Franklin--TN_R00214282)
-- 2026-10-30 — **NVIDIA**: [AI Systems Software Engineering Intern](https://go.vansh.nyc/10o)
-- 2026-10-30 — **PTC**: [Software Engineering Intern](https://ptc.wd1.myworkdayjobs.com/ptc/job/Cambridge-United-Kingdom/Software-Engineering-Summer-Internship-2027---Cambridge_JR112998)
-- 2026-10-30 — **Qualcomm**: [Soft IP Engineer Co-op Intern](https://qualcomm.eightfold.ai/careers/job/446721862542)
-- 2026-10-30 — **Stratolaunch**: [Manufacturing Systems & Data Intern - Systems](https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008)
-- 2026-10-30 — **Trane Technologies**: [AI & Analytics Intern](https://go.vansh.nyc/10w)
-- 2026-10-29 — **AECOM**: [Digital Engineering Intern - BIM](https://jobs.smartrecruiters.com/AECOM2/744000158556674)
-- 2026-10-29 — **Altera**: [Software Engineer Intern, Factory Apps](https://go.vansh.nyc/ZA)
 
 ## Recently closed
 
@@ -249,6 +249,8 @@ _Generated 2026-10-30_
 - Autodesk — Software Engineer Intern
 - Autodesk — Software Engineer Intern
 - Autodesk — Software Engineer Intern
+- Autodesk — Software Engineer Intern - C++/.Net
+- Autodesk — Software Engineer Intern - Javascript
 - Axon — 2027 US Electrical Engineering Internship
 - Baird — Capital Markets Compliance Data & Analytics Intern
 - Bank of China USA — Risk Analytics Model Intern - Credit Risk Management Department
@@ -260,6 +262,7 @@ _Generated 2026-10-30_
 - Belvedere Trading — Software Engineer Intern - Summer 2027
 - Berkshire Hathaway Energy — Software Engineer Intern
 - Berkshire Hathaway Energy — Software Engineering Intern
+- Blackberry — Application Engineering Student Intern
 - Blackberry — Software Testing Development Intern, QNX
 - Blackhawk Network Holdings — Product Management Intern
 - Blackhawk Network Holdings — Product Management Intern
@@ -272,6 +275,7 @@ _Generated 2026-10-30_
 - Booz Allen — Quantum Computing Research Intern
 - Booz Allen — Quantum Research Intern - Summer 2027
 - Booz Allen — Software Engineer Intern - Summer 2027
+- Booz Allen — Systems Engineer Intern - Summer Games
 - Booz Allen Hamilton — Cyber Security Intern
 - Booz Allen Hamilton — Digital Transformation Analyst Intern
 - Booz Allen Hamilton — Digital Transformation Analyst Intern
@@ -285,6 +289,7 @@ _Generated 2026-10-30_
 - Booz Allen Hamilton — Software Engineer Intern
 - Booz Allen Hamilton — Systems Engineer Intern
 - Booz Allen Hamilton — Systems Engineer Intern, Games
+- Bosch — Calibration Process Optimization Intern
 - Bosch Home Comfort — AI Business Solutions Intern
 - Bosch Home Comfort — Data Analyst & Marketing/Sales Intern
 - Boston Scientific — Electrical Hardware Engineer Intern
@@ -298,6 +303,7 @@ _Generated 2026-10-30_
 - BP — Supply, Trading & Shipping Intern
 - Brevan Howard — Systematic Data Strategy Intern
 - Brookfield — Analytics Modelling Intern
+- Brookhaven Lab — Data Engineering Student Assistant Intern
 - ByteDance — AI Network Automation Engineer Intern - Global Physical Network Infrastructure
 - ByteDance — AI Network Automation Engineer Intern, Global Physical Network Infra
 - CACI — Cyber Analyst Intern
@@ -430,6 +436,8 @@ _Generated 2026-10-30_
 - Disney — Disney & Pixar Games Production Intern
 - DoorDash — Drone Operations, Intern - Labs (Summer 2027)
 - Dow Chemical Company — Data Engineer / Data Platform Engineer Intern
+- Dow Jones — Data Analyst Intern
+- Dow Jones — Software Engineer Intern
 - Draper — Classified Cybersecurity/IT Intern
 - Draper — Embedded Quality & Fielded Systems Intern
 - Draper — Operations Engineering Intern
@@ -624,10 +632,13 @@ _Generated 2026-10-30_
 - Harvey — Software Engineer Intern
 - Harvey — Software Engineer Intern
 - Harvey — Software Engineer Intern - Summer 2027
+- HCSC — Finance Application Developer Intern
+- HCSC — Finance Data & Analytics Developer Intern
 - Helion Energy — Computational Plasma Research Intern
 - Herdora — Member Of Technical Staff Intern
 - Heron Power — Electronics Design Engineer Intern
 - Hewlett Packard Enterprise — Cybersecurity Engineering Intern
+- Hewlett Packard Enterprise — Software Development Intern, AI-Assisted Development
 - Hewlett Packard Enterprise — Software Engineer Intern
 - Hexagon AB — Digital Hardware Engineer Intern - GNSS Positioning Digital Team
 - Highgate — Data Services Intern - Summer 2027
@@ -700,6 +711,7 @@ _Generated 2026-10-30_
 - Johnson & Johnson — Electrical Engineer Intern - Robotics R&D
 - Johnson & Johnson — Robotics Controls & Autonomy Intern - Robotics R&D
 - Johnson & Johnson — Software Engineer Intern - Robotics R&D
+- JP Morgan Chase — Asset Management Data Scientist – Summer Associate Intern
 - Jump Trading — Campus ML Research Engineer Intern
 - Jump Trading — Campus ML Research Engineer (Intern)
 - k-ID — Engineering Intern - Program
@@ -729,6 +741,7 @@ _Generated 2026-10-30_
 - Leidos — AI/ML Intern
 - Leidos — Cybersecurity Analyst Intern
 - Leidos — Data Engineering & Analytics Intern
+- Leidos — Electrical Design Engineer Intern
 - Leidos — Electrical Hardware Design Engineer Intern
 - Leidos — Electrical Hardware Design Engineer Intern
 - Leidos — Engineering Intern
@@ -822,6 +835,7 @@ _Generated 2026-10-30_
 - NBCUniversal — Software Engineering Intern
 - NBCUniversal — Software Engineering Intern
 - NBT Bank — Data Warehouse & Analytics Intern
+- Ncino — Software Engineer Intern
 - Neighbor — Software Engineer Intern
 - Nelnet — Agentic AI Intern
 - NetApp — Software Engineer Intern
@@ -834,7 +848,9 @@ _Generated 2026-10-30_
 - Nightwing — Software / Hardware Engineering Intern
 - Nike — Software Engineer Intern
 - Nissan — AI & Data Analytics Intern
+- Nissan — AI & Data Analytics Intern
 - NJ Department of Environmental Protection — Economic Analysis Intern
+- Northmarq — Software Engineering Intern
 - Northrop Grumman — Computer Engineer Intern
 - Northrop Grumman — Computer Engineer Intern
 - Northrop Grumman — Cyber Software Engineer Intern
@@ -924,26 +940,43 @@ _Generated 2026-10-30_
 - Primetals Technologies — IT Data & Analytics Intern - Asset Demand & Procurement
 - Procter & Gamble — Consumer Analytics & Insights Intern
 - PsiQuantum — Quantum Algorithms and Compilation Intern
+- Qorvo — Analog Design Engineer Intern
 - Qorvo — Analog Design Engineer Intern - High Performance Analog - Advanced Cellular
 - Qorvo — Analog Design Intern
+- Qorvo — Characterization Engineering Intern
 - Qorvo — Characterization Engineering Intern - Advanced Cellular
 - Qorvo — Data Analytics Intern
 - Qorvo — Design Engineer Intern
 - Qorvo — Device Engineering Intern
+- Qorvo — Device Engineering Intern
+- Qorvo — Digital Strategy Marketing Intern - Marketing Analytics
+- Qorvo — Digital Systems Engineer Intern
+- Qorvo — Electrical CAD Engineer Intern - High Performance Analog
+- Qorvo — Electrical Engineer Intern - Physical Verification
 - Qorvo — Engineering Intern
 - Qorvo — Full-Stack Web Developer Intern
+- Qorvo — IC Layout Engineer Intern
 - Qorvo — Product Management Intern
 - Qorvo — Product Management Intern - Advanced Cellular
+- Qorvo — Radio Frequency Integrated Circuit Design Intern - High Performance Analog
 - Qorvo — Radio Systems and Test Intern
+- Qorvo — Research Engineer Intern - High Performance Analog
+- Qorvo — Research Scientist Intern
 - Qorvo — RF/Analog IC Design Intern
 - Qorvo — RFIC Design Engineer Intern
+- Qorvo — RFIC Design Intern
 - Qorvo — Software Characterization Engineer Intern
 - Qorvo — Software Engineer Intern
 - Qorvo — Software Engineer Intern - Information Technology Manufacturing Systems
+- Qorvo — Software Engineer Intern - Software R&D
+- Qorvo — Software Engineer Intern - SWR
+- Qorvo — Software/Firmware Engineering Intern
+- Qorvo — SOI Design Engineer Intern - High Performance Analog - Advanced Cellular
 - Qorvo — Test Characterization Engineer Intern - RF Characterization Engineering
 - Qorvo — Test Engineer Intern
 - Qorvo — Test Engineer Intern - Advanced Cellular
 - Qorvo — Test Engineer Intern - RF Load Pull
+- Qorvo — Test Engineering Intern
 - QTS — Information Security Operations Analyst Intern
 - QTS — People Services Data Analytics Intern
 - QTS — Sustainability Intern
@@ -951,8 +984,13 @@ _Generated 2026-10-30_
 - Qualcomm — AI Driven Test Automation Engineering Intern
 - Qualcomm — IP Applications Engineering Intern - Interim Engineering Intern - HW
 - Qualcomm — Physical Mixed Layout Engineer Intern - Canada - Interim Engineering Intern - HW
+- Qualcomm — Silicon Engineering Intern
 - Qualcomm — Silicon Validation Intern
+- Quantbot Technologies — Data Trading Analyst Intern
 - Quantum Signal AI — Embedded and Real-Time Software Intern
+- Radiance Technologies — Microelectronics Engineer Intern
+- Ragle Inc — Data Engineering Intern
+- Ragle Inc — Software Engineer Intern
 - Rakuten International — Software Engineer Intern
 - Raytheon — Software Development Intern
 - Redwood Materials — Test Automation Engineer Intern
@@ -977,6 +1015,7 @@ _Generated 2026-10-30_
 - Rivian and Volkswagen Group Technologies — Software Engineering Intern, OTA Integration
 - Rivian and Volkswagen Group Technologies — Software Engineering Intern, Vehicle Controls
 - Robert Bosch LLC — Software Engineer Intern, Autonomous Driving
+- Robert Bosch Venture Capital — Calibration Process Optimization Intern
 - Rocket Lab USA — Electrical Engineering Intern
 - ROCKWOOL Group — Associate Product Management Intern
 - Rogue Fitness — AI Engineer Intern
@@ -1102,6 +1141,8 @@ _Generated 2026-10-30_
 - Snowflake — Software Engineer Intern, Database Engineering
 - Snowflake — Software Engineer Intern, Infrastructure Automation
 - Solidigm — Talent Acquisition Data Engineering & Analytics Intern
+- Sonos — Data Quality Intern
+- Sonos — Data Quality Intern
 - Sonos — Software Engineer Intern
 - Sony — Data Quality & Systems Intern
 - Sony — Data Quality & Systems Intern
@@ -1151,6 +1192,7 @@ _Generated 2026-10-30_
 - Susquehanna International Group (SIG) — Quantitative Trading Internship
 - Susquehanna International Group (SIG) — Trading System Engineer Intern
 - Susquehanna International Group (SIG) — Trading System Engineering Intern
+- Synopsys — Technical Engineer Intern
 - Synopsys — Technical-Engineering Intern
 - Synopsys — Technical-Engineering Intern
 - T-Mobile — Software Engineer Intern, Cloud Security
@@ -1220,6 +1262,7 @@ _Generated 2026-10-30_
 - Tradeweb — AI Engineering Intern
 - Tradeweb — C++ Developer Intern
 - Tradeweb — Java Developer Intern
+- Trane Technologies — AI & Analytics Intern
 - Trane Technologies — AI Intern - AI Product Management - AI Controls Integration
 - TransMarket Group — Software Engineer Intern
 - Travelers — Engineering Development Intern
@@ -1258,8 +1301,10 @@ _Generated 2026-10-30_
 - W.R. Berkley — Software Developer Intern - Java
 - W.W. Grainger — Business Analyst Intern
 - Wabash Valley Power Alliance — Energy Efficiency & Demand Response Intern
+- Walleye Capital — PhD Quantitative Researcher Intern
 - Walleye Capital — Quantitative Developer Intern
 - Walleye Capital — Special Projects Developer Intern
+- Walmart — Automation, Product Manager, Corporate Intern
 - Waymo — 2027 Summer Intern, BS/MS, Embedded, Software Engineer
 - Waymo — 2027 Summer Intern, BS/MS, Global Supply Management (GSM)
 - Waymo — 2027 Summer Intern, BS/MS, Software Engineering, Commercialization

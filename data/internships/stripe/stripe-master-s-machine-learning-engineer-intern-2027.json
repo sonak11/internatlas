@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "qorvo-software-engineer-intern-2026-a5b009",
+  "id": "stripe-master-s-machine-learning-engineer-intern-2027",
   "company": {
-    "name": "Qorvo",
-    "slug": "qorvo"
+    "name": "Stripe",
+    "slug": "stripe",
+    "career_page": "https://stripe.com/jobs/university"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75080/1421457600/?ats=successfactors",
-  "season": "fall",
-  "year": 2026,
+  "role": "Master's Machine Learning Engineer, Intern",
+  "category": "machine-learning",
+  "apply_url": "https://stripe.com/jobs/search?gh_jid=8333074",
+  "season": "summer",
+  "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Richardson",
-      "state": "TX",
+      "city": "San Francisco",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-31",
-    "discovered": "2026-08-31",
+    "posted": "2026-10-30",
+    "discovered": "2026-10-30",
     "last_verified": "2026-10-30"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

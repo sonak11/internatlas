@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Ncino | [Software Engineer Intern](https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009) | Lehi, UT | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
+| Ncino | [Software Engineer Intern](https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009) | Lehi, UT | Onsite | 2026-09-30 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
