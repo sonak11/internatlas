@@ -2,12 +2,12 @@
   "schema_version": "1.0",
   "id": "gm-financial-data-engineer-intern-2027",
   "company": {
-    "name": "GM Financial",
+    "name": "GM financial",
     "slug": "gm-financial"
   },
   "role": "Data Engineer Intern",
   "category": "data-engineering",
-  "apply_url": "https://go.vansh.nyc/Zs",
+  "apply_url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -42,11 +42,11 @@
   "dates": {
     "posted": "2026-10-29",
     "discovered": "2026-10-29",
-    "last_verified": "2026-10-29"
+    "last_verified": "2026-10-30"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

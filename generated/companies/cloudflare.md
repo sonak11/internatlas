@@ -2,12 +2,12 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # Cloudflare
 
-[Careers page](https://www.cloudflare.com/careers)
-
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Cloudflare | [Product Manager Intern](https://boards.greenhouse.io/cloudflare/jobs/8328914) | London | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| Cloudflare | [Product Manager Intern](https://boards.greenhouse.io/cloudflare/jobs/8274790) | Austin, TX | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | Cloudflare | [Product Manager Intern (2027) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8274790?gh_jid=8274790) | In-Office | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | Cloudflare | [Product Manager Intern (2027) - Lisbon, PT](https://boards.greenhouse.io/cloudflare/jobs/8332008?gh_jid=8332008) | In-Office | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | Cloudflare | [Product Manager Intern (2027) - London, UK](https://boards.greenhouse.io/cloudflare/jobs/8328914?gh_jid=8328914) | In-Office | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |

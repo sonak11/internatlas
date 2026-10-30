@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Interco | [Software Development Intern, React](https://go.vansh.nyc/Zy) | St. Louis, MO | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | Interco | [Software Development Intern - React](https://jobs.smartrecruiters.com/Interco/744000143346169) | St. Louis, MO | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

@@ -1,23 +1,17 @@
 {
   "schema_version": "1.0",
-  "id": "qorvo-test-engineer-intern-2026-97278b",
+  "id": "vsp-vision-software-engineer-intern-2027-c47878",
   "company": {
-    "name": "Qorvo",
-    "slug": "qorvo"
+    "name": "VSP Vision",
+    "slug": "vsp-vision"
   },
-  "role": "Test Engineer Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.qorvo.com/job/Hillsboro-Test-Engineering-Intern-OR-97124/1421978100/?ats=successfactors",
-  "season": "fall",
-  "year": 2026,
-  "work_mode": "onsite",
-  "locations": [
-    {
-      "city": "Hillsboro",
-      "state": "OR",
-      "country": "USA"
-    }
-  ],
+  "apply_url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "remote",
+  "locations": [],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -25,10 +19,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,9 +34,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-31",
-    "discovered": "2026-09-03",
-    "last_verified": "2026-10-29"
+    "posted": "2026-10-28",
+    "discovered": "2026-10-30",
+    "last_verified": "2026-10-30"
   },
   "status": "open",
   "tags": [

@@ -1,17 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "vsp-vision-software-engineer-intern-2027-d850b6",
+  "id": "walmart-data-tech-transformation-intern-2027",
   "company": {
-    "name": "VSP Vision",
-    "slug": "vsp-vision"
+    "name": "Walmart",
+    "slug": "walmart"
   },
-  "role": "Software Engineer Intern",
+  "role": "Data & Tech Transformation Intern",
   "category": "software-engineering",
-  "apply_url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046",
+  "apply_url": "https://go.vansh.nyc/ZW",
   "season": "summer",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Bentonville",
+      "state": "AR",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -34,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-28",
-    "discovered": "2026-10-28",
-    "last_verified": "2026-10-28"
+    "posted": "2026-10-29",
+    "discovered": "2026-10-30",
+    "last_verified": "2026-10-30"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "aecom-digital-engineering-intern-bim-2027",
+  "company": {
+    "name": "AECOM",
+    "slug": "aecom"
+  },
+  "role": "Digital Engineering Intern - BIM",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.smartrecruiters.com/AECOM2/744000158556674",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Dallas",
+      "state": "TX",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-29",
+    "discovered": "2026-10-30",
+    "last_verified": "2026-10-30"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
