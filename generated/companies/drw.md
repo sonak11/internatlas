@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| DRW | [AI/ML Research Intern](https://job-boards.greenhouse.io/drwfr/jobs/7991172) | Montreal | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | DRW | [AI/ML Research Intern](https://go.vansh.nyc/5o) | Montréal | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | DRW | [FPGA Intern](https://go.vansh.nyc/5n) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ✅ |
 | DRW | [Platform Engineer Intern](https://go.vansh.nyc/5p) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |

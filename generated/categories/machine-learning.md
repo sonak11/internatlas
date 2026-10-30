@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**384** tracked · **267** open now
+**385** tracked · **268** open now
 
 ## Current openings
 
@@ -55,6 +55,7 @@
 | [DoorDash](generated/companies/doordash.md) | [Machine Learning Engineer Intern - Masters](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) | Seattle, WA +4 | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [DoorDash](generated/companies/doordash.md) | [Machine Learning Intern - PhD](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) | Seattle, WA +4 | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Droyd Robotics](generated/companies/droyd-robotics.md) | [Machine Learning Intern](https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9/application) | SF | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
+| [DRW](generated/companies/drw.md) | [AI/ML Research Intern](https://job-boards.greenhouse.io/drwfr/jobs/7991172) | Montreal | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [DRW](generated/companies/drw.md) | [AI/ML Research Intern](https://go.vansh.nyc/5o) | Montréal | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Electronic Arts](generated/companies/electronic-arts.md) | [AI/ML Software Engineer Co-op Intern](https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234) | Vancouver | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Epic Games](generated/companies/epic-games.md) | [Machine Learning Intern - Special Projects - Epic Research Group](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) | Montreal | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
@@ -433,6 +434,7 @@
 - Castleton Commodities International (2)
 - Coinbase (2)
 - DoorDash (2)
+- DRW (2)
 - G-Research (2)
 - Genentech (2)
 - GlobalFoundries (2)
@@ -466,7 +468,6 @@
 - Constellation Space (1)
 - CoVar (1)
 - Droyd Robotics (1)
-- DRW (1)
 - Electronic Arts (1)
 - Expedia Group (1)
 - Faire (1)

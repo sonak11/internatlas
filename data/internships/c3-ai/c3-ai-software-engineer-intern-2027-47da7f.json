@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "lseg-engineering-intern-2027-6491ee",
+  "id": "c3-ai-software-engineer-intern-2027-47da7f",
   "company": {
-    "name": "LSEG",
-    "slug": "lseg"
+    "name": "C3.ai",
+    "slug": "c3-ai"
   },
-  "role": "Engineering Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221",
+  "apply_url": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Nottingham",
-      "country": "UK"
+      "city": "Redwood City",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-12",
-    "discovered": "2026-10-12",
+    "posted": "2026-08-31",
+    "discovered": "2026-10-30",
     "last_verified": "2026-10-30"
   },
   "status": "open",

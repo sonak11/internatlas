@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "american-express-data-science-intern-global-decision-science-credit-fraud-ris-2027-b17b3d",
+  "id": "bitgo-product-management-intern-2027",
   "company": {
-    "name": "American Express",
-    "slug": "american-express"
+    "name": "BitGo",
+    "slug": "bitgo"
   },
-  "role": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
-  "category": "data-science",
-  "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266",
-  "season": "summer",
+  "role": "Product Management Intern",
+  "category": "product",
+  "apply_url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8784786002",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -25,8 +25,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -42,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-10-04",
+    "posted": "2026-09-04",
+    "discovered": "2026-10-30",
     "last_verified": "2026-10-30"
   },
   "status": "open",

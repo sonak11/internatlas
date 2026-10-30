@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-30",
-  "count": 8554,
+  "count": 8569,
   "internships": [
     {
       "schema_version": "1.0",
@@ -25017,7 +25017,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25387,7 +25387,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -25605,7 +25605,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "american-express-data-science-intern-global-decision-science-credit-fraud-ris-2027-b17b3d",
+      "id": "american-express-data-science-intern-global-decision-science-credit-fraud-ris-2027",
       "company": {
         "name": "American Express",
         "slug": "american-express"
@@ -25648,60 +25648,6 @@
       },
       "dates": {
         "posted": "2026-09-01",
-        "discovered": "2026-10-04",
-        "last_verified": "2026-10-30"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "american-express-data-science-intern-global-decision-science-credit-fraud-ris-2027",
-      "company": {
-        "name": "American Express",
-        "slug": "american-express"
-      },
-      "role": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
-      "category": "data-science",
-      "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013265",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "NYC",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-03",
         "discovered": "2026-09-01",
         "last_verified": "2026-10-30"
       },
@@ -26589,7 +26535,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50881,7 +50827,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -53340,6 +53286,62 @@
     },
     {
       "schema_version": "1.0",
+      "id": "axon-software-engineer-intern-2027-f5b823",
+      "company": {
+        "name": "Axon",
+        "slug": "axon"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        },
+        {
+          "city": "Arlington County",
+          "country": "Arlington"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-30",
+        "discovered": "2026-10-30",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "axon-software-engineer-intern-2027",
       "company": {
         "name": "Axon",
@@ -53347,19 +53349,19 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
+      "apply_url": "https://go.vansh.nyc/10l",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Boston",
-          "state": "MA",
+          "city": "Seattle",
+          "state": "WA",
           "country": "USA"
         },
         {
-          "city": "Seattle",
-          "state": "WA",
+          "city": "Arlington",
+          "state": "VA",
           "country": "USA"
         }
       ],
@@ -53385,14 +53387,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-07",
+        "posted": "2026-10-30",
         "discovered": "2026-08-07",
-        "last_verified": "2026-09-24"
+        "last_verified": "2026-10-30"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -58572,6 +58574,212 @@
       "dates": {
         "posted": "2026-07-21",
         "discovered": "2026-07-21",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bitgo-product-management-intern-2027",
+      "company": {
+        "name": "BitGo",
+        "slug": "bitgo"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8784786002",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-10-30",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bitgo-software-engineer-intern-custody-2027",
+      "company": {
+        "name": "BitGo",
+        "slug": "bitgo"
+      },
+      "role": "Software Engineer Intern - Custody",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8783312002",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-10-30",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bitgo-software-engineer-intern-prime-trade-2027",
+      "company": {
+        "name": "BitGo",
+        "slug": "bitgo"
+      },
+      "role": "Software Engineer Intern - Prime Trade",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779857002",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-03",
+        "discovered": "2026-10-30",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bitgo-software-engineer-intern-settlement-systems-go-network-2027",
+      "company": {
+        "name": "BitGo",
+        "slug": "bitgo"
+      },
+      "role": "Software Engineer Intern - Settlement Systems/Go Network",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/bitgowinter2027/jobs/8779436002",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-03",
+        "discovered": "2026-10-30",
         "last_verified": "2026-10-30"
       },
       "status": "open",
@@ -77417,6 +77625,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "c3-ai-ai-product-manager-intern-2027",
+      "company": {
+        "name": "C3.ai",
+        "slug": "c3-ai"
+      },
+      "role": "AI Product Manager Intern",
+      "category": "ai",
+      "apply_url": "https://job-boards.greenhouse.io/c3ascend/jobs/8860562002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redwood City",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-30",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "c3-ai-ai-product-manager-intern-summer-2027-2027",
       "company": {
         "name": "C3.ai",
@@ -77459,6 +77719,61 @@
       "dates": {
         "posted": "2026-10-02",
         "discovered": "2026-10-03",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "c3-ai-data-scientist-intern-2027",
+      "company": {
+        "name": "C3.ai",
+        "slug": "c3-ai"
+      },
+      "role": "Data Scientist Intern",
+      "category": "data-science",
+      "apply_url": "https://job-boards.greenhouse.io/c3ascend/jobs/8738917002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redwood City",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-21",
+        "discovered": "2026-10-30",
         "last_verified": "2026-10-30"
       },
       "status": "open",
@@ -77514,6 +77829,60 @@
       "dates": {
         "posted": "2026-08-31",
         "discovered": "2026-08-31",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "c3-ai-software-engineer-intern-2027-47da7f",
+      "company": {
+        "name": "C3.ai",
+        "slug": "c3-ai"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/c3ascend/jobs/8739036002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redwood City",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-31",
+        "discovered": "2026-10-30",
         "last_verified": "2026-10-30"
       },
       "status": "open",
@@ -85856,7 +86225,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -85985,7 +86354,7 @@
         "discovered": "2026-10-30",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -92472,7 +92841,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -92601,7 +92970,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -107363,7 +107732,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -115991,6 +116360,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "dee-zee-software-development-intern-2027-0fbdb1",
+      "company": {
+        "name": "Dee Zee",
+        "slug": "dee-zee"
+      },
+      "role": "Software Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/10k",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Des Moines",
+          "state": "IA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-29",
+        "discovered": "2026-10-30",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "dee-zee-software-development-intern-2027",
       "company": {
         "name": "Dee Zee",
@@ -124094,6 +124515,60 @@
       "dates": {
         "posted": "2026-07-04",
         "discovered": "2026-07-17",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "drw-ai-ml-research-intern-2027-2d1597",
+      "company": {
+        "name": "DRW",
+        "slug": "drw"
+      },
+      "role": "AI/ML Research Intern",
+      "category": "machine-learning",
+      "apply_url": "https://job-boards.greenhouse.io/drwfr/jobs/7991172",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Montreal",
+          "country": "QC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-10-30",
         "last_verified": "2026-10-30"
       },
       "status": "open",
@@ -140050,6 +140525,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "f-g-business-intelligence-intern-2027",
+      "company": {
+        "name": "F&G",
+        "slug": "f-g"
+      },
+      "role": "Business Intelligence Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7992669003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Des Moines",
+          "state": "IA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-10-30",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "f-g-it-software-engineer-intern-summer-2027",
+      "company": {
+        "name": "F&G",
+        "slug": "f-g"
+      },
+      "role": "IT Software Engineer Intern - Summer",
+      "category": "software-engineering",
+      "apply_url": "https://www.fglife.com/about/careers/intern/apply.html?gh_jid=7996103003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Des Moines",
+          "state": "IA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-10-30",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "f5-software-developer-intern-2027-106dd1",
       "company": {
         "name": "F5",
@@ -153937,7 +154516,7 @@
         "discovered": "2026-09-18",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -153989,7 +154568,7 @@
         "discovered": "2026-08-12",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -192541,7 +193120,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -215312,7 +215891,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -230857,57 +231436,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "lseg-engineering-intern-2027-6491ee",
-      "company": {
-        "name": "LSEG",
-        "slug": "lseg"
-      },
-      "role": "Engineering Intern",
-      "category": "software-engineering",
-      "apply_url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Nottingham",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-12",
-        "discovered": "2026-10-12",
-        "last_verified": "2026-10-30"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "lseg-engineering-intern-2027-6b69a8",
       "company": {
         "name": "LSEG",
@@ -231003,7 +231531,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -231018,14 +231546,14 @@
       },
       "role": "Engineering Intern",
       "category": "software-engineering",
-      "apply_url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/New-York-City-United-States/Engineering-Summer-Internship-Programme_R0123569-1",
+      "apply_url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Nottingham-United-Kingdom/Engineering-Summer-Internship-Programme_R0124221",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "NYC",
-          "country": "USA"
+          "city": "Nottingham",
+          "country": "UK"
         }
       ],
       "compensation": {
@@ -231050,7 +231578,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-17",
+        "posted": "2026-10-12",
         "discovered": "2026-09-17",
         "last_verified": "2026-10-30"
       },
@@ -231105,7 +231633,7 @@
         "discovered": "2026-10-23",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -231208,7 +231736,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -231260,7 +231788,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -231312,7 +231840,7 @@
         "discovered": "2026-09-14",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -235016,7 +235544,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -237048,7 +237576,7 @@
         "discovered": "2026-10-19",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -247374,7 +247902,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -251730,7 +252258,7 @@
         "discovered": "2026-10-28",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -266698,6 +267226,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "ncino-software-engineer-intern-2027",
+      "company": {
+        "name": "Ncino",
+        "slug": "ncino"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/ncinoearlytalent/jobs/4403506009",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lehi",
+          "state": "UT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-10-30",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nebo-back-end-engineer-intern-2026",
       "company": {
         "name": "Nebo",
@@ -269804,6 +270384,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "newmont-resource-modeling-intern-2027",
+      "company": {
+        "name": "Newmont",
+        "slug": "newmont"
+      },
+      "role": "Resource Modeling Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.newmont.com/us/en/job/45053",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Denver",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-30",
+        "discovered": "2026-10-30",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -276477,60 +277109,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "northrop-grumman-software-engineer-intern-2027-d58c7b",
-      "company": {
-        "name": "Northrop Grumman",
-        "slug": "northrop-grumman"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Azusa",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-27",
-        "discovered": "2026-10-27",
-        "last_verified": "2026-10-30"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "northrop-grumman-software-engineer-intern-2027-dbf6d6",
       "company": {
         "name": "Northrop Grumman",
@@ -276642,7 +277220,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/Wl",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -276684,7 +277262,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -279558,6 +280136,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nvidia-ai-systems-software-engineering-intern-2027",
+      "company": {
+        "name": "NVIDIA",
+        "slug": "nvidia"
+      },
+      "role": "AI Systems Software Engineering Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/10o",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-30",
+        "discovered": "2026-10-30",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -310442,7 +311072,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -311198,7 +311828,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -311253,7 +311883,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -312014,7 +312644,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -338211,7 +338841,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -346858,7 +347488,7 @@
         "discovered": "2026-10-28",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -347232,60 +347862,6 @@
         "posted": "2026-08-26",
         "discovered": "2026-08-26",
         "last_verified": "2026-08-27"
-      },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "rtx-software-engineer-intern-summer-2027-2027-4ec68e",
-      "company": {
-        "name": "RTX",
-        "slug": "rtx"
-      },
-      "role": "Software Engineer Intern - Summer 2027",
-      "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Cedar Rapids",
-          "state": "IA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-14",
-        "discovered": "2026-08-15",
-        "last_verified": "2026-08-21"
       },
       "status": "closed",
       "tags": [
@@ -348000,14 +348576,14 @@
       },
       "role": "Software Engineer Intern - Summer 2027",
       "category": "software-engineering",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01867129",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Fort Wayne",
-          "state": "IN",
+          "city": "Cedar Rapids",
+          "state": "IA",
           "country": "USA"
         }
       ],
@@ -348035,11 +348611,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-30",
+        "posted": "2026-08-14",
         "discovered": "2026-08-05",
-        "last_verified": "2026-10-07"
+        "last_verified": "2026-10-30"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -361886,6 +362462,170 @@
     },
     {
       "schema_version": "1.0",
+      "id": "sk-hynix-asic-design-intern-2026",
+      "company": {
+        "name": "SK hynix",
+        "slug": "sk-hynix"
+      },
+      "role": "ASIC Design Intern",
+      "category": "hardware",
+      "apply_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4460200009",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-10-30",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sk-hynix-research-intern-loop-engineering-2026",
+      "company": {
+        "name": "SK hynix",
+        "slug": "sk-hynix"
+      },
+      "role": "Research Intern - Loop Engineering",
+      "category": "research",
+      "apply_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4435645009",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-06",
+        "discovered": "2026-10-30",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sk-hynix-ssd-firmware-development-engineer-intern-2026",
+      "company": {
+        "name": "SK hynix",
+        "slug": "sk-hynix"
+      },
+      "role": "SSD Firmware Development Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-31",
+        "discovered": "2026-10-30",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "sk-hynix-memory-solution-asic-design-intern-2027",
       "company": {
         "name": "SK Hynix Memory Solution",
@@ -373135,7 +373875,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -374856,6 +375596,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "stratolaunch-manufacturing-systems-data-intern-systems-2027",
+      "company": {
+        "name": "Stratolaunch",
+        "slug": "stratolaunch"
+      },
+      "role": "Manufacturing Systems & Data Intern - Systems",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mojave",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-30",
+        "discovered": "2026-10-30",
+        "last_verified": "2026-10-30"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -407355,7 +408147,7 @@
         "discovered": "2026-10-24",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -433913,7 +434705,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-10-30"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -449923,6 +450715,10 @@
           "city": "San Francisco",
           "state": "CA",
           "country": "USA"
+        },
+        {
+          "city": "SF",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -449932,7 +450728,10 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
