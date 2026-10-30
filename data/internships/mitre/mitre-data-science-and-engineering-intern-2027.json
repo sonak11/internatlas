@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "northrop-grumman-software-engineer-intern-2027-1a3684",
+  "id": "mitre-data-science-and-engineering-intern-2027",
   "company": {
-    "name": "Northrop Grumman",
-    "slug": "northrop-grumman"
+    "name": "MITRE",
+    "slug": "mitre"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798",
+  "role": "Data Science and Engineering Intern",
+  "category": "data-science",
+  "apply_url": "https://go.vansh.nyc/10t",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boulder",
-      "state": "CO",
+      "city": "McLean",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -26,9 +26,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": false,
+    "citizenship_required": true,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-27",
-    "discovered": "2026-10-27",
+    "posted": "2026-10-30",
+    "discovered": "2026-10-30",
     "last_verified": "2026-10-30"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

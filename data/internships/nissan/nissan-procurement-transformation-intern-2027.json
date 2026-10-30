@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "costar-group-technology-intern-2027-4cb975",
+  "id": "nissan-procurement-transformation-intern-2027",
   "company": {
-    "name": "CoStar Group",
-    "slug": "costar-group"
+    "name": "Nissan",
+    "slug": "nissan"
   },
-  "role": "Technology Intern",
+  "role": "Procurement Transformation Intern",
   "category": "software-engineering",
-  "apply_url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Summer-2027-Technology-Intern---Sunnyvale--CA_R39945",
+  "apply_url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Procurement-Transformation---Summer-2027---Franklin--TN_R00214279",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Sunnyvale",
-      "state": "CA",
+      "city": "Franklin",
+      "state": "TN",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-01",
-    "discovered": "2026-10-23",
+    "posted": "2026-10-30",
+    "discovered": "2026-10-30",
     "last_verified": "2026-10-30"
   },
   "status": "open",

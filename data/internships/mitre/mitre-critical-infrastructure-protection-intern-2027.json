@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-ms-phd-ai-driven-ml-performance-engineeri-2027",
+  "id": "mitre-critical-infrastructure-protection-intern-2027",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "MITRE",
+    "slug": "mitre"
   },
-  "role": "2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern",
-  "category": "machine-learning",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8248060",
+  "role": "Critical Infrastructure Protection Intern",
+  "category": "cloud",
+  "apply_url": "https://go.vansh.nyc/10s",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mountain View",
-      "state": "CA",
+      "city": "McLean",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -26,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -44,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-01",
-    "discovered": "2026-10-02",
+    "posted": "2026-10-30",
+    "discovered": "2026-10-30",
     "last_verified": "2026-10-30"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }
