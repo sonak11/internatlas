@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**178** tracked · **92** open now
+**181** tracked · **95** open now
 
 ## Current openings
 
@@ -85,6 +85,9 @@
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Engineer Intern](https://go.vansh.nyc/OF) | Vancouver | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Data Engineer Intern - Amplify 2027](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198) | Vancouver | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [State of North Carolina](generated/companies/state-of-north-carolina.md) | [Data Engineer Intern](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224) | Raleigh, NC | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
+| [Systems Planning and Analysis](generated/companies/systems-planning-and-analysis.md) | [Data Engineer Intern](https://spa.jibeapply.com/jobs/23698?icims=1) | Alexandria, VA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
+| [Systems Planning and Analysis](generated/companies/systems-planning-and-analysis.md) | [Data Engineer Intern](https://go.vansh.nyc/128) | Alexandria, VA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
+| [Systems Planning and Analysis](generated/companies/systems-planning-and-analysis.md) | [Data Engineering & Analytics Tools Intern](https://spa.jibeapply.com/jobs/23634?icims=1) | Washington, DC | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Data Engineer Intern - Data Engineer - Applications Engineering](https://www.tesla.com/careers/search/job/285179) | Fremont, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Data Engineer Intern - Data Engineering & Business Intelligence](https://www.tesla.com/careers/search/job/285291) | Fremont, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Data Engineer Intern - Energy](https://www.tesla.com/careers/search/job/287982) | Palo Alto, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
@@ -197,6 +200,7 @@
 - CHS (3)
 - Navy Federal (3)
 - Paccar (3)
+- Systems Planning and Analysis (3)
 - TikTok (3)
 - First National Bank (3)
 - National Information Solutions Cooperative (3)

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**751** tracked · **390** open now
+**754** tracked · **387** open now
 
 ## Current openings
 
@@ -144,6 +144,8 @@
 | [Field AI](generated/companies/field-ai.md) | [Robotics Research Intern - Embodied AI](https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704/apply) | Irvine, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Figma](generated/companies/figma.md) | [AI Applied Scientist Intern](https://boards.greenhouse.io/figma/jobs/6207801004) | SF +1 | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Figma](generated/companies/figma.md) | [PhD Intern, AI Applied Scientist (2027)](https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004) | San Francisco | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
+| [First Citizens BancShares](generated/companies/first-citizens-bancshares.md) | [AI Innovation Intern](https://go.vansh.nyc/129) | Raleigh, NC | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
+| [First Citizens BancShares](generated/companies/first-citizens-bancshares.md) | [Summer Intern - AI Innovation](https://firstcitizens.jibeapply.com/jobs/36311?icims=1) | Raleigh, NC | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [FormFactor](generated/companies/formfactor.md) | [Electrical Design Automation Intern, AI & EDA Automation](https://go.vansh.nyc/Y8) | Livermore, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [AI Post-Training and Model Alignment Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2) | Bellevue, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [AI Post-Training and Model Alignment Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1) | Bellevue, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
@@ -163,12 +165,6 @@
 | [General Motors](generated/companies/general-motors.md) | [Software Engineer Intern, AV/AI Platform](https://go.vansh.nyc/Eq) | Sunnyvale, CA +1 | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Summer Intern - AI & Hardware Analytics - Adpt](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) | Milford, MI +1 | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Summer Intern - Onboard Autonomy - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135) | Sunnyvale, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
-| [Gilead Sciences](generated/companies/gilead-sciences.md) | [Research Intern, Clinical Virology - AI](https://go.vansh.nyc/bx) | Foster City, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
-| [Gilead Sciences](generated/companies/gilead-sciences.md) | [Research Intern, Data Sciences - AI](https://go.vansh.nyc/ag) | Foster City, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
-| [Gilead Sciences](generated/companies/gilead-sciences.md) | [Research Intern, Discovery Sciences and Technologies, AI](https://go.vansh.nyc/Z5) | Foster City, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
-| [Gilead Sciences](generated/companies/gilead-sciences.md) | [Research Intern, Inflammation, AI](https://go.vansh.nyc/Z6) | Foster City, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
-| [Gilead Sciences](generated/companies/gilead-sciences.md) | [Research Intern, Oncology Biomarker - AI](https://go.vansh.nyc/Z7) | Foster City, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
-| [Gilead Sciences](generated/companies/gilead-sciences.md) | [Research Intern, Strategy, Innovation & Portfolio - AI](https://go.vansh.nyc/ah) | Foster City, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [AI Software Intern](https://go.vansh.nyc/dN) | Santa Clara, CA +1 | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [AI Software Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/AI-Software-Intern--Summer-2027-_JR-2604029) | Santa Clara, CA +1 | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Graphcore](generated/companies/graphcore.md) | [Software Engineer Intern - AI Compute Libraries & Performance](https://job-boards.greenhouse.io/graphcore/jobs/8894868002) | Bristol | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
@@ -193,6 +189,7 @@
 | [ICF International](generated/companies/icf-international.md) | [AI Engineer Intern](https://go.vansh.nyc/9a) | Reston, VA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❌ |
 | [Insperity](generated/companies/insperity.md) | [Rotational AI Intern](https://go.vansh.nyc/fM) | Kingwood, TX | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Intel](generated/companies/intel.md) | [AI Data Science / Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139) | Hillsboro, OR | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [Intercontinental Exchange](generated/companies/intercontinental-exchange.md) | [Agentic AI Data Science Intern](https://ice.jibeapply.com/jobs/14070?icims=1) | Jacksonville, FL | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Intuit](generated/companies/intuit.md) | [AI Research Intern](https://jobs.intuit.com/job/mountain-view/summer-2027-phd-ai-research-intern/27595/100620927776) | Mountain View, CA | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Intuit](generated/companies/intuit.md) | [AI Scientist Intern](https://jobs.intuit.com/job/mountain-view/summer-2027-ai-science-intern/27595/100620927536) | NYC +3 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Intuit](generated/companies/intuit.md) | [Marketing Intern - AI Tooling for Marketing Efficiency](https://jobs.intuit.com/job/mountain-view/summer-2027-marketing-intern-ai-tooling-for-marketing-efficiency/27595/101444103552) | SF +1 | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
@@ -558,6 +555,12 @@
 | [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [Generative AI Software Development Intern](https://go.vansh.nyc/Jl) | Bossier City, LA | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | [Geneva Trading](generated/companies/geneva-trading.md) | [AI Engineer Intern](https://job-boards.greenhouse.io/genevatrading/jobs/5240107007) | Chicago, IL | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | [GenMD](generated/companies/genmd.md) | [AI Research Scientist Intern](https://jobs.ashbyhq.com/genmd/807adafc-7842-4e05-90f3-9bc45dd39a13/application?embed=true) | Palo Alto, CA | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
+| [Gilead Sciences](generated/companies/gilead-sciences.md) | [Research Intern, Clinical Virology - AI](https://go.vansh.nyc/bx) | Foster City, CA | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
+| [Gilead Sciences](generated/companies/gilead-sciences.md) | [Research Intern, Data Sciences - AI](https://go.vansh.nyc/ag) | Foster City, CA | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
+| [Gilead Sciences](generated/companies/gilead-sciences.md) | [Research Intern, Discovery Sciences and Technologies, AI](https://go.vansh.nyc/Z5) | Foster City, CA | Onsite | 2026-10-29 | Rolling | 🔴 Closed | ❔ |
+| [Gilead Sciences](generated/companies/gilead-sciences.md) | [Research Intern, Inflammation, AI](https://go.vansh.nyc/Z6) | Foster City, CA | Onsite | 2026-10-29 | Rolling | 🔴 Closed | ❔ |
+| [Gilead Sciences](generated/companies/gilead-sciences.md) | [Research Intern, Oncology Biomarker - AI](https://go.vansh.nyc/Z7) | Foster City, CA | Onsite | 2026-10-29 | Rolling | 🔴 Closed | ❔ |
+| [Gilead Sciences](generated/companies/gilead-sciences.md) | [Research Intern, Strategy, Innovation & Portfolio - AI](https://go.vansh.nyc/ah) | Foster City, CA | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
 | [Grant Thornton](generated/companies/grant-thornton.md) | [AI, Data & Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115704) | Charlotte, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Grant Thornton](generated/companies/grant-thornton.md) | [AI, Data & Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115750) | Minneapolis, MN | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Grant Thornton](generated/companies/grant-thornton.md) | [AI, Data & Technology Intern - Summer 2027](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115733) | Dallas, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
@@ -781,10 +784,10 @@
 - ABB (6)
 - Brain Co. (6)
 - GE Vernova (6)
-- Gilead Sciences (6)
 - ICF International (6)
 - Jump Trading (6)
 - Bank of Montreal (6)
+- Gilead Sciences (6)
 - Booz Allen (5)
 - Intel (5)
 - Rockwell Automation (5)
@@ -848,6 +851,7 @@
 - Eulerity (2)
 - FHLBank Chicago (2)
 - Figma (2)
+- First Citizens BancShares (2)
 - GlobalFoundries (2)
 - Graphcore (2)
 - HNTB (2)
@@ -935,6 +939,7 @@
 - Hex Technologies (1)
 - Highmark Health (1)
 - Insperity (1)
+- Intercontinental Exchange (1)
 - Intuitive Surgical (1)
 - JPMorganChase (1)
 - Juniper Networks (1)

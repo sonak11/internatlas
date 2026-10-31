@@ -6,6 +6,10 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| First Citizens BancShares | [AI Innovation Intern](https://go.vansh.nyc/129) | Raleigh, NC | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
+| First Citizens BancShares | [Data Analyst Intern - Enterprise Data Analyst - Data Products](https://firstcitizens.jibeapply.com/jobs/36230?icims=1) | Raleigh, NC | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| First Citizens BancShares | [Quantitative Modeling Intern](https://firstcitizens.jibeapply.com/jobs/36317?icims=1) | Raleigh, NC | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
+| First Citizens BancShares | [Summer Intern - AI Innovation](https://firstcitizens.jibeapply.com/jobs/36311?icims=1) | Raleigh, NC | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | First Citizens BancShares | [IT Intern - Software Developer](https://firstcitizens.jibeapply.com/jobs/35709?icims=1) | Raleigh, NC | Onsite | 2026-09-25 | Rolling | 🔴 Closed | ❔ |
 | First Citizens BancShares | [Model Risk Management Intern](https://firstcitizens.jibeapply.com/jobs/35810?icims=1) | Raleigh, NC | Onsite | 2026-09-30 | Rolling | 🔴 Closed | ❔ |
 | First Citizens BancShares | [Outreach Analytics Intern](https://firstcitizens.jibeapply.com/jobs/35906?icims=1) | Raleigh, NC | Onsite | 2026-10-07 | Rolling | 🔴 Closed | ❔ |
@@ -15,4 +19,4 @@
 
 ## Related
 
-Browse more roles in: [🧭 Product](../categories/product.md), [📈 Quant](../categories/quant.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🧭 Product](../categories/product.md), [📈 Quant](../categories/quant.md), [💻 Software Engineering](../categories/software-engineering.md)

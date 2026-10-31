@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "cambridge-consultants-phd-robotics-engineering-intern-2027",
+  "company": {
+    "name": "Cambridge Consultants",
+    "slug": "cambridge-consultants"
+  },
+  "role": "PhD Robotics Engineering Intern",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995823101",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "country": "UK"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "phd"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-01",
+    "discovered": "2026-10-31",
+    "last_verified": "2026-10-31"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

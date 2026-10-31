@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**237** tracked · **149** open now
+**236** tracked · **147** open now
 
 ## Current openings
 
@@ -108,8 +108,6 @@
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Software Engineering Intern, Embedded Platforms](https://go.vansh.nyc/fF) | Palo Alto, CA +2 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Rockwell Automation](generated/companies/rockwell-automation.md) | [Firmware Engineer Intern](https://go.vansh.nyc/gA) | Mequon, WI +1 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Embedded Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014) | East Hartford, CT | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
-| [RTX](generated/companies/rtx.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/VI) | Goleta, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
-| [RTX](generated/companies/rtx.md) | [Embedded Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineering-Intern--Summer-2027-_01884782) | Goleta, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Embedded Software Engineering Intern](https://go.vansh.nyc/BP) | East Hartford, CT | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❌ |
 | [Seagate Technology](generated/companies/seagate-technology.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/Ss) | Longmont, CO | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Semtech](generated/companies/semtech.md) | [Firmware Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) | Ottawa | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
@@ -216,6 +214,7 @@
 | [Robert Bosch Venture Capital](generated/companies/robert-bosch-venture-capital.md) | [Hardware & Embedded Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000131150005) | Sunnyvale, CA | Onsite | 2026-06-09 | Rolling | 🔴 Closed | ❔ |
 | [Rockwell Automation](generated/companies/rockwell-automation.md) | [Firmware Engineering Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530-1) | Cambridge | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
 | [Rockwell Automation](generated/companies/rockwell-automation.md) | [Firmware Engineering Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530) | Cambridge | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
+| [RTX](generated/companies/rtx.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/VI) | Goleta, CA | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❔ |
 | [Shure](generated/companies/shure.md) | [Embedded Software Intern](https://careersus-shure.icims.com/jobs/5018/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Skydio](generated/companies/skydio.md) | [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application?embed=true) | San Mateo, CA | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
 | [Skydio](generated/companies/skydio.md) | [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34/application?embed=true) | San Mateo, CA | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
@@ -258,7 +257,6 @@
 - Zipline (6)
 - Astera Labs (4)
 - Ciena (4)
-- RTX (4)
 - Skydio (4)
 - Zurn Elkay Water Solutions (4)
 - AeroVironment (3)
@@ -272,6 +270,7 @@
 - Nokia (3)
 - Rivian (3)
 - Rockwell Automation (3)
+- RTX (3)
 - Etched (3)
 - Northrop Grumman (3)
 - AGCO (2)

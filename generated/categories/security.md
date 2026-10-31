@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**143** tracked · **111** open now
+**148** tracked · **114** open now
 
 ## Current openings
 
@@ -70,8 +70,6 @@
 | [Manitowoc](generated/companies/manitowoc.md) | [Cybersecurity Intern](https://go.vansh.nyc/Vt) | Shady Grove, PA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Mativ](generated/companies/mativ.md) | [Cybersecurity Intern](https://go.vansh.nyc/11W) | Alpharetta, GA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Security Research Intern](https://go.vansh.nyc/eB) | Redmond, WA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
-| [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://apply.careers.microsoft.com/careers/job/1970393557044771) | USA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
-| [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/e6) | Cambridge, MA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/hN) | USA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/5J) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
@@ -104,12 +102,17 @@
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern, Information Security](https://go.vansh.nyc/14) | Bellevue, WA | Onsite | 2025-10-30 | Rolling | 🟢 Open | ❔ |
 | [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Enterprise Risk Management](https://go.vansh.nyc/V4) | Irvine, CA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Federal](https://go.vansh.nyc/V5) | Fairfax, VA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Federal](https://go.vansh.nyc/12b) | Fairfax, VA +1 | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Healthcare](https://go.vansh.nyc/V6) | Irvine, CA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Healthcare](https://go.vansh.nyc/12c) | Irvine, CA +1 | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, ISO](https://go.vansh.nyc/V7) | Irvine, CA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Payments](https://go.vansh.nyc/V8) | Fairfax, VA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Payments](https://go.vansh.nyc/12d) | Fairfax, VA +1 | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Solutions](https://go.vansh.nyc/V9) | Irvine, CA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Solutions](https://go.vansh.nyc/12e) | Irvine, CA +1 | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Systems and Organizations Controls (SOC)](https://go.vansh.nyc/H9) | Irvine, CA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Threat](https://go.vansh.nyc/Va) | Irvine, CA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| [Tevora](generated/companies/tevora.md) | [Cybersecurity Intern, Threat](https://go.vansh.nyc/12f) | Irvine, CA +1 | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [The Nuclear Company](generated/companies/the-nuclear-company.md) | [Security Engineer Intern](https://go.vansh.nyc/XL) | Washington, DC | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❌ |
 | [TikTok](generated/companies/tiktok.md) | [Security Software Engineer Project Intern, Product Security](https://go.vansh.nyc/RN) | San Jose, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern, Privacy and Security](https://go.vansh.nyc/6l) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ✅ |
@@ -140,6 +143,8 @@
 | [Marvell](generated/companies/marvell.md) | [Security Verification/Validation Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148) | Chandler, AZ | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Security Verification/Validation Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Chandler-AZ/Security-Verification-Validation-Engineer-Intern--BS---Summer-2027_2604148-1) | Chandler, AZ | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | [MEMX](generated/companies/memx.md) | [Information Security Intern](https://go.vansh.nyc/Hc) | New York, NY | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
+| [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://apply.careers.microsoft.com/careers/job/1970393557044771) | USA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
+| [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - Security and Privacy](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | Santa Clara, CA | Onsite | 2026-05-14 | Rolling | 🔴 Closed | ❔ |
 | [OpenSesame](generated/companies/opensesame.md) | [Security Analyst Intern](https://go.vansh.nyc/CY) | USA | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
@@ -154,7 +159,7 @@
 
 ## Hiring companies
 
-- Tevora (8)
+- Tevora (13)
 - Microsoft (7)
 - Johns Hopkins Applied Physics Laboratory (5)
 - Adobe (3)

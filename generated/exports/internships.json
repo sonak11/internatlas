@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-31",
-  "count": 8697,
+  "count": 8739,
   "internships": [
     {
       "schema_version": "1.0",
@@ -28652,7 +28652,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -53106,6 +53106,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "axa-underwriting-data-analytics-intern-2027",
+      "company": {
+        "name": "AXA",
+        "slug": "axa"
+      },
+      "role": "Underwriting Data & Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.axa.com/jobs/25498?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-29",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "axiom-math-member-of-technical-staff-intern-2027",
       "company": {
         "name": "Axiom Math",
@@ -56357,9 +56408,9 @@
       "dates": {
         "posted": "2026-09-09",
         "discovered": "2026-09-09",
-        "last_verified": "2026-09-26"
+        "last_verified": "2026-10-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82223,6 +82274,361 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cambridge-consultants-cloud-software-engineer-intern-2027",
+      "company": {
+        "name": "Cambridge Consultants",
+        "slug": "cambridge-consultants"
+      },
+      "role": "Cloud Software Engineer Intern",
+      "category": "cloud",
+      "apply_url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4988184101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cambridge-consultants-electronics-engineering-intern-2027-6c2285",
+      "company": {
+        "name": "Cambridge Consultants",
+        "slug": "cambridge-consultants"
+      },
+      "role": "Electronics Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4989398101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cambridge-consultants-electronics-engineering-intern-2027",
+      "company": {
+        "name": "Cambridge Consultants",
+        "slug": "cambridge-consultants"
+      },
+      "role": "Electronics Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4988779101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cambridge-consultants-electronics-systems-engineering-intern-2027",
+      "company": {
+        "name": "Cambridge Consultants",
+        "slug": "cambridge-consultants"
+      },
+      "role": "Electronics Systems Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4989420101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cambridge",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cambridge-consultants-phd-robotics-engineering-intern-2027",
+      "company": {
+        "name": "Cambridge Consultants",
+        "slug": "cambridge-consultants"
+      },
+      "role": "PhD Robotics Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995823101",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cambridge-consultants-software-engineer-intern-2027",
+      "company": {
+        "name": "Cambridge Consultants",
+        "slug": "cambridge-consultants"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995733101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cambridge-consultants-software-engineering-intern-healthcare-2027",
+      "company": {
+        "name": "Cambridge Consultants",
+        "slug": "cambridge-consultants"
+      },
+      "role": "Software Engineering Intern - Healthcare",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4971704101",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-08",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "campbell-soup-company-data-engineer-intern-da-ai-co-op-2026",
       "company": {
         "name": "Campbell Soup Company",
@@ -106124,7 +106530,7 @@
         "discovered": "2026-08-11",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112643,7 +113049,7 @@
         "discovered": "2026-10-29",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -124188,6 +124594,57 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "dow-jones-subscription-experimentation-intern-2027",
+      "company": {
+        "name": "Dow Jones",
+        "slug": "dow-jones"
+      },
+      "role": "Subscription Experimentation Intern",
+      "category": "software-engineering",
+      "apply_url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Subscription-Experimentation-Intern_Job_Req_55879",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -147707,6 +148164,112 @@
     },
     {
       "schema_version": "1.0",
+      "id": "first-citizens-bancshares-ai-innovation-intern-2027",
+      "company": {
+        "name": "First Citizens BancShares",
+        "slug": "first-citizens-bancshares"
+      },
+      "role": "AI Innovation Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/129",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Raleigh",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-30",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "first-citizens-bancshares-data-analyst-intern-enterprise-data-analyst-data-products-2027",
+      "company": {
+        "name": "First Citizens BancShares",
+        "slug": "first-citizens-bancshares"
+      },
+      "role": "Data Analyst Intern - Enterprise Data Analyst - Data Products",
+      "category": "software-engineering",
+      "apply_url": "https://firstcitizens.jibeapply.com/jobs/36230?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Raleigh",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-27",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "first-citizens-bancshares-it-intern-software-developer-2027",
       "company": {
         "name": "First Citizens BancShares",
@@ -147908,6 +148471,114 @@
         "last_verified": "2026-09-28"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "first-citizens-bancshares-quantitative-modeling-intern-2027",
+      "company": {
+        "name": "First Citizens BancShares",
+        "slug": "first-citizens-bancshares"
+      },
+      "role": "Quantitative Modeling Intern",
+      "category": "quant",
+      "apply_url": "https://firstcitizens.jibeapply.com/jobs/36317?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Raleigh",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-30",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "first-citizens-bancshares-summer-intern-ai-innovation-2027",
+      "company": {
+        "name": "First Citizens BancShares",
+        "slug": "first-citizens-bancshares"
+      },
+      "role": "Summer Intern - AI Innovation",
+      "category": "ai",
+      "apply_url": "https://firstcitizens.jibeapply.com/jobs/36311?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Raleigh",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-30",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -156602,7 +157273,7 @@
         "discovered": "2026-08-25",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -158020,7 +158691,7 @@
         "discovered": "2026-08-30",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159262,7 +159933,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "genentech-product-technical-development-intern-digital-sciences-focus-2027-8dbcdd",
+      "id": "genentech-product-technical-development-intern-digital-sciences-focus-2027",
       "company": {
         "name": "Genentech",
         "slug": "genentech"
@@ -159309,58 +159980,6 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "genentech-product-technical-development-intern-digital-sciences-focus-2027",
-      "company": {
-        "name": "Genentech",
-        "slug": "genentech"
-      },
-      "role": "Product Technical Development Intern, Digital Sciences Focus",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/cB",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "South San Francisco",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-20",
-        "discovered": "2026-10-21",
-        "last_verified": "2026-10-31"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
       ]
     },
     {
@@ -167079,7 +167698,7 @@
         "discovered": "2026-10-20",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -167131,7 +167750,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -167183,7 +167802,7 @@
         "discovered": "2026-10-29",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -167235,7 +167854,7 @@
         "discovered": "2026-10-29",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -167287,7 +167906,7 @@
         "discovered": "2026-10-29",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -167339,7 +167958,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -170401,7 +171020,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -170559,7 +171178,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -170818,7 +171437,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -193183,22 +193802,19 @@
     },
     {
       "schema_version": "1.0",
-      "id": "hudson-river-trading-phd-winter-intern-2027",
+      "id": "hudson-river-trading-phd-winter-internship-2027-2027",
       "company": {
         "name": "Hudson River Trading",
-        "slug": "hudson-river-trading"
+        "slug": "hudson-river-trading",
+        "career_page": "https://www.hudsonrivertrading.com/careers"
       },
-      "role": "PhD Winter Intern",
-      "category": "software-engineering",
+      "role": "PhD Winter Internship - 2027",
+      "category": "quant",
       "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8212741",
-      "season": "winter",
+      "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
-        {
-          "city": "NYC",
-          "country": "USA"
-        },
         {
           "city": "New York",
           "state": "NY",
@@ -193228,13 +193844,13 @@
       },
       "dates": {
         "posted": "2026-09-18",
-        "discovered": "2026-10-02",
+        "discovered": "2026-10-31",
         "last_verified": "2026-10-31"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:ats"
       ]
     },
     {
@@ -194466,7 +195082,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -194518,7 +195134,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -194570,7 +195186,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -204538,6 +205154,897 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-agentic-ai-data-science-intern-2027",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Agentic AI Data Science Intern",
+      "category": "ai",
+      "apply_url": "https://ice.jibeapply.com/jobs/14070?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Jacksonville",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-audit-analytics-intern-2027",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Audit Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ice.jibeapply.com/jobs/14069?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-data-analyst-intern-2027",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Data Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ice.jibeapply.com/jobs/14089?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Jacksonville",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-data-science-intern-2027",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://ice.jibeapply.com/jobs/14113?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-financial-engineering-intern-2027",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Financial Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ice.jibeapply.com/jobs/14059?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-index-analyst-intern-2027",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Index Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ice.jibeapply.com/jobs/14100?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-integration-intern-2027",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Integration Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ice.jibeapply.com/jobs/14071?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Jacksonville",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-product-management-intern-2027",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://ice.jibeapply.com/jobs/14065?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-quantitative-engineer-intern-2027",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Quantitative Engineer Intern",
+      "category": "quant",
+      "apply_url": "https://ice.jibeapply.com/jobs/14053?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-quantitative-financial-analytics-intern-2027",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Quantitative Financial Analytics Intern",
+      "category": "quant",
+      "apply_url": "https://ice.jibeapply.com/jobs/14055?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-quantitative-research-intern-2027",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Quantitative Research Intern",
+      "category": "quant",
+      "apply_url": "https://ice.jibeapply.com/jobs/14057?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Atlanta",
+          "state": "GA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-regulatory-products-intern-2027",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Regulatory Products Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ice.jibeapply.com/jobs/14101?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-software-engineer-intern-2027-e356cf",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ice.jibeapply.com/jobs/14105?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-software-engineer-intern-2027",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ice.jibeapply.com/jobs/14077?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Jacksonville",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-software-engineer-intern-java-2027",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Software Engineer Intern - Java",
+      "category": "software-engineering",
+      "apply_url": "https://ice.jibeapply.com/jobs/14078?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Jacksonville",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-software-engineering-intern-2027",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ice.jibeapply.com/jobs/14075?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Jacksonville",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "intercontinental-exchange-trading-system-development-intern-2027",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Trading System Development Intern",
+      "category": "quant",
+      "apply_url": "https://ice.jibeapply.com/jobs/14102?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -258426,9 +259933,9 @@
       "dates": {
         "posted": "2026-10-23",
         "discovered": "2026-10-24",
-        "last_verified": "2026-10-25"
+        "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -258478,9 +259985,9 @@
       "dates": {
         "posted": "2026-08-04",
         "discovered": "2026-10-22",
-        "last_verified": "2026-10-25"
+        "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -272479,6 +273986,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "netsmart-revenue-cycle-management-operations-analyst-intern-revenue-c-2027",
+      "company": {
+        "name": "Netsmart",
+        "slug": "netsmart"
+      },
+      "role": "Revenue Cycle Management Operations Analyst Intern - Revenue Cycle Management",
+      "category": "software-engineering",
+      "apply_url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Revenue-Cycle-Management--RCM--Operations-Analyst-Intern-Summer-2027-Internship-_R015757",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Overland Park",
+          "state": "KS",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-18",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "netsmart-security-analyst-intern-2027",
       "company": {
         "name": "Netsmart",
@@ -274618,9 +276177,9 @@
       "dates": {
         "posted": "2026-09-22",
         "discovered": "2026-10-07",
-        "last_verified": "2026-10-24"
+        "last_verified": "2026-10-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -281977,7 +283536,7 @@
         "discovered": "2026-10-09",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -284720,7 +286279,7 @@
       },
       "role": "Autonomous Vehicles and Robotics Intern",
       "category": "software-engineering",
-      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496",
+      "apply_url": "https://go.vansh.nyc/12h",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -284756,14 +286315,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-19",
+        "posted": "2026-10-31",
         "discovered": "2026-09-03",
-        "last_verified": "2026-09-08"
+        "last_verified": "2026-10-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -285148,6 +286707,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "nvidia-deep-learning-intern-2027",
+      "company": {
+        "name": "NVIDIA",
+        "slug": "nvidia"
+      },
+      "role": "Deep Learning Intern",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/12j",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-31",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nvidia-deep-learning-intern-deep-learning-applications-and-algorith-2026",
       "company": {
         "name": "NVIDIA",
@@ -285193,9 +286804,9 @@
       "dates": {
         "posted": "2026-08-19",
         "discovered": "2026-08-19",
-        "last_verified": "2026-10-07"
+        "last_verified": "2026-10-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -285203,7 +286814,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "nvidia-developer-and-performance-technology-intern-2027",
+      "id": "nvidia-developer-and-performance-technology-intern-2027-6a2385",
       "company": {
         "name": "NVIDIA",
         "slug": "nvidia"
@@ -285246,13 +286857,67 @@
       },
       "dates": {
         "posted": "2026-08-19",
-        "discovered": "2026-08-19",
+        "discovered": "2026-10-31",
         "last_verified": "2026-10-31"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nvidia-developer-and-performance-technology-intern-2027",
+      "company": {
+        "name": "NVIDIA",
+        "slug": "nvidia"
+      },
+      "role": "Developer and Performance Technology Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/12i",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-31",
+        "discovered": "2026-08-19",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -285358,10 +287023,62 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nvidia-enterprise-platform-technical-marketing-engineer-intern-2027",
+      "company": {
+        "name": "NVIDIA",
+        "slug": "nvidia"
+      },
+      "role": "Enterprise Platform Technical Marketing Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/12a",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-31",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -285522,7 +287239,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -285685,9 +287402,9 @@
       "dates": {
         "posted": "2026-08-19",
         "discovered": "2026-08-19",
-        "last_verified": "2026-10-07"
+        "last_verified": "2026-10-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -287787,7 +289504,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "nvidia-software-engineering-intern-2027",
+      "id": "nvidia-software-engineering-intern-2027-ed3e82",
       "company": {
         "name": "NVIDIA",
         "slug": "nvidia"
@@ -287835,13 +289552,68 @@
       },
       "dates": {
         "posted": "2026-08-19",
-        "discovered": "2026-08-19",
+        "discovered": "2026-10-31",
         "last_verified": "2026-10-31"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nvidia-software-engineering-intern-2027",
+      "company": {
+        "name": "NVIDIA",
+        "slug": "nvidia"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/12g",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-31",
+        "discovered": "2026-08-19",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -288159,7 +289931,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -303363,7 +305135,7 @@
       },
       "role": "Data Science Intern",
       "category": "data-science",
-      "apply_url": "https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false",
+      "apply_url": "https://peraton.jibeapply.com/jobs/170320?icims=1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -303403,9 +305175,113 @@
       "dates": {
         "posted": "2026-09-09",
         "discovered": "2026-09-09",
-        "last_verified": "2026-10-24"
+        "last_verified": "2026-10-31"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "peraton-electrical-engineer-intern-2027",
+      "company": {
+        "name": "Peraton",
+        "slug": "peraton"
+      },
+      "role": "Electrical Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://peraton.jibeapply.com/jobs/172055?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Topeka",
+          "state": "KS",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-08",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "peraton-software-developer-intern-2027",
+      "company": {
+        "name": "Peraton",
+        "slug": "peraton"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://peraton.jibeapply.com/jobs/172061?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Topeka",
+          "state": "KS",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-08",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -303472,7 +305348,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://careers-peraton.icims.com/jobs/169665/job?mobile=true&needsRedirect=false",
+      "apply_url": "https://peraton.jibeapply.com/jobs/169665?icims=1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -303512,9 +305388,9 @@
       "dates": {
         "posted": "2026-09-08",
         "discovered": "2026-09-08",
-        "last_verified": "2026-10-24"
+        "last_verified": "2026-10-31"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -344789,7 +346665,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -345160,7 +347036,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -345316,7 +347192,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -345640,7 +347516,7 @@
         "discovered": "2026-10-28",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -345911,7 +347787,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -346190,58 +348066,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "rtx-embedded-software-engineer-intern-2027-4947c6",
-      "company": {
-        "name": "RTX",
-        "slug": "rtx"
-      },
-      "role": "Embedded Software Engineer Intern",
-      "category": "embedded",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "East Hartford",
-          "state": "CT",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-30",
-        "discovered": "2026-10-27",
-        "last_verified": "2026-10-31"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "rtx-embedded-software-engineer-intern-2027-87fc91",
       "company": {
         "name": "RTX",
@@ -346286,7 +348110,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -346301,14 +348125,14 @@
       },
       "role": "Embedded Software Engineer Intern",
       "category": "embedded",
-      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineering-Intern--Summer-2027-_01884782",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Goleta",
-          "state": "CA",
+          "city": "East Hartford",
+          "state": "CT",
           "country": "USA"
         }
       ],
@@ -346337,7 +348161,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-10-27",
+        "posted": "2026-09-30",
         "discovered": "2026-10-01",
         "last_verified": "2026-10-31"
       },
@@ -346758,7 +348582,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -346812,7 +348636,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -346866,7 +348690,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -353639,58 +355463,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "rtx-software-engineering-intern-2027-5e8434",
-      "company": {
-        "name": "RTX",
-        "slug": "rtx"
-      },
-      "role": "Software Engineering Intern",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/Ww",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Cedar Rapids",
-          "state": "IA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-27",
-        "discovered": "2026-10-27",
-        "last_verified": "2026-10-31"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "rtx-software-engineering-intern-2027-8135ae",
       "company": {
         "name": "RTX",
@@ -353858,14 +355630,14 @@
       },
       "role": "Software Engineering Intern",
       "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/T2",
+      "apply_url": "https://go.vansh.nyc/Ww",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "San Diego",
-          "state": "CA",
+          "city": "Cedar Rapids",
+          "state": "IA",
           "country": "USA"
         }
       ],
@@ -353893,7 +355665,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-10-26",
+        "posted": "2026-10-27",
         "discovered": "2026-08-11",
         "last_verified": "2026-10-31"
       },
@@ -386699,6 +388471,162 @@
     },
     {
       "schema_version": "1.0",
+      "id": "systems-planning-and-analysis-data-engineer-intern-2027-d9674e",
+      "company": {
+        "name": "Systems Planning and Analysis",
+        "slug": "systems-planning-and-analysis"
+      },
+      "role": "Data Engineer Intern",
+      "category": "data-engineering",
+      "apply_url": "https://spa.jibeapply.com/jobs/23698?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Alexandria",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-28",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "systems-planning-and-analysis-data-engineer-intern-2027",
+      "company": {
+        "name": "Systems Planning and Analysis",
+        "slug": "systems-planning-and-analysis"
+      },
+      "role": "Data Engineer Intern",
+      "category": "data-engineering",
+      "apply_url": "https://go.vansh.nyc/128",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Alexandria",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-28",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "systems-planning-and-analysis-data-engineering-analytics-tools-intern-2027",
+      "company": {
+        "name": "Systems Planning and Analysis",
+        "slug": "systems-planning-and-analysis"
+      },
+      "role": "Data Engineering & Analytics Tools Intern",
+      "category": "data-engineering",
+      "apply_url": "https://spa.jibeapply.com/jobs/23634?icims=1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-16",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "systems-planning-and-analysis-spa-science-technology-intern-2026",
       "company": {
         "name": "Systems Planning and Analysis (SPA)",
@@ -404477,7 +406405,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tevora-cybersecurity-intern-federal-2027",
+      "id": "tevora-cybersecurity-intern-federal-2027-ba5e4a",
       "company": {
         "name": "Tevora",
         "slug": "tevora"
@@ -404523,6 +406451,63 @@
       },
       "dates": {
         "posted": "2026-10-06",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tevora-cybersecurity-intern-federal-2027",
+      "company": {
+        "name": "Tevora",
+        "slug": "tevora"
+      },
+      "role": "Cybersecurity Intern, Federal",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/12b",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fairfax",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-31",
         "discovered": "2026-10-27",
         "last_verified": "2026-10-31"
       },
@@ -404534,7 +406519,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tevora-cybersecurity-intern-healthcare-2027",
+      "id": "tevora-cybersecurity-intern-healthcare-2027-2c39f7",
       "company": {
         "name": "Tevora",
         "slug": "tevora"
@@ -404580,6 +406565,63 @@
       },
       "dates": {
         "posted": "2026-10-06",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tevora-cybersecurity-intern-healthcare-2027",
+      "company": {
+        "name": "Tevora",
+        "slug": "tevora"
+      },
+      "role": "Cybersecurity Intern, Healthcare",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/12c",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Fairfax",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-31",
         "discovered": "2026-10-27",
         "last_verified": "2026-10-31"
       },
@@ -404648,7 +406690,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tevora-cybersecurity-intern-payments-2027",
+      "id": "tevora-cybersecurity-intern-payments-2027-252171",
       "company": {
         "name": "Tevora",
         "slug": "tevora"
@@ -404694,6 +406736,63 @@
       },
       "dates": {
         "posted": "2026-10-06",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tevora-cybersecurity-intern-payments-2027",
+      "company": {
+        "name": "Tevora",
+        "slug": "tevora"
+      },
+      "role": "Cybersecurity Intern, Payments",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/12d",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fairfax",
+          "state": "VA",
+          "country": "USA"
+        },
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-31",
         "discovered": "2026-10-27",
         "last_verified": "2026-10-31"
       },
@@ -404705,7 +406804,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tevora-cybersecurity-intern-solutions-2027",
+      "id": "tevora-cybersecurity-intern-solutions-2027-a11385",
       "company": {
         "name": "Tevora",
         "slug": "tevora"
@@ -404751,6 +406850,63 @@
       },
       "dates": {
         "posted": "2026-10-06",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tevora-cybersecurity-intern-solutions-2027",
+      "company": {
+        "name": "Tevora",
+        "slug": "tevora"
+      },
+      "role": "Cybersecurity Intern, Solutions",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/12e",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Fairfax",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-31",
         "discovered": "2026-10-27",
         "last_verified": "2026-10-31"
       },
@@ -404819,7 +406975,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tevora-cybersecurity-intern-threat-2027",
+      "id": "tevora-cybersecurity-intern-threat-2027-d8df08",
       "company": {
         "name": "Tevora",
         "slug": "tevora"
@@ -404865,6 +407021,63 @@
       },
       "dates": {
         "posted": "2026-10-06",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-10-31"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tevora-cybersecurity-intern-threat-2027",
+      "company": {
+        "name": "Tevora",
+        "slug": "tevora"
+      },
+      "role": "Cybersecurity Intern, Threat",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/12f",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Fairfax",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-31",
         "discovered": "2026-10-27",
         "last_verified": "2026-10-31"
       },
@@ -432435,7 +434648,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-10-31"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"

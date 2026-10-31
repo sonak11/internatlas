@@ -1,21 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-embedded-software-engineer-intern-2027-4947c6",
+  "id": "cambridge-consultants-cloud-software-engineer-intern-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Cambridge Consultants",
+    "slug": "cambridge-consultants"
   },
-  "role": "Embedded Software Engineer Intern",
-  "category": "embedded",
-  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Summer-2027-Embedded-Software-Engineering-Intern--Onsite-_01878014",
+  "role": "Cloud Software Engineer Intern",
+  "category": "cloud",
+  "apply_url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4988184101",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "East Hartford",
-      "state": "CT",
-      "country": "USA"
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -40,8 +38,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-30",
-    "discovered": "2026-10-27",
+    "posted": "2026-10-01",
+    "discovered": "2026-10-31",
     "last_verified": "2026-10-31"
   },
   "status": "open",

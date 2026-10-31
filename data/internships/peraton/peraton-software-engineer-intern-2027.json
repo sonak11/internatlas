@@ -7,7 +7,7 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers-peraton.icims.com/jobs/169665/job?mobile=true&needsRedirect=false",
+  "apply_url": "https://peraton.jibeapply.com/jobs/169665?icims=1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -47,9 +47,9 @@
   "dates": {
     "posted": "2026-09-08",
     "discovered": "2026-09-08",
-    "last_verified": "2026-10-24"
+    "last_verified": "2026-10-31"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

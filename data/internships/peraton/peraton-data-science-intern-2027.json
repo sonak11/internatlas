@@ -7,7 +7,7 @@
   },
   "role": "Data Science Intern",
   "category": "data-science",
-  "apply_url": "https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false",
+  "apply_url": "https://peraton.jibeapply.com/jobs/170320?icims=1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -47,9 +47,9 @@
   "dates": {
     "posted": "2026-09-09",
     "discovered": "2026-09-09",
-    "last_verified": "2026-10-24"
+    "last_verified": "2026-10-31"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

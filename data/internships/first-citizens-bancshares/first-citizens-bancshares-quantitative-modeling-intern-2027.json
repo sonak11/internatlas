@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineering-intern-2027-5e8434",
+  "id": "first-citizens-bancshares-quantitative-modeling-intern-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "First Citizens BancShares",
+    "slug": "first-citizens-bancshares"
   },
-  "role": "Software Engineering Intern",
-  "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/Ww",
+  "role": "Quantitative Modeling Intern",
+  "category": "quant",
+  "apply_url": "https://firstcitizens.jibeapply.com/jobs/36317?icims=1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cedar Rapids",
-      "state": "IA",
+      "city": "Raleigh",
+      "state": "NC",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-27",
-    "discovered": "2026-10-27",
+    "posted": "2026-10-30",
+    "discovered": "2026-10-31",
     "last_verified": "2026-10-31"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
