@@ -33,19 +33,19 @@ _Generated 2026-10-31_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 5090 | `███████████████` |
-| ai | 754 | `██` |
+| software-engineering | 5096 | `███████████████` |
+| ai | 756 | `██` |
 | machine-learning | 399 | `█` |
 | quant | 381 | `█` |
-| data-science | 332 | `█` |
+| data-science | 333 | `█` |
 | hardware | 323 | `█` |
 | research | 273 | `█` |
 | product | 271 | `█` |
 | embedded | 236 | `█` |
 | design | 236 | `█` |
 | data-engineering | 181 | `█` |
-| security | 148 | `█` |
-| cloud | 116 | `█` |
+| security | 149 | `█` |
+| cloud | 117 | `█` |
 
 ## Newest listings
 

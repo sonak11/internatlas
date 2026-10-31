@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**116** tracked · **79** open now
+**117** tracked · **80** open now
 
 ## Current openings
 
@@ -59,6 +59,7 @@
 | [MITRE](generated/companies/mitre.md) | [Critical Infrastructure Protection Intern](https://go.vansh.nyc/10s) | McLean, VA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [National Interstate Insurance](generated/companies/national-interstate-insurance.md) | [DevOps Developer Intern](https://go.vansh.nyc/Zr) | Cincinnati, OH | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Software Engineer Intern, Infrastructure](https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003) | South San Francisco | Onsite | 2024-06-13 | Rolling | 🟢 Open | ❔ |
+| [Nintendo](generated/companies/nintendo.md) | [Software Engineer Intern, DevOps](https://go.vansh.nyc/12m) | Redmond, WA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Nissan](generated/companies/nissan.md) | [EA & Cloud Intern](https://go.vansh.nyc/Gn) | Franklin, TN | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Nissan Global](generated/companies/nissan-global.md) | [EA & Cloud Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214) | Franklin, TN | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Oceaneering](generated/companies/oceaneering.md) | [Azure AKS DevOps Intern](https://go.vansh.nyc/Hd) | Houston, TX | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
@@ -173,6 +174,7 @@
 - MITRE (1)
 - National Interstate Insurance (1)
 - Neuralink (1)
+- Nintendo (1)
 - Nissan (1)
 - Nissan Global (1)
 - Oceaneering (1)

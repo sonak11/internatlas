@@ -511,6 +511,7 @@
 | [Eaton](../companies/eaton.md) | 3/9 | embedded, research, software-engineering |
 | [Echelon Insights](../companies/echelon-insights.md) | 1/1 | software-engineering |
 | [Ecolab](../companies/ecolab.md) | 1/2 | ai, research |
+| [Economy Polymers & Chemicals](../companies/economy-polymers-chemicals.md) | 1/1 | ai |
 | [EdgeTrace](../companies/edgetrace.md) | 0/1 | ai |
 | [Edison International](../companies/edison-international.md) | 5/6 | data-engineering, data-science, software-engineering |
 | [Efficient Computer](../companies/efficient-computer.md) | 0/1 | hardware |
@@ -645,6 +646,7 @@
 | [GM Financial](../companies/gm-financial.md) | 1/1 | data-engineering |
 | [GM financial](../companies/gm-financial.md) | 4/8 | data-engineering, data-science, software-engineering |
 | [GRITT ROBOTICS INC](../companies/gritt-robotics-inc.md) | 1/1 | machine-learning |
+| [GTI Energy](../companies/gti-energy.md) | 1/1 | data-science |
 | [Galaxy](../companies/galaxy.md) | 1/1 | security |
 | [Gallup](../companies/gallup.md) | 2/6 | cloud, data-engineering, data-science, machine-learning, software-engineering |
 | [Garda Capital Partners](../companies/garda-capital-partners.md) | 1/5 | quant, software-engineering |
@@ -1088,7 +1090,7 @@
 | [Nidec](../companies/nidec.md) | 1/2 | software-engineering |
 | [Nightwing](../companies/nightwing.md) | 0/1 | hardware |
 | [Nike](../companies/nike.md) | 0/2 | software-engineering |
-| [Nintendo](../companies/nintendo.md) | 1/1 | software-engineering |
+| [Nintendo](../companies/nintendo.md) | 8/8 | cloud, security, software-engineering |
 | [Nissan](../companies/nissan.md) | 15/17 | ai, cloud, data-science, security, software-engineering |
 | [Nissan Global](../companies/nissan-global.md) | 23/23 | ai, cloud, data-science, machine-learning, research, software-engineering |
 | [Noblis](../companies/noblis.md) | 0/2 | data-science, software-engineering |
@@ -1478,6 +1480,7 @@
 | [Stripe](../companies/stripe.md) | 18/18 | data-science, machine-learning, software-engineering |
 | [Stryker](../companies/stryker.md) | 7/8 | software-engineering |
 | [Stryten](../companies/stryten.md) | 1/4 | software-engineering |
+| [Students Plus Startups](../companies/students-plus-startups.md) | 1/1 | software-engineering |
 | [StudyFetch](../companies/studyfetch.md) | 0/2 | software-engineering |
 | [Subtotal](../companies/subtotal.md) | 1/1 | software-engineering |
 | [Sun Life](../companies/sun-life.md) | 5/6 | data-science, software-engineering |
@@ -1672,6 +1675,7 @@
 | [Videotron](../companies/videotron.md) | 1/1 | software-engineering |
 | [Viget](../companies/viget.md) | 3/3 | product, software-engineering |
 | [Viking Global](../companies/viking-global.md) | 1/1 | data-science |
+| [Virginia Tech Applied Research Corporation](../companies/virginia-tech-applied-research-corporation.md) | 1/1 | ai |
 | [Virtu](../companies/virtu.md) | 1/1 | quant |
 | [Virtu Financial](../companies/virtu-financial.md) | 17/17 | design, hardware, quant, software-engineering |
 | [Visa](../companies/visa.md) | 21/28 | ai, data-science, product, security, software-engineering |
