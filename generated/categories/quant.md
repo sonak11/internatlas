@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**374** tracked · **220** open now
+**375** tracked · **221** open now
 
 ## Current openings
 
@@ -176,6 +176,7 @@
 | [Point72](generated/companies/point72.md) | [Quantitative Developer Intern](https://go.vansh.nyc/1e) | New York, NY | Onsite | 2026-04-19 | Rolling | 🟢 Open | ❔ |
 | [Point72](generated/companies/point72.md) | [Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/7609197002) | NYC | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Point72](generated/companies/point72.md) | [Quantitative Researcher Intern](https://go.vansh.nyc/1f) | New York, NY | Onsite | 2026-04-19 | Rolling | 🟢 Open | ❔ |
+| [Pretium](generated/companies/pretium.md) | [Quantitative Strategies Intern](https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868465002) | NYC | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Principal Financial Group](generated/companies/principal-financial-group.md) | [Quantitative Analyst Intern - Quantitative Research](https://careers.principal.com/jobs/52721?icims=1) | Des Moines, IA +1 | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Principal Financial Group](generated/companies/principal-financial-group.md) | [Quantitative Analyst Intern, Quantitative Research](https://go.vansh.nyc/Ei) | Des Moines, IA +1 | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Quantbot Technologies](generated/companies/quantbot-technologies.md) | [Quantitative Developer Intern](https://www.quantbot.com/careers/4341038009?gh_jid=4341038009) | NYC | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
@@ -468,6 +469,7 @@
 - Marshall Wace (1)
 - Millennium (1)
 - PDT Partners (1)
+- Pretium (1)
 - Quantinuum (1)
 - Radix Trading (1)
 - Rothesay (1)

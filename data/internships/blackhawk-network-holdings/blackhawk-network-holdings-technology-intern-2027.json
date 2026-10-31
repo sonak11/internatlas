@@ -7,14 +7,14 @@
   },
   "role": "Technology Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers-blackhawknetwork.icims.com/jobs/26867/job?mobile=true&needsRedirect=false",
+  "apply_url": "https://blackhawknetwork.jibeapply.com/jobs/26866?icims=1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Pleasanton",
-      "state": "CA",
+      "city": "Coppell",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -44,9 +44,9 @@
   "dates": {
     "posted": "2026-08-31",
     "discovered": "2026-08-31",
-    "last_verified": "2026-09-03"
+    "last_verified": "2026-10-31"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

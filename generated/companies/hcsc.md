@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| HCSC | [Cybersecurity Operations Intern](https://go.vansh.nyc/11Z) | Chicago, IL | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | HCSC | [Product Engineer Intern](https://go.vansh.nyc/T7) | Chicago, IL +1 | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | HCSC | [Security Data Classification Intern](https://go.vansh.nyc/G6) | Richardson, TX | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | HCSC | [Finance Application Developer Intern](https://go.vansh.nyc/b7) | Chicago, IL +1 | Onsite | 2026-10-17 | Rolling | 🔴 Closed | ❔ |

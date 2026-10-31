@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "panasonic-holdings-panasonic-transformation-group-intern-2027-5e0131",
+  "id": "morph-labs-electrical-engineer-intern-2027",
   "company": {
-    "name": "Panasonic Holdings",
-    "slug": "panasonic-holdings"
+    "name": "Morph Labs",
+    "slug": "morph-labs"
   },
-  "role": "Panasonic Transformation Group Intern",
+  "role": "Electrical Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.na.panasonic.com/jobs/51629?icims=1",
-  "season": "summer",
+  "apply_url": "https://job-boards.greenhouse.io/morph/jobs/4467369009",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Sparks",
-      "state": "NV",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -40,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-09",
-    "discovered": "2026-10-23",
+    "posted": "2026-10-26",
+    "discovered": "2026-10-31",
     "last_verified": "2026-10-31"
   },
   "status": "open",

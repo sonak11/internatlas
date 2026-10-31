@@ -29,12 +29,12 @@
 | Keysight Technologies | [Software Development Engineer Intern, 6G Digital Twin and Visualization Platform](https://go.vansh.nyc/FA) | Santa Rosa, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [Software Engineer Intern](https://go.vansh.nyc/ei) | Calabasas, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [Software Engineer Intern, R&D](https://go.vansh.nyc/cK) | Santa Clara, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
-| Keysight Technologies | [Software Engineering Intern](https://go.vansh.nyc/Rh) | Calabasas, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [AI/ML Research Intern](https://jobs.keysight.com/jobs/52557?icims=1) | Edinburgh | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | Keysight Technologies | [Full Stack Intern](https://jobs.keysight.com/jobs/54165?icims=1) | Colorado Springs, CO | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | Keysight Technologies | [R&D Software Engineer Intern](https://jobs.keysight.com/jobs/53652?icims=1) | Santa Clara, CA +1 | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
 | Keysight Technologies | [R&D Software Engineer Intern](https://jobs.keysight.com/jobs/54848?icims=1) | Austin, TX | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
 | Keysight Technologies | [Software Engineer Intern - R&D - FPGA](https://jobs.keysight.com/jobs/53636?icims=1) | Santa Clara, CA +1 | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
+| Keysight Technologies | [Software Engineering Intern](https://go.vansh.nyc/Rh) | Calabasas, CA | Onsite | 2026-10-18 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

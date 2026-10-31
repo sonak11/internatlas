@@ -5,9 +5,9 @@
     "name": "Kinaxis",
     "slug": "kinaxis"
   },
-  "role": "Software Developer Co-op/Intern - Core Algorithms",
+  "role": "Software Developer Co-op Intern - Core Algorithms",
   "category": "software-engineering",
-  "apply_url": "https://careers-kinaxis.icims.com/jobs/35329/job?mobile=true&needsRedirect=false",
+  "apply_url": "https://kinaxis.jibeapply.com/jobs/35329?icims=1",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
@@ -41,9 +41,9 @@
   "dates": {
     "posted": "2026-09-04",
     "discovered": "2026-09-04",
-    "last_verified": "2026-10-24"
+    "last_verified": "2026-10-31"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

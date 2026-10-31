@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Rolls-Royce | [Integrated Control Systems Engineer Intern, Software](https://go.vansh.nyc/C4) | Indianapolis, IN | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
+| Rolls-Royce | [Integrated Control Systems Engineer Intern, Software](https://go.vansh.nyc/C4) | Indianapolis, IN | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
