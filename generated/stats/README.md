@@ -37,7 +37,7 @@ _Generated 2026-10-31_
 | ai | 754 | `██` |
 | machine-learning | 399 | `█` |
 | quant | 381 | `█` |
-| data-science | 331 | `█` |
+| data-science | 332 | `█` |
 | hardware | 323 | `█` |
 | research | 273 | `█` |
 | product | 271 | `█` |
@@ -553,6 +553,7 @@ _Generated 2026-10-31_
 - Genentech — Applied GenAI Scientist Intern - GenAI Applications
 - Genentech — Data Science & Machine Learning Intern - Agentic AI Discovery & Prototyping
 - Genentech — Prescient Frontier Research Intern
+- Genentech — Product Technical Development Intern - Digital Sciences Focus
 - Generac — Data Science Intern - Summer 2027
 - General Astronautics — Engineering Intern
 - General Dynamics — Information Technology Intern - Software Engineering - Computer Science
@@ -591,9 +592,6 @@ _Generated 2026-10-31_
 - GM financial — Portfolio Analytics Intern
 - GM financial — Software Development Engineer Intern
 - GM financial — Software Development Engineer Intern
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
 - Goldman Sachs — Summer Analyst Intern - Engineering
 - GoMaterials — Data Quality Intern - Winter 2027
 - Goodlord — Engineering Intern
@@ -654,7 +652,7 @@ _Generated 2026-10-31_
 - IMC — Quantitative Research Intern (PHD)
 - IMC — Software Engineer Intern
 - Immuta — Full-Stack Engineering Intern - Summer 2027
-- InfiniteQuant — Quantitative Developer Internship - Summer 2027
+- InfiniteQuant — Quantitative Developer Intern
 - Inmar Intelligence — Data Science Intern
 - Innovative Systems — Software Engineering Intern/Co-op
 - Integrate — Software Engineering Intern
@@ -1036,6 +1034,7 @@ _Generated 2026-10-31_
 - RTX — Data Analyst Intern - Spare Parts Services
 - RTX — Development Operations Intern, Engineering Development Program
 - RTX — Digital Design Electrical Engineer Intern
+- RTX — Digital Design Electrical Engineer Intern - Summer 2027
 - RTX — Electrical Components Engineer Intern
 - RTX — Electrical Design Engineer Intern
 - RTX — Electrical Engineer Intern
