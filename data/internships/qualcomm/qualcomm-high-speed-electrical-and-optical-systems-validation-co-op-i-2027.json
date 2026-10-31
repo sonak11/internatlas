@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "stripe-phd-machine-learning-engineer-intern-2027",
+  "id": "qualcomm-high-speed-electrical-and-optical-systems-validation-co-op-i-2027",
   "company": {
-    "name": "Stripe",
-    "slug": "stripe",
-    "career_page": "https://stripe.com/jobs/university"
+    "name": "Qualcomm",
+    "slug": "qualcomm"
   },
-  "role": "PhD Machine Learning Engineer, Intern",
-  "category": "machine-learning",
-  "apply_url": "https://stripe.com/jobs/search?gh_jid=8328662",
-  "season": "summer",
+  "role": "High-Speed Electrical and Optical Systems Validation Co-op Intern - Interim Engineering Intern - HW",
+  "category": "software-engineering",
+  "apply_url": "https://qualcomm.eightfold.ai/careers/job/446721874877",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "country": "USA"
+      "city": "Ottawa",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -41,12 +40,12 @@
   },
   "dates": {
     "posted": "2026-10-30",
-    "discovered": "2026-10-30",
-    "last_verified": "2026-10-30"
+    "discovered": "2026-10-31",
+    "last_verified": "2026-10-31"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

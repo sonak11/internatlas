@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Residex Software | [Product Management Intern](https://go.vansh.nyc/gc) | USA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
+| Residex Software | [Product Management Intern](https://go.vansh.nyc/gc) | USA | Onsite | 2026-10-09 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

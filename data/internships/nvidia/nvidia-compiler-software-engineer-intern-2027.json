@@ -7,7 +7,7 @@
   },
   "role": "Compiler Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/102",
+  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +44,11 @@
   "dates": {
     "posted": "2026-10-29",
     "discovered": "2026-10-30",
-    "last_verified": "2026-10-30"
+    "last_verified": "2026-10-31"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

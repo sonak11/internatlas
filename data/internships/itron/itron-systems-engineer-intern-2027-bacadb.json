@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "nvidia-research-intern-world-models-and-synthetic-data-for-autonomo-2027-123500",
+  "id": "itron-systems-engineer-intern-2027-bacadb",
   "company": {
-    "name": "NVIDIA",
-    "slug": "nvidia"
+    "name": "Itron",
+    "slug": "itron"
   },
-  "role": "Research Intern - World Models and Synthetic Data for Autonomous Driving",
-  "category": "research",
-  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1",
-  "season": "summer",
+  "role": "Systems Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-2",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "West Union",
+      "state": "SC",
       "country": "USA"
     }
   ],
@@ -25,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-09",
-    "discovered": "2026-10-17",
-    "last_verified": "2026-10-30"
+    "posted": "2026-10-30",
+    "discovered": "2026-10-31",
+    "last_verified": "2026-10-31"
   },
   "status": "open",
   "tags": [

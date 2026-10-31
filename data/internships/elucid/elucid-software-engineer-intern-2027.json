@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "booz-allen-data-scientist-intern-university-summer-games-2027-10feae",
+  "id": "elucid-software-engineer-intern-2027",
   "company": {
-    "name": "Booz Allen",
-    "slug": "booz-allen"
+    "name": "Elucid",
+    "slug": "elucid"
   },
-  "role": "Data Scientist Intern - University - Summer Games",
-  "category": "data-science",
-  "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409",
-  "season": "summer",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://elucid.applytojob.com/apply/6VSEqF73l9/Software-Engineering-Intern-Spring-2027",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Fort Walton Beach",
-      "state": "FL",
+      "city": "Boston",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -40,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-09-01",
-    "last_verified": "2026-10-30"
+    "posted": "2026-10-30",
+    "discovered": "2026-10-31",
+    "last_verified": "2026-10-31"
   },
   "status": "open",
   "tags": [

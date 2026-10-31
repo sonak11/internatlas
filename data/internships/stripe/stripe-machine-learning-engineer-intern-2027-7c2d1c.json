@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
-  "id": "axon-software-engineer-intern-2027-f5b823",
+  "id": "stripe-machine-learning-engineer-intern-2027-7c2d1c",
   "company": {
-    "name": "Axon",
-    "slug": "axon"
+    "name": "Stripe",
+    "slug": "stripe"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/8037922003",
+  "role": "Machine Learning Engineer Intern",
+  "category": "machine-learning",
+  "apply_url": "https://stripe.com/jobs/search?gh_jid=8333074",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -18,8 +18,16 @@
       "country": "USA"
     },
     {
-      "city": "Arlington County",
-      "country": "Arlington"
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "San Francisco",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -45,8 +53,8 @@
   },
   "dates": {
     "posted": "2026-10-30",
-    "discovered": "2026-10-30",
-    "last_verified": "2026-10-30"
+    "discovered": "2026-10-31",
+    "last_verified": "2026-10-31"
   },
   "status": "open",
   "tags": [

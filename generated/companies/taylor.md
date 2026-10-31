@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Taylor | [Enablement Data & Insights Intern](https://go.vansh.nyc/fg) | USA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| Taylor | [Enablement Data & Insights Intern](https://go.vansh.nyc/fg) | USA | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

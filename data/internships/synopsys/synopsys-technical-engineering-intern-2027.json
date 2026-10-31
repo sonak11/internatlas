@@ -5,16 +5,17 @@
     "name": "Synopsys",
     "slug": "synopsys"
   },
-  "role": "Technical-Engineering Intern",
+  "role": "Technical Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://synopsys.avature.net/careers/JobDetail/19182",
+  "apply_url": "https://synopsys.avature.net/careers/JobDetail/19536",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Markham",
-      "country": "ON"
+      "city": "Sunnyvale",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -42,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-22",
+    "posted": "2026-10-30",
     "discovered": "2026-10-17",
-    "last_verified": "2026-10-30"
+    "last_verified": "2026-10-31"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

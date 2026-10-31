@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "id": "olg-front-end-developer-student-intern-2027",
+  "company": {
+    "name": "OLG",
+    "slug": "olg"
+  },
+  "role": "Front End Developer Student Intern",
+  "category": "software-engineering",
+  "apply_url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Front-End-Developer-Student_R26_00665",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Toronto",
+      "country": "ON"
+    },
+    {
+      "city": "Sault Ste. Marie",
+      "country": "ON"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-30",
+    "discovered": "2026-10-31",
+    "last_verified": "2026-10-31"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

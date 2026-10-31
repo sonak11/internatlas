@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "stripe-master-s-machine-learning-engineer-intern-2027-a9d7c6",
+  "id": "mann-hummel-product-management-market-intelligence-intern-2027",
   "company": {
-    "name": "Stripe",
-    "slug": "stripe",
-    "career_page": "https://stripe.com/jobs/university"
+    "name": "MANN+HUMMEL",
+    "slug": "mann-hummel"
   },
-  "role": "Master's Machine Learning Engineer, Intern",
-  "category": "machine-learning",
-  "apply_url": "https://stripe.com/jobs/search?gh_jid=8333122",
-  "season": "summer",
+  "role": "Product Management & Market Intelligence Intern",
+  "category": "product",
+  "apply_url": "https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
+      "city": "Gastonia",
+      "state": "NC",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,12 +43,12 @@
   },
   "dates": {
     "posted": "2026-10-30",
-    "discovered": "2026-10-30",
-    "last_verified": "2026-10-30"
+    "discovered": "2026-10-31",
+    "last_verified": "2026-10-31"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }
