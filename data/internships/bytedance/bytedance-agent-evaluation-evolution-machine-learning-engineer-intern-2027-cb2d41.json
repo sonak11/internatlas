@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "general-intuition-amp-medal-technical-intern-2027",
+  "id": "bytedance-agent-evaluation-evolution-machine-learning-engineer-intern-2027-cb2d41",
   "company": {
-    "name": "General Intuition &amp; Medal",
-    "slug": "general-intuition-amp-medal"
+    "name": "ByteDance",
+    "slug": "bytedance"
   },
-  "role": "Technical Intern",
-  "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/12T",
+  "role": "Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US",
+  "category": "machine-learning",
+  "apply_url": "https://go.vansh.nyc/14f",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "state": "NY",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,7 +40,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-31",
+    "posted": "2026-11-01",
     "discovered": "2026-11-01",
     "last_verified": "2026-11-01"
   },

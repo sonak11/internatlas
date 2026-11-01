@@ -5,9 +5,9 @@
     "name": "ByteDance",
     "slug": "bytedance"
   },
-  "role": "Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark",
-  "category": "machine-learning",
-  "apply_url": "https://jobs.bytedance.com/en/position/7672394389001816325/detail",
+  "role": "Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US",
+  "category": "cloud",
+  "apply_url": "https://go.vansh.nyc/14c",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -42,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-11",
+    "posted": "2026-11-01",
     "discovered": "2026-08-11",
     "last_verified": "2026-11-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

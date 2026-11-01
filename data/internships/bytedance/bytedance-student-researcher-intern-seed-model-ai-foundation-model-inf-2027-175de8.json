@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "bytedance-student-researcher-intern-seed-model-ai-foundation-model-inf-2027-175de8",
+  "company": {
+    "name": "ByteDance",
+    "slug": "bytedance"
+  },
+  "role": "Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure",
+  "category": "ai",
+  "apply_url": "https://go.vansh.nyc/14s",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-01",
+    "discovered": "2026-11-01",
+    "last_verified": "2026-11-01"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

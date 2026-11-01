@@ -5,16 +5,16 @@
     "name": "ByteDance",
     "slug": "bytedance"
   },
-  "role": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark",
+  "role": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US",
   "category": "machine-learning",
-  "apply_url": "https://jobs.bytedance.com/en/position/7671105026009925893/detail",
+  "apply_url": "https://go.vansh.nyc/147",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
+      "city": "Seattle",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -42,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-10",
+    "posted": "2026-11-01",
     "discovered": "2026-08-10",
     "last_verified": "2026-11-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

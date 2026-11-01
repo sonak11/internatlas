@@ -11,6 +11,7 @@ _Generated 2026-11-01_
 | TikTok | 239 |
 | Tesla | 225 |
 | RTX | 205 |
+| ByteDance | 114 |
 | Marvell | 92 |
 | Royal Bank of Canada | 90 |
 | Waymo | 81 |
@@ -18,7 +19,6 @@ _Generated 2026-11-01_
 | American Express | 77 |
 | AMD | 76 |
 | NVIDIA | 76 |
-| ByteDance | 75 |
 | Amazon | 72 |
 | Qualcomm | 71 |
 | General Motors | 56 |
@@ -33,42 +33,42 @@ _Generated 2026-11-01_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 5139 | `███████████████` |
-| ai | 763 | `██` |
-| machine-learning | 401 | `█` |
+| software-engineering | 5153 | `███████████████` |
+| ai | 770 | `██` |
+| machine-learning | 406 | `█` |
 | quant | 381 | `█` |
-| data-science | 337 | `█` |
-| hardware | 323 | `█` |
-| research | 274 | `█` |
+| data-science | 338 | `█` |
+| hardware | 324 | `█` |
+| research | 276 | `█` |
 | product | 272 | `█` |
 | embedded | 236 | `█` |
 | design | 236 | `█` |
 | data-engineering | 181 | `█` |
-| security | 153 | `█` |
-| cloud | 118 | `█` |
+| security | 157 | `█` |
+| cloud | 126 | `█` |
 
 ## Newest listings
 
-- 2026-10-31 — **ADT**: [Technology & Engineering Intern](https://go.vansh.nyc/12y)
-- 2026-10-31 — **Arcesium**: [Software Engineer Intern](https://go.vansh.nyc/12z)
-- 2026-10-31 — **Architect Labs**: [Member of Technical Staff Intern, Research](https://go.vansh.nyc/12A)
-- 2026-10-31 — **Arista Networks**: [Software Engineer Intern, C/C++](https://go.vansh.nyc/12B)
-- 2026-10-31 — **Astronics**: [Software Engineer Intern](https://go.vansh.nyc/12C)
-- 2026-10-31 — **Braze**: [Software Engineering Intern](https://go.vansh.nyc/12D)
-- 2026-10-31 — **C&S Wholesale Grocers**: [IS Intern, Data Analytics & Data Science](https://go.vansh.nyc/12E)
-- 2026-10-31 — **Capstone Investment Advisors**: [Execution Tech Intern](https://go.vansh.nyc/12F)
-- 2026-10-31 — **Chubb**: [Technology Intern](https://go.vansh.nyc/12G)
-- 2026-10-31 — **Clay**: [Software Engineering Intern](https://go.vansh.nyc/12H)
-- 2026-10-31 — **Cohen & Steers**: [Associate Intern, Information Security](https://go.vansh.nyc/12I)
-- 2026-10-31 — **Context**: [Intern](https://go.vansh.nyc/12J)
-- 2026-10-31 — **Corgan**: [Software Development Intern](https://go.vansh.nyc/12K)
-- 2026-10-31 — **Cowboy Space**: [Software Engineering Intern](https://go.vansh.nyc/12L)
-- 2026-10-31 — **Creatify Lab**: [Software Engineer Intern](https://go.vansh.nyc/12M)
-- 2026-10-31 — **Datacor**: [AI Engineer Intern](https://go.vansh.nyc/12N)
-- 2026-10-31 — **DriveWealth**: [Engineering Intern, AI Consulting Associate Program (AI CAP)](https://go.vansh.nyc/12O)
-- 2026-10-31 — **DriveWealth**: [Product Owner Intern, AI Consulting Associate Program (AI CAP)](https://go.vansh.nyc/12P)
-- 2026-10-31 — **Dryft**: [Member of Technical Staff Intern](https://go.vansh.nyc/12Q)
-- 2026-10-31 — **Ema**: [AI Resident Intern](https://go.vansh.nyc/13C)
+- 2026-11-01 — **ByteDance**: [Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14f)
+- 2026-11-01 — **ByteDance**: [Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US](https://go.vansh.nyc/149)
+- 2026-11-01 — **ByteDance**: [AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling](https://go.vansh.nyc/14r)
+- 2026-11-01 — **ByteDance**: [AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling](https://go.vansh.nyc/14o)
+- 2026-11-01 — **ByteDance**: [ASIC Design Engineer Intern, Video Silicon IP](https://go.vansh.nyc/14u)
+- 2026-11-01 — **ByteDance**: [Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14h)
+- 2026-11-01 — **ByteDance**: [Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14c)
+- 2026-11-01 — **ByteDance**: [Machine Learning Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/144)
+- 2026-11-01 — **ByteDance**: [Machine Learning Engineer Project Intern, Security-Data](https://go.vansh.nyc/14A)
+- 2026-11-01 — **ByteDance**: [Multi-Cloud CDN Data Platform Engineer Intern, Global Engineering CDN](https://go.vansh.nyc/14b)
+- 2026-11-01 — **ByteDance**: [Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform](https://go.vansh.nyc/14q)
+- 2026-11-01 — **ByteDance**: [Network Security Software Engineer Intern, Security Engineering](https://go.vansh.nyc/14v)
+- 2026-11-01 — **ByteDance**: [Network Software Development Engineer Intern, Network Observation](https://go.vansh.nyc/14x)
+- 2026-11-01 — **ByteDance**: [Network Software Development Engineer Intern, Network Switch](https://go.vansh.nyc/14y)
+- 2026-11-01 — **ByteDance**: [Production System Engineer Project Intern, Server DevOps](https://go.vansh.nyc/14j)
+- 2026-11-01 — **ByteDance**: [Production System Engineer Project Intern, Server DevOps](https://go.vansh.nyc/14e)
+- 2026-11-01 — **ByteDance**: [Security Engineering Project Intern, Watermark](https://joinbytedance.com/search/7625759034518128901)
+- 2026-11-01 — **ByteDance**: [Security Software Engineer Project Intern, Network Security](https://go.vansh.nyc/14B)
+- 2026-11-01 — **ByteDance**: [Self-Built Engineer Intern, CDN Platform](https://go.vansh.nyc/14w)
+- 2026-11-01 — **ByteDance**: [Site Reliability Engineer Intern, Data Infra](https://go.vansh.nyc/14p)
 
 ## Recently closed
 
@@ -104,6 +104,7 @@ _Generated 2026-11-01_
 - Akuna Capital — Software Engineer Intern, Full Stack Web
 - Akuna Capital — Software Engineer Intern - Full Stack Web, Summer 2027
 - Al Warren Oil Company — Software Developer Intern
+- Allstate — Technology Internship
 - AltaGas — Digital Intern - NextGen AI & Data
 - Altamira Technologies — Research and Development Intern
 - Altamira Technologies — Software Development Intern
@@ -126,29 +127,56 @@ _Generated 2026-11-01_
 - AMD — AI Model Optimization & Software Engineer Intern/Co-op
 - AMD — AI Research Intern - Reinforcement Learning and LLM Post-Training
 - AMD — HPC and Sovereign AI Center of Excellence Intern/Co-op
+- American Century Investments — Enterprise Data Intern
+- American Century Investments — Enterprise Data Intern
+- American Century Investments — Enterprise Data Intern
+- American Century Investments — Software Developer Intern
 - American Enterprise Institute — Spring Data Analyst and Education Policy Intern
 - American Express — AI Engineer Intern
 - American Express — AI Engineer Intern, Enterprise Technology Services
 - American Express — AI Engineer Intern, Enterprise Technology Services
+- American Express — AI Engineer Intern - Enterprise Technology Services
+- American Express — AI Engineer Intern - Enterprise Technology Services
+- American Express — AI Engineer Intern, Enterprise Technology Services
+- American Express — AI Engineer Intern, Enterprise Technology Services
+- American Express — Cybersecurity Intern
 - American Express — Data Analytics Intern - Enterprise Technology Services
 - American Express — Data Analytics Intern - Enterprise Technology Services
 - American Express — Data Engineer Intern - Enterprise Technology Services
 - American Express — Data Engineer Intern - Enterprise Technology Services
 - American Express — Data Engineer Intern, Enterprise Technology Services
 - American Express — Data Engineer Intern - Enterprise Technology Services
+- American Express — Data Management Intern - Global Merchant & Network Services
+- American Express — Data Science Intern - Finance
+- American Express — Data Science Intern - Finance
 - American Express — Data Science Intern - Global Decision Science - Credit & Fraud Risk
+- American Express — Digital Product Management Intern - Enterprise Technology Services
+- American Express — Digital Product Management Intern - Enterprise Technology Services
+- American Express — Digital Product Management Intern - Enterprise Technology Services
+- American Express — Digital Product Management Intern - Enterprise Technology Services
 - American Express — Marketing Analyst Intern - Undergraduate ICS
 - American Express — Product Development Intern - Global Commercial Services
 - American Express — Product Development Intern - Global Commercial Services
 - American Express — Product Management Intern
 - American Express — Product Management Intern - Global Commercial Services
+- American Express — Product Management Intern - Global Merchant & Network Services
+- American Express — Product Management Intern - Global Merchant & Network Services
+- American Express — Software Engineer Intern - Enterprise Technology Services
 - American Express — Software Engineer Intern, Enterprise Technology Services
 - American Express — Software Engineer Intern, Enterprise Technology Services
+- American Express — Software Engineer Intern, Enterprise Technology Services
+- American Express — Software Engineer Intern - Enterprise Technology Services
+- American Express — Software Engineer Intern, Enterprise Technology Services
+- American Express — Software Engineer Intern, Enterprise Technology Services
+- American Express — Software Engineer Intern - Enterprise Technology Services
+- American Express — Software Engineer Intern, Enterprise Technology Services
+- American Express — Software Engineer Intern - Enterprise Technology Services
 - American Express — Software Engineer Intern, Technology
 - American Family Insurance Group — Data Analyst Intern
 - American Family Insurance Group — Data Analyst Intern - Agency Performance, Insights and Operations
 - American Family Insurance Group — Data Engineer Intern
 - American Family Insurance Group — Data Engineer Intern
+- American Family Insurance Group — Data Engineering / Data Science Intern
 - American Heart Association — Data Science Intern - Machine Learning & AI
 - Amgen — Data Scientist Intern
 - Amgen — Data Scientist Intern - Amgen’s Technology & Medical Organizations
@@ -253,6 +281,7 @@ _Generated 2026-11-01_
 - Bank of China USA — Risk Analytics Model Intern - Credit Risk Management Department
 - Bank of China USA — Risk Analytics Model Intern - Credit Risk Management Department
 - Bank of Montreal — Data & AI Analyst Co-op Intern
+- Barclays — Technology Developer Intern
 - Barclays — Technology Developer Intern - Technology
 - Beacon Software — Software Engineer Intern
 - Belden — R&D Cable Intern
@@ -302,6 +331,7 @@ _Generated 2026-11-01_
 - Brookfield — Analytics Modelling Intern
 - Brookhaven Lab — Data Engineering Student Assistant Intern
 - ByteDance — AI Network Automation Engineer Intern - Global Physical Network Infrastructure
+- ByteDance — AI Network Automation Engineer Intern, Global Physical Network Infra
 - ByteDance — AI Network Automation Engineer Intern, Global Physical Network Infra
 - CACI — Cyber Analyst Intern
 - CACI — Software Development/Engineer Intern
@@ -359,6 +389,7 @@ _Generated 2026-11-01_
 - Clera — Computer Vision & Robotics Intern
 - Cleveland-Cliffs — Computer Science Engineer Intern
 - Coinbase — Strategic Finance Intern
+- Collier Aerospace — Software Engineer Intern
 - Commercial Metals — AI Intern
 - Commonwealth Fusion Systems — AI & Infrastructure Engineer Intern
 - Commonwealth Fusion Systems — Scientific Software Engineer Intern
@@ -633,7 +664,7 @@ _Generated 2026-11-01_
 - IMC — Quantitative Research Intern (PHD)
 - IMC — Software Engineer Intern
 - Immuta — Full-Stack Engineering Intern - Summer 2027
-- InfiniteQuant — Quantitative Developer Intern
+- InfiniteQuant — Quantitative Developer Internship - Summer 2027
 - Inmar Intelligence — Data Science Intern
 - Innovative Systems — Software Engineering Intern/Co-op
 - Integrate — Software Engineering Intern
@@ -693,6 +724,8 @@ _Generated 2026-11-01_
 - Kodiak Robotics — Behavior Planning Intern - Motion Planning
 - Kodiak Robotics — Planning Intern - Mission Planning
 - Kodiak Robotics — Planning Intern, Mission Planning
+- L3Harris Technologies — Associate Software Engineering Intern
+- L3Harris Technologies — Software Engineer Intern
 - L3Harris Technologies — Software Engineer Intern
 - LabCorp — Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team
 - Lazard — AI and Data Transformation Intern
@@ -768,6 +801,7 @@ _Generated 2026-11-01_
 - Micron Technology — Yield Enhancement Intern - Data Analysis
 - Microsoft — Full-Stack Product Engineer Intern - Web + Services
 - Microsoft — Product Manager Intern
+- Microsoft — Researcher Intern - Coreai
 - Microsoft — Software Engineer Intern, Security & Identity
 - Microsoft — Software Engineer Intern, Security & Identity
 - Mill — Electrical Engineer Intern
@@ -884,6 +918,7 @@ _Generated 2026-11-01_
 - Persona — Product Design Intern
 - Perspective Therapeutics — AI Innovation Intern
 - Philips — Service Sales Intern - IB Focus
+- Phillips 66 — Digital & AI Analyst Placement Intern
 - PIMCO — Client Solutions & Analytics Analyst Intern
 - PIMCO — Product Strategy Analyst Intern
 - Pinterest — UX Quantitative Research Intern (USA)
@@ -1087,6 +1122,7 @@ _Generated 2026-11-01_
 - Sierra Nevada Corporation — Software Engineer Intern - Summer 2027
 - Sierra Nevada Corporation — Software Engineer Intern - Summer 2027
 - Sierra Nevada Corporation — Software Engineer Intern - Summer 2027
+- Sierra Nevada Corporation — Test Engineer Intern - Summer 2027
 - Sierra Space — Flight Software Engineer Intern
 - Sierra Space — Flight Software Engineer Intern
 - SiFive — Design Verification Infrastructure Intern - Platform
@@ -1132,6 +1168,9 @@ _Generated 2026-11-01_
 - SPS Commerce — Software Engineer Intern
 - StarSling — Software Engineer Intern
 - State Farm — Data Science Intern - Magnet Program
+- State of North Carolina — Data Analytics Intern
+- State of North Carolina — Data Engineer Intern
+- State of North Carolina — Data Science Intern
 - Steel Dynamics — Software Development Intern
 - Steel Dynamics — Software Development Intern
 - Stifel — Data Analyst Intern
@@ -1195,6 +1234,8 @@ _Generated 2026-11-01_
 - Tesla — Vehicle Accessories & Merchandise Product Intern - Global Merchandise
 - Tessera Labs — Full Stack Software Engineer Intern
 - Texas Instruments — Software Engineering Intern
+- Textron — Aftermarket Analyst Intern
+- Textron — Software Engineer Intern
 - Textron — Software Engineer Intern - Sea Systems
 - The Aerospace Corporation — Embedded Systems/Software Engineer Intern
 - The Aerospace Corporation — Software Tools and Assurance Intern, Information Systems and Cyber Division

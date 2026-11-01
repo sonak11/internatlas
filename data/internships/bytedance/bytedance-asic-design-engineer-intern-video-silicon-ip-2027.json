@@ -5,9 +5,9 @@
     "name": "ByteDance",
     "slug": "bytedance"
   },
-  "role": "ASIC Design Engineer Intern - Video Silicon IP",
+  "role": "ASIC Design Engineer Intern, Video Silicon IP",
   "category": "hardware",
-  "apply_url": "https://jobs.bytedance.com/en/position/7670332179383699717/detail",
+  "apply_url": "https://go.vansh.nyc/14u",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -42,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-06",
+    "posted": "2026-11-01",
     "discovered": "2026-08-06",
     "last_verified": "2026-11-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

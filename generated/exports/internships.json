@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-01",
-  "count": 8814,
+  "count": 8856,
   "internships": [
     {
       "schema_version": "1.0",
@@ -11783,7 +11783,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23531,7 +23531,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -23581,9 +23581,9 @@
       "dates": {
         "posted": "2026-10-14",
         "discovered": "2026-10-17",
-        "last_verified": "2026-10-25"
+        "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -23640,7 +23640,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -23692,7 +23692,7 @@
         "discovered": "2026-09-26",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24373,7 +24373,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24427,7 +24427,7 @@
         "discovered": "2026-08-18",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -24479,7 +24479,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -24793,7 +24793,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -25000,7 +25000,7 @@
         "discovered": "2026-08-21",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -25792,7 +25792,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25845,7 +25845,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25896,7 +25896,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26054,7 +26054,7 @@
         "discovered": "2026-10-04",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26160,7 +26160,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26266,7 +26266,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26319,7 +26319,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -26990,7 +26990,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27044,7 +27044,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27301,7 +27301,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27353,7 +27353,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -27457,7 +27457,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -27563,7 +27563,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27667,7 +27667,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -27721,7 +27721,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -27773,7 +27773,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -27826,7 +27826,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -28918,7 +28918,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -57079,7 +57079,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -74886,6 +74886,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-agent-evaluation-evolution-machine-learning-engineer-intern-2027-24d044",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark",
+      "category": "machine-learning",
+      "apply_url": "https://jobs.bytedance.com/en/position/7671096345243535669/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-agent-evaluation-evolution-machine-learning-engineer-intern-2027-b5bc69",
       "company": {
         "name": "ByteDance",
@@ -74940,14 +74994,14 @@
     },
     {
       "schema_version": "1.0",
-      "id": "bytedance-agent-evaluation-evolution-machine-learning-engineer-intern-2027",
+      "id": "bytedance-agent-evaluation-evolution-machine-learning-engineer-intern-2027-cb2d41",
       "company": {
         "name": "ByteDance",
         "slug": "bytedance"
       },
-      "role": "Agent Evaluation & Evolution Machine Learning Engineer Intern - Applied Machine Learning Ark",
+      "role": "Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US",
       "category": "machine-learning",
-      "apply_url": "https://jobs.bytedance.com/en/position/7671096345243535669/detail",
+      "apply_url": "https://go.vansh.nyc/14f",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -74955,6 +75009,58 @@
         {
           "city": "San Jose",
           "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-agent-evaluation-evolution-machine-learning-engineer-intern-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/149",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
           "country": "USA"
         }
       ],
@@ -74982,14 +75088,118 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-10",
+        "posted": "2026-11-01",
         "discovered": "2026-08-10",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-ai-infrastructure-engineer-intern-compute-efficiency-schedul-2027-a96ee7",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/14r",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-ai-infrastructure-engineer-intern-compute-efficiency-schedul-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/14o",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -75254,7 +75464,7 @@
         "discovered": "2026-08-06",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -75422,6 +75632,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-asic-design-engineer-intern-video-silicon-ip-2027-020d49",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "ASIC Design Engineer Intern - Video Silicon IP",
+      "category": "hardware",
+      "apply_url": "https://jobs.bytedance.com/en/position/7670332179383699717/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-06",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-asic-design-engineer-intern-video-silicon-ip-2027-9ba5fe",
       "company": {
         "name": "ByteDance",
@@ -75479,9 +75743,9 @@
         "name": "ByteDance",
         "slug": "bytedance"
       },
-      "role": "ASIC Design Engineer Intern - Video Silicon IP",
+      "role": "ASIC Design Engineer Intern, Video Silicon IP",
       "category": "hardware",
-      "apply_url": "https://jobs.bytedance.com/en/position/7670332179383699717/detail",
+      "apply_url": "https://go.vansh.nyc/14u",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -75516,14 +75780,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-06",
+        "posted": "2026-11-01",
         "discovered": "2026-08-06",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -75744,7 +76008,59 @@
     },
     {
       "schema_version": "1.0",
-      "id": "bytedance-data-lake-infrastructure-data-analytics-research-engineer-in-2027",
+      "id": "bytedance-data-lake-infrastructure-data-analytics-research-engineer-in-2027-477531",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/14h",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-data-lake-infrastructure-data-analytics-research-engineer-in-2027-5530fd",
       "company": {
         "name": "ByteDance",
         "slug": "bytedance"
@@ -75787,13 +76103,67 @@
       },
       "dates": {
         "posted": "2026-08-11",
-        "discovered": "2026-08-11",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-data-lake-infrastructure-data-analytics-research-engineer-in-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/14c",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-11",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -76125,16 +76495,16 @@
         "name": "ByteDance",
         "slug": "bytedance"
       },
-      "role": "Machine Learning Engineer Intern - AML-Engine-Orchestration",
+      "role": "Machine Learning Engineer Intern, AML-Engine-Orchestration",
       "category": "machine-learning",
-      "apply_url": "https://jobs.bytedance.com/en/position/7672382828525832501/detail",
+      "apply_url": "https://go.vansh.nyc/144",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Seattle",
-          "state": "WA",
+          "city": "San Jose",
+          "state": "CA",
           "country": "USA"
         }
       ],
@@ -76162,14 +76532,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-11",
+        "posted": "2026-11-01",
         "discovered": "2026-08-11",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -76282,6 +76652,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-machine-learning-engineer-project-intern-security-data-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Machine Learning Engineer Project Intern, Security-Data",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/14A",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-machine-learning-research-scientist-intern-seed-ai-for-scien-2027",
       "company": {
         "name": "ByteDance",
@@ -76336,7 +76758,59 @@
     },
     {
       "schema_version": "1.0",
-      "id": "bytedance-multi-cloud-cdn-scheduling-platform-engineer-intern-cdn-plat-2027",
+      "id": "bytedance-multi-cloud-cdn-data-platform-engineer-intern-global-enginee-2026",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Multi-Cloud CDN Data Platform Engineer Intern, Global Engineering CDN",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/14b",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-multi-cloud-cdn-scheduling-platform-engineer-intern-cdn-plat-2027-b0a33b",
       "company": {
         "name": "ByteDance",
         "slug": "bytedance"
@@ -76379,13 +76853,223 @@
       },
       "dates": {
         "posted": "2026-08-14",
-        "discovered": "2026-09-03",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-multi-cloud-cdn-scheduling-platform-engineer-intern-cdn-plat-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/14q",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-09-03",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-network-security-software-engineer-intern-security-engineeri-2026",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Network Security Software Engineer Intern, Security Engineering",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/14v",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-network-software-development-engineer-intern-network-observa-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Network Software Development Engineer Intern, Network Observation",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/14x",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-network-software-development-engineer-intern-network-switch-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Network Software Development Engineer Intern, Network Switch",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/14y",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -76546,6 +77230,110 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-production-system-engineer-project-intern-server-devops-2027-00cea9",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Production System Engineer Project Intern, Server DevOps",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/14j",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-production-system-engineer-project-intern-server-devops-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Production System Engineer Project Intern, Server DevOps",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/14e",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -77576,6 +78364,162 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-security-engineering-project-intern-watermark-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Security Engineering Project Intern, Watermark",
+      "category": "security",
+      "apply_url": "https://joinbytedance.com/search/7625759034518128901",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-security-software-engineer-project-intern-network-security-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Security Software Engineer Project Intern, Network Security",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/14B",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-self-built-engineer-intern-cdn-platform-2027-df4429",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Self-Built Engineer Intern - CDN Platform",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.bytedance.com/en/position/7670364362450733317/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-13",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-self-built-engineer-intern-cdn-platform-2027-df48ea",
       "company": {
         "name": "ByteDance",
@@ -77689,9 +78633,9 @@
         "name": "ByteDance",
         "slug": "bytedance"
       },
-      "role": "Self-Built Engineer Intern - CDN Platform",
+      "role": "Self-Built Engineer Intern, CDN Platform",
       "category": "software-engineering",
-      "apply_url": "https://jobs.bytedance.com/en/position/7670364362450733317/detail",
+      "apply_url": "https://go.vansh.nyc/14w",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -77724,14 +78668,222 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-13",
+        "posted": "2026-11-01",
         "discovered": "2026-08-13",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-site-reliability-engineer-intern-data-infra-2026-b99ae7",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Site Reliability Engineer Intern, Data Infra",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/14p",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-site-reliability-engineer-intern-data-infra-2026",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Site Reliability Engineer Intern, Data Infra",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/14D",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-site-reliability-engineer-intern-data-infra-2027-d8b15b",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Site Reliability Engineer Intern, Data Infra",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/14t",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-site-reliability-engineer-intern-data-infra-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Site Reliability Engineer Intern, Data Infra",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/145",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -78112,6 +79264,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-software-engineer-intern-aml-engine-orchestration-2027-c47021",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Software Engineer Intern, AML-Engine-Orchestration",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/14i",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-software-engineer-intern-aml-engine-orchestration-2027-eb9cf9",
       "company": {
         "name": "ByteDance",
@@ -78171,9 +79375,9 @@
         "name": "ByteDance",
         "slug": "bytedance"
       },
-      "role": "Software Engineer Intern - AML-Engine-Orchestration",
+      "role": "Software Engineer Intern, AML-Engine-Orchestration",
       "category": "software-engineering",
-      "apply_url": "https://jobs.bytedance.com/en/position/7671162985123907845/detail",
+      "apply_url": "https://go.vansh.nyc/14g",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -78208,14 +79412,66 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-10",
+        "posted": "2026-11-01",
         "discovered": "2026-08-10",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-software-engineer-intern-cis-knowledge-bank-2026",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Software Engineer Intern, CIS Knowledge Bank",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/14l",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -78484,7 +79740,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "bytedance-software-engineer-intern-global-payment-2027",
+      "id": "bytedance-software-engineer-intern-global-payment-2027-928839",
       "company": {
         "name": "ByteDance",
         "slug": "bytedance"
@@ -78525,7 +79781,7 @@
       },
       "dates": {
         "posted": "2026-08-17",
-        "discovered": "2026-08-17",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
@@ -78536,7 +79792,59 @@
     },
     {
       "schema_version": "1.0",
-      "id": "bytedance-software-engineer-intern-global-payment-infra-and-sre-2027",
+      "id": "bytedance-software-engineer-intern-global-payment-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Software Engineer Intern, Global Payment",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/14n",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-software-engineer-intern-global-payment-infra-and-sre-2027-e4d786",
       "company": {
         "name": "ByteDance",
         "slug": "bytedance"
@@ -78577,7 +79885,7 @@
       },
       "dates": {
         "posted": "2026-08-15",
-        "discovered": "2026-08-15",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
@@ -78588,7 +79896,111 @@
     },
     {
       "schema_version": "1.0",
-      "id": "bytedance-software-engineer-intern-global-traffic-architecture-2027",
+      "id": "bytedance-software-engineer-intern-global-payment-infra-and-sre-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Software Engineer Intern, Global Payment Infra and SRE",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/14z",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-15",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-software-engineer-intern-global-payment-risk-compliance-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Software Engineer Intern, Global Payment - Risk & Compliance",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/14k",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-software-engineer-intern-global-traffic-architecture-2027-74bbc2",
       "company": {
         "name": "ByteDance",
         "slug": "bytedance"
@@ -78629,7 +80041,7 @@
       },
       "dates": {
         "posted": "2026-08-15",
-        "discovered": "2026-08-15",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
@@ -78640,7 +80052,59 @@
     },
     {
       "schema_version": "1.0",
-      "id": "bytedance-software-engineer-intern-relational-database-2027",
+      "id": "bytedance-software-engineer-intern-global-traffic-architecture-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Software Engineer Intern, Global Traffic Architecture",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/143",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-15",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-software-engineer-intern-relational-database-2027-60bd1c",
       "company": {
         "name": "ByteDance",
         "slug": "bytedance"
@@ -78681,7 +80145,7 @@
       },
       "dates": {
         "posted": "2026-09-01",
-        "discovered": "2026-09-01",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
@@ -78692,14 +80156,14 @@
     },
     {
       "schema_version": "1.0",
-      "id": "bytedance-software-engineer-intern-traffic-infrastructure-2027",
+      "id": "bytedance-software-engineer-intern-relational-database-2027",
       "company": {
         "name": "ByteDance",
         "slug": "bytedance"
       },
-      "role": "Software Engineer Intern - Traffic Infrastructure",
-      "category": "cloud",
-      "apply_url": "https://jobs.bytedance.com/en/position/7672626707586746629/detail",
+      "role": "Software Engineer Intern, Relational Database",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/14d",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -78732,14 +80196,482 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-08-15",
-        "last_verified": "2026-09-03"
+        "posted": "2026-11-01",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-software-engineer-intern-traffic-infrastructure-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Software Engineer Intern, Traffic Infrastructure",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/146",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-15",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-software-engineer-project-intern-developer-infrastructure-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Software Engineer Project Intern, Developer Infrastructure",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/14a",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-software-engineer-project-intern-security-data-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Software Engineer Project Intern, Security-Data",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/14C",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-student-researcher-intern-seed-model-ai-foundation-model-inf-2027-175de8",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/14s",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-student-researcher-intern-seed-model-ai-foundation-model-inf-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/140",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-student-researcher-intern-seed-model-ai-foundation-models-in-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure",
+      "category": "ai",
+      "apply_url": "https://joinbytedance.com/search/7670330161462364421",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-student-researcher-intern-seed-model-infra-compiler-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Student Researcher Intern, Seed Model - Infra - Compiler",
+      "category": "research",
+      "apply_url": "https://go.vansh.nyc/148",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-student-researcher-intern-seed-model-llm-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Student Researcher Intern, Seed Model - LLM",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/142",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-student-researcher-intern-seed-model-speech-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Student Researcher Intern, Seed Model - Speech",
+      "category": "research",
+      "apply_url": "https://go.vansh.nyc/141",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -78794,6 +80726,112 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-visual-generation-multimodal-evaluation-machine-learning-eng-2027-116983",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark",
+      "category": "machine-learning",
+      "apply_url": "https://jobs.bytedance.com/en/position/7671105026009925893/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-10",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-visual-generation-multimodal-evaluation-machine-learning-eng-2027-4b4585",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/14m",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -78857,16 +80895,16 @@
         "name": "ByteDance",
         "slug": "bytedance"
       },
-      "role": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark",
+      "role": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US",
       "category": "machine-learning",
-      "apply_url": "https://jobs.bytedance.com/en/position/7671105026009925893/detail",
+      "apply_url": "https://go.vansh.nyc/147",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "San Jose",
-          "state": "CA",
+          "city": "Seattle",
+          "state": "WA",
           "country": "USA"
         }
       ],
@@ -78894,14 +80932,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-10",
+        "posted": "2026-11-01",
         "discovered": "2026-08-10",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -105266,7 +107304,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -131066,7 +133104,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "edison-international-computer-science-intern-2027",
+      "id": "edison-international-computer-science-intern-2027-562fd1",
       "company": {
         "name": "Edison International",
         "slug": "edison-international"
@@ -131080,6 +133118,68 @@
       "locations": [
         {
           "city": "Santa Ana",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "edison-international-computer-science-intern-2027",
+      "company": {
+        "name": "Edison International",
+        "slug": "edison-international"
+      },
+      "role": "Computer Science Intern",
+      "category": "software-engineering",
+      "apply_url": "https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Alhambra",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Pomona",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Rosemead",
           "state": "CA",
           "country": "USA"
         }
@@ -145484,6 +147584,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "farmers-mutual-hail-qa-automation-engineer-intern-2027",
+      "company": {
+        "name": "Farmers Mutual Hail",
+        "slug": "farmers-mutual-hail"
+      },
+      "role": "QA Automation Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/13V",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "West Des Moines",
+          "state": "IA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-15",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "farmers-mutual-hail-software-developer-intern-2027-4f663e",
       "company": {
         "name": "Farmers Mutual Hail",
@@ -145842,6 +147994,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "fedex-data-science-intern-2027",
+      "company": {
+        "name": "FedEx",
+        "slug": "fedex"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://go.vansh.nyc/13Z",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Memphis",
+          "state": "TN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-30",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -163369,58 +165573,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "general-intuition-amp-medal-technical-intern-2027",
-      "company": {
-        "name": "General Intuition &amp; Medal",
-        "slug": "general-intuition-amp-medal"
-      },
-      "role": "Technical Intern",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/12T",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-31",
-        "discovered": "2026-11-01",
-        "last_verified": "2026-11-01"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "general-intuition-amp-medal-technical-intern-and-new-grad-2026",
       "company": {
         "name": "General Intuition &amp; Medal",
@@ -163472,6 +165624,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "general-intuition-medal-technical-intern-2027",
+      "company": {
+        "name": "General Intuition & Medal",
+        "slug": "general-intuition-medal"
+      },
+      "role": "Technical Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/12T",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-31",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -202020,9 +204224,9 @@
       "dates": {
         "posted": "2026-09-03",
         "discovered": "2026-09-07",
-        "last_verified": "2026-10-31"
+        "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -202134,7 +204338,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -228887,7 +231091,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -231316,7 +233520,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -261258,7 +263462,7 @@
         "discovered": "2026-10-15",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -263254,6 +265458,58 @@
         "last_verified": "2026-10-25"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "mitre-ai-solutions-architect-intern-2027",
+      "company": {
+        "name": "MITRE",
+        "slug": "mitre"
+      },
+      "role": "AI Solutions Architect Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/13Y",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-29",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -310128,7 +312384,7 @@
         "discovered": "2026-10-08",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -371594,7 +373850,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -385026,7 +387282,7 @@
         "discovered": "2026-10-05",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -385078,7 +387334,7 @@
         "discovered": "2026-10-05",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -385130,7 +387386,7 @@
         "discovered": "2026-10-05",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -410989,7 +413245,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -411362,7 +413618,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -411370,7 +413626,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "textron-software-engineer-intern-2027-8776d4",
+      "id": "textron-software-engineer-intern-2027",
       "company": {
         "name": "Textron",
         "slug": "textron"
@@ -411411,65 +413667,13 @@
       },
       "dates": {
         "posted": "2026-09-01",
-        "discovered": "2026-10-26",
-        "last_verified": "2026-11-01"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "textron-software-engineer-intern-2027",
-      "company": {
-        "name": "Textron",
-        "slug": "textron"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/Q7",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Augusta",
-          "state": "GA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-02",
         "discovered": "2026-09-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {

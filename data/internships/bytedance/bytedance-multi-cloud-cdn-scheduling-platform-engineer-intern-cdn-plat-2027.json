@@ -5,16 +5,16 @@
     "name": "ByteDance",
     "slug": "bytedance"
   },
-  "role": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform",
+  "role": "Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform",
   "category": "cloud",
-  "apply_url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail",
+  "apply_url": "https://go.vansh.nyc/14q",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
+      "city": "Seattle",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -42,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-14",
+    "posted": "2026-11-01",
     "discovered": "2026-09-03",
     "last_verified": "2026-11-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

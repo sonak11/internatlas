@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-01
 
-## 🆕 New this week (784)
+## 🆕 New this week (828)
 
 - **42dot** — [Foundation Models Intern](https://go.vansh.nyc/WM) · software-engineering · —
 - **ABB** — [AI Robotics Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/AI-Robotics-Intern--Fall-2026_JR00044846) · ai · —
@@ -97,7 +97,49 @@
 - **Braze** — [Software Engineering Intern](https://go.vansh.nyc/12D) · software-engineering · —
 - **Broadridge** — [Technology Intern](https://go.vansh.nyc/Y0) · software-engineering · —
 - **Burns Engineering** — [Software Engineer Intern](https://www.burns-group.com/careers/current-openings/?gh_jid=4467848009) · software-engineering · —
+- **ByteDance** — [Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14f) · machine-learning · —
+- **ByteDance** — [Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US](https://go.vansh.nyc/149) · machine-learning · —
+- **ByteDance** — [AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling](https://go.vansh.nyc/14r) · ai · —
+- **ByteDance** — [AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling](https://go.vansh.nyc/14o) · ai · —
+- **ByteDance** — [ASIC Design Engineer Intern, Video Silicon IP](https://go.vansh.nyc/14u) · hardware · —
+- **ByteDance** — [Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14h) · cloud · —
+- **ByteDance** — [Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14c) · cloud · —
+- **ByteDance** — [Machine Learning Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/144) · machine-learning · —
+- **ByteDance** — [Machine Learning Engineer Project Intern, Security-Data](https://go.vansh.nyc/14A) · machine-learning · —
+- **ByteDance** — [Multi-Cloud CDN Data Platform Engineer Intern, Global Engineering CDN](https://go.vansh.nyc/14b) · cloud · —
+- **ByteDance** — [Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform](https://go.vansh.nyc/14q) · cloud · —
+- **ByteDance** — [Network Security Software Engineer Intern, Security Engineering](https://go.vansh.nyc/14v) · security · —
+- **ByteDance** — [Network Software Development Engineer Intern, Network Observation](https://go.vansh.nyc/14x) · software-engineering · —
+- **ByteDance** — [Network Software Development Engineer Intern, Network Switch](https://go.vansh.nyc/14y) · software-engineering · —
+- **ByteDance** — [Production System Engineer Project Intern, Server DevOps](https://go.vansh.nyc/14j) · cloud · —
+- **ByteDance** — [Production System Engineer Project Intern, Server DevOps](https://go.vansh.nyc/14e) · cloud · —
 - **ByteDance** — [Research Scientist Intern - Video and Edge - Multimedia Lab](https://jobs.bytedance.com/en/position/7702155940239264005/detail) · research · —
+- **ByteDance** — [Security Engineering Project Intern, Watermark](https://joinbytedance.com/search/7625759034518128901) · security · —
+- **ByteDance** — [Security Software Engineer Project Intern, Network Security](https://go.vansh.nyc/14B) · security · —
+- **ByteDance** — [Self-Built Engineer Intern, CDN Platform](https://go.vansh.nyc/14w) · software-engineering · —
+- **ByteDance** — [Site Reliability Engineer Intern, Data Infra](https://go.vansh.nyc/14p) · software-engineering · —
+- **ByteDance** — [Site Reliability Engineer Intern, Data Infra](https://go.vansh.nyc/14D) · software-engineering · —
+- **ByteDance** — [Site Reliability Engineer Intern, Data Infra](https://go.vansh.nyc/14t) · software-engineering · —
+- **ByteDance** — [Site Reliability Engineer Intern, Data Infra](https://go.vansh.nyc/145) · software-engineering · —
+- **ByteDance** — [Software Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/14i) · software-engineering · —
+- **ByteDance** — [Software Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/14g) · software-engineering · —
+- **ByteDance** — [Software Engineer Intern, CIS Knowledge Bank](https://go.vansh.nyc/14l) · software-engineering · —
+- **ByteDance** — [Software Engineer Intern, Global Payment](https://go.vansh.nyc/14n) · software-engineering · —
+- **ByteDance** — [Software Engineer Intern, Global Payment Infra and SRE](https://go.vansh.nyc/14z) · cloud · —
+- **ByteDance** — [Software Engineer Intern, Global Payment - Risk & Compliance](https://go.vansh.nyc/14k) · software-engineering · —
+- **ByteDance** — [Software Engineer Intern, Global Traffic Architecture](https://go.vansh.nyc/143) · software-engineering · —
+- **ByteDance** — [Software Engineer Intern, Relational Database](https://go.vansh.nyc/14d) · software-engineering · —
+- **ByteDance** — [Software Engineer Intern, Traffic Infrastructure](https://go.vansh.nyc/146) · cloud · —
+- **ByteDance** — [Software Engineer Project Intern, Developer Infrastructure](https://go.vansh.nyc/14a) · cloud · —
+- **ByteDance** — [Software Engineer Project Intern, Security-Data](https://go.vansh.nyc/14C) · security · —
+- **ByteDance** — [Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14s) · ai · —
+- **ByteDance** — [Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/140) · ai · —
+- **ByteDance** — [Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure](https://joinbytedance.com/search/7670330161462364421) · ai · —
+- **ByteDance** — [Student Researcher Intern, Seed Model - Infra - Compiler](https://go.vansh.nyc/148) · research · —
+- **ByteDance** — [Student Researcher Intern, Seed Model - LLM](https://go.vansh.nyc/142) · ai · —
+- **ByteDance** — [Student Researcher Intern, Seed Model - Speech](https://go.vansh.nyc/141) · research · —
+- **ByteDance** — [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14m) · machine-learning · —
+- **ByteDance** — [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US](https://go.vansh.nyc/147) · machine-learning · —
 - **C&S Wholesale Grocers** — [IS Intern, Data Analytics & Data Science](https://go.vansh.nyc/12E) · data-science · —
 - **CACI** — [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618) · software-engineering · —
 - **CACI** — [Software Engineering Co-op Intern](https://caci.wd1.myworkdayjobs.com/external/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160) · software-engineering · —
@@ -190,6 +232,7 @@
 - **FUTO** — [Software Engineer Intern](https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70/apply) · software-engineering · —
 - **FUTO** — [Software Engineer Intern](https://go.vansh.nyc/WW) · software-engineering · —
 - **Farmers Mutual Hail** — [Software Developer Intern](https://go.vansh.nyc/12R) · software-engineering · —
+- **FedEx** — [Data Science Intern](https://go.vansh.nyc/13Z) · data-science · —
 - **Federal Home Loan Bank of Indianapolis** — [Business Intelligence Intern](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Business-Intelligence-Intern_R637) · software-engineering · —
 - **Federal Home Loan Bank of Indianapolis** — [Model Risk Intern](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Model-Risk-Intern_R636) · software-engineering · —
 - **Federal Home Loan Bank of Indianapolis** — [MPP Data Analytics Intern](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/MPP-Data-Analytics-Intern_R641) · software-engineering · —
@@ -220,7 +263,7 @@
 - **General Dynamics Mission Systems** — [DevOps Engineer Intern](https://go.vansh.nyc/12S) · cloud · —
 - **General Dynamics Mission Systems** — [Software Test Engineer Intern](https://go.vansh.nyc/T5) · software-engineering · —
 - **General Dynamics Mission Systems, Inc.** — [Software Test Engineering Intern, Space and Embedded Crypto](https://go.vansh.nyc/W0) · embedded · —
-- **General Intuition &amp; Medal** — [Technical Intern](https://go.vansh.nyc/12T) · software-engineering · —
+- **General Intuition & Medal** — [Technical Intern](https://go.vansh.nyc/12T) · software-engineering · —
 - **General Motors** — [AI/ML Engineer Intern, Autonomous Vehicles](https://go.vansh.nyc/ZG) · machine-learning · —
 - **General Motors** — [AI/ML Engineer Intern - Autonomous Vehicles](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439) · machine-learning · —
 - **General Motors** — [Research and Development Intern - Vehicle Health Management](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Health-Management_JR-202622258) · research · —
@@ -372,6 +415,7 @@
 - **MANN+HUMMEL** — [Product Management & Market Intelligence Intern](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) · product · —
 - **MDA** — [FPGA Designer Intern](https://go.vansh.nyc/126) · hardware · —
 - **MDA** — [FPGA Verification Intern](https://go.vansh.nyc/127) · hardware · —
+- **MITRE** — [AI Solutions Architect Intern](https://go.vansh.nyc/13Y) · ai · —
 - **MITRE** — [Critical Infrastructure Protection Intern](https://go.vansh.nyc/10s) · cloud · —
 - **MITRE** — [Data Science and Engineering Intern](https://go.vansh.nyc/10t) · data-science · —
 - **MITRE** — [Trustworthy AI Intern](https://go.vansh.nyc/10r) · ai · —

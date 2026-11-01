@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "textron-software-engineer-intern-2027-8776d4",
+  "id": "bytedance-software-engineer-intern-cis-knowledge-bank-2026",
   "company": {
-    "name": "Textron",
-    "slug": "textron"
+    "name": "ByteDance",
+    "slug": "bytedance"
   },
-  "role": "Software Engineer Intern",
+  "role": "Software Engineer Intern, CIS Knowledge Bank",
   "category": "software-engineering",
-  "apply_url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://go.vansh.nyc/14l",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Waterboro",
-      "state": "ME",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-10-26",
+    "posted": "2026-11-01",
+    "discovered": "2026-11-01",
     "last_verified": "2026-11-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
