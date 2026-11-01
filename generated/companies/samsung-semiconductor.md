@@ -7,7 +7,8 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Samsung Semiconductor | [SRAM Design Engineer Intern](https://go.vansh.nyc/10P) | San Jose, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
+| Samsung Semiconductor | [Systems Software Engineering Intern](https://go.vansh.nyc/17G) | San Jose, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
-Browse more roles in: [🎨 Design](../categories/design.md)
+Browse more roles in: [🎨 Design](../categories/design.md), [💻 Software Engineering](../categories/software-engineering.md)

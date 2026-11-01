@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Apple | [Applied Data Solutions Program Intern](https://jobs.apple.com/en-us/details/200673612) | Austin, TX | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❔ |
+| Apple | [Applied Data Solutions Program Intern](https://go.vansh.nyc/17v) | Austin, TX +1 | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | Apple | [Design Verification Engineer Intern](https://go.vansh.nyc/Yx) | Beaverton, OR | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | Apple | [GPU Intern](https://jobs.apple.com/en-us/details/200679652) | London +2 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | Apple | [GPU Intern](https://jobs.apple.com/en-us/details/200679650) | London +2 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |

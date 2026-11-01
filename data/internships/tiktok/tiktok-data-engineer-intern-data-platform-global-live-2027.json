@@ -5,9 +5,9 @@
     "name": "TikTok",
     "slug": "tiktok"
   },
-  "role": "Data Engineer Intern - Data Platform Global Live",
+  "role": "Data Engineer Intern, Data Platform Global Live",
   "category": "data-engineering",
-  "apply_url": "https://lifeattiktok.com/search/7674032146438162693",
+  "apply_url": "https://go.vansh.nyc/18d",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -42,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
+    "posted": "2026-11-01",
     "discovered": "2026-08-17",
     "last_verified": "2026-11-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

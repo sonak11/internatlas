@@ -7,6 +7,8 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Insomniac Games | [Engine and Tools Programming Intern](https://go.vansh.nyc/d8) | Burbank, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| Insomniac Games | [Undergraduate Gameplay Programming Intern](https://go.vansh.nyc/18P) | Burbank, CA +1 | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| Insomniac Games | [Undergraduate Tech Art Intern](https://go.vansh.nyc/18Q) | Burbank, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

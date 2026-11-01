@@ -5,9 +5,9 @@
     "name": "TikTok",
     "slug": "tiktok"
   },
-  "role": "Data Scientist Intern - VOD Data",
+  "role": "Data Scientist Intern, VOD Data",
   "category": "data-science",
-  "apply_url": "https://lifeattiktok.com/search/7670287013157095733",
+  "apply_url": "https://go.vansh.nyc/18w",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -42,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-05",
+    "posted": "2026-11-01",
     "discovered": "2026-08-05",
     "last_verified": "2026-11-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

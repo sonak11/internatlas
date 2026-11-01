@@ -5,9 +5,9 @@
     "name": "TikTok",
     "slug": "tiktok"
   },
-  "role": "Machine Learning Engineer Intern - Recommendation",
+  "role": "Machine Learning Engineer Intern, Recommendation",
   "category": "machine-learning",
-  "apply_url": "https://lifeattiktok.com/search/7662653087863081221",
+  "apply_url": "https://go.vansh.nyc/18B",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -42,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
+    "posted": "2026-11-01",
     "discovered": "2026-08-03",
     "last_verified": "2026-11-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

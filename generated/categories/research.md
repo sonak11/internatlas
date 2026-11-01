@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**276** tracked · **160** open now
+**280** tracked · **164** open now
 
 ## Current openings
 
@@ -41,6 +41,7 @@
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern - Video and Edge - Multimedia Lab](https://jobs.bytedance.com/en/position/7702155940239264005/detail) | San Jose, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Student Researcher Intern, Seed Model - Infra - Compiler](https://go.vansh.nyc/148) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Student Researcher Intern, Seed Model - Speech](https://go.vansh.nyc/141) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
+| [ByteDance](generated/companies/bytedance.md) | [Student Researcher Intern, Seed Model: Multimodal Interaction & World Model](https://go.vansh.nyc/17J) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
 | [Capital One](generated/companies/capital-one.md) | [Applied Research Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2027_R244323-1) | San Jose, CA +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Cartesian Systems](generated/companies/cartesian-systems.md) | [Research Assistant Micro-Intern - IAP - Alumni Host](https://job-boards.greenhouse.io/cartesiansystems/jobs/4408725009) | Cambridge, MA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Center for Strategic and International Studies](generated/companies/center-for-strategic-and-international-studies.md) | [Research Intern - Economics Program](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4314577009) | Washington, DC | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
@@ -65,6 +66,7 @@
 | [General Motors](generated/companies/general-motors.md) | [Research and Development Intern, System Safety](https://go.vansh.nyc/af) | Warren, MI | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❌ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Research Account Management & Field Application Engineering Support Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/GF-Labs-Research-AM-and-FAE-support-Intern--Summer-2027--_JR-2604431) | Essex Junction, VT | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/86701057991680710) | Palo Alto, CA +27 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
+| [Google](generated/companies/google.md) | [Student Researcher Intern](https://go.vansh.nyc/15I) | Waterloo +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Huck Adventures](generated/companies/huck-adventures.md) | [Research Analyst Intern](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535) | Boulder, CO | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Immuta](generated/companies/immuta.md) | [Product Research Intern](https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply) | College Park, MD | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Intel](generated/companies/intel.md) | [Software Research Intern - PhD](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) | Hillsboro, OR | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
@@ -125,6 +127,7 @@
 | [The Walt Disney Company](generated/companies/the-walt-disney-company.md) | [Content Research Insights & Analytics Intern](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-1) | Burbank, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Engineer Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668204394458466565) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Engineer Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668202602270951733) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Research Engineer Intern, Monetization Technology - Business Integrity](https://go.vansh.nyc/187) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Content Intelligence](https://lifeattiktok.com/search/7662662842545539381) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Foundations & Intelligence Service](https://lifeattiktok.com/search/7662677746436524293) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668204438271969589) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -133,6 +136,7 @@
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Recommendation](https://lifeattiktok.com/search/7662661203281447221) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Trust and Safety](https://lifeattiktok.com/search/7662674242861074741) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Trust and Safety](https://lifeattiktok.com/search/7662672903447988485) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern, Monetization Technology - Business Integrity](https://go.vansh.nyc/185) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Research Intern](https://job-boards.greenhouse.io/togetherai/jobs/5267198007) | SF | Onsite | 2026-10-17 | Rolling | 🟢 Open | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Research Intern - Frontier Agents](https://job-boards.greenhouse.io/togetherai/jobs/5238468007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Research Intern - Frontier Agents](https://job-boards.greenhouse.io/togetherai/jobs/5238467007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
@@ -289,10 +293,10 @@
 
 - NVIDIA (21)
 - Together AI (16)
-- ByteDance (12)
+- ByteDance (13)
+- TikTok (12)
 - Waymo (12)
 - Meta (11)
-- TikTok (10)
 - Pennsylvania State University (8)
 - General Motors (7)
 - Dow Jones (5)
@@ -303,6 +307,7 @@
 - Abundant (3)
 - Eaton (3)
 - Field AI (3)
+- Google (3)
 - Procter & Gamble (3)
 - Snap (3)
 - The Walt Disney Company (3)
@@ -312,7 +317,6 @@
 - Aramco Americas (2)
 - Architect Labs (2)
 - Block (2)
-- Google (2)
 - Intel (2)
 - Jane Street (2)
 - KLA (2)

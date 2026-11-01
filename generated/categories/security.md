@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**157** tracked · **122** open now
+**158** tracked · **124** open now
 
 ## Current openings
 
@@ -28,7 +28,7 @@
 | [Bosch](generated/companies/bosch.md) | [Information Security and Privacy Intern](https://go.vansh.nyc/8w) | Farmington Hills, MI | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Bracco](generated/companies/bracco.md) | [Product Security Engineering Intern](https://go.vansh.nyc/VO) | Eden Prairie, MN | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Network Security Software Engineer Intern, Security Engineering](https://go.vansh.nyc/14v) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
-| [ByteDance](generated/companies/bytedance.md) | [Security Engineering Project Intern, Watermark](https://joinbytedance.com/search/7625759034518128901) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [ByteDance](generated/companies/bytedance.md) | [Security Engineering Project Intern, Watermark](https://go.vansh.nyc/15F) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Security Software Engineer Project Intern, Network Security](https://go.vansh.nyc/14B) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Software Engineer Project Intern, Security-Data](https://go.vansh.nyc/14C) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [C.H. Robinson](generated/companies/c-h-robinson.md) | [Cyber Security Intern](https://go.vansh.nyc/gV) | Eden Prairie, MN | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
@@ -75,10 +75,12 @@
 | [LPL Financial Holdings](generated/companies/lpl-financial-holdings.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/QQ) | Fort Mill, SC +2 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Manitowoc](generated/companies/manitowoc.md) | [Cybersecurity Intern](https://go.vansh.nyc/Vt) | Shady Grove, PA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Mativ](generated/companies/mativ.md) | [Cybersecurity Intern](https://go.vansh.nyc/11W) | Alpharetta, GA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| [Microsoft](generated/companies/microsoft.md) | [Security Assurance Intern](https://go.vansh.nyc/15H) | Redmond, WA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Security Research Intern](https://go.vansh.nyc/eB) | Redmond, WA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/e6) | Cambridge, MA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/hN) | USA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/5J) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
+| [Microsoft](generated/companies/microsoft.md) | [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [Midland States Bank](generated/companies/midland-states-bank.md) | [Security Analyst Intern](https://go.vansh.nyc/13d) | St. Louis, MO | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Molina Healthcare](generated/companies/molina-healthcare.md) | [Cybersecurity Internship (Remote) –(Undergraduate)](https://go.vansh.nyc/11K) | USA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [National Information Solutions Cooperative](generated/companies/national-information-solutions-cooperative.md) | [Information Security (Cybersecurity) Intern](https://go.vansh.nyc/Nb) | Mandan, ND | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
@@ -154,7 +156,6 @@
 | [MEMX](generated/companies/memx.md) | [Information Security Intern](https://go.vansh.nyc/Hc) | New York, NY | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://apply.careers.microsoft.com/careers/job/1970393557044771) | USA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
-| [Microsoft](generated/companies/microsoft.md) | [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - Security and Privacy](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | Santa Clara, CA | Onsite | 2026-05-14 | Rolling | 🔴 Closed | ❔ |
 | [OpenSesame](generated/companies/opensesame.md) | [Security Analyst Intern](https://go.vansh.nyc/CY) | USA | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
 | [QTS](generated/companies/qts.md) | [Information Security Operations Analyst Intern](https://go.vansh.nyc/9n) | US GA Atlanta Suwanee 1 DC1 | Onsite | 2026-10-14 | Rolling | 🔴 Closed | ❌ |
@@ -169,7 +170,7 @@
 ## Hiring companies
 
 - Tevora (13)
-- Microsoft (7)
+- Microsoft (8)
 - Johns Hopkins Applied Physics Laboratory (5)
 - ByteDance (4)
 - Adobe (3)

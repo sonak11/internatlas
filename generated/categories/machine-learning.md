@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**406** tracked · **286** open now
+**424** tracked · **304** open now
 
 ## Current openings
 
@@ -49,6 +49,7 @@
 | [ByteDance](generated/companies/bytedance.md) | [Data Lake Infrastructure and Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7671109787509213445/detail) | San Jose, CA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675478684795881781/detail) | San Jose, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675477254269765941/detail) | Seattle, WA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
+| [ByteDance](generated/companies/bytedance.md) | [Machine Learning Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/17K) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Machine Learning Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/144) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Machine Learning Engineer Project Intern, Security-Data](https://go.vansh.nyc/14A) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI](https://jobs.bytedance.com/en/position/7670855041951795509/detail) | Seattle, WA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
@@ -238,14 +239,18 @@
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern - E-Commerce User Growth](https://lifeattiktok.com/search/7694357619162532149) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern - Lead Ads](https://lifeattiktok.com/search/7669707492914727221) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern - Monetization Technology - Ads Core Global](https://lifeattiktok.com/search/7687630614472149301) | San Jose, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
-| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern - Performance Monetization](https://lifeattiktok.com/search/7669693205558561077) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern - Performance Monetization](https://lifeattiktok.com/search/7669693163422845237) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern - Performance Monetization](https://lifeattiktok.com/search/7669693205558561077) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern - Recommendation](https://lifeattiktok.com/search/7662653087863081221) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern - Search](https://lifeattiktok.com/search/7668396597746862341) | Seattle, WA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern - Search Ads](https://lifeattiktok.com/search/7669698648817305909) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern - Search Quality](https://lifeattiktok.com/search/7665475460339665157) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality](https://lifeattiktok.com/search/7667690418804902149) | San Jose, CA | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern - Trust and Safety](https://lifeattiktok.com/search/7662672554084059445) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Ads Signal & Measurement](https://go.vansh.nyc/17Q) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, App Ads and Gaming](https://go.vansh.nyc/17X) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Brand Ads](https://go.vansh.nyc/17N) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Commerce Ads](https://go.vansh.nyc/17Z) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, E-Commerce Governance](https://go.vansh.nyc/Cx) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, E-Commerce Knowledge Graph](https://go.vansh.nyc/Cv) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, E-Commerce Recommendation Live](https://go.vansh.nyc/Cy) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
@@ -254,12 +259,25 @@
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, E-Commerce Recommendation/Search Alliance](https://go.vansh.nyc/CA) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, E-Commerce Supply Chain & Logistics LLM/Agent](https://go.vansh.nyc/Cu) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, E-Commerce User Growth](https://go.vansh.nyc/Cn) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Global E-Commerce Search](https://go.vansh.nyc/18r) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Lead Ads](https://go.vansh.nyc/182) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Monetization Technology, Ads Core Global](https://go.vansh.nyc/G8) | San Jose, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Performance Monetization](https://go.vansh.nyc/181) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Recommendation](https://go.vansh.nyc/18B) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Recommendation Global E-Commerce](https://go.vansh.nyc/18l) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Search Ads](https://go.vansh.nyc/180) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Search Quality](https://go.vansh.nyc/18p) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking](https://go.vansh.nyc/18c) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, TikTok-Data-Search-Local Service](https://go.vansh.nyc/189) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Visual Search](https://go.vansh.nyc/18j) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Infrastructure Engineer Intern - Ads Infrastructure](https://lifeattiktok.com/search/7668881813744191749) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning MLOps Intern - Global Site Reliability Engineering](https://lifeattiktok.com/search/7670875283026053381) | San Jose, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning MLOps Intern, Global SRE](https://go.vansh.nyc/17S) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Scientist Intern](https://lifeattiktok.com/search/7667934169444485429) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Scientist Intern - Content Ecology - LLM Application](https://lifeattiktok.com/search/7667933770625599749) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Scientist Intern - Recommendation](https://lifeattiktok.com/search/7662657855099357493) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [ML Infra Engineer Intern, Ads Infra](https://go.vansh.nyc/17V) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live](https://go.vansh.nyc/18h) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern - ML Infra](https://lifeattiktok.com/search/7668696895234197813) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TMEIC](generated/companies/tmeic.md) | [Intern - Applications, AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) | Roanoke, VA | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❌ |
 | [Tower Research Capital](generated/companies/tower-research-capital.md) | [Machine Learning Intern](https://go.vansh.nyc/9U) | Montreal | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
@@ -417,9 +435,9 @@
 
 ## Hiring companies
 
-- TikTok (63)
+- TikTok (80)
 - Waymo (22)
-- ByteDance (19)
+- ByteDance (20)
 - General Motors (15)
 - Qualcomm (10)
 - Tesla (10)

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**338** tracked · **194** open now
+**344** tracked · **200** open now
 
 ## Current openings
 
@@ -179,7 +179,13 @@
 | [TikTok](generated/companies/tiktok.md) | [Data Science Intern - Integrity and Safety](https://lifeattiktok.com/search/7669682935444900149) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Data Science Intern - TikTok Live](https://lifeattiktok.com/search/7669700822370945333) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Data Science Intern - TikTok Product](https://lifeattiktok.com/search/7669683639101884725) | San Jose, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Data Science Intern, TikTok Integrity and Safety](https://go.vansh.nyc/17R) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Data Science Intern, TikTok LIVE](https://go.vansh.nyc/17O) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Data Science Intern, TikTok Product](https://go.vansh.nyc/17Y) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Data Science Project Intern, Advertisement](https://go.vansh.nyc/18k) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Data Scientist Intern - VOD Data](https://lifeattiktok.com/search/7670287013157095733) | San Jose, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Data Scientist Intern, VOD Data](https://go.vansh.nyc/18w) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Data Scientist Project Intern, TikTok Integrity and Safety](https://go.vansh.nyc/18b) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [TobogganLabs](generated/companies/tobogganlabs.md) | [Data Science Intern](https://go.vansh.nyc/13r) | Montreal | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Toyota](generated/companies/toyota.md) | [Data Science Intern](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1) | Plano, TX | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Toyota](generated/companies/toyota.md) | [Data Science Intern, TFS](https://go.vansh.nyc/dm) | Plano, TX | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
@@ -350,11 +356,11 @@
 ## Hiring companies
 
 - Booz Allen (15)
+- TikTok (11)
 - Navy Federal (7)
 - Applied Materials (5)
 - BNY (5)
 - Duolingo (5)
-- TikTok (5)
 - Verizon Communications (5)
 - Google (4)
 - Bank of Montreal (4)

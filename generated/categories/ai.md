@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**770** tracked · **398** open now
+**776** tracked · **404** open now
 
 ## Current openings
 
@@ -96,7 +96,7 @@
 | [ByteDance](generated/companies/bytedance.md) | [Software Engineer Intern, AI Platform](https://go.vansh.nyc/5Q) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14s) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/140) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
-| [ByteDance](generated/companies/bytedance.md) | [Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure](https://joinbytedance.com/search/7670330161462364421) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [ByteDance](generated/companies/bytedance.md) | [Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure](https://go.vansh.nyc/15E) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Student Researcher Intern, Seed Model - LLM](https://go.vansh.nyc/142) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
 | [C3.ai](generated/companies/c3-ai.md) | [AI Product Manager Intern](https://job-boards.greenhouse.io/c3ascend/jobs/8860562002) | Redwood City, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [C3.ai](generated/companies/c3-ai.md) | [AI Product Manager Intern - Summer 2027](https://c3.ai/job-description/8860563002?gh_jid=8860563002) | Redwood City, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
@@ -119,6 +119,7 @@
 | [Datacor](generated/companies/datacor.md) | [AI Engineer Intern](https://go.vansh.nyc/12N) | USA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Dell Technologies](generated/companies/dell-technologies.md) | [AI Solutions Intern, Product & Content Management](https://go.vansh.nyc/Io) | Round Rock, TX | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Delta Air Lines](generated/companies/delta-air-lines.md) | [Intern, Innovation - AI Engineering](https://delta.avature.net/en_US/careers/JobDetail?jobId=32774) | Atlanta, GA | Onsite | 2026-06-24 | Rolling | 🟢 Open | ❌ |
+| [DivcoWest](generated/companies/divcowest.md) | [AI Intern](https://go.vansh.nyc/18L) | San Francisco, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [DocuSign](generated/companies/docusign.md) | [Agentic AI Engineer Intern](https://go.vansh.nyc/BS) | San Francisco, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❌ |
 | [DocuSign](generated/companies/docusign.md) | [AI Platform Engineer Intern](https://go.vansh.nyc/BR) | San Francisco, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❌ |
 | [DriveWealth](generated/companies/drivewealth.md) | [AI Consulting Associate Program Product Owner Intern](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true) | Chicago, IL | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
@@ -362,6 +363,7 @@
 | [The Nuclear Company](generated/companies/the-nuclear-company.md) | [AI Applied Research Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391888008) | Washington, DC | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [The Nuclear Company](generated/companies/the-nuclear-company.md) | [AI Applied Research Intern](https://go.vansh.nyc/6N) | Washington, DC | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform](https://lifeattiktok.com/search/7670010726514493749) | San Jose, CA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [AI Engineer Intern, TikTok-Client Arch](https://go.vansh.nyc/17P) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
 | [TikTok](generated/companies/tiktok.md) | [AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem](https://lifeattiktok.com/search/7677493272788683013) | San Jose, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [AI Infrastructure Engineer Intern - Algorithm Infrastructure](https://lifeattiktok.com/search/7670120579999385861) | San Jose, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [AI Infrastructure Engineer Intern - Recommendation & LLM](https://lifeattiktok.com/search/7672671220798818613) | San Jose, CA | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
@@ -370,17 +372,21 @@
 | [TikTok](generated/companies/tiktok.md) | [AI Product Manager Intern, Product Social](https://go.vansh.nyc/Om) | San Jose, CA | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [AI Product Operations Intern](https://lifeattiktok.com/search/7611950589973186821) | San Jose, CA | Onsite | 2026-03-02 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams](https://lifeattiktok.com/search/7670529537944766773) | San Jose, CA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [AI Software Engineer Project Intern, Transaction Platform](https://go.vansh.nyc/18t) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Applied Scientist Intern - Recommendation AI Lab](https://lifeattiktok.com/search/7659527183984019765) | San Jose, CA | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Artificial Intelligence Engineer Intern - Client Architecture](https://lifeattiktok.com/search/7667935738190465285) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics](https://lifeattiktok.com/search/7668183035989281029) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [LLM Post-training Engineer Intern - Research & Product](https://lifeattiktok.com/search/7670285031018432773) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture](https://lifeattiktok.com/search/7667934792727906565) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Engineer Intern - Agentic Systems & AI Infrastructure - Tiktok-Generalized Arch](https://lifeattiktok.com/search/7667935568626043141) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generalized Arch](https://go.vansh.nyc/17U) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Nextgen LLM](https://lifeattiktok.com/search/7633668061979543813) | San Jose, CA | Onsite | 2026-04-29 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - TikTok Search / Generative AI - LLM](https://lifeattiktok.com/search/7629250876813642037) | San Jose, CA | Onsite | 2026-04-17 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation](https://go.vansh.nyc/RQ) | Seattle, WA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Software Development Engineer Intern, Global E-Commerce Quality Platform & AI Test Automation](https://go.vansh.nyc/RP) | San Jose, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern, AI Agent & Global Revenue Platform](https://go.vansh.nyc/61) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern, TikTok AI Search & Visual Search Infra Team](https://go.vansh.nyc/183) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Software Engineer Project Intern, Content AI Infrastructure](https://go.vansh.nyc/18G) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [Toyota Research Institute](generated/companies/toyota-research-institute.md) | [Human-Centered AI Research Intern - Causal Reasoning Models](https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f/apply) | Los Altos, CA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Trane Technologies](generated/companies/trane-technologies.md) | [AI & Analytics Intern](https://careers.tranetechnologies.com/global/en/job/JR-7591) | Minneapolis, MN +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Transcard Payments](generated/companies/transcard-payments.md) | [Artificial Intelligence Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476416) | Chattanooga, TN | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
@@ -782,8 +788,8 @@
 ## Hiring companies
 
 - ByteDance (31)
+- TikTok (27)
 - Tesla (25)
-- TikTok (22)
 - American Express (17)
 - Qualcomm (14)
 - Royal Bank of Canada (14)
@@ -943,6 +949,7 @@
 - Datacor (1)
 - Dell Technologies (1)
 - Delta Air Lines (1)
+- DivcoWest (1)
 - DV Trading (1)
 - Ecolab (1)
 - Economy Polymers & Chemicals (1)

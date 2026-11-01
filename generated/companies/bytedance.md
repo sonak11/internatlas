@@ -20,6 +20,7 @@
 | ByteDance | [ASIC Design Engineer Intern - Video Silicon IP](https://jobs.bytedance.com/en/position/7673638856678279429/detail) | San Jose, CA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [ASIC Design Engineer Intern, Video Silicon IP](https://go.vansh.nyc/14u) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Backend Developer Intern - Infrastructure Platform Delivery](https://jobs.bytedance.com/en/position/7668489218234157365/detail) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
+| ByteDance | [Backend Development Engineer Intern, Infrastructure Platform Delivery](https://go.vansh.nyc/17L) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Cloud Acceleration Research Intern - DPU & AI Infra](https://jobs.bytedance.com/en/position/7679562740656933125/detail) | Seattle, WA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Cloud Acceleration Research Intern - DPU & AI Infra](https://jobs.bytedance.com/en/position/7679552807864879365/detail) | San Jose, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Data Lake Infrastructure & Data Analytics Research Engineer Intern - Applied Machine Learning Ark](https://jobs.bytedance.com/en/position/7672394389001816325/detail) | Seattle, WA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
@@ -33,11 +34,13 @@
 | ByteDance | [Intelligent Sensing Intern - Global Frontier Tech Recruitment Program](https://jobs.bytedance.com/en/position/7629210458173556997/detail) | San Jose, CA | Onsite | 2026-06-04 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675478684795881781/detail) | San Jose, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Machine Learning Engineer Intern - E-Commerce Risk Control - PhD](https://jobs.bytedance.com/en/position/7675477254269765941/detail) | Seattle, WA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
+| ByteDance | [Machine Learning Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/17K) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Machine Learning Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/144) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Machine Learning Engineer Project Intern, Security-Data](https://go.vansh.nyc/14A) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI](https://jobs.bytedance.com/en/position/7670855041951795509/detail) | Seattle, WA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Multi-Cloud CDN Data Platform Engineer Intern, Global Engineering CDN](https://go.vansh.nyc/14b) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673636205233490181/detail) | San Jose, CA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
+| ByteDance | [Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform](https://go.vansh.nyc/15G) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform](https://go.vansh.nyc/14q) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Network Security Software Engineer Intern, Security Engineering](https://go.vansh.nyc/14v) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Network Software Development Engineer Intern, Network Observation](https://go.vansh.nyc/14x) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
@@ -61,7 +64,7 @@
 | ByteDance | [Research Scientist Intern - Multi-modal Agentic Databases](https://jobs.bytedance.com/en/position/7667380184615127301/detail) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Research Scientist Intern - Multimedia Streaming](https://jobs.bytedance.com/en/position/7670354800621603125/detail) | San Diego, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Research Scientist Intern - Video and Edge - Multimedia Lab](https://jobs.bytedance.com/en/position/7702155940239264005/detail) | San Jose, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
-| ByteDance | [Security Engineering Project Intern, Watermark](https://joinbytedance.com/search/7625759034518128901) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| ByteDance | [Security Engineering Project Intern, Watermark](https://go.vansh.nyc/15F) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Security Software Engineer Project Intern, Network Security](https://go.vansh.nyc/14B) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7670364362450733317/detail) | San Jose, CA | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Self-Built Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673617571165620533/detail) | San Jose, CA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
@@ -72,6 +75,7 @@
 | ByteDance | [Site Reliability Engineer Intern, Data Infra](https://go.vansh.nyc/14t) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Site Reliability Engineer Intern, Data Infra](https://go.vansh.nyc/145) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Software Development Engineer Intern - Network Automation - 2027 Summer](https://jobs.bytedance.com/en/position/7671147251943213317/detail) | San Jose, CA | Onsite | 2026-08-08 | Rolling | 🟢 Open | ❔ |
+| ByteDance | [Software Development Engineer Intern, Network Automation](https://go.vansh.nyc/17M) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Software Engineer Intern](https://jobs.bytedance.com/en/position/7668373268886161669/detail) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Software Engineer Intern - AI Infra Compute](https://jobs.bytedance.com/en/position/7667378931599214853/detail) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Software Engineer Intern - AI Infrastructure Compute](https://jobs.bytedance.com/en/position/7667377525182662965/detail) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -100,10 +104,11 @@
 | ByteDance | [Software Engineer Project Intern, Security-Data](https://go.vansh.nyc/14C) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14s) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/140) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
-| ByteDance | [Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure](https://joinbytedance.com/search/7670330161462364421) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| ByteDance | [Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure](https://go.vansh.nyc/15E) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Student Researcher Intern, Seed Model - Infra - Compiler](https://go.vansh.nyc/148) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Student Researcher Intern, Seed Model - LLM](https://go.vansh.nyc/142) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
 | ByteDance | [Student Researcher Intern, Seed Model - Speech](https://go.vansh.nyc/141) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
+| ByteDance | [Student Researcher Intern, Seed Model: Multimodal Interaction & World Model](https://go.vansh.nyc/17J) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
 | ByteDance | [Video/Image AI/ML Software Engineer Intern - Multimedia](https://jobs.bytedance.com/en/position/7670354329765464373/detail) | San Diego, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - Aml-Ark](https://jobs.bytedance.com/en/position/7671105026009925893/detail) | San Jose, CA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern - AML-ARK](https://jobs.bytedance.com/en/position/7672392998231050549/detail) | Seattle, WA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |

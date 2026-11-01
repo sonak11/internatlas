@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-01",
-  "count": 8856,
+  "count": 8949,
   "internships": [
     {
       "schema_version": "1.0",
@@ -6587,6 +6587,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aerovect-autonomy-intern-2027",
+      "company": {
+        "name": "AeroVect",
+        "slug": "aerovect"
+      },
+      "role": "Autonomy Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18I",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -16238,6 +16290,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "amazon-software-development-engineer-intern-annapurna-labs-2027",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Software Development Engineer Intern, Annapurna Labs",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17u",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cupertino",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-27",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "amazon-software-development-engineer-intern-aws-data-services-2026",
       "company": {
         "name": "Amazon",
@@ -16384,6 +16488,57 @@
       "dates": {
         "posted": "2026-10-30",
         "discovered": "2026-10-30",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "amazon-software-development-engineer-intern-robotics-2027-304deb",
+      "company": {
+        "name": "Amazon",
+        "slug": "amazon"
+      },
+      "role": "Software Development Engineer Intern, Robotics",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17r",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2025-12-03",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
@@ -34904,6 +35059,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "antares-multiphysics-software-intern-2027",
+      "company": {
+        "name": "Antares",
+        "slug": "antares"
+      },
+      "role": "Multiphysics Software Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17A",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-16",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "antares-reactor-software-engineering-intern-2027",
+      "company": {
+        "name": "Antares",
+        "slug": "antares"
+      },
+      "role": "Reactor Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17z",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Los Angeles",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-16",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "antares-nuclear-electrical-engineer-intern-2027",
       "company": {
         "name": "Antares Nuclear",
@@ -35651,7 +35910,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -36235,6 +36494,63 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "apple-applied-data-solutions-program-intern-2027",
+      "company": {
+        "name": "Apple",
+        "slug": "apple"
+      },
+      "role": "Applied Data Solutions Program Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17v",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        },
+        {
+          "city": "Cupertino",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-27",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -75846,6 +76162,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-backend-development-engineer-intern-infrastructure-platform-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Backend Development Engineer Intern, Infrastructure Platform Delivery",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/17L",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-cloud-acceleration-research-intern-dpu-ai-infra-2027-2276cb",
       "company": {
         "name": "ByteDance",
@@ -76490,6 +76858,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-machine-learning-engineer-intern-aml-engine-orchestration-2027-943887",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Machine Learning Engineer Intern, AML-Engine-Orchestration",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/17K",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-machine-learning-engineer-intern-aml-engine-orchestration-2027",
       "company": {
         "name": "ByteDance",
@@ -76860,6 +77280,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-multi-cloud-cdn-scheduling-platform-engineer-intern-cdn-plat-2027-f8e8ea",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/15G",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -78371,7 +78843,7 @@
       },
       "role": "Security Engineering Project Intern, Watermark",
       "category": "security",
-      "apply_url": "https://joinbytedance.com/search/7625759034518128901",
+      "apply_url": "https://go.vansh.nyc/15F",
       "season": "winter",
       "year": 2027,
       "work_mode": "onsite",
@@ -78938,6 +79410,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-software-development-engineer-intern-network-automation-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Software Development Engineer Intern, Network Automation",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17M",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -80475,7 +80999,7 @@
       },
       "role": "Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure",
       "category": "ai",
-      "apply_url": "https://joinbytedance.com/search/7670330161462364421",
+      "apply_url": "https://go.vansh.nyc/15E",
       "season": "winter",
       "year": 2027,
       "work_mode": "onsite",
@@ -80580,6 +81104,58 @@
       "role": "Student Researcher Intern, Seed Model - LLM",
       "category": "ai",
       "apply_url": "https://go.vansh.nyc/142",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-student-researcher-intern-seed-model-multimodal-interaction-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Student Researcher Intern, Seed Model: Multimodal Interaction & World Model",
+      "category": "research",
+      "apply_url": "https://go.vansh.nyc/17J",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -81089,6 +81665,58 @@
       },
       "dates": {
         "posted": "2026-10-31",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "c-s-wholesale-grocers-is-intern-web-applications-2027",
+      "company": {
+        "name": "C&S Wholesale Grocers",
+        "slug": "c-s-wholesale-grocers"
+      },
+      "role": "IS Intern, Web Applications",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18J",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
         "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
@@ -89955,6 +90583,58 @@
         "last_verified": "2026-10-28"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cencora-data-analytics-intern-2027",
+      "company": {
+        "name": "Cencora",
+        "slug": "cencora"
+      },
+      "role": "Data Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18K",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Corona",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -107304,7 +107984,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -125043,6 +125723,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "divcowest-ai-intern-2027",
+      "company": {
+        "name": "DivcoWest",
+        "slug": "divcowest"
+      },
+      "role": "AI Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/18L",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -143307,6 +144039,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "everest-technology-intern-2027",
+      "company": {
+        "name": "Everest",
+        "slug": "everest"
+      },
+      "role": "Technology Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18M",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Warren",
+          "state": "NJ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "eversource-energy-asset-management-technology-engineer-intern-fall-2026-2026",
       "company": {
         "name": "Eversource Energy",
@@ -147480,7 +148264,59 @@
     },
     {
       "schema_version": "1.0",
-      "id": "farmers-mutual-hail-data-architect-intern-2027",
+      "id": "farmers-mutual-hail-application-administrator-intern-2027",
+      "company": {
+        "name": "Farmers Mutual Hail",
+        "slug": "farmers-mutual-hail"
+      },
+      "role": "Application Administrator Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18N",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "West Des Moines",
+          "state": "IA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "farmers-mutual-hail-data-architect-intern-2027-4e2851",
       "company": {
         "name": "Farmers Mutual Hail",
         "slug": "farmers-mutual-hail"
@@ -147521,13 +148357,65 @@
       },
       "dates": {
         "posted": "2026-10-02",
-        "discovered": "2026-10-31",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "farmers-mutual-hail-data-architect-intern-2027",
+      "company": {
+        "name": "Farmers Mutual Hail",
+        "slug": "farmers-mutual-hail"
+      },
+      "role": "Data Architect Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17C",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "West Des Moines",
+          "state": "IA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-02",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -170994,6 +171882,120 @@
     },
     {
       "schema_version": "1.0",
+      "id": "geotab-software-developer-intern-geotab-vitality-2027",
+      "company": {
+        "name": "Geotab",
+        "slug": "geotab"
+      },
+      "role": "Software Developer Intern, Geotab Vitality",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17F",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Oakville",
+          "country": "Canada"
+        },
+        {
+          "city": "Toronto",
+          "country": "Canada"
+        },
+        {
+          "city": "Waterloo",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-27",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "geotab-software-developer-intern-myadmin-2027",
+      "company": {
+        "name": "Geotab",
+        "slug": "geotab"
+      },
+      "role": "Software Developer Intern, MyAdmin",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17E",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Oakville",
+          "country": "Canada"
+        },
+        {
+          "city": "Waterloo",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-27",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "geotab-software-developer-intern-mygeotab-2027",
       "company": {
         "name": "Geotab",
@@ -174207,7 +175209,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174312,7 +175314,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174365,7 +175367,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174418,7 +175420,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174470,7 +175472,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174522,7 +175524,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174576,7 +175578,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174629,7 +175631,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174680,7 +175682,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174734,7 +175736,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174785,7 +175787,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174836,7 +175838,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174887,7 +175889,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174939,7 +175941,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -174990,7 +175992,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175146,7 +176148,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175199,7 +176201,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175307,7 +176309,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175360,7 +176362,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175414,7 +176416,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175516,7 +176518,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175671,7 +176673,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -175724,7 +176726,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -178730,6 +179732,61 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "google-student-researcher-intern-2027",
+      "company": {
+        "name": "Google",
+        "slug": "google"
+      },
+      "role": "Student Researcher Intern",
+      "category": "research",
+      "apply_url": "https://go.vansh.nyc/15I",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Waterloo",
+          "country": "Canada"
+        },
+        {
+          "city": "Toronto",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-14",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -196781,6 +197838,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "hps-investment-partners-technology-intern-app-dev-2027",
+      "company": {
+        "name": "HPS Investment Partners",
+        "slug": "hps-investment-partners"
+      },
+      "role": "Technology Intern, App Dev",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18O",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "hubs-is-product-intern-2026",
       "company": {
         "name": "Hubs.is",
@@ -198951,6 +200060,58 @@
         "last_verified": "2026-10-25"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "hyphenate-software-engineering-intern-2027",
+      "company": {
+        "name": "Hyphenate",
+        "slug": "hyphenate"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17t",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-25",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -204226,7 +205387,7 @@
         "discovered": "2026-09-07",
         "last_verified": "2026-11-01"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -204338,7 +205499,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -205299,6 +206460,114 @@
       "dates": {
         "posted": "2026-10-20",
         "discovered": "2026-10-21",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "insomniac-games-undergraduate-gameplay-programming-intern-2027",
+      "company": {
+        "name": "Insomniac Games",
+        "slug": "insomniac-games"
+      },
+      "role": "Undergraduate Gameplay Programming Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18P",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Burbank",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03",
+        "remote-available"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "insomniac-games-undergraduate-tech-art-intern-2027",
+      "company": {
+        "name": "Insomniac Games",
+        "slug": "insomniac-games"
+      },
+      "role": "Undergraduate Tech Art Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18Q",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Burbank",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
@@ -211507,6 +212776,56 @@
     },
     {
       "schema_version": "1.0",
+      "id": "intuit-software-engineering-intern-full-stack-2027",
+      "company": {
+        "name": "Intuit",
+        "slug": "intuit"
+      },
+      "role": "Software Engineering Intern, Full Stack",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17H",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-30",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "intuitive-surgical-ai-research-intern-2027",
       "company": {
         "name": "Intuitive Surgical",
@@ -213849,6 +215168,58 @@
       },
       "dates": {
         "posted": "2026-10-31",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ixl-learning-software-engineer-intern-2027",
+      "company": {
+        "name": "IXL Learning",
+        "slug": "ixl-learning"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17D",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Mateo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
         "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
@@ -216644,6 +218015,58 @@
       "dates": {
         "posted": "2026-10-27",
         "discovered": "2026-10-27",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "johns-hopkins-apl-robotics-engineer-intern-maritime-systems-2027",
+      "company": {
+        "name": "Johns Hopkins APL",
+        "slug": "johns-hopkins-apl"
+      },
+      "role": "Robotics Engineer Intern, Maritime Systems",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17I",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Laurel",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-30",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
@@ -233799,7 +235222,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "l3harris-technologies-software-engineering-intern-2027",
+      "id": "l3harris-technologies-software-engineering-intern-2027-d087e5",
       "company": {
         "name": "L3Harris Technologies",
         "slug": "l3harris-technologies"
@@ -233840,6 +235263,58 @@
       },
       "dates": {
         "posted": "2026-10-29",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "l3harris-technologies-software-engineering-intern-2027",
+      "company": {
+        "name": "L3Harris Technologies",
+        "slug": "l3harris-technologies"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/15J",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bristol",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-30",
         "discovered": "2026-10-21",
         "last_verified": "2026-11-01"
       },
@@ -243524,6 +244999,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "mach9-perception-intern-2027",
+      "company": {
+        "name": "Mach9",
+        "slug": "mach9"
+      },
+      "role": "Perception Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18R",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -263470,6 +264997,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "microsoft-security-assurance-intern-2027",
+      "company": {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      "role": "Security Assurance Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/15H",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redmond",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "microsoft-security-research-intern-2027",
       "company": {
         "name": "Microsoft",
@@ -264587,12 +266166,116 @@
       "dates": {
         "posted": "2026-08-04",
         "discovered": "2026-08-04",
-        "last_verified": "2026-10-08"
+        "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "microsoft-software-engineering-intern-2027-ffd07c",
+      "company": {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17y",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Reston",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "microsoft-software-engineering-intern-2027",
+      "company": {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17x",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redmond",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-11",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -317012,6 +318695,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "powertown-forward-deployed-engineer-intern-2027",
+      "company": {
+        "name": "Powertown",
+        "slug": "powertown"
+      },
+      "role": "Forward Deployed Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17w",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-05",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "powertown-machine-learning-engineer-intern-2027",
       "company": {
         "name": "Powertown",
@@ -365580,6 +367315,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "samsung-semiconductor-systems-software-engineering-intern-2027",
+      "company": {
+        "name": "Samsung Semiconductor",
+        "slug": "samsung-semiconductor"
+      },
+      "role": "Systems Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17G",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-29",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "sandhills-global-software-development-intern-2026",
       "company": {
         "name": "Sandhills Global",
@@ -368700,6 +370487,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "scm-quantitative-research-analyst-intern-2027",
+      "company": {
+        "name": "SCM",
+        "slug": "scm"
+      },
+      "role": "Quantitative Research Analyst Intern",
+      "category": "quant",
+      "apply_url": "https://go.vansh.nyc/17s",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Radnor",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-05-24",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -393114,6 +394953,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "sycamore-member-of-technical-staff-intern-2027",
+      "company": {
+        "name": "Sycamore",
+        "slug": "sycamore"
+      },
+      "role": "Member of Technical Staff Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18S",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "symbotic-customer-success-intern-2027",
       "company": {
         "name": "Symbotic",
@@ -404238,9 +406129,9 @@
       "dates": {
         "posted": "2026-09-16",
         "discovered": "2026-09-17",
-        "last_verified": "2026-10-07"
+        "last_verified": "2026-11-01"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -422481,6 +424372,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-ai-engineer-intern-tiktok-client-arch-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "AI Engineer Intern, TikTok-Client Arch",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/17P",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-ai-governance-strategy-product-manager-intern-platform-trust-2027",
       "company": {
         "name": "TikTok",
@@ -423013,6 +424956,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-ai-software-engineer-project-intern-transaction-platform-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "AI Software Engineer Project Intern, Transaction Platform",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/18t",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -423557,7 +425552,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-backend-software-engineer-intern-creation-platform-2027",
+      "id": "tiktok-backend-software-engineer-intern-creation-platform-2027-46d534",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -423600,13 +425595,67 @@
       },
       "dates": {
         "posted": "2026-08-05",
-        "discovered": "2026-08-05",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-backend-software-engineer-intern-creation-platform-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Backend Software Engineer Intern, Creation Platform",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18E",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -424928,7 +426977,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-data-engineer-intern-data-platform-global-live-2027",
+      "id": "tiktok-data-engineer-intern-data-platform-global-live-2027-d563ed",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -424971,7 +427020,7 @@
       },
       "dates": {
         "posted": "2026-08-17",
-        "discovered": "2026-08-17",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
@@ -424982,7 +427031,113 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-data-engineer-intern-monetization-data-2027",
+      "id": "tiktok-data-engineer-intern-data-platform-global-live-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Data Engineer Intern, Data Platform Global Live",
+      "category": "data-engineering",
+      "apply_url": "https://go.vansh.nyc/18d",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-17",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-data-engineer-intern-data-platform-tiktok-bp-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Data Engineer Intern, Data Platform TikTok BP",
+      "category": "data-engineering",
+      "apply_url": "https://go.vansh.nyc/18a",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-data-engineer-intern-monetization-data-2027-54b59c",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -425025,13 +427180,119 @@
       },
       "dates": {
         "posted": "2026-08-10",
-        "discovered": "2026-08-10",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-data-engineer-intern-monetization-data-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Data Engineer Intern, Monetization Data",
+      "category": "data-engineering",
+      "apply_url": "https://go.vansh.nyc/18f",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-10",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-data-engineering-project-intern-ads-targeting-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Data Engineering Project Intern, Ads Targeting",
+      "category": "data-engineering",
+      "apply_url": "https://go.vansh.nyc/186",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -425144,7 +427405,59 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-data-science-intern-tiktok-live-2027",
+      "id": "tiktok-data-science-intern-tiktok-integrity-and-safety-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Data Science Intern, TikTok Integrity and Safety",
+      "category": "data-science",
+      "apply_url": "https://go.vansh.nyc/17R",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-data-science-intern-tiktok-live-2027-b6f743",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -425187,7 +427500,7 @@
       },
       "dates": {
         "posted": "2026-08-04",
-        "discovered": "2026-08-04",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
@@ -425198,7 +427511,61 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-data-science-intern-tiktok-product-2027",
+      "id": "tiktok-data-science-intern-tiktok-live-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Data Science Intern, TikTok LIVE",
+      "category": "data-science",
+      "apply_url": "https://go.vansh.nyc/17O",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-04",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-data-science-intern-tiktok-product-2027-437403",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -425241,7 +427608,7 @@
       },
       "dates": {
         "posted": "2026-08-05",
-        "discovered": "2026-08-05",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
@@ -425252,7 +427619,113 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-data-scientist-intern-vod-data-2027",
+      "id": "tiktok-data-science-intern-tiktok-product-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Data Science Intern, TikTok Product",
+      "category": "data-science",
+      "apply_url": "https://go.vansh.nyc/17Y",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-data-science-project-intern-advertisement-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Data Science Project Intern, Advertisement",
+      "category": "data-science",
+      "apply_url": "https://go.vansh.nyc/18k",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-data-scientist-intern-vod-data-2027-563d2d",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -425295,13 +427768,119 @@
       },
       "dates": {
         "posted": "2026-08-05",
-        "discovered": "2026-08-05",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-data-scientist-intern-vod-data-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Data Scientist Intern, VOD Data",
+      "category": "data-science",
+      "apply_url": "https://go.vansh.nyc/18w",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-05",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-data-scientist-project-intern-tiktok-integrity-and-safety-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Data Scientist Project Intern, TikTok Integrity and Safety",
+      "category": "data-science",
+      "apply_url": "https://go.vansh.nyc/18b",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -425409,7 +427988,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-frontend-engineer-intern-ads-interface-2027",
+      "id": "tiktok-frontend-engineer-intern-ads-interface-2027-33264a",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -425452,13 +428031,67 @@
       },
       "dates": {
         "posted": "2026-08-07",
-        "discovered": "2026-08-07",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-frontend-engineer-intern-ads-interface-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Frontend Engineer Intern, Ads Interface",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17T",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-07",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -425665,6 +428298,58 @@
       "dates": {
         "posted": "2026-08-04",
         "discovered": "2026-10-25",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-frontend-engineer-project-intern-multimedia-arch-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Frontend Engineer Project Intern, Multimedia Arch",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18z",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
@@ -425891,6 +428576,112 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-fullstack-software-engineer-intern-global-e-commerce-2027-ac9ee1",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Fullstack Software Engineer Intern, Global E-Commerce",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18i",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-fullstack-software-engineer-intern-global-e-commerce-2027-d3da9b",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Fullstack Software Engineer Intern - Global E-Commerce",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7670700387322300677",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-07",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-fullstack-software-engineer-intern-global-e-commerce-2027-su-2027",
       "company": {
         "name": "TikTok",
@@ -425950,9 +428741,9 @@
         "name": "TikTok",
         "slug": "tiktok"
       },
-      "role": "Fullstack Software Engineer Intern - Global E-Commerce",
+      "role": "Fullstack Software Engineer Intern, Global E-Commerce",
       "category": "software-engineering",
-      "apply_url": "https://lifeattiktok.com/search/7670700387322300677",
+      "apply_url": "https://go.vansh.nyc/18g",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -425987,14 +428778,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-07",
+        "posted": "2026-11-01",
         "discovered": "2026-08-07",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -426755,7 +429546,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-machine-learning-engineer-intern-ads-signal-measurement-2027",
+      "id": "tiktok-machine-learning-engineer-intern-ads-signal-measurement-2027-6df6f2",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -426796,13 +429587,65 @@
       },
       "dates": {
         "posted": "2026-08-04",
-        "discovered": "2026-08-04",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-ads-signal-measurement-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern, Ads Signal & Measurement",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/17Q",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-04",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -426861,7 +429704,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-machine-learning-engineer-intern-app-ads-and-gaming-2027",
+      "id": "tiktok-machine-learning-engineer-intern-app-ads-and-gaming-2027-fd0565",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -426902,13 +429745,65 @@
       },
       "dates": {
         "posted": "2026-08-04",
-        "discovered": "2026-08-04",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-app-ads-and-gaming-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern, App Ads and Gaming",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/17X",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-04",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -426967,7 +429862,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-machine-learning-engineer-intern-brand-ads-2027",
+      "id": "tiktok-machine-learning-engineer-intern-brand-ads-2027-656a4e",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -427010,13 +429905,119 @@
       },
       "dates": {
         "posted": "2026-08-04",
-        "discovered": "2026-08-04",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-brand-ads-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern, Brand Ads",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/17N",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-04",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-commerce-ads-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern, Commerce Ads",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/17Z",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -428724,7 +431725,59 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-machine-learning-engineer-intern-lead-ads-2027",
+      "id": "tiktok-machine-learning-engineer-intern-global-e-commerce-search-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern, Global E-Commerce Search",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/18r",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-lead-ads-2027-608557",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -428765,13 +431818,65 @@
       },
       "dates": {
         "posted": "2026-08-04",
-        "discovered": "2026-08-04",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-lead-ads-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern, Lead Ads",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/182",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-04",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -428880,6 +431985,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-performance-monetization-2027-ef3a91",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern - Performance Monetization",
+      "category": "machine-learning",
+      "apply_url": "https://lifeattiktok.com/search/7669693163422845237",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-04",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-machine-learning-engineer-intern-performance-monetization-2027-f89997",
       "company": {
         "name": "TikTok",
@@ -428939,9 +432096,9 @@
         "name": "TikTok",
         "slug": "tiktok"
       },
-      "role": "Machine Learning Engineer Intern - Performance Monetization",
+      "role": "Machine Learning Engineer Intern, Performance Monetization",
       "category": "machine-learning",
-      "apply_url": "https://lifeattiktok.com/search/7669693163422845237",
+      "apply_url": "https://go.vansh.nyc/181",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -428974,19 +432131,19 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-04",
+        "posted": "2026-11-01",
         "discovered": "2026-08-04",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-machine-learning-engineer-intern-recommendation-2027",
+      "id": "tiktok-machine-learning-engineer-intern-recommendation-2027-2bb674",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -429029,13 +432186,119 @@
       },
       "dates": {
         "posted": "2026-08-03",
-        "discovered": "2026-08-03",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-recommendation-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern, Recommendation",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/18B",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-recommendation-global-e-com-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern, Recommendation Global E-Commerce",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/18l",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -429094,7 +432357,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-machine-learning-engineer-intern-search-ads-2027",
+      "id": "tiktok-machine-learning-engineer-intern-search-ads-2027-b3b303",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -429135,7 +432398,7 @@
       },
       "dates": {
         "posted": "2026-08-04",
-        "discovered": "2026-08-04",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
@@ -429146,7 +432409,59 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-machine-learning-engineer-intern-search-quality-2027",
+      "id": "tiktok-machine-learning-engineer-intern-search-ads-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern, Search Ads",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/180",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-04",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-search-quality-2027-4a20a3",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -429189,13 +432504,171 @@
       },
       "dates": {
         "posted": "2026-08-03",
-        "discovered": "2026-08-03",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-search-quality-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern, Search Quality",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/18p",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-tiktok-data-search-basic-ra-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/18c",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-tiktok-data-search-local-se-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern, TikTok-Data-Search-Local Service",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/189",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -429308,6 +432781,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-machine-learning-engineer-intern-visual-search-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning Engineer Intern, Visual Search",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/18j",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-machine-learning-infrastructure-engineer-intern-ads-infrastr-2027",
       "company": {
         "name": "TikTok",
@@ -429410,6 +432935,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-machine-learning-mlops-intern-global-sre-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Machine Learning MLOps Intern, Global SRE",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/17S",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -429572,6 +433149,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-ml-infra-engineer-intern-ads-infra-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "ML Infra Engineer Intern, Ads Infra",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/17V",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -431001,6 +434630,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-recommendation-architecture-ai-ml-infrastructure-engineer-in-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live",
+      "category": "machine-learning",
+      "apply_url": "https://go.vansh.nyc/18h",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-recommendation-product-manager-intern-content-ecosystem-2027",
       "company": {
         "name": "TikTok",
@@ -431163,6 +434844,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-research-engineer-intern-agentic-systems-ai-infrastructure-t-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generalized Arch",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/17U",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-research-engineer-intern-monetization-technology-business-in-2026",
       "company": {
         "name": "TikTok",
@@ -431217,7 +434950,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-research-engineer-intern-monetization-technology-business-in-2027",
+      "id": "tiktok-research-engineer-intern-monetization-technology-business-in-2027-4998e4",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -431260,13 +434993,67 @@
       },
       "dates": {
         "posted": "2026-08-03",
-        "discovered": "2026-08-03",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-research-engineer-intern-monetization-technology-business-in-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Research Engineer Intern, Monetization Technology - Business Integrity",
+      "category": "research",
+      "apply_url": "https://go.vansh.nyc/187",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -431433,7 +435220,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-research-scientist-intern-monetization-technology-business-i-2027",
+      "id": "tiktok-research-scientist-intern-monetization-technology-business-i-2027-b35c69",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -431476,13 +435263,67 @@
       },
       "dates": {
         "posted": "2026-08-03",
-        "discovered": "2026-08-03",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-research-scientist-intern-monetization-technology-business-i-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Research Scientist Intern, Monetization Technology - Business Integrity",
+      "category": "research",
+      "apply_url": "https://go.vansh.nyc/185",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-03",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -432611,6 +436452,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-ads-infrastructure-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, Ads Infrastructure",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/18m",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-software-engineer-intern-ads-interface-2027-eadf7a",
       "company": {
         "name": "TikTok",
@@ -433467,7 +437360,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-software-engineer-intern-foundation-platform-2027",
+      "id": "tiktok-software-engineer-intern-foundation-platform-2027-d046cc",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -433510,13 +437403,67 @@
       },
       "dates": {
         "posted": "2026-08-06",
-        "discovered": "2026-08-06",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-foundation-platform-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, Foundation Platform",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18C",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -433629,7 +437576,59 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-software-engineer-intern-global-e-commerce-search-2027",
+      "id": "tiktok-software-engineer-intern-global-e-commerce-search-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, Global E-commerce-Search",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/188",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-global-e-commerce-search-2027-3e7272",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -433672,13 +437671,67 @@
       },
       "dates": {
         "posted": "2026-08-10",
-        "discovered": "2026-08-10",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-global-e-commerce-search-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, Global E-commerce-Search",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/17W",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-10",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -433945,7 +437998,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-software-engineer-intern-media-engine-2027",
+      "id": "tiktok-software-engineer-intern-media-engine-2027-193346",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -433988,13 +438041,67 @@
       },
       "dates": {
         "posted": "2026-08-06",
-        "discovered": "2026-08-06",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-media-engine-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, Media Engine",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18D",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-06",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -434156,6 +438263,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-recommendation-architecture-feeds-i-2026-ab6eae",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/18x",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-recommendation-architecture-feeds-i-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/18A",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-software-engineer-intern-recommendation-architecture-feeds-i-2027-2d6a32",
       "company": {
         "name": "TikTok",
@@ -434210,7 +438421,59 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-software-engineer-intern-recommendation-architecture-feeds-i-2027",
+      "id": "tiktok-software-engineer-intern-recommendation-architecture-feeds-i-2027-8a27f5",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/18u",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-recommendation-architecture-feeds-i-2027-bae5f9",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -434253,7 +438516,7 @@
       },
       "dates": {
         "posted": "2026-08-20",
-        "discovered": "2026-08-20",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
@@ -434264,7 +438527,113 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-software-engineer-intern-recommendation-infra-performance-ef-2027",
+      "id": "tiktok-software-engineer-intern-recommendation-architecture-feeds-i-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/18o",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-recommendation-infra-performance-ef-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, Recommendation Infra, Performance Efficiency",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18v",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-recommendation-infra-performance-ef-2027-5d6671",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -434307,13 +438676,67 @@
       },
       "dates": {
         "posted": "2026-08-20",
-        "discovered": "2026-08-20",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-recommendation-infra-performance-ef-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, Recommendation Infra, Performance Efficiency",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18s",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -434532,6 +438955,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-search-architecture-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, Search Architecture",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18q",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-search-data-infra-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, Search Data Infra",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18n",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-software-engineer-intern-shoot-experience-optimization-2027",
       "company": {
         "name": "TikTok",
@@ -434691,7 +439218,59 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-software-engineer-intern-tiktok-search-architecture-2027",
+      "id": "tiktok-software-engineer-intern-tiktok-ai-search-visual-search-infr-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, TikTok AI Search & Visual Search Infra Team",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/183",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-tiktok-search-architecture-2027-642e3a",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -434734,7 +439313,7 @@
       },
       "dates": {
         "posted": "2026-08-20",
-        "discovered": "2026-08-20",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
@@ -434745,7 +439324,61 @@
     },
     {
       "schema_version": "1.0",
-      "id": "tiktok-software-engineer-intern-tiktok-search-data-infra-2027",
+      "id": "tiktok-software-engineer-intern-tiktok-search-architecture-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, TikTok Search Architecture",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/184",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-20",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-tiktok-search-data-infra-2027-35a9af",
       "company": {
         "name": "TikTok",
         "slug": "tiktok"
@@ -434788,13 +439421,67 @@
       },
       "dates": {
         "posted": "2026-08-18",
-        "discovered": "2026-08-18",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-tiktok-search-data-infra-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern, TikTok Search Data Infra",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18e",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-08-18",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -435109,6 +439796,214 @@
       "dates": {
         "posted": "2026-08-04",
         "discovered": "2026-08-03",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-project-intern-content-ai-infrastructure-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Project Intern, Content AI Infrastructure",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/18G",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-project-intern-global-e-commerce-search-in-2026",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Project Intern, Global E-Commerce Search Infrastructure",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/18y",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-project-intern-lead-ads-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Project Intern, Lead Ads",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/18H",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
+        "last_verified": "2026-11-01"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-software-engineer-project-intern-recommendation-infrastructu-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Project Intern, Recommendation Infrastructure, Video Social",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/18F",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-01",
         "last_verified": "2026-11-01"
       },
       "status": "open",

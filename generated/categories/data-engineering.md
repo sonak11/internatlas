@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**181** tracked · **94** open now
+**185** tracked · **98** open now
 
 ## Current openings
 
@@ -94,6 +94,10 @@
 | [TikTok](generated/companies/tiktok.md) | [Data Engineer Intern - Ads Targeting](https://lifeattiktok.com/search/7668533140146817333) | San Jose, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Data Engineer Intern - Data Platform Global Live](https://lifeattiktok.com/search/7674032146438162693) | San Jose, CA | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Data Engineer Intern - Monetization Data](https://lifeattiktok.com/search/7671232204182276405) | San Jose, CA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Data Engineer Intern, Data Platform Global Live](https://go.vansh.nyc/18d) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Data Engineer Intern, Data Platform TikTok BP](https://go.vansh.nyc/18a) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Data Engineer Intern, Monetization Data](https://go.vansh.nyc/18f) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Data Engineering Project Intern, Ads Targeting](https://go.vansh.nyc/186) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [Trace3](generated/companies/trace3.md) | [Data and Analytics Engineer Intern](https://go.vansh.nyc/dV) | Irvine, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [Data & Analytics Engineering Intern](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4996533101) | Alpharetta, GA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [Data & Analytics Engineering Intern](https://go.vansh.nyc/ar) | Alpharetta, GA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❌ |
@@ -194,6 +198,7 @@
 
 - Royal Bank of Canada (13)
 - Tesla (8)
+- TikTok (7)
 - Coinbase (6)
 - American Express (6)
 - CVS Health (5)
@@ -201,7 +206,6 @@
 - Navy Federal (3)
 - Paccar (3)
 - Systems Planning and Analysis (3)
-- TikTok (3)
 - First National Bank (3)
 - National Information Solutions Cooperative (3)
 - Allstate (2)

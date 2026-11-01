@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**126** tracked · **90** open now
+**135** tracked · **99** open now
 
 ## Current openings
 
@@ -21,11 +21,13 @@
 | [Atomic Semi](generated/companies/atomic-semi.md) | [Infrastructure Software Engineering Intern](https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e) | San Francisco, CA +1 | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❌ |
 | [Awetomaton](generated/companies/awetomaton.md) | [Platform Engineering Intern](https://go.vansh.nyc/QC) | Beavercreek, OH | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❌ |
 | [ByteDance](generated/companies/bytedance.md) | [Backend Developer Intern - Infrastructure Platform Delivery](https://jobs.bytedance.com/en/position/7668489218234157365/detail) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
+| [ByteDance](generated/companies/bytedance.md) | [Backend Development Engineer Intern, Infrastructure Platform Delivery](https://go.vansh.nyc/17L) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14h) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14c) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Data Platform Engineer Intern - Global Engineering CDN](https://jobs.bytedance.com/en/position/7538139519473092882/detail) | San Jose, CA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Multi-Cloud CDN Data Platform Engineer Intern, Global Engineering CDN](https://go.vansh.nyc/14b) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform](https://jobs.bytedance.com/en/position/7673636205233490181/detail) | San Jose, CA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
+| [ByteDance](generated/companies/bytedance.md) | [Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform](https://go.vansh.nyc/15G) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform](https://go.vansh.nyc/14q) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Production System Engineer Project Intern, Server DevOps](https://go.vansh.nyc/14j) | New York, NY | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Production System Engineer Project Intern, Server DevOps](https://go.vansh.nyc/14e) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
@@ -94,6 +96,13 @@
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern - Global E-Commerce Search Infrastructure](https://lifeattiktok.com/search/7662594807715072261) | Seattle, WA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672930401597671733) | San Jose, CA | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure](https://lifeattiktok.com/search/7672926068681951493) | Seattle, WA | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern, Ads Infrastructure](https://go.vansh.nyc/18m) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure](https://go.vansh.nyc/18x) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure](https://go.vansh.nyc/18A) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure](https://go.vansh.nyc/18u) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure](https://go.vansh.nyc/18o) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Software Engineer Project Intern, Global E-Commerce Search Infrastructure](https://go.vansh.nyc/18y) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Software Engineer Project Intern, Recommendation Infrastructure, Video Social](https://go.vansh.nyc/18F) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [TMX Group](generated/companies/tmx-group.md) | [DevOps Intern](https://go.vansh.nyc/QS) | Montreal | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [TransMarket Group](generated/companies/transmarket-group.md) | [DevOps/SRE Intern](https://go.vansh.nyc/4B) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [TruStage](generated/companies/trustage.md) | [Information Technology Development and Infrastructure Intern](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155) | Madison, WI | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
@@ -137,8 +146,8 @@
 
 ## Hiring companies
 
-- ByteDance (13)
-- TikTok (9)
+- TikTok (16)
+- ByteDance (15)
 - Aptiv (7)
 - Palantir Technologies (7)
 - Autodesk (6)

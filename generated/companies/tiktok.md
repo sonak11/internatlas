@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | TikTok | [AI Agent Product Manager Intern - Product Infrastructure-Customer Service Platform](https://lifeattiktok.com/search/7670010726514493749) | San Jose, CA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
+| TikTok | [AI Engineer Intern, TikTok-Client Arch](https://go.vansh.nyc/17P) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
 | TikTok | [AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem](https://lifeattiktok.com/search/7677493272788683013) | San Jose, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [AI Infrastructure Engineer Intern - Algorithm Infrastructure](https://lifeattiktok.com/search/7670120579999385861) | San Jose, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | TikTok | [AI Infrastructure Engineer Intern - Recommendation & LLM](https://lifeattiktok.com/search/7672671220798818613) | San Jose, CA | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
@@ -15,6 +16,7 @@
 | TikTok | [AI Product Manager Intern, Product Social](https://go.vansh.nyc/Om) | San Jose, CA | Onsite | 2026-08-22 | Rolling | 🟢 Open | ❔ |
 | TikTok | [AI Product Operations Intern](https://lifeattiktok.com/search/7611950589973186821) | San Jose, CA | Onsite | 2026-03-02 | Rolling | 🟢 Open | ❔ |
 | TikTok | [AI Safety Evaluation & Governance Product Manager Intern - Multiple Teams](https://lifeattiktok.com/search/7670529537944766773) | San Jose, CA | Onsite | 2026-08-11 | Rolling | 🟢 Open | ❔ |
+| TikTok | [AI Software Engineer Project Intern, Transaction Platform](https://go.vansh.nyc/18t) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [AI/ML Infrastructure Engineer Intern - Data-Arch-Tiktok Live](https://lifeattiktok.com/search/7670876223732762933) | San Jose, CA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Applied Scientist Intern - Business Integrity - Global Frontier Tech Recruitment Program](https://lifeattiktok.com/search/7631063087262419205) | San Jose, CA | Onsite | 2026-04-22 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Applied Scientist Intern - Monetization Technology - Global Frontier Tech Recruitment Program](https://lifeattiktok.com/search/7629248119245261061) | San Jose, CA | Onsite | 2026-06-15 | Rolling | 🟢 Open | ❔ |
@@ -33,6 +35,7 @@
 | TikTok | [Backend Software Engineer Intern - Innovative Growth](https://lifeattiktok.com/search/7667934860750063925) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Backend Software Engineer Intern - LIVE Foundation Governance Engineering](https://lifeattiktok.com/search/7667935150530840837) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❌ |
 | TikTok | [Backend Software Engineer Intern - Product Infrastructure](https://lifeattiktok.com/search/7667935633764370741) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Backend Software Engineer Intern, Creation Platform](https://go.vansh.nyc/18E) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Backend Software Engineer Intern, Global E-Commerce](https://go.vansh.nyc/67) | Seattle, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Backend Software Engineer Intern, Global E-Commerce](https://go.vansh.nyc/66) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Backend Software Engineer Intern, PGC-Digital Content Center](https://go.vansh.nyc/6f) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❌ |
@@ -52,22 +55,36 @@
 | TikTok | [Data Engineer Intern - Ads Targeting](https://lifeattiktok.com/search/7668533140146817333) | San Jose, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Data Engineer Intern - Data Platform Global Live](https://lifeattiktok.com/search/7674032146438162693) | San Jose, CA | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Data Engineer Intern - Monetization Data](https://lifeattiktok.com/search/7671232204182276405) | San Jose, CA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Data Engineer Intern, Data Platform Global Live](https://go.vansh.nyc/18d) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Data Engineer Intern, Data Platform TikTok BP](https://go.vansh.nyc/18a) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Data Engineer Intern, Monetization Data](https://go.vansh.nyc/18f) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Data Engineering Project Intern, Ads Targeting](https://go.vansh.nyc/186) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Data Science Intern - Advertisement Team](https://lifeattiktok.com/search/7673226686054107445) | San Jose, CA | Onsite | 2026-08-13 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Data Science Intern - Integrity and Safety](https://lifeattiktok.com/search/7669682935444900149) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Data Science Intern - TikTok Live](https://lifeattiktok.com/search/7669700822370945333) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Data Science Intern - TikTok Product](https://lifeattiktok.com/search/7669683639101884725) | San Jose, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Data Science Intern, TikTok Integrity and Safety](https://go.vansh.nyc/17R) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Data Science Intern, TikTok LIVE](https://go.vansh.nyc/17O) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Data Science Intern, TikTok Product](https://go.vansh.nyc/17Y) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Data Science Project Intern, Advertisement](https://go.vansh.nyc/18k) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Data Scientist Intern - VOD Data](https://lifeattiktok.com/search/7670287013157095733) | San Jose, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Data Scientist Intern, VOD Data](https://go.vansh.nyc/18w) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Data Scientist Project Intern, TikTok Integrity and Safety](https://go.vansh.nyc/18b) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Ecosystem Analyst Intern - TikTok LIVE](https://lifeattiktok.com/search/7678985103851407669) | LA | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Frontend Engineer Intern - Ads Interface](https://lifeattiktok.com/search/7671211313289398581) | San Jose, CA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Frontend Engineer Intern - Global CRM](https://lifeattiktok.com/search/7669711026846058757) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Frontend Engineer Intern - Open Platform](https://lifeattiktok.com/search/7667935739300792629) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Frontend Engineer Intern, Ads Interface](https://go.vansh.nyc/17T) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Frontend Engineer Intern, Global CRM](https://go.vansh.nyc/60) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Frontend Engineer Intern, TikTok-Open Platform](https://go.vansh.nyc/6k) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Frontend Engineer Project Intern - Tiktok Multimedia Arch - 2026 - BS/MS](https://lifeattiktok.com/search/7595733632086591797) | San Jose, CA | Onsite | 2026-06-15 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Frontend Engineer Project Intern, Multimedia Arch](https://go.vansh.nyc/18z) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Frontend Software Engineer Intern - Ads Measurement Signal and Privacy](https://lifeattiktok.com/search/7668584161852229893) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Frontend Software Engineer Intern, Ads Measurement Signal and Privacy](https://go.vansh.nyc/6t) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Fullstack Software Engineer Intern - Global E-Commerce](https://lifeattiktok.com/search/7670700387322300677) | Seattle, WA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Fullstack Software Engineer Intern - Global E-Commerce - 2027 Summer](https://lifeattiktok.com/search/7670738362521520437) | San Jose, CA | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Fullstack Software Engineer Intern, Global E-Commerce](https://go.vansh.nyc/18i) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Fullstack Software Engineer Intern, Global E-Commerce](https://go.vansh.nyc/18g) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Generative AI Researcher Intern - Intelligent Creation-Vision and Graphics](https://lifeattiktok.com/search/7668183035989281029) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Global Product Solutions and Operations Intern - Global Monetization Product and Technology](https://lifeattiktok.com/search/7701069870360627509) | San Jose, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Global Product Strategy & Operation Project Intern - Ads Interface and Platform Product](https://lifeattiktok.com/search/7663478489194612997) | San Jose, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
@@ -109,14 +126,18 @@
 | TikTok | [Machine Learning Engineer Intern - E-Commerce User Growth](https://lifeattiktok.com/search/7694357619162532149) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern - Lead Ads](https://lifeattiktok.com/search/7669707492914727221) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern - Monetization Technology - Ads Core Global](https://lifeattiktok.com/search/7687630614472149301) | San Jose, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
-| TikTok | [Machine Learning Engineer Intern - Performance Monetization](https://lifeattiktok.com/search/7669693205558561077) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern - Performance Monetization](https://lifeattiktok.com/search/7669693163422845237) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning Engineer Intern - Performance Monetization](https://lifeattiktok.com/search/7669693205558561077) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern - Recommendation](https://lifeattiktok.com/search/7662653087863081221) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern - Search](https://lifeattiktok.com/search/7668396597746862341) | Seattle, WA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern - Search Ads](https://lifeattiktok.com/search/7669698648817305909) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern - Search Quality](https://lifeattiktok.com/search/7665475460339665157) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality](https://lifeattiktok.com/search/7667690418804902149) | San Jose, CA | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern - Trust and Safety](https://lifeattiktok.com/search/7662672554084059445) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning Engineer Intern, Ads Signal & Measurement](https://go.vansh.nyc/17Q) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning Engineer Intern, App Ads and Gaming](https://go.vansh.nyc/17X) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning Engineer Intern, Brand Ads](https://go.vansh.nyc/17N) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning Engineer Intern, Commerce Ads](https://go.vansh.nyc/17Z) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern, E-Commerce Governance](https://go.vansh.nyc/Cx) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern, E-Commerce Knowledge Graph](https://go.vansh.nyc/Cv) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern, E-Commerce Recommendation Live](https://go.vansh.nyc/Cy) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
@@ -125,12 +146,24 @@
 | TikTok | [Machine Learning Engineer Intern, E-Commerce Recommendation/Search Alliance](https://go.vansh.nyc/CA) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern, E-Commerce Supply Chain & Logistics LLM/Agent](https://go.vansh.nyc/Cu) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern, E-Commerce User Growth](https://go.vansh.nyc/Cn) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning Engineer Intern, Global E-Commerce Search](https://go.vansh.nyc/18r) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
+| TikTok | [Machine Learning Engineer Intern, Lead Ads](https://go.vansh.nyc/182) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern, Monetization Technology, Ads Core Global](https://go.vansh.nyc/G8) | San Jose, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning Engineer Intern, Performance Monetization](https://go.vansh.nyc/181) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning Engineer Intern, Recommendation](https://go.vansh.nyc/18B) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning Engineer Intern, Recommendation Global E-Commerce](https://go.vansh.nyc/18l) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
+| TikTok | [Machine Learning Engineer Intern, Search Ads](https://go.vansh.nyc/180) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning Engineer Intern, Search Quality](https://go.vansh.nyc/18p) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking](https://go.vansh.nyc/18c) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
+| TikTok | [Machine Learning Engineer Intern, TikTok-Data-Search-Local Service](https://go.vansh.nyc/189) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
+| TikTok | [Machine Learning Engineer Intern, Visual Search](https://go.vansh.nyc/18j) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
 | TikTok | [Machine Learning Infrastructure Engineer Intern - Ads Infrastructure](https://lifeattiktok.com/search/7668881813744191749) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning MLOps Intern - Global Site Reliability Engineering](https://lifeattiktok.com/search/7670875283026053381) | San Jose, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning MLOps Intern, Global SRE](https://go.vansh.nyc/17S) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Scientist Intern](https://lifeattiktok.com/search/7667934169444485429) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Scientist Intern - Content Ecology - LLM Application](https://lifeattiktok.com/search/7667933770625599749) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Scientist Intern - Recommendation](https://lifeattiktok.com/search/7662657855099357493) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| TikTok | [ML Infra Engineer Intern, Ads Infra](https://go.vansh.nyc/17V) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Manager Intern - Ads Interface and Platform](https://lifeattiktok.com/search/7672569081632229685) | Seattle, WA | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Manager Intern - Ads Interface and Platform](https://lifeattiktok.com/search/7672562486917286149) | San Jose, CA | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Manager Intern - Commerce Ads](https://lifeattiktok.com/search/7672557943224961333) | San Jose, CA | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
@@ -151,11 +184,14 @@
 | TikTok | [Product Solutions and Operations Intern - Ads Interface and Platform Product](https://lifeattiktok.com/search/7665081919226284293) | Seattle, WA | Onsite | 2026-07-28 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Solutions and Operations Intern - Commerce Ads](https://lifeattiktok.com/search/7673340525029673221) | San Jose, CA | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Product Solutions and Operations Project Intern - Ads Interface and Platform Product](https://lifeattiktok.com/search/7665080709191108917) | San Jose, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live](https://go.vansh.nyc/18h) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Recommendation Product Manager Intern - Content Ecosystem](https://lifeattiktok.com/search/7667874197682899205) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Research Engineer Intern - Agentic Systems & AI Infrastructure - Generalized Architecture](https://lifeattiktok.com/search/7667934792727906565) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Research Engineer Intern - Agentic Systems & AI Infrastructure - Tiktok-Generalized Arch](https://lifeattiktok.com/search/7667935568626043141) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Research Engineer Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668204394458466565) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Research Engineer Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668202602270951733) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generalized Arch](https://go.vansh.nyc/17U) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Research Engineer Intern, Monetization Technology - Business Integrity](https://go.vansh.nyc/187) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Research Scientist Intern - Content Intelligence](https://lifeattiktok.com/search/7662662842545539381) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Research Scientist Intern - Foundations & Intelligence Service](https://lifeattiktok.com/search/7662677746436524293) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Research Scientist Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668204438271969589) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -166,6 +202,7 @@
 | TikTok | [Research Scientist Intern - TikTok Search / Generative AI - LLM](https://lifeattiktok.com/search/7629250876813642037) | San Jose, CA | Onsite | 2026-04-17 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Research Scientist Intern - Trust and Safety](https://lifeattiktok.com/search/7662674242861074741) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Research Scientist Intern - Trust and Safety](https://lifeattiktok.com/search/7662672903447988485) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Research Scientist Intern, Monetization Technology - Business Integrity](https://go.vansh.nyc/185) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Security Software Engineer Project Intern, Product Security](https://go.vansh.nyc/RN) | San Jose, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Site Reliability Engineer Intern, Global SRE](https://go.vansh.nyc/RR) | San Jose, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Development Engineer in Test Intern, Testing](https://go.vansh.nyc/RO) | San Jose, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
@@ -203,6 +240,7 @@
 | TikTok | [Software Engineer Intern - TikTok Search Data Infra](https://lifeattiktok.com/search/7675128776856029445) | San Jose, CA | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern - Transaction Platform](https://lifeattiktok.com/search/7669943120351906053) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern - Trust and Safety Engineering](https://lifeattiktok.com/search/7662684280234232117) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Intern, Ads Infrastructure](https://go.vansh.nyc/18m) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Ads Interface](https://go.vansh.nyc/68) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Ads Measurement Signal and Privacy](https://go.vansh.nyc/6r) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Agentic Creation-Effect Platform](https://go.vansh.nyc/6o) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
@@ -212,18 +250,37 @@
 | TikTok | [Software Engineer Intern, Creative Intelligence and Brand Innovation](https://go.vansh.nyc/6q) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Data Arch - E-commerce](https://go.vansh.nyc/6s) | Seattle, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ✅ |
 | TikTok | [Software Engineer Intern, Data Arch - E-commerce](https://go.vansh.nyc/6n) | Seattle, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ✅ |
+| TikTok | [Software Engineer Intern, Foundation Platform](https://go.vansh.nyc/18C) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Global CRM](https://go.vansh.nyc/6a) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Intern, Global E-commerce-Search](https://go.vansh.nyc/188) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Intern, Global E-commerce-Search](https://go.vansh.nyc/17W) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Global Live-Foundation](https://go.vansh.nyc/5Z) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❌ |
 | TikTok | [Software Engineer Intern, Growth Innovation](https://go.vansh.nyc/6e) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Intelligent Creation-Camera](https://go.vansh.nyc/62) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Intern, Media Engine](https://go.vansh.nyc/18D) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Privacy and Security](https://go.vansh.nyc/6l) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ✅ |
+| TikTok | [Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure](https://go.vansh.nyc/18x) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure](https://go.vansh.nyc/18A) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure](https://go.vansh.nyc/18u) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure](https://go.vansh.nyc/18o) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Intern, Recommendation Infra, Performance Efficiency](https://go.vansh.nyc/18v) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Intern, Recommendation Infra, Performance Efficiency](https://go.vansh.nyc/18s) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Recommendation Performance Efficiency](https://go.vansh.nyc/aQ) | San Jose, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Intern, Search Architecture](https://go.vansh.nyc/18q) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Intern, Search Data Infra](https://go.vansh.nyc/18n) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Shoot Experience Optimization](https://go.vansh.nyc/69) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Intern, TikTok AI Search & Visual Search Infra Team](https://go.vansh.nyc/183) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Intern, TikTok Search Architecture](https://go.vansh.nyc/184) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Intern, TikTok Search Data Infra](https://go.vansh.nyc/18e) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, TikTok-Agentic Creation-AIGC](https://go.vansh.nyc/6u) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, TikTok-Social-Friending](https://go.vansh.nyc/6g) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Transaction Platform](https://go.vansh.nyc/63) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Trust and Safety-Engineering](https://go.vansh.nyc/6c) | Seattle, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❌ |
 | TikTok | [Software Engineer Intern, Trust and Safety-Engineering](https://go.vansh.nyc/6b) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Project Intern, Content AI Infrastructure](https://go.vansh.nyc/18G) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Project Intern, Global E-Commerce Search Infrastructure](https://go.vansh.nyc/18y) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Project Intern, Lead Ads](https://go.vansh.nyc/18H) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Software Engineer Project Intern, Recommendation Infrastructure, Video Social](https://go.vansh.nyc/18F) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Strategy Product Manager Intern - Platform Responsibility](https://lifeattiktok.com/search/7670420287191517493) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | TikTok | [AI Product Manager Intern - Content Ecosystem](https://lifeattiktok.com/search/7667578131150506293) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | TikTok | [Copyright Solution Product Manager Intern - Tiktok-Music](https://lifeattiktok.com/search/7657541997725288757) | San Jose, CA | Onsite | 2026-07-03 | Rolling | 🔴 Closed | ❔ |

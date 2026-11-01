@@ -8,10 +8,10 @@ _Generated 2026-11-01_
 
 | Company | Listings |
 |---|---|
-| TikTok | 239 |
+| TikTok | 296 |
 | Tesla | 225 |
 | RTX | 205 |
-| ByteDance | 114 |
+| ByteDance | 119 |
 | Marvell | 92 |
 | Royal Bank of Canada | 90 |
 | Waymo | 81 |
@@ -19,10 +19,10 @@ _Generated 2026-11-01_
 | American Express | 77 |
 | AMD | 76 |
 | NVIDIA | 76 |
-| Amazon | 72 |
+| Amazon | 74 |
 | Qualcomm | 71 |
 | General Motors | 56 |
-| L3Harris Technologies | 53 |
+| L3Harris Technologies | 54 |
 | Jump Trading | 50 |
 | Qorvo | 49 |
 | Cloudflare | 46 |
@@ -33,42 +33,42 @@ _Generated 2026-11-01_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 5153 | `███████████████` |
-| ai | 770 | `██` |
-| machine-learning | 406 | `█` |
-| quant | 381 | `█` |
-| data-science | 338 | `█` |
+| software-engineering | 5197 | `███████████████` |
+| ai | 776 | `██` |
+| machine-learning | 424 | `█` |
+| quant | 382 | `█` |
+| data-science | 344 | `█` |
 | hardware | 324 | `█` |
-| research | 276 | `█` |
+| research | 280 | `█` |
 | product | 272 | `█` |
 | embedded | 236 | `█` |
 | design | 236 | `█` |
-| data-engineering | 181 | `█` |
-| security | 157 | `█` |
-| cloud | 126 | `█` |
+| data-engineering | 185 | `█` |
+| security | 158 | `█` |
+| cloud | 135 | `█` |
 
 ## Newest listings
 
+- 2026-11-01 — **AeroVect**: [Autonomy Intern](https://go.vansh.nyc/18I)
 - 2026-11-01 — **ByteDance**: [Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14f)
 - 2026-11-01 — **ByteDance**: [Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US](https://go.vansh.nyc/149)
 - 2026-11-01 — **ByteDance**: [AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling](https://go.vansh.nyc/14r)
 - 2026-11-01 — **ByteDance**: [AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling](https://go.vansh.nyc/14o)
 - 2026-11-01 — **ByteDance**: [ASIC Design Engineer Intern, Video Silicon IP](https://go.vansh.nyc/14u)
+- 2026-11-01 — **ByteDance**: [Backend Development Engineer Intern, Infrastructure Platform Delivery](https://go.vansh.nyc/17L)
 - 2026-11-01 — **ByteDance**: [Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14h)
 - 2026-11-01 — **ByteDance**: [Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14c)
+- 2026-11-01 — **ByteDance**: [Machine Learning Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/17K)
 - 2026-11-01 — **ByteDance**: [Machine Learning Engineer Intern, AML-Engine-Orchestration](https://go.vansh.nyc/144)
 - 2026-11-01 — **ByteDance**: [Machine Learning Engineer Project Intern, Security-Data](https://go.vansh.nyc/14A)
 - 2026-11-01 — **ByteDance**: [Multi-Cloud CDN Data Platform Engineer Intern, Global Engineering CDN](https://go.vansh.nyc/14b)
+- 2026-11-01 — **ByteDance**: [Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform](https://go.vansh.nyc/15G)
 - 2026-11-01 — **ByteDance**: [Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform](https://go.vansh.nyc/14q)
 - 2026-11-01 — **ByteDance**: [Network Security Software Engineer Intern, Security Engineering](https://go.vansh.nyc/14v)
 - 2026-11-01 — **ByteDance**: [Network Software Development Engineer Intern, Network Observation](https://go.vansh.nyc/14x)
 - 2026-11-01 — **ByteDance**: [Network Software Development Engineer Intern, Network Switch](https://go.vansh.nyc/14y)
 - 2026-11-01 — **ByteDance**: [Production System Engineer Project Intern, Server DevOps](https://go.vansh.nyc/14j)
 - 2026-11-01 — **ByteDance**: [Production System Engineer Project Intern, Server DevOps](https://go.vansh.nyc/14e)
-- 2026-11-01 — **ByteDance**: [Security Engineering Project Intern, Watermark](https://joinbytedance.com/search/7625759034518128901)
-- 2026-11-01 — **ByteDance**: [Security Software Engineer Project Intern, Network Security](https://go.vansh.nyc/14B)
-- 2026-11-01 — **ByteDance**: [Self-Built Engineer Intern, CDN Platform](https://go.vansh.nyc/14w)
-- 2026-11-01 — **ByteDance**: [Site Reliability Engineer Intern, Data Infra](https://go.vansh.nyc/14p)
 
 ## Recently closed
 
@@ -193,6 +193,7 @@ _Generated 2026-11-01_
 - Anduril — Software Engineer Intern
 - Aon — Actuarial Consulting Industrial Placement Intern - Actuarial Consulting - Pensions
 - Apex — Simulation Software Engineering Intern
+- APEX Analytix — Data Analyst Intern - Summer 2027
 - Apex Technology, Inc. — Software Engineering Intern, Embedded Systems
 - Apple — Aeon Modeling Software Intern
 - Apple — Cellular Baseband Design Verification Intern
@@ -389,7 +390,6 @@ _Generated 2026-11-01_
 - Clera — Computer Vision & Robotics Intern
 - Cleveland-Cliffs — Computer Science Engineer Intern
 - Coinbase — Strategic Finance Intern
-- Collier Aerospace — Software Engineer Intern
 - Commercial Metals — AI Intern
 - Commonwealth Fusion Systems — AI & Infrastructure Engineer Intern
 - Commonwealth Fusion Systems — Scientific Software Engineer Intern
@@ -583,30 +583,7 @@ _Generated 2026-11-01_
 - GM financial — Oracle Application Developer Intern
 - GM financial — Portfolio Analytics Intern
 - GM financial — Software Development Engineer Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - GoMaterials — Data Quality Intern - Winter 2027
 - Goodlord — Engineering Intern
 - Google — Software Engineering Intern
@@ -664,7 +641,7 @@ _Generated 2026-11-01_
 - IMC — Quantitative Research Intern (PHD)
 - IMC — Software Engineer Intern
 - Immuta — Full-Stack Engineering Intern - Summer 2027
-- InfiniteQuant — Quantitative Developer Internship - Summer 2027
+- InfiniteQuant — Quantitative Developer Intern
 - Inmar Intelligence — Data Science Intern
 - Innovative Systems — Software Engineering Intern/Co-op
 - Integrate — Software Engineering Intern
