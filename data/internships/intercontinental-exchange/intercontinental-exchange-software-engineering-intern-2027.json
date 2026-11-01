@@ -7,14 +7,14 @@
   },
   "role": "Software Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://ice.jibeapply.com/jobs/14075?icims=1",
+  "apply_url": "https://go.vansh.nyc/130",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Jacksonville",
-      "state": "FL",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-23",
+    "posted": "2026-10-31",
     "discovered": "2026-10-31",
-    "last_verified": "2026-10-31"
+    "last_verified": "2026-11-01"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

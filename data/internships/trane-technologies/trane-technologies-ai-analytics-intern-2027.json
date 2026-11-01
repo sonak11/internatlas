@@ -7,19 +7,19 @@
   },
   "role": "AI & Analytics Intern",
   "category": "ai",
-  "apply_url": "https://go.vansh.nyc/10w",
+  "apply_url": "https://careers.tranetechnologies.com/global/en/job/JR-7591",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Davidson",
-      "state": "NC",
+      "city": "Minneapolis",
+      "state": "MN",
       "country": "USA"
     },
     {
-      "city": "Minneapolis",
-      "state": "MN",
+      "city": "Davidson",
+      "state": "NC",
       "country": "USA"
     }
   ],
@@ -45,13 +45,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-30",
+    "posted": "2026-09-01",
     "discovered": "2026-09-01",
-    "last_verified": "2026-10-30"
+    "last_verified": "2026-11-01"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
