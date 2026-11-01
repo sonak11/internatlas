@@ -8,10 +8,10 @@ _Generated 2026-11-01_
 
 | Company | Listings |
 |---|---|
-| TikTok | 296 |
+| TikTok | 298 |
 | Tesla | 225 |
 | RTX | 205 |
-| ByteDance | 119 |
+| ByteDance | 120 |
 | Marvell | 92 |
 | Royal Bank of Canada | 90 |
 | Waymo | 81 |
@@ -33,19 +33,19 @@ _Generated 2026-11-01_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 5197 | `███████████████` |
+| software-engineering | 5200 | `███████████████` |
 | ai | 776 | `██` |
 | machine-learning | 424 | `█` |
 | quant | 382 | `█` |
 | data-science | 344 | `█` |
 | hardware | 324 | `█` |
-| research | 280 | `█` |
+| research | 283 | `█` |
 | product | 272 | `█` |
 | embedded | 236 | `█` |
 | design | 236 | `█` |
 | data-engineering | 185 | `█` |
 | security | 158 | `█` |
-| cloud | 135 | `█` |
+| cloud | 137 | `█` |
 
 ## Newest listings
 

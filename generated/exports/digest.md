@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-01
 
-## 🆕 New this week (907)
+## 🆕 New this week (912)
 
 - **42dot** — [Foundation Models Intern](https://go.vansh.nyc/WM) · software-engineering · —
 - **ABB** — [AI Robotics Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/AI-Robotics-Intern--Fall-2026_JR00044846) · ai · —
@@ -144,6 +144,7 @@
 - **ByteDance** — [Student Researcher Intern, Seed Model - LLM](https://go.vansh.nyc/142) · ai · —
 - **ByteDance** — [Student Researcher Intern, Seed Model: Multimodal Interaction & World Model](https://go.vansh.nyc/17J) · research · —
 - **ByteDance** — [Student Researcher Intern, Seed Model - Speech](https://go.vansh.nyc/141) · research · —
+- **ByteDance** — [Student Researcher Intern, Seed Model - Vision](https://joinbytedance.com/search/7623544831999346997) · research · —
 - **ByteDance** — [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14m) · machine-learning · —
 - **ByteDance** — [Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US](https://go.vansh.nyc/147) · machine-learning · —
 - **C&S Wholesale Grocers** — [IS Intern, Data Analytics & Data Science](https://go.vansh.nyc/12E) · data-science · —
@@ -677,6 +678,8 @@
 - **Shield AI** — [Software Engineer Intern](https://go.vansh.nyc/X7) · software-engineering · —
 - **ShopBack** — [Software Engineer Intern](https://go.vansh.nyc/13p) · software-engineering · —
 - **ShopBack** — [Software Engineer Intern](https://go.vansh.nyc/13o) · software-engineering · —
+- **Siemens Digital Industries Software** — [Strategic Student Program Digital Enterprise Software Applications Intern](https://go.vansh.nyc/18V) · software-engineering · —
+- **Siemens Digital Industries Software** — [Strategic Student Program Digital Enterprise Software Applications Intern](https://go.vansh.nyc/18U) · software-engineering · —
 - **Sierra Nevada Corporation** — [Cybersecurity Analyst Intern](https://go.vansh.nyc/VQ) · security · —
 - **Sierra Nevada Corporation** — [Firmware Engineering Intern](https://go.vansh.nyc/10G) · embedded · —
 - **Signify** — [Product Management Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366870) · product · —
@@ -823,6 +826,8 @@
 - **TikTok** — [Software Engineer Project Intern, Content AI Infrastructure](https://go.vansh.nyc/18G) · ai · —
 - **TikTok** — [Software Engineer Project Intern, Global E-Commerce Search Infrastructure](https://go.vansh.nyc/18y) · cloud · —
 - **TikTok** — [Software Engineer Project Intern, Lead Ads](https://go.vansh.nyc/18H) · software-engineering · —
+- **TikTok** — [Software Engineer Project Intern, Model Infrastructure](https://lifeattiktok.com/search/7624284785283746053) · cloud · —
+- **TikTok** — [Software Engineer Project Intern, Platform Efficiency](https://lifeattiktok.com/search/7530513185797359880) · software-engineering · —
 - **TikTok** — [Software Engineer Project Intern, Recommendation Infrastructure, Video Social](https://go.vansh.nyc/18F) · cloud · —
 - **TobogganLabs** — [Data Science Intern](https://go.vansh.nyc/13r) · data-science · —
 - **Toshiba International Corporation** — [Firmware Engineer Intern](https://go.vansh.nyc/11O) · embedded · —
