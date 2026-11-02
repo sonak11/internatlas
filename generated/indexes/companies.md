@@ -6,6 +6,7 @@
 |---|---|---|
 | [1Password](../companies/1password.md) | 18/19 | product, security, software-engineering |
 | [1X](../companies/1x.md) | 0/2 | ai, software-engineering |
+| [1st Source](../companies/1st-source.md) | 1/1 | security |
 | [3M](../companies/3m.md) | 1/1 | software-engineering |
 | [42dot](../companies/42dot.md) | 1/1 | software-engineering |
 | [7-Eleven](../companies/7-eleven.md) | 0/3 | ai, product |
@@ -477,7 +478,7 @@
 | [Democratic National Committee](../companies/democratic-national-committee.md) | 0/1 | software-engineering |
 | [Desjardins Group](../companies/desjardins-group.md) | 0/1 | software-engineering |
 | [Detroit Lions](../companies/detroit-lions.md) | 0/1 | quant |
-| [Deutsche Bank](../companies/deutsche-bank.md) | 3/6 | quant, software-engineering |
+| [Deutsche Bank](../companies/deutsche-bank.md) | 0/6 | quant, software-engineering |
 | [Dev Technology Group](../companies/dev-technology-group.md) | 0/4 | ai, machine-learning, software-engineering |
 | [Devon Energy](../companies/devon-energy.md) | 0/1 | data-engineering |
 | [Dexmate](../companies/dexmate.md) | 1/2 | research, software-engineering |
@@ -707,9 +708,9 @@
 | [GoMaterials](../companies/gomaterials.md) | 0/1 | software-engineering |
 | [Golden Analytics](../companies/golden-analytics.md) | 1/1 | software-engineering |
 | [Golden Pet Brands](../companies/golden-pet-brands.md) | 0/1 | software-engineering |
-| [Goldman Sachs](../companies/goldman-sachs.md) | 23/30 | product, quant, software-engineering |
+| [Goldman Sachs](../companies/goldman-sachs.md) | 0/30 | product, quant, software-engineering |
 | [Goodlord](../companies/goodlord.md) | 0/1 | software-engineering |
-| [Google](../companies/google.md) | 16/29 | data-science, hardware, product, research, software-engineering |
+| [Google](../companies/google.md) | 18/31 | data-science, hardware, product, research, software-engineering |
 | [Gordon Food Service](../companies/gordon-food-service.md) | 8/12 | data-engineering, data-science, product, software-engineering |
 | [GovSignals](../companies/govsignals.md) | 0/1 | software-engineering |
 | [Grant Thornton](../companies/grant-thornton.md) | 0/6 | ai, software-engineering |
@@ -915,7 +916,7 @@
 | [Kinder Morgan](../companies/kinder-morgan.md) | 3/4 | software-engineering |
 | [Kirin](../companies/kirin.md) | 0/2 | ai, quant |
 | [Klaviyo](../companies/klaviyo.md) | 2/2 | machine-learning, software-engineering |
-| [KnowBe4](../companies/knowbe4.md) | 0/2 | product, software-engineering |
+| [KnowBe4](../companies/knowbe4.md) | 3/3 | product, software-engineering |
 | [Koch Industries](../companies/koch-industries.md) | 5/5 | data-science, product, software-engineering |
 | [Kodak](../companies/kodak.md) | 0/1 | software-engineering |
 | [Kodiak Robotics](../companies/kodiak-robotics.md) | 1/7 | data-engineering, machine-learning, software-engineering |
@@ -1423,6 +1424,7 @@
 | [Seagate Technology](../companies/seagate-technology.md) | 4/4 | ai, embedded, machine-learning, software-engineering |
 | [Seaspan](../companies/seaspan.md) | 0/2 | software-engineering |
 | [SeatGeek](../companies/seatgeek.md) | 1/1 | software-engineering |
+| [Seattle Seahawks / First & Goal](../companies/seattle-seahawks-first-goal.md) | 1/1 | security |
 | [Securian Financial Group](../companies/securian-financial-group.md) | 0/1 | data-science |
 | [Semgrep](../companies/semgrep.md) | 1/1 | cloud |
 | [Semtech](../companies/semtech.md) | 10/10 | design, embedded, software-engineering |

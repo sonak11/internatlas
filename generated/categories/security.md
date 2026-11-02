@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**158** tracked · **124** open now
+**160** tracked · **126** open now
 
 ## Current openings
 
@@ -10,6 +10,7 @@
 |---|---|---|---|---|---|---|---|
 | [1Password](generated/companies/1password.md) | [Developer Intern, Data Security](https://go.vansh.nyc/eY) | USA +1 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [1Password](generated/companies/1password.md) | [Security Intern, Threat Operations](https://go.vansh.nyc/eI) | Remote | Remote | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| [1st Source](generated/companies/1st-source.md) | [Information Security Intern](https://go.vansh.nyc/192) | South Bend, IN | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [AbbVie](generated/companies/abbvie.md) | [Cybersecurity Intern, Business Technology Solutions](https://go.vansh.nyc/SW) | North Chicago, IL | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Adobe](generated/companies/adobe.md) | [Security Engineer Intern](https://go.vansh.nyc/cM) | San Jose, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Adobe](generated/companies/adobe.md) | [Security Engineer Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001) | San Jose, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
@@ -106,6 +107,7 @@
 | [Rivian](generated/companies/rivian.md) | [Cybersecurity Intern](https://go.vansh.nyc/Hk) | Palo Alto, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❌ |
 | [Rockwell Automation](generated/companies/rockwell-automation.md) | [Cybersecurity Intern](https://go.vansh.nyc/Vd) | Milwaukee, WI +1 | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
 | [Salesforce](generated/companies/salesforce.md) | [Software Engineer Intern, Security/Government](https://go.vansh.nyc/bA) | San Francisco, CA +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❌ |
+| [Seattle Seahawks / First & Goal](generated/companies/seattle-seahawks-first-goal.md) | [Information Security Intern](https://go.vansh.nyc/193) | Renton, WA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Sierra Nevada Corporation](generated/companies/sierra-nevada-corporation.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/VQ) | Sparks, NV | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
 | [TensorWave](generated/companies/tensorwave.md) | [Security Engineer Intern](https://go.vansh.nyc/H5) | Las Vegas, NV | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Information Security - Spring 2027](https://www.tesla.com/careers/search/job/281473) | Bellevue, WA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
@@ -190,6 +192,7 @@
 - Visa (2)
 - Marvell (2)
 - Robinhood (2)
+- 1st Source (1)
 - AbbVie (1)
 - ADT (1)
 - Allison Transmission (1)
@@ -248,6 +251,7 @@
 - Rivian (1)
 - Rockwell Automation (1)
 - Salesforce (1)
+- Seattle Seahawks / First & Goal (1)
 - Sierra Nevada Corporation (1)
 - TensorWave (1)
 - The Nuclear Company (1)

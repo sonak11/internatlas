@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**283** tracked · **167** open now
+**285** tracked · **169** open now
 
 ## Current openings
 
@@ -41,7 +41,7 @@
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern - Video and Edge - Multimedia Lab](https://jobs.bytedance.com/en/position/7702155940239264005/detail) | San Jose, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Student Researcher Intern, Seed Model - Infra - Compiler](https://go.vansh.nyc/148) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Student Researcher Intern, Seed Model - Speech](https://go.vansh.nyc/141) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
-| [ByteDance](generated/companies/bytedance.md) | [Student Researcher Intern, Seed Model - Vision](https://joinbytedance.com/search/7623544831999346997) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
+| [ByteDance](generated/companies/bytedance.md) | [Student Researcher Intern, Seed Model - Vision](https://go.vansh.nyc/18Y) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
 | [ByteDance](generated/companies/bytedance.md) | [Student Researcher Intern, Seed Model: Multimodal Interaction & World Model](https://go.vansh.nyc/17J) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
 | [Capital One](generated/companies/capital-one.md) | [Applied Research Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Current-PhD--Applied-Research-Internship-Program---Summer-2027_R244323-1) | San Jose, CA +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Cartesian Systems](generated/companies/cartesian-systems.md) | [Research Assistant Micro-Intern - IAP - Alumni Host](https://job-boards.greenhouse.io/cartesiansystems/jobs/4408725009) | Cambridge, MA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
@@ -69,6 +69,8 @@
 | [Google](generated/companies/google.md) | [Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/86701057991680710) | Palo Alto, CA +27 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Student Researcher Intern](https://www.google.com/about/careers/applications/jobs/results/104405499448828614) | Montreal | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Student Researcher Intern](https://www.google.com/about/careers/applications/jobs/results/131518356678156998) | Mountain View, CA +24 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
+| [Google](generated/companies/google.md) | [Student Researcher Intern](https://go.vansh.nyc/18X) | Mountain View, CA +24 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
+| [Google](generated/companies/google.md) | [Student Researcher Intern](https://go.vansh.nyc/18W) | Montreal | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Student Researcher Intern](https://go.vansh.nyc/15I) | Waterloo +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Huck Adventures](generated/companies/huck-adventures.md) | [Research Analyst Intern](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535) | Boulder, CO | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [Immuta](generated/companies/immuta.md) | [Product Research Intern](https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply) | College Park, MD | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
@@ -302,8 +304,8 @@
 - Meta (11)
 - Pennsylvania State University (8)
 - General Motors (7)
+- Google (7)
 - Dow Jones (5)
-- Google (5)
 - AQR Capital Management (4)
 - Tencent (4)
 - Toyota Research Institute (4)

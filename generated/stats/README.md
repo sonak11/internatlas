@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-11-01_
+_Generated 2026-11-02_
 
 ## Top hiring companies
 
@@ -33,18 +33,18 @@ _Generated 2026-11-01_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 5200 | `███████████████` |
+| software-engineering | 5201 | `███████████████` |
 | ai | 776 | `██` |
 | machine-learning | 424 | `█` |
 | quant | 382 | `█` |
 | data-science | 344 | `█` |
 | hardware | 324 | `█` |
-| research | 283 | `█` |
+| research | 285 | `█` |
 | product | 272 | `█` |
 | embedded | 236 | `█` |
 | design | 236 | `█` |
 | data-engineering | 185 | `█` |
-| security | 158 | `█` |
+| security | 160 | `█` |
 | cloud | 137 | `█` |
 
 ## Newest listings
@@ -142,7 +142,6 @@ _Generated 2026-11-01_
 - American Express — Cybersecurity Intern
 - American Express — Data Analytics Intern - Enterprise Technology Services
 - American Express — Data Analytics Intern - Enterprise Technology Services
-- American Express — Data Engineer Intern - Enterprise Technology Services
 - American Express — Data Engineer Intern - Enterprise Technology Services
 - American Express — Data Engineer Intern, Enterprise Technology Services
 - American Express — Data Engineer Intern - Enterprise Technology Services
@@ -439,6 +438,9 @@ _Generated 2026-11-01_
 - Deloitte — Audit & Assurance Intern - AI and Data Science
 - Deloitte — Audit & Assurance Intern - Valuation & Analytics
 - Demco Products — IT Intern
+- Deutsche Bank — Quantitative Analyst Intern - GSA
+- Deutsche Bank — Quantitative FIC Intern - Quantitative Trading
+- Deutsche Bank — Quantitative Research and Development Labs Sales and Trading Intern - Quantitative Research and Development Labs
 - Deutsche Bank — Technology, Data and Innovation Intern - Technology, Data and Innovation
 - Dick's Sporting Goods — Retail Analytics Intern - Corporate Internship
 - DIRECTV — Customer Operations Intern
@@ -583,7 +585,30 @@ _Generated 2026-11-01_
 - GM financial — Oracle Application Developer Intern
 - GM financial — Portfolio Analytics Intern
 - GM financial — Software Development Engineer Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
 - Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - GoMaterials — Data Quality Intern - Winter 2027
 - Goodlord — Engineering Intern
 - Google — Software Engineering Intern
@@ -750,8 +775,6 @@ _Generated 2026-11-01_
 - Marvell — Firmware Engineer Intern Co-op
 - Marvell — Security Verification/Validation Engineer Intern
 - Marvell — Security Verification/Validation Engineer Intern
-- Marvell — Test Engineer Intern
-- Marvell — Test Engineer Intern
 - Marvell — Test Engineering Intern
 - Mastercard — Data Engineer Intern
 - Maven Securities — Software Developer Intern
@@ -1000,7 +1023,6 @@ _Generated 2026-11-01_
 - Royal Bank of Canada — Developer Intern
 - Royal Bank of Canada — Model Risk Intern
 - Royal Bank of Canada — Retail Risk Modeling Analyst Intern
-- Royal Bank of Canada — Software Development Intern - Wealth Management Technology
 - RTX — Aerospace Engineering Intern - APU Programs Support
 - RTX — Customer First Centre Intern - Customer First Centre - Technical Helpdesk
 - RTX — Data Analyst Intern - Spare Parts Services
@@ -1184,14 +1206,11 @@ _Generated 2026-11-01_
 - TD Bank — Data Engineer Intern/Co-op - Winter 2027
 - TD Bank — Life & Health Product Management Co-op Intern
 - TD Bank — Portfolio Analytics Data Analyst Intern/Co-op
-- TD Bank — Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027
 - TD Bank — Portfolio Analytics Developer Intern/Co-op
-- TD Bank — Portfolio Analytics Developer Intern/Co-op - Winter 2027
 - TD Bank — Wealth Operations Automation Intern Co-op
 - Tencent — Data Science Intern
 - Terranox AI — Summer Intern - AI/ML Engineering
 - Tesco — Software Engineer Intern
-- Tesla — Actuator Test Engineer Intern - Optimus
 - Tesla — Applied AI Engineer Intern - AI Hardware
 - Tesla — Audio & Sensor Software Engineer Intern - Vehicle Engineering
 - Tesla — Cell Engineering Intern - Cell Qualification
@@ -1224,10 +1243,8 @@ _Generated 2026-11-01_
 - The Federal Reserve System — System IT Intern, Credit Risk Management
 - The Federal Reserve System — Technology Risk Intern
 - The Federal Reserve System — Windows Intern
-- The Home Depot — AI Machine Learning Developer Intern
 - The Home Depot — Data Science & Analytics Intern
 - The Home Depot — Data Science Intern
-- The Home Depot — Full Stack Software Developer Intern
 - The Home Depot — Product Management Intern
 - The Home Depot — Software Engineer Intern
 - The Toro Company — Ecommerce Data Analytics Intern
