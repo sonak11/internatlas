@@ -33,7 +33,7 @@ _Generated 2026-11-02_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 5201 | `███████████████` |
+| software-engineering | 5204 | `███████████████` |
 | ai | 776 | `██` |
 | machine-learning | 424 | `█` |
 | quant | 382 | `█` |
@@ -44,11 +44,12 @@ _Generated 2026-11-02_
 | embedded | 236 | `█` |
 | design | 236 | `█` |
 | data-engineering | 185 | `█` |
-| security | 160 | `█` |
+| security | 161 | `█` |
 | cloud | 137 | `█` |
 
 ## Newest listings
 
+- 2026-11-02 — **Microsoft**: [First-Year Explore Program Engineering Intern](https://go.vansh.nyc/199)
 - 2026-11-01 — **AeroVect**: [Autonomy Intern](https://go.vansh.nyc/18I)
 - 2026-11-01 — **ByteDance**: [Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14f)
 - 2026-11-01 — **ByteDance**: [Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US](https://go.vansh.nyc/149)
@@ -68,14 +69,15 @@ _Generated 2026-11-02_
 - 2026-11-01 — **ByteDance**: [Network Software Development Engineer Intern, Network Observation](https://go.vansh.nyc/14x)
 - 2026-11-01 — **ByteDance**: [Network Software Development Engineer Intern, Network Switch](https://go.vansh.nyc/14y)
 - 2026-11-01 — **ByteDance**: [Production System Engineer Project Intern, Server DevOps](https://go.vansh.nyc/14j)
-- 2026-11-01 — **ByteDance**: [Production System Engineer Project Intern, Server DevOps](https://go.vansh.nyc/14e)
 
 ## Recently closed
 
 - 1Password — Data Intern - Product Analytics
 - 1X — AI Residency Intern
 - 7-Eleven — AI Analyst / AI Automation Specialist Intern
+- ABB — AI Engineering Intern, Business Systems
 - ABB — Application Engineering Intern
+- ABB — ERP Intern, AI Engineering
 - ABB — R&D Software Engineer Intern
 - AbbVie — Business Technology Solutions Intern - Data & Software Engineering
 - AbbVie — Business Technology Solutions Intern - Data & Software Engineering - Undergraduate
@@ -89,6 +91,7 @@ _Generated 2026-11-02_
 - AeroVironment — Software Engineering Intern
 - AeroVironment — Software Engineering Intern
 - AGCO — Business Intelligence Intern
+- Airbnb — Strategic Finance & Analytics Intern (MBA)
 - Airbus — Operational Excellence Analyst Intern - Data Analytics - Operational Excellence
 - Airbus — Operations Analyst Intern
 - Airbus — Radio Frequency Intern
@@ -364,6 +367,7 @@ _Generated 2026-11-02_
 - Ciena — Hardware Design and Verification Intern - PCBA
 - Ciena — Modem Hardware Engineer Intern/Co-op
 - Ciena — Software Developer Intern
+- Cigna Group — Data & Analytics Engineering Intern - Technology Development Program
 - Cirrus Logic — Embedded Firmware Engineer Intern
 - Cirrus Logic — Embedded Software Test Engineer Intern
 - Cisco — AI Operations Engineer I Intern
@@ -706,6 +710,9 @@ _Generated 2026-11-02_
 - Johns Manville — Product Management Intern
 - Johnson & Johnson — Technology and Digital Quality Intern
 - JP Morgan Chase — Asset Management Data Scientist – Summer Associate Intern
+- JP Morgan Chase — Data & AI Intern - Data & AI Program
+- JP Morgan Chase — Software Engineer Intern - Immersion Program
+- JP Morgan Chase — Software Engineer Intern - Summer Internship
 - Jump Trading — Campus ML Research Engineer Intern
 - Jump Trading — Campus ML Research Engineer (Intern)
 - k-ID — Engineering Intern - Program
@@ -723,6 +730,9 @@ _Generated 2026-11-02_
 - Kinaxis — Developer Intern - Back End Technologies
 - KKR — Summer Analyst Intern - Insurance Risk - Data Science
 - KKR — Summer Analyst Intern - Insurance Risk - Quantitative Asset Liability Management/Liquidity Risk
+- KnowBe4 — Associate Product Manager Intern
+- KnowBe4 — Software Engineer Intern
+- KnowBe4 — Software Engineer Intern
 - Kodiak Robotics — Behavior Planning Intern - Motion Planning
 - Kodiak Robotics — Planning Intern - Mission Planning
 - Kodiak Robotics — Planning Intern, Mission Planning
@@ -839,6 +849,10 @@ _Generated 2026-11-02_
 - Nissan — AI & Data Analytics Intern
 - Nissan — AI & Data Analytics Intern
 - NJ Department of Environmental Protection — Economic Analysis Intern
+- Nokia — Automation Engineer Co-op Intern
+- Nokia — Data Scientist Co-op/Intern
+- Nokia — Hardware Engineer Co-op Intern - IP Routing
+- Nokia — Optical Test Intern Co-op
 - Northmarq — Software Engineering Intern
 - Northrop Grumman — Computer Engineer Intern
 - Northrop Grumman — Computer Engineer Intern
@@ -1009,6 +1023,7 @@ _Generated 2026-11-02_
 - Roblox — Product Management Intern
 - Roblox — [Summer 2027] Product Design Intern
 - Roche — Computer Science Industrial Placement Student Intern - Data Capability
+- Roche — Data Science Intern - Multiple Teams
 - Rocket Lab USA — Electrical Engineering Intern
 - ROCKWOOL Group — Associate Product Management Intern
 - Rogue Fitness — AI Engineer Intern
@@ -1243,6 +1258,10 @@ _Generated 2026-11-02_
 - The Federal Reserve System — System IT Intern, Credit Risk Management
 - The Federal Reserve System — Technology Risk Intern
 - The Federal Reserve System — Windows Intern
+- The Hartford — Data Engineer Intern - Technology, Data, AI, and Operations
+- The Hartford — Data Engineer Intern, Technology, Data, AI, and Operations
+- The Hartford — Software Engineer Intern - Tech & Data Program
+- The Hartford — Software Engineer Intern, Tech & Data Program
 - The Home Depot — Data Science & Analytics Intern
 - The Home Depot — Data Science Intern
 - The Home Depot — Product Management Intern

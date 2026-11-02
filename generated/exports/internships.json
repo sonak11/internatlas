@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-02",
-  "count": 8962,
+  "count": 8966,
   "internships": [
     {
       "schema_version": "1.0",
@@ -1670,7 +1670,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -2006,7 +2006,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -8822,7 +8822,7 @@
         "discovered": "2026-10-16",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -96819,7 +96819,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -149589,6 +149589,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "fhlbank-chicago-application-development-intern-2027",
+      "company": {
+        "name": "FHLBank Chicago",
+        "slug": "fhlbank-chicago"
+      },
+      "role": "Application Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/196",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-02",
+        "last_verified": "2026-11-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "fidelity-investments-data-strategy-intern-2027",
       "company": {
         "name": "Fidelity Investments",
@@ -200723,6 +200775,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "iat-insurance-group-cyber-security-intern-2027",
+      "company": {
+        "name": "IAT Insurance Group",
+        "slug": "iat-insurance-group"
+      },
+      "role": "Cyber Security Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/197",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Raleigh",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-02",
+        "last_verified": "2026-11-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "iat-insurance-group-data-engineering-visualization-intern-2027-aad90d",
       "company": {
         "name": "IAT Insurance Group",
@@ -221835,7 +221939,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -222531,7 +222635,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -222681,7 +222785,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -231379,7 +231483,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -231431,7 +231535,7 @@
         "discovered": "2026-11-02",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -231483,7 +231587,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -265173,6 +265277,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "microsoft-first-year-explore-program-engineering-intern-2027",
+      "company": {
+        "name": "Microsoft",
+        "slug": "microsoft"
+      },
+      "role": "First-Year Explore Program Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/199",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redmond",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-02",
+        "discovered": "2026-11-02",
+        "last_verified": "2026-11-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "microsoft-full-stack-product-engineer-intern-web-services-2026",
       "company": {
         "name": "Microsoft",
@@ -286991,7 +287147,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -287095,7 +287251,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -287403,7 +287559,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -287613,7 +287769,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -346405,7 +346561,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -388958,6 +389114,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "standard-aero-it-analyst-intern-2027",
+      "company": {
+        "name": "Standard Aero",
+        "slug": "standard-aero"
+      },
+      "role": "IT Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/198",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cincinnati",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-02",
+        "last_verified": "2026-11-02"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "stanley-black-decker-embedded-software-engineering-intern-2027-4aafa3",
       "company": {
         "name": "Stanley Black & Decker",
@@ -419409,7 +419617,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -419463,7 +419671,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -419582,7 +419790,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -419636,7 +419844,7 @@
         "discovered": "2026-08-24",
         "last_verified": "2026-11-02"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
