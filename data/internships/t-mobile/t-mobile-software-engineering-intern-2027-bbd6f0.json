@@ -1,17 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "vsp-vision-software-engineer-intern-2027-c47878",
+  "id": "t-mobile-software-engineering-intern-2027-bbd6f0",
   "company": {
-    "name": "VSP Vision",
-    "slug": "vsp-vision"
+    "name": "T-Mobile",
+    "slug": "t-mobile"
   },
-  "role": "Software Engineer Intern",
+  "role": "Software Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10071",
+  "apply_url": "https://go.vansh.nyc/19r",
   "season": "summer",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "New York",
+      "state": "NY",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -34,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-28",
-    "discovered": "2026-10-30",
+    "posted": "2026-11-02",
+    "discovered": "2026-11-02",
     "last_verified": "2026-11-02"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

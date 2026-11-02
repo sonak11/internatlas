@@ -14,6 +14,8 @@
 | The Federal Reserve System | [Innovation Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Innovation-Intern_R-0000033884) | Atlanta, GA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | The Federal Reserve System | [Innovation Intern](https://go.vansh.nyc/Qt) | Atlanta, GA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❌ |
 | The Federal Reserve System | [REIN Data Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---REIN-Data-Intern_R-0000033089) | Atlanta, GA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| The Federal Reserve System | [Supervision & Regulation Intern - Business Relationship](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Supervision---Regulation--Business-Relationship-_R-0000033860) | Atlanta, GA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| The Federal Reserve System | [Supervision & Regulation Intern, Cybersecurity](https://go.vansh.nyc/19i) | Atlanta, GA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❌ |
 | The Federal Reserve System | [Analyst Intern - Summer 2027](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Kansas-City-MO/Internship--Analyst---Summer-2027_R-0000033129-1) | Kansas City, MO | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | The Federal Reserve System | [Business Survey Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Fall-2026-Business-Survey-Intern_R-0000032532) | Richmond, VA | Onsite | 2026-06-17 | Rolling | 🔴 Closed | ❔ |
 | The Federal Reserve System | [Graduate Intern - Markets Group](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern---Markets-Group---New-York---Graduate-Intern_R-0000033033) | NYC | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
@@ -34,4 +36,4 @@
 
 ## Related
 
-Browse more roles in: [📊 Data Science](../categories/data-science.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [📊 Data Science](../categories/data-science.md), [🔬 Research](../categories/research.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

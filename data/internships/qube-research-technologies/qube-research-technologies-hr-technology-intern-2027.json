@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "knowbe4-software-engineer-intern-2027-c31575",
+  "id": "qube-research-technologies-hr-technology-intern-2027",
   "company": {
-    "name": "KnowBe4",
-    "slug": "knowbe4"
+    "name": "Qube Research & Technologies",
+    "slug": "qube-research-technologies"
   },
-  "role": "Software Engineer Intern",
+  "role": "HR Technology Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002",
-  "season": "summer",
+  "apply_url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926642002",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Clearwater",
-      "state": "FL",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -25,7 +24,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,11 +41,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-01",
+    "posted": "2026-11-02",
     "discovered": "2026-11-02",
     "last_verified": "2026-11-02"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**344** tracked · **198** open now
+**348** tracked · **202** open now
 
 ## Current openings
 
@@ -40,6 +40,7 @@
 | [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137) | Charleston, SC | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern - University](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408) | Annapolis Junction, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Booz Allen](generated/companies/booz-allen.md) | [Data Scientist Intern - University - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409) | Fort Walton Beach, FL | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| [Booz Allen Hamilton](generated/companies/booz-allen-hamilton.md) | [Data Scientist Intern](https://go.vansh.nyc/19s) | Detroit, MI | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [C&S Wholesale Grocers](generated/companies/c-s-wholesale-grocers.md) | [IS Intern, Data Analytics & Data Science](https://go.vansh.nyc/12E) | Edison, NJ | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [C3.ai](generated/companies/c3-ai.md) | [Data Scientist Intern](https://job-boards.greenhouse.io/c3ascend/jobs/8738917002) | Redwood City, CA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [C3.ai](generated/companies/c3-ai.md) | [Data Scientist Intern - Summer 2027](https://c3.ai/job-description/8738918002?gh_jid=8738918002) | Redwood City, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -51,6 +52,8 @@
 | [Coinbase](generated/companies/coinbase.md) | [Data Science Intern, Strategy, Execution, & Analytics Platform](https://go.vansh.nyc/Mu) | San Francisco, CA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Constellation Energy](generated/companies/constellation-energy.md) | [Quantitative Analytics & Data Science Intern](https://jobs.constellationenergy.com/jobs/139494?icims=1) | Baltimore, MD | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Constellation Energy](generated/companies/constellation-energy.md) | [Quantitative Analytics & Data Science Intern](https://go.vansh.nyc/DR) | Baltimore, MD | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
+| [CoStar Group](generated/companies/costar-group.md) | [Data Science Intern](https://go.vansh.nyc/19c) | Richmond, VA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| [CoStar Group](generated/companies/costar-group.md) | [Data Science Intern](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140) | Richmond, VA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [CSAA Insurance Group](generated/companies/csaa-insurance-group.md) | [Data Science Intern](https://aaaie.wd1.myworkdayjobs.com/CSAACareers2/job/Arizona---Home-Teleworkers/Data-Science-Intern_R8002) | Phoenix, AZ | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [CVS Health](generated/companies/cvs-health.md) | [Data Science Intern, Innovation & Technology](https://go.vansh.nyc/fm) | New York, NY | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [CVS Health](generated/companies/cvs-health.md) | [Innovation & Technology Data Science Intern](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067) | NYC | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
@@ -157,6 +160,7 @@
 | [Sallie Mae](generated/companies/sallie-mae.md) | [Data Science and Engineering Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659) | Newark, DE +1 | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [SAS](generated/companies/sas.md) | [Data Science Research Intern](https://go.vansh.nyc/H0) | Bloomington, MN | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | [Schonfeld](generated/companies/schonfeld.md) | [Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) | NYC | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
+| [Sierra Nevada Corporation](generated/companies/sierra-nevada-corporation.md) | [Data Science Intern - Summer 2027](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257) | Sparks, NV | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Simbe Robotics](generated/companies/simbe-robotics.md) | [Data Analytics & Data Science Intern](https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f/apply) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Simbe Robotics](generated/companies/simbe-robotics.md) | [Data Analytics & Data Science Intern](https://go.vansh.nyc/hK) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [SOTI](generated/companies/soti.md) | [Data Scientist Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571) | Mississauga | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
@@ -387,8 +391,10 @@
 - Allstate (2)
 - Ardian (2)
 - AutoZone (2)
+- Booz Allen Hamilton (2)
 - C3.ai (2)
 - Constellation Energy (2)
+- CoStar Group (2)
 - Edison International (2)
 - First Solar (US) (2)
 - Highmark Health (2)
@@ -485,6 +491,7 @@
 - Sallie Mae (1)
 - SAS (1)
 - Schonfeld (1)
+- Sierra Nevada Corporation (1)
 - Strada Education Foundation (1)
 - Syngenta Group (1)
 - The Hartford (1)
@@ -505,7 +512,6 @@
 - Ascension (1)
 - AtkinsRéalis (1)
 - Barr (1)
-- Booz Allen Hamilton (1)
 - CACI (1)
 - Citizens Financial Group (1)
 - Clarios (1)

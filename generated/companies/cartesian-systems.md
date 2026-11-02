@@ -7,7 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Cartesian Systems | [Research Assistant Micro-Intern - IAP - Alumni Host](https://job-boards.greenhouse.io/cartesiansystems/jobs/4408725009) | Cambridge, MA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
-| Cartesian Systems | [Software Engineer Intern](https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009) | Cambridge, MA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
+| Cartesian Systems | [Software Engineer Intern](https://job-boards.greenhouse.io/cartesiansystems/jobs/4408204009) | Cambridge, MA | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

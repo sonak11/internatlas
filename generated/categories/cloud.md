@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**137** tracked · **101** open now
+**137** tracked · **100** open now
 
 ## Current openings
 
@@ -41,7 +41,6 @@
 | [DotDash Meredith](generated/companies/dotdash-meredith.md) | [Cloud Platform Engineering Intern](https://go.vansh.nyc/GX) | Edmonton +1 | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [DRW](generated/companies/drw.md) | [Platform Engineer Intern](https://go.vansh.nyc/5p) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Election Systems & Software](generated/companies/election-systems-software.md) | [DevOps Intern](https://go.vansh.nyc/fY) | Omaha, NE | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
-| [Gallup](generated/companies/gallup.md) | [DevOps Engineer Intern](https://go.vansh.nyc/N5) | Omaha, NE | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [GardaWorld](generated/companies/gardaworld.md) | [Infrastructure Engineer Intern](https://go.vansh.nyc/10Z) | Wayzata, MN | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [General Dynamics Mission Systems](generated/companies/general-dynamics-mission-systems.md) | [DevOps Engineer Intern](https://go.vansh.nyc/12S) | Pittsburgh, PA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❌ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Software Engineer Intern - Cloud Platform](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034) | Santa Clara, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
@@ -124,6 +123,7 @@
 | [Etched](generated/companies/etched.md) | [Infrastructure Intern](https://jobs.ashbyhq.com/Etched/e56469e3-7398-4d83-9fe3-3f8ab1b10468) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🔴 Closed | ❔ |
 | [Etched](generated/companies/etched.md) | [Infrastructure Intern](https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🔴 Closed | ❔ |
 | [Etched](generated/companies/etched.md) | [Infrastructure Intern](https://jobs.ashbyhq.com/Etched/65348db2-5658-41d0-a833-af222865d979) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🔴 Closed | ❔ |
+| [Gallup](generated/companies/gallup.md) | [DevOps Engineer Intern](https://go.vansh.nyc/N5) | Omaha, NE | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Hitachi Energy](generated/companies/hitachi-energy.md) | [Cloud & Data Specialist Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/Intern---Cloud---Data-Specialist--67651-_R0138533) | London | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [Manhattan Associates](generated/companies/manhattan-associates.md) | [Cloud Intern](https://go.vansh.nyc/MX) | Atlanta, GA | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern - Cloud & Distributed Backend](https://apply.careers.microsoft.com/careers/job/1970393556922923) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
@@ -174,7 +174,6 @@
 - DotDash Meredith (1)
 - DRW (1)
 - Election Systems & Software (1)
-- Gallup (1)
 - GardaWorld (1)
 - General Dynamics Mission Systems (1)
 - GlobalFoundries (1)
@@ -210,6 +209,7 @@
 - TransMarket Group (1)
 - Air Products (1)
 - Crowe (1)
+- Gallup (1)
 - Hitachi Energy (1)
 - Manhattan Associates (1)
 - National Laboratory of the Rockies (1)

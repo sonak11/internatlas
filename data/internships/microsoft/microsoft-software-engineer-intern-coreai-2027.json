@@ -7,13 +7,14 @@
   },
   "role": "Software Engineer Intern, CoreAI",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/5H",
+  "apply_url": "https://go.vansh.nyc/19t",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Multiple Locations",
+      "city": "Redmond",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -41,7 +42,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
+    "posted": "2026-11-02",
     "discovered": "2026-08-03",
     "last_verified": "2026-11-02"
   },

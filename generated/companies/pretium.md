@@ -6,8 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Pretium | [AI, Data & Innovation Intern](https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868243002) | NYC | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Pretium | [Quantitative Strategies Intern](https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868465002) | NYC | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
+| Pretium | [AI, Data & Innovation Intern](https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868243002) | NYC | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

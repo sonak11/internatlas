@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**185** tracked · **97** open now
+**185** tracked · **95** open now
 
 ## Current openings
 
@@ -20,8 +20,6 @@
 | [Auto-Owners Insurance](generated/companies/auto-owners-insurance.md) | [Data Engineering Intern - Summer 2027](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318) | Lansing, MI | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [CapTech Consulting](generated/companies/captech-consulting.md) | [Data Analysis/Data Engineering Intern](https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169) | Richmond, VA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [CapTech Consulting](generated/companies/captech-consulting.md) | [Data Analysis/Data Engineering Intern](https://go.vansh.nyc/BY) | Richmond, VA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
-| [CHS](generated/companies/chs.md) | [Data Engineer Intern](https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Engineer-Intern-MN-55077-1721/1443601900/?ats=successfactors) | Inver Grove Heights, MN | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
-| [CHS](generated/companies/chs.md) | [Data Engineer Intern](https://go.vansh.nyc/Tg) | Inver Grove Heights, MN | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [CHS](generated/companies/chs.md) | [Data Engineer Intern](https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Engineer-Intern-MN-55077-1721/1443597100/?ats=successfactors) | Inver Grove Heights, MN | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Citizens Financial Group](generated/companies/citizens-financial-group.md) | [Data Engineer Intern - Enterprise Technology & Security](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) | Plano, TX +2 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Analytics Engineer Intern](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
@@ -125,6 +123,8 @@
 | [Capital One](generated/companies/capital-one.md) | [Data Analytics Engineering Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering---Winter-2027_R999617-1) | Toronto | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Castleton Commodities International](generated/companies/castleton-commodities-international.md) | [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346) | Stamford, CT +2 | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
 | [Charles Schwab](generated/companies/charles-schwab.md) | [Data Engineering Intern - Data Engineering](https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false) | Austin, TX +2 | Onsite | 2026-08-29 | Rolling | 🔴 Closed | ❔ |
+| [CHS](generated/companies/chs.md) | [Data Engineer Intern](https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Engineer-Intern-MN-55077-1721/1443601900/?ats=successfactors) | Inver Grove Heights, MN | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
+| [CHS](generated/companies/chs.md) | [Data Engineer Intern](https://go.vansh.nyc/Tg) | Inver Grove Heights, MN | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
 | [Cigna Group](generated/companies/cigna-group.md) | [Data & Analytics Engineering Intern - Technology Development Program](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/The-Cigna-Group-s-Technology-Development-Program---Data---Analytics-Engineering-Track-Summer-Internship_26009533) | Bloomington, MN +3 | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [People Analytics Data Engineer Intern](https://boards.greenhouse.io/cloudflare/jobs/8241790) | Austin, TX | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [People Analytics Data Engineering Intern (Winter/Spring 2027)](https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790) | Hybrid | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |

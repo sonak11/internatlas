@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Plexus | [Digital Engineer Intern](https://go.vansh.nyc/8W) | Neenah, WI | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
+| Plexus | [Software Engineer Intern](https://go.vansh.nyc/19m) | Neenah, WI | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

@@ -16,6 +16,7 @@
 | Microsoft | [Software Engineer Intern, AI/ML & LLM](https://go.vansh.nyc/5K) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ✅ |
 | Microsoft | [Software Engineer Intern, Cloud & Distributed Backend](https://go.vansh.nyc/5L) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ✅ |
 | Microsoft | [Software Engineer Intern, CoreAI](https://go.vansh.nyc/5H) | Multiple Locations | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| Microsoft | [Software Engineer Intern, CoreAI](https://go.vansh.nyc/19t) | Redmond, WA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Software Engineer Intern, Data Platform/Analytics](https://go.vansh.nyc/5I) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ✅ |
 | Microsoft | [Software Engineer Intern, Fullstack Product (Web + Services)](https://go.vansh.nyc/5M) | Multiple Locations | Onsite | 2026-08-04 | Rolling | 🟢 Open | ✅ |
 | Microsoft | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/e6) | Cambridge, MA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |

@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| GE Aerospace | [Artificial Intelligence Intern](https://go.vansh.nyc/19l) | USA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | GE Aerospace | [Engines Engineering Intern - Computer or Software Engineering](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) | Lynn, MA +1 | Onsite | 2026-08-17 | Rolling | 🟢 Open | ❔ |
 | GE Aerospace | [Applied AI Intern](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) | Evendale, OH +1 | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | GE Aerospace | [Digital Technology Intern - Multiple Teams](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Digital-Technology-Intern---US---Cincinnati--OH---Summer-2027_R5029739-1) | Evendale, OH | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
