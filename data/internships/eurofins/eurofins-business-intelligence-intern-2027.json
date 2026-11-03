@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "transamerica-data-analytics-intern-2027-d413df",
+  "id": "eurofins-business-intelligence-intern-2027",
   "company": {
-    "name": "Transamerica",
-    "slug": "transamerica"
+    "name": "Eurofins",
+    "slug": "eurofins"
   },
-  "role": "Data Analytics Intern",
+  "role": "Business Intelligence Intern",
   "category": "software-engineering",
-  "apply_url": "https://transamerica.wd5.myworkdayjobs.com/US/job/Cedar-Rapids-Iowa/Data-Analytics-Intern--Spring-2027--Full-time-Hours-_R20062776",
-  "season": "spring",
+  "apply_url": "https://go.vansh.nyc/1dC",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cedar Rapids",
-      "state": "IA",
+      "city": "Lancaster",
+      "state": "PA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-18",
+    "posted": "2026-11-03",
     "discovered": "2026-11-03",
     "last_verified": "2026-11-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

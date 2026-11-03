@@ -1,23 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "notion-software-engineer-intern-winter-2027-2027-60b57e",
+  "id": "nvidia-ai-compiler-and-kernel-intern-2027-62e7ab",
   "company": {
-    "name": "Notion",
-    "slug": "notion"
+    "name": "NVIDIA",
+    "slug": "nvidia"
   },
-  "role": "Software Engineer Intern - Winter 2027",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8/application?embed=true",
-  "season": "winter",
+  "role": "AI Compiler and Kernel Intern",
+  "category": "ai",
+  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -29,7 +26,8 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters"
+      "masters",
+      "phd"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -45,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-08-15",
+    "posted": "2026-11-02",
+    "discovered": "2026-11-03",
     "last_verified": "2026-11-03"
   },
   "status": "open",

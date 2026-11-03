@@ -7,14 +7,15 @@
   },
   "role": "Quantitative Services Intern",
   "category": "quant",
-  "apply_url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Quantitative-Services_R0124311-2",
+  "apply_url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Intern---Quantitative-Services_R0124310-2",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Boston",
+      "state": "MA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -44,9 +45,9 @@
   "dates": {
     "posted": "2026-10-14",
     "discovered": "2026-10-14",
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-11-03"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

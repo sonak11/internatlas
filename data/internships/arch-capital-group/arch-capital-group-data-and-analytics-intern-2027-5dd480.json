@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "soti-software-developer-intern-2027-0a4c30",
+  "id": "arch-capital-group-data-and-analytics-intern-2027-5dd480",
   "company": {
-    "name": "SOTI",
-    "slug": "soti"
+    "name": "Arch Capital Group",
+    "slug": "arch-capital-group"
   },
-  "role": "Software Developer Intern",
+  "role": "Data and Analytics Intern",
   "category": "software-engineering",
-  "apply_url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer-Intern---SOTI-MobiControl-Apple-HQ--January-2027-12-Months-_R10551-2",
-  "season": "winter",
+  "apply_url": "https://go.vansh.nyc/1dE",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mississauga",
-      "country": "ON"
+      "city": "Farmington",
+      "state": "CT",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-13",
-    "discovered": "2026-10-21",
+    "posted": "2026-11-03",
+    "discovered": "2026-11-03",
     "last_verified": "2026-11-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
