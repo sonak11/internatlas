@@ -7,14 +7,15 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933",
+  "apply_url": "https://go.vansh.nyc/1bc",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Arlington County",
-      "country": "Arlington"
+      "city": "Arlington",
+      "state": "VA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -41,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-06",
+    "posted": "2026-11-02",
     "discovered": "2026-10-07",
-    "last_verified": "2026-10-09"
+    "last_verified": "2026-11-03"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

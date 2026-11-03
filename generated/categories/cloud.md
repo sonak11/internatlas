@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**137** tracked · **100** open now
+**145** tracked · **108** open now
 
 ## Current openings
 
@@ -82,12 +82,20 @@
 | [Qualcomm](generated/companies/qualcomm.md) | [IT Infrastructure & Cloud Engineering Intern](https://go.vansh.nyc/Rv) | San Diego, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [SailPoint](generated/companies/sailpoint.md) | [Software Engineer Intern - Platform Engines](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164) | Remote | Remote | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Semgrep](generated/companies/semgrep.md) | [Software Engineer Intern - Cloud Platform](https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987/application?embed=true) | SF | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
+| [Sierra Nevada Corporation](generated/companies/sierra-nevada-corporation.md) | [DevOps Engineer Intern](https://go.vansh.nyc/19u) | Southern Pines, NC | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❌ |
 | [Skydio](generated/companies/skydio.md) | [Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools](https://go.vansh.nyc/Sj) | San Mateo, CA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [SOTI](generated/companies/soti.md) | [Cloud Administrator Intern](https://go.vansh.nyc/cI) | Mississauga | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Sycamore](generated/companies/sycamore.md) | [Member of Technical Staff Intern, Infrastructure](https://go.vansh.nyc/18T) | Palo Alto, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Backend Engineer Intern - Infrastructure Engineering](https://www.tesla.com/careers/search/job/281467) | Fremont, CA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Backend Engineer Intern, Infrastructure Engineering](https://go.vansh.nyc/1aV) | Fremont, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Fullstack Engineer Intern, Infrastructure Engineering](https://go.vansh.nyc/1b2) | Fremont, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| [Tesla](generated/companies/tesla.md) | [SI Software Engineer Intern, Core Infrastructure](https://go.vansh.nyc/1a7) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Site Reliability Engineer Intern, Infrastructure Engineering](https://go.vansh.nyc/1aU) | Fremont, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Fullstack Engineer - Infrastructure Engineering](https://www.tesla.com/careers/search/job/281462) | Fremont, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - SI Data Infrastructure](https://www.tesla.com/careers/search/job/282292) | Palo Alto, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Software Engineer Intern, SI Data Infrastructure](https://go.vansh.nyc/1aM) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Software Engineer Intern, SI Infrastructure](https://go.vansh.nyc/1aX) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Supercharger SIL Test Infrastructure Software Engineer Intern, Energy Engineering](https://go.vansh.nyc/1ao) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [The Toro Company](generated/companies/the-toro-company.md) | [Cloud Software Developer Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498) | Frederick, CO | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [The Toro Company](generated/companies/the-toro-company.md) | [Cloud Software Development Intern](https://go.vansh.nyc/bD) | Frederick, CO | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❌ |
 | [TikTok](generated/companies/tiktok.md) | [Backend Software Engineer Intern - Product Infrastructure](https://lifeattiktok.com/search/7667935633764370741) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
@@ -150,10 +158,10 @@
 
 - TikTok (17)
 - ByteDance (15)
+- Tesla (11)
 - Aptiv (7)
 - Palantir Technologies (7)
 - Autodesk (6)
-- Tesla (4)
 - Atomic Semi (3)
 - Etched (3)
 - Akuna Capital (2)
@@ -202,6 +210,7 @@
 - Qualcomm (1)
 - SailPoint (1)
 - Semgrep (1)
+- Sierra Nevada Corporation (1)
 - Skydio (1)
 - SOTI (1)
 - Sycamore (1)

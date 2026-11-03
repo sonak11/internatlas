@@ -11,6 +11,8 @@
 | Verkada | [Embedded Software Engineer Intern](https://go.vansh.nyc/Ot) | San Mateo, CA | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | Verkada | [Frontend Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5210942007) | San Mateo, CA +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | Verkada | [Mobile Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5219131007) | San Mateo, CA +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
+| Verkada | [Sales Development Representative, Internship](https://job-boards.greenhouse.io/verkada/jobs/4995135007) | Austin | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| Verkada | [Sales Development Representative, Internship](https://job-boards.greenhouse.io/verkada/jobs/4866879007) | San Mateo | Onsite | 2025-09-09 | Rolling | 🟢 Open | ❔ |
 | Verkada | [Security Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5213881007) | San Mateo, CA +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | Verkada | [Technical Support Engineering Intern - Spring 2027](https://job-boards.greenhouse.io/verkada/jobs/5056164007) | San Mateo | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | Verkada | [Technical Support Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/verkada/jobs/5233011007) | San Mateo | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |

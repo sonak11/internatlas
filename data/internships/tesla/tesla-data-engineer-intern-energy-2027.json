@@ -5,10 +5,10 @@
     "name": "Tesla",
     "slug": "tesla"
   },
-  "role": "Data Engineer Intern - Energy",
+  "role": "Data Engineer Intern, Energy",
   "category": "data-engineering",
-  "apply_url": "https://www.tesla.com/careers/search/job/287982",
-  "season": "spring",
+  "apply_url": "https://go.vansh.nyc/1a3",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-29",
+    "posted": "2026-11-02",
     "discovered": "2026-10-29",
-    "last_verified": "2026-11-02"
+    "last_verified": "2026-11-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

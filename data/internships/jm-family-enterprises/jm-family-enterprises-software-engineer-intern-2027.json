@@ -7,18 +7,13 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/YU",
+  "apply_url": "https://go.vansh.nyc/1bt",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "Deerfield Beach",
-      "state": "FL",
-      "country": "USA"
-    },
-    {
-      "city": "Jacksonville",
       "state": "FL",
       "country": "USA"
     }
@@ -45,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-29",
+    "posted": "2026-11-02",
     "discovered": "2026-10-29",
-    "last_verified": "2026-11-02"
+    "last_verified": "2026-11-03"
   },
   "status": "open",
   "tags": [

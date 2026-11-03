@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Cambridge Consultants | [AI Engineer Intern](https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995820101) | UK | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Cambridge Consultants | [Cloud Software Engineer Intern](https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4988184101) | UK | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | Cambridge Consultants | [Electronics Engineering Intern](https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4989398101) | UK | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | Cambridge Consultants | [Electronics Engineering Intern](https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4988779101) | UK | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
@@ -16,4 +17,4 @@
 
 ## Related
 
-Browse more roles in: [☁️ Cloud](../categories/cloud.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [☁️ Cloud](../categories/cloud.md), [💻 Software Engineering](../categories/software-engineering.md)

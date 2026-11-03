@@ -5,9 +5,9 @@
     "name": "Tesla",
     "slug": "tesla"
   },
-  "role": "Software Engineer Intern - Data Transformations",
+  "role": "Software Engineer Intern, Data Transformations",
   "category": "software-engineering",
-  "apply_url": "https://www.tesla.com/careers/search/job/284925",
+  "apply_url": "https://go.vansh.nyc/1al",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-29",
+    "posted": "2026-11-02",
     "discovered": "2026-09-30",
-    "last_verified": "2026-11-02"
+    "last_verified": "2026-11-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

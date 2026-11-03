@@ -7,18 +7,13 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556982258",
-  "season": "winter",
+  "apply_url": "https://go.vansh.nyc/19z",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Redmond",
-      "state": "WA",
-      "country": "USA"
-    },
-    {
-      "city": "Santa Clara",
+      "city": "Aliso Viejo",
       "state": "CA",
       "country": "USA"
     }
@@ -47,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-18",
+    "posted": "2026-11-02",
     "discovered": "2026-08-02",
-    "last_verified": "2026-09-29"
+    "last_verified": "2026-11-03"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

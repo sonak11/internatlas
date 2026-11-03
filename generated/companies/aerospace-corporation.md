@@ -15,6 +15,7 @@
 | Aerospace Corporation | [Signal Processing and RF Engineering Intern](https://go.vansh.nyc/ee) | El Segundo, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❌ |
 | Aerospace Corporation | [Software AI Intern](https://go.vansh.nyc/OR) | USA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❌ |
 | Aerospace Corporation | [Software Engineering Intern](https://go.vansh.nyc/OP) | USA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❌ |
+| Aerospace Corporation | [Software Engineering Undergrad Intern](https://go.vansh.nyc/19W) | El Segundo, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❌ |
 | Aerospace Corporation | [Cloud Solutions Engineer / Site Reliability Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016714) | El Segundo, CA +2 | Onsite | 2026-10-19 | Rolling | 🔴 Closed | ❌ |
 | Aerospace Corporation | [Cloud Solutions Engineer Intern, Site Reliability](https://go.vansh.nyc/gq) | El Segundo, CA +2 | Onsite | 2026-10-21 | Rolling | 🔴 Closed | ❌ |
 

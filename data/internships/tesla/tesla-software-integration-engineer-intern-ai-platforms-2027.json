@@ -5,10 +5,10 @@
     "name": "Tesla",
     "slug": "tesla"
   },
-  "role": "Software Integration Engineer Intern, AI Platforms",
+  "role": "Software Integration Engineer Intern - AI Platforms",
   "category": "ai",
-  "apply_url": "https://go.vansh.nyc/t",
-  "season": "winter",
+  "apply_url": "https://www.tesla.com/careers/search/job/277009",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2025-08-08",
+    "posted": "2026-09-29",
     "discovered": "2026-07-17",
-    "last_verified": "2026-11-02"
+    "last_verified": "2026-11-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Morningstar | [Tech Intern](https://go.vansh.nyc/114) | Chicago, IL | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
+| Morningstar | [Tech Intern](https://go.vansh.nyc/114) | Chicago, IL | Onsite | 2026-10-30 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

@@ -27,7 +27,6 @@
 | Hewlett Packard Enterprise | [Software Engineering Intern](https://go.vansh.nyc/111) | Sunnyvale, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [Systems Software Engineer Intern](https://go.vansh.nyc/EM) | Bloomington, MN | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [VLSI Design Verification Intern](https://go.vansh.nyc/GS) | Fort Collins, CO | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
-| Hewlett Packard Enterprise | [VLSI Design Verification Intern](https://go.vansh.nyc/Ew) | Chippewa Falls, WI | Onsite | 2026-10-04 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [VLSI Logic Design Intern](https://go.vansh.nyc/GT) | Fort Collins, CO | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [VLSI Logic Design Intern](https://go.vansh.nyc/GR) | Chippewa Falls, WI | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [Cybersecurity Engineering Intern](https://go.vansh.nyc/hW) | Spring, TX | Onsite | 2026-10-24 | Rolling | 🔴 Closed | ❔ |

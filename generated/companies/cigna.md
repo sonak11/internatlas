@@ -6,8 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Cigna | [Healthcare Analytics Intern](https://go.vansh.nyc/9E) | Morris Plains, NJ | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
-| Cigna | [Product Analytics Intern](https://go.vansh.nyc/Eb) | Morris Plains, NJ +1 | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+| Cigna | [Healthcare Analytics Intern](https://go.vansh.nyc/9E) | Morris Plains, NJ | Onsite | 2026-10-15 | Rolling | 🔴 Closed | ❔ |
+| Cigna | [Product Analytics Intern](https://go.vansh.nyc/Eb) | Morris Plains, NJ +1 | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
