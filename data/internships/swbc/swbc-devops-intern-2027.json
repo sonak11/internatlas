@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "zipline-aircraft-software-integration-intern-2027-c99697",
+  "id": "swbc-devops-intern-2027",
   "company": {
-    "name": "Zipline",
-    "slug": "zipline"
+    "name": "SWBC",
+    "slug": "swbc"
   },
-  "role": "Aircraft Software Integration Intern",
-  "category": "software-engineering",
-  "apply_url": "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003",
+  "role": "DevOps Intern",
+  "category": "cloud",
+  "apply_url": "https://go.vansh.nyc/1cJ",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "South SF",
+      "city": "San Antonio",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -24,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-04",
-    "discovered": "2026-09-05",
+    "posted": "2026-11-03",
+    "discovered": "2026-11-03",
     "last_verified": "2026-11-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

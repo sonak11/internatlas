@@ -6,9 +6,11 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Inmar Intelligence | [Data, Analytics & AI Intern](https://go.vansh.nyc/1d1) | Winston Salem, NC | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | Inmar Intelligence | [Information Security Intern](https://go.vansh.nyc/JO) | Winston Salem, NC | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
+| Inmar Intelligence | [Software Engineering Intern](https://go.vansh.nyc/1d2) | Winston Salem, NC | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | Inmar Intelligence | [Data Science Intern](https://inmar.wd1.myworkdayjobs.com/inmarcareers/job/Headquarters-Winston-Salem-NC/Data-Science-Intern_JY2627711) | Raleigh, NC +1 | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
-Browse more roles in: [📊 Data Science](../categories/data-science.md), [🔐 Security](../categories/security.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [📊 Data Science](../categories/data-science.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

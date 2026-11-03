@@ -5,25 +5,26 @@
     "name": "Guardian Life",
     "slug": "guardian-life"
   },
-  "role": "Data Engineering Intern - Digital & Technology",
+  "role": "Data Engineering Intern, Digital & Technology",
   "category": "data-engineering",
-  "apply_url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202",
+  "apply_url": "https://go.vansh.nyc/1cV",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Holmdel",
-      "state": "NJ",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     },
     {
       "city": "Bethlehem",
       "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "Holmdel",
+      "state": "NJ",
       "country": "USA"
     }
   ],
@@ -49,13 +50,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
+    "posted": "2026-11-03",
     "discovered": "2026-09-14",
     "last_verified": "2026-11-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

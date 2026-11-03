@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "american-express-ai-engineer-intern-enterprise-technology-services-2027-837394",
+  "id": "micron-technology-system-engineer-intern-hbm-2027",
   "company": {
-    "name": "American Express",
-    "slug": "american-express"
+    "name": "Micron Technology",
+    "slug": "micron-technology"
   },
-  "role": "AI Engineer Intern - Enterprise Technology Services",
-  "category": "ai",
-  "apply_url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745",
+  "role": "System Engineer Intern, HBM",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1bI",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Sunrise",
-      "state": "FL",
+      "city": "Boise",
+      "state": "ID",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-17",
-    "discovered": "2026-08-18",
+    "posted": "2026-11-03",
+    "discovered": "2026-11-03",
     "last_verified": "2026-11-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
