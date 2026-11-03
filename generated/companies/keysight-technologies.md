@@ -12,7 +12,6 @@
 | Keysight Technologies | [DevOps Intern](https://go.vansh.nyc/K1) | Colorado Springs, CO | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [DevSecOps Intern](https://go.vansh.nyc/1dt) | Colorado Springs, CO | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [Engineering Software Developer Intern](https://go.vansh.nyc/Rg) | Austin, TX +1 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
-| Keysight Technologies | [Enterprise Software Development Intern, EDA Tools](https://go.vansh.nyc/Rf) | Santa Rosa, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [FPGA Design Intern](https://go.vansh.nyc/11u) | Calabasas, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [FPGA Design Intern](https://go.vansh.nyc/hE) | Calabasas, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [R&D Embedded Software Intern](https://go.vansh.nyc/Rd) | Colorado Springs, CO | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
@@ -31,6 +30,7 @@
 | Keysight Technologies | [AI/ML Research Intern](https://jobs.keysight.com/jobs/52557?icims=1) | Edinburgh | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | Keysight Technologies | [ASIC Design-for-Test Engineer Intern - DFT](https://jobs.keysight.com/jobs/54276?icims=1) | Colorado Springs, CO | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | Keysight Technologies | [ASIC Design-for-Test Engineer Intern, DFT](https://go.vansh.nyc/Is) | Colorado Springs, CO | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
+| Keysight Technologies | [Enterprise Software Development Intern, EDA Tools](https://go.vansh.nyc/Rf) | Santa Rosa, CA | Onsite | 2026-10-18 | Rolling | 🔴 Closed | ❔ |
 | Keysight Technologies | [Full Stack Intern](https://jobs.keysight.com/jobs/54165?icims=1) | Colorado Springs, CO | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | Keysight Technologies | [R&D Software Engineer Intern](https://jobs.keysight.com/jobs/53652?icims=1) | Santa Clara, CA +1 | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
 | Keysight Technologies | [R&D Software Engineer Intern](https://jobs.keysight.com/jobs/54848?icims=1) | Austin, TX | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |

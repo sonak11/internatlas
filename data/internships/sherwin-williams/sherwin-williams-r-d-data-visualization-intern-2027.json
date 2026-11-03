@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "steel-software-engineer-intern-2027-393385",
+  "id": "sherwin-williams-r-d-data-visualization-intern-2027",
   "company": {
-    "name": "Steel",
-    "slug": "steel"
+    "name": "Sherwin-Williams",
+    "slug": "sherwin-williams"
   },
-  "role": "Software Engineer Intern",
+  "role": "R&D Data Visualization Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/application?embed=true",
+  "apply_url": "https://go.vansh.nyc/1eh",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "ON"
+      "city": "Brecksville",
+      "state": "OH",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-20",
-    "discovered": "2026-10-25",
+    "posted": "2026-11-03",
+    "discovered": "2026-11-03",
     "last_verified": "2026-11-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

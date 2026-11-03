@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**178** tracked · **137** open now
+**180** tracked · **139** open now
 
 ## Current openings
 
@@ -46,6 +46,7 @@
 | [DocuSign](generated/companies/docusign.md) | [Security Intern](https://go.vansh.nyc/D2) | San Francisco, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❌ |
 | [DP World](generated/companies/dp-world.md) | [Information Security Intern](https://go.vansh.nyc/ef) | Charlotte, NC | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❌ |
 | [EHC](generated/companies/ehc.md) | [IT Security Intern](https://go.vansh.nyc/JW) | Birmingham, AL | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
+| [EMC Insurance](generated/companies/emc-insurance.md) | [Cybersecurity Intern](https://go.vansh.nyc/1ei) | USA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Ericsson](generated/companies/ericsson.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/Vu) | Plano, TX | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
 | [FHLBank Chicago](generated/companies/fhlbank-chicago.md) | [Cybersecurity Intern](https://go.vansh.nyc/1cN) | Chicago, IL | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Figma](generated/companies/figma.md) | [PhD Intern, Security Engineer (2027)](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) | San Francisco | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
@@ -140,6 +141,7 @@
 | [TikTok](generated/companies/tiktok.md) | [Security Software Engineer Project Intern, Product Security](https://go.vansh.nyc/RN) | San Jose, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern, Privacy and Security](https://go.vansh.nyc/6l) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ✅ |
 | [Together AI](generated/companies/together-ai.md) | [Hardware Security Engineer Intern](https://go.vansh.nyc/bm) | San Francisco, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| [Two Six Technologies](generated/companies/two-six-technologies.md) | [Security Operations Intern](https://go.vansh.nyc/1dI) | Arlington, VA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [UL Solutions](generated/companies/ul-solutions.md) | [Cyber Security Intern](https://go.vansh.nyc/CU) | Northbrook, IL | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Verkada](generated/companies/verkada.md) | [Security Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5213881007) | San Mateo, CA +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Visa](generated/companies/visa.md) | [Network and Security Engineering Intern](https://go.vansh.nyc/Xh) | Denver, CO | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
@@ -236,6 +238,7 @@
 - DocuSign (1)
 - DP World (1)
 - EHC (1)
+- EMC Insurance (1)
 - Ericsson (1)
 - FHLBank Chicago (1)
 - Figma (1)
@@ -284,6 +287,7 @@
 - The Federal Reserve System (1)
 - The Nuclear Company (1)
 - Together AI (1)
+- Two Six Technologies (1)
 - UL Solutions (1)
 - Verkada (1)
 - Workday (1)

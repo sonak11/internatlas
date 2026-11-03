@@ -25,6 +25,7 @@
 | Microsoft | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/e6) | Cambridge, MA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/hN) | USA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/5J) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
+| Microsoft | [Software Engineer Intern, Teamwork Experiences](https://go.vansh.nyc/1dY) | Redmond, WA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Software Engineering Intern](https://go.vansh.nyc/17y) | Reston, VA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Software Engineering Intern](https://go.vansh.nyc/17x) | Redmond, WA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |

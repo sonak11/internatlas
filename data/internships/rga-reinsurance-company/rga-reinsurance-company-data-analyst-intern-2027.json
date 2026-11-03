@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "rga-reinsurance-company-data-analyst-intern-2027",
+  "company": {
+    "name": "RGA Reinsurance Company",
+    "slug": "rga-reinsurance-company"
+  },
+  "role": "Data Analyst Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1dL",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Chesterfield",
+      "state": "MO",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-03",
+    "discovered": "2026-11-03",
+    "last_verified": "2026-11-03"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

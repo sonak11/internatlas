@@ -1,20 +1,18 @@
 {
   "schema_version": "1.0",
-  "id": "workday-machine-learning-engineer-intern-2027-5c5c86",
+  "id": "emc-insurance-cybersecurity-intern-2027",
   "company": {
-    "name": "Workday",
-    "slug": "workday"
+    "name": "EMC Insurance",
+    "slug": "emc-insurance"
   },
-  "role": "Machine Learning Engineer Intern",
-  "category": "machine-learning",
-  "apply_url": "https://go.vansh.nyc/Gs",
+  "role": "Cybersecurity Intern",
+  "category": "security",
+  "apply_url": "https://go.vansh.nyc/1ei",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Pleasanton",
-      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,8 +38,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-09",
-    "discovered": "2026-10-26",
+    "posted": "2026-11-03",
+    "discovered": "2026-11-03",
     "last_verified": "2026-11-03"
   },
   "status": "open",

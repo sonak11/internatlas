@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "mckesson-software-engineer-intern-2027-29305d",
+  "id": "paccar-product-planning-intern-2027-18f466",
   "company": {
-    "name": "McKesson",
-    "slug": "mckesson"
+    "name": "Paccar",
+    "slug": "paccar"
   },
-  "role": "Software Engineer Intern",
+  "role": "Product Planning Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/LZ",
+  "apply_url": "https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Planning-Intern-WA-98033/1451437033/?ats=successfactors",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Longmont",
-      "state": "CO",
+      "city": "Kirkland",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-02",
-    "discovered": "2026-10-26",
+    "posted": "2026-10-26",
+    "discovered": "2026-11-03",
     "last_verified": "2026-11-03"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

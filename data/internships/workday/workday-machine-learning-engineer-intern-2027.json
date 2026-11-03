@@ -7,18 +7,15 @@
   },
   "role": "Machine Learning Engineer Intern",
   "category": "machine-learning",
-  "apply_url": "https://go.vansh.nyc/Gr",
-  "season": "winter",
+  "apply_url": "https://go.vansh.nyc/Gs",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "Canada"
-    },
-    {
-      "city": "Vancouver",
-      "country": "Canada"
+      "city": "Pleasanton",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {

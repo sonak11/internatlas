@@ -17,6 +17,7 @@
 | American Express | [AI Engineer Intern, Enterprise Technology Services](https://go.vansh.nyc/78) | New York, NY | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
 | American Express | [AI Engineer Intern, Enterprise Technology Services](https://go.vansh.nyc/7c) | New York, NY | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
 | American Express | [AI Engineer Intern, Enterprise Technology Services](https://go.vansh.nyc/7b) | Sunrise, FL | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| American Express | [Campus Undergraduate Summer Internship Program - Software Engineer 2027 - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722) | Sunnyvale, CA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | American Express | [Data Analytics Intern - US Consumer Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607) | NYC | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | American Express | [Product Development Intern - 2027 Product Development - US Consumer Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605) | NYC | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | American Express | [Product Development Intern - US Consumer Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012174) | NYC | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
@@ -27,6 +28,8 @@
 | American Express | [Software Engineer Intern - Undergraduate](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771) | Burgess Hill | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | American Express | [Software Engineer Intern - Undergraduate](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769) | London | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | American Express | [Undergraduate Program AI Engineer Intern, Enterprise Technology Services](https://go.vansh.nyc/1bH) | Toronto | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| American Express | [Undergraduate Program Cybersecurity AI Engineer Intern, Enterprise Technology Services](https://go.vansh.nyc/1dS) | Phoenix, AZ | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
+| American Express | [Undergraduate Program Software Engineer Intern, Enterprise Technology Services](https://go.vansh.nyc/1dH) | Sunnyvale, CA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | American Express | [AI Engineer Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013758) | London | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | American Express | [AI Engineer Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000) | Atlanta, GA | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 | American Express | [AI Engineer Intern, Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796) | Atlanta, GA | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❌ |
