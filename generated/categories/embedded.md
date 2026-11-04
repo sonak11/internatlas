@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**265** tracked · **173** open now
+**267** tracked · **173** open now
 
 ## Current openings
 
@@ -95,6 +95,8 @@
 | [Neuralink](generated/companies/neuralink.md) | [Firmware Engineer Intern, Robotics and Surgery Engineering](https://go.vansh.nyc/QH) | South San Francisco, CA | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Firmware Engineer Intern, Robotics and Surgery Engineering](https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003) | South San Francisco | Onsite | 2025-07-15 | Rolling | 🟢 Open | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Embedded C/C++ Software Developer Co-op Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41311) | Ottawa | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
+| [Northrop Grumman](generated/companies/northrop-grumman.md) | [S/W Embedded Engineering Intern](https://go.vansh.nyc/1fW) | Sykesville, MD | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❌ |
+| [Northrop Grumman](generated/companies/northrop-grumman.md) | [Software Embedded Engineering Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553) | Sykesville, MD | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Odys Aviation](generated/companies/odys-aviation.md) | [Robotics & Embedded Systems Intern](https://jobs.ashbyhq.com/odys-aviation/d15b1f56-d160-403e-8d12-90f531eb490f/application?embed=true) | Long Beach, CA | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [Odys Aviation](generated/companies/odys-aviation.md) | [Robotics & Embedded Systems Intern](https://go.vansh.nyc/1ev) | Long Beach, CA | Onsite | 2026-03-26 | Rolling | 🟢 Open | ❔ |
 | [OTTO Engineering](generated/companies/otto-engineering.md) | [Embedded Software Intern, Communications](https://go.vansh.nyc/122) | Carpentersville, IL | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
@@ -127,12 +129,10 @@
 | [Shield AI](generated/companies/shield-ai.md) | [Embedded Firmware Intern](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/621d736b-5ae1-4d62-8f05-088753318d29/application?embed=true) | Dallas, TX | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Shield AI](generated/companies/shield-ai.md) | [Embedded Firmware Intern](https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4/apply) | Dallas, TX | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Shield AI](generated/companies/shield-ai.md) | [Embedded Firmware Intern](https://go.vansh.nyc/1bm) | Dallas, TX | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
-| [Sierra Nevada Corporation](generated/companies/sierra-nevada-corporation.md) | [Firmware Engineering Intern](https://go.vansh.nyc/10G) | Folsom, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❌ |
 | [SK hynix](generated/companies/sk-hynix.md) | [SSD Firmware Development Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009) | San Jose, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [SK Hynix Memory Solution](generated/companies/sk-hynix-memory-solution.md) | [SSD Firmware Development Engineer Intern](https://go.vansh.nyc/OS) | San Jose, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Skydio](generated/companies/skydio.md) | [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366/application?embed=true) | San Mateo, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Skydio](generated/companies/skydio.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/BD) | San Mateo, CA | Onsite | 2026-10-25 | Rolling | 🟢 Open | ❔ |
-| [Smith+Nephew](generated/companies/smith-nephew.md) | [Embedded Software Engineering Intern](https://go.vansh.nyc/dA) | Andover, MA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Solidigm](generated/companies/solidigm.md) | [Software Development & Firmware Engineering Intern](https://go.vansh.nyc/Mi) | Rancho Cordova, CA +2 | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
 | [Solidigm](generated/companies/solidigm.md) | [Software Development & Firmware Engineering Intern - Multiple Teams](https://jobs.smartrecruiters.com/Solidigm/744000147613629) | Rancho Cordova, CA +2 | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
 | [Stanley Black & Decker](generated/companies/stanley-black-decker.md) | [Embedded Software Engineering Intern](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019) | Towson, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -243,8 +243,10 @@
 | [Rockwell Automation](generated/companies/rockwell-automation.md) | [Firmware Engineering Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Cambridge-Ontario-Canada/Intern--Firmware-Engineering_R26-4530) | Cambridge | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/VI) | Goleta, CA | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❔ |
 | [Shure](generated/companies/shure.md) | [Embedded Software Intern](https://careersus-shure.icims.com/jobs/5018/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
+| [Sierra Nevada Corporation](generated/companies/sierra-nevada-corporation.md) | [Firmware Engineering Intern](https://go.vansh.nyc/10G) | Folsom, CA | Onsite | 2026-10-30 | Rolling | 🔴 Closed | ❌ |
 | [Skydio](generated/companies/skydio.md) | [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application?embed=true) | San Mateo, CA | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
 | [Skydio](generated/companies/skydio.md) | [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34/application?embed=true) | San Mateo, CA | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
+| [Smith+Nephew](generated/companies/smith-nephew.md) | [Embedded Software Engineering Intern](https://go.vansh.nyc/dA) | Andover, MA | Onsite | 2026-10-21 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Chassis Integration Engineer Intern, Vehicle Firmware](https://go.vansh.nyc/u) | Palo Alto, CA | Onsite | 2025-08-08 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Chassis Validation Engineer Intern, Vehicle Firmware](https://go.vansh.nyc/q) | Palo Alto, CA | Onsite | 2025-08-08 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Embedded Engineer Intern - Infotainment Platforms](https://www.tesla.com/careers/search/job/281100) | Palo Alto, CA | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
@@ -286,6 +288,7 @@
 - Neuralink (6)
 - Resideo (6)
 - Zipline (6)
+- Northrop Grumman (5)
 - Astera Labs (4)
 - Ciena (4)
 - Skydio (4)
@@ -303,7 +306,6 @@
 - RTX (3)
 - Shield AI (3)
 - Etched (3)
-- Northrop Grumman (3)
 - AGCO (2)
 - CesiumAstro (2)
 - EquipmentShare (2)
@@ -344,10 +346,8 @@
 - OTTO Engineering (1)
 - Seagate Technology (1)
 - Shield (1)
-- Sierra Nevada Corporation (1)
 - SK hynix (1)
 - SK Hynix Memory Solution (1)
-- Smith+Nephew (1)
 - stealth-startup-community (1)
 - Terranova (1)
 - TETRAMEM (1)
@@ -381,6 +381,8 @@
 - Redwood Materials (1)
 - Robert Bosch Venture Capital (1)
 - Shure (1)
+- Sierra Nevada Corporation (1)
+- Smith+Nephew (1)
 - Textron (1)
 - Waymo (1)
 - WindBorne Systems (1)

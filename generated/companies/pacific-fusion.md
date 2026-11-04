@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Pacific Fusion | [Software Engineer Intern](https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009) | Fremont, CA +2 | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| Pacific Fusion | [Software Engineering Intern](https://go.vansh.nyc/1g4) | San Leandro, CA +2 | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

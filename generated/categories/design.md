@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**242** tracked · **143** open now
+**241** tracked · **142** open now
 
 ## Current openings
 
@@ -30,7 +30,6 @@
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [UX/UI Designer Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951) | Toronto | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Booz Allen Hamilton](generated/companies/booz-allen-hamilton.md) | [Design and Verification Engineer Intern](https://go.vansh.nyc/Yk) | Beavercreek, OH | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❌ |
 | [Boston Scientific](generated/companies/boston-scientific.md) | [R&D Software Design Intern](https://go.vansh.nyc/YD) | Arden Hills, MN | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
-| [Boston Scientific](generated/companies/boston-scientific.md) | [R&D Software Design Intern](https://bostonscientific.eightfold.ai/careers/job/563602813862687) | Arden Hills, MN | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Analog Design Engineer Intern](https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec/apply) | Austin, TX | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Design Verification Engineer Intern](https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e/apply) | Austin, TX | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Digital Design Engineer Intern](https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e/apply) | Austin, TX | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
@@ -276,7 +275,6 @@
 - Interstates (3)
 - Analog Devices (2)
 - Bank of Montreal (2)
-- Boston Scientific (2)
 - DoorDash (2)
 - Electronic Arts (2)
 - Garmin (2)
@@ -295,6 +293,7 @@
 - Ambarella (1)
 - Anduril (1)
 - Booz Allen Hamilton (1)
+- Boston Scientific (1)
 - Coinbase (1)
 - Databricks (1)
 - Dynamic Catholic (1)

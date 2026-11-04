@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**183** tracked · **142** open now
+**186** tracked · **145** open now
 
 ## Current openings
 
@@ -82,10 +82,12 @@
 | [Kudu Dynamics](generated/companies/kudu-dynamics.md) | [Cybersecurity Intern](https://go.vansh.nyc/W5) | Arlington, VA +2 | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
 | [L3Harris Technologies](generated/companies/l3harris-technologies.md) | [Information Security Systems Engineer Intern](https://go.vansh.nyc/XU) | Salt Lake City, UT | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❌ |
 | [LLNL](generated/companies/llnl.md) | [Cybersecurity Intern, Cyber and Critical Infrastructure Summer Institute](https://go.vansh.nyc/al) | Livermore, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| [LLNL](generated/companies/llnl.md) | [Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure](https://go.vansh.nyc/1fR) | Livermore, CA | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [LPL Financial Holdings](generated/companies/lpl-financial-holdings.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/QQ) | Fort Mill, SC +2 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Manitowoc](generated/companies/manitowoc.md) | [Cybersecurity Intern](https://go.vansh.nyc/Vt) | Shady Grove, PA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Security Verification/Validation Engineer Intern](https://go.vansh.nyc/1dy) | Chandler, AZ | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Mativ](generated/companies/mativ.md) | [Cybersecurity Intern](https://go.vansh.nyc/11W) | Alpharetta, GA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| [MDA](generated/companies/mda.md) | [Student Cyber Security Analyst Intern](https://go.vansh.nyc/1fU) | Brampton | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Security Assurance Intern](https://go.vansh.nyc/15H) | Redmond, WA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Security Research Intern](https://go.vansh.nyc/eB) | Redmond, WA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/e6) | Cambridge, MA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
@@ -146,6 +148,7 @@
 | [Together AI](generated/companies/together-ai.md) | [Hardware Security Engineer Intern](https://go.vansh.nyc/bm) | San Francisco, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Two Six Technologies](generated/companies/two-six-technologies.md) | [Security Operations Intern](https://go.vansh.nyc/1dI) | Arlington, VA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [UL Solutions](generated/companies/ul-solutions.md) | [Cyber Security Intern](https://go.vansh.nyc/CU) | Northbrook, IL | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
+| [United Parcel Service (UPS)](generated/companies/united-parcel-service-ups.md) | [Information Security Intern](https://go.vansh.nyc/1g5) | USA | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❌ |
 | [Verkada](generated/companies/verkada.md) | [Security Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5213881007) | San Mateo, CA +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Visa](generated/companies/visa.md) | [Network and Security Engineering Intern](https://go.vansh.nyc/Xh) | Denver, CO | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
 | [Visa](generated/companies/visa.md) | [Network and Security Engineering Intern](https://go.vansh.nyc/Xg) | Ashburn, VA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
@@ -210,6 +213,7 @@
 - HCSC (2)
 - Illumio (2)
 - L3Harris Technologies (2)
+- LLNL (2)
 - Marvell (2)
 - Motorola Solutions (2)
 - National Information Solutions Cooperative (2)
@@ -267,10 +271,10 @@
 - JM Family Enterprises (1)
 - Johns Hopkins APL (1)
 - Kudu Dynamics (1)
-- LLNL (1)
 - LPL Financial Holdings (1)
 - Manitowoc (1)
 - Mativ (1)
+- MDA (1)
 - Midland States Bank (1)
 - Molina Healthcare (1)
 - Netsmart (1)
@@ -295,6 +299,7 @@
 - Together AI (1)
 - Two Six Technologies (1)
 - UL Solutions (1)
+- United Parcel Service (UPS) (1)
 - Verkada (1)
 - Workday (1)
 - American Express (1)

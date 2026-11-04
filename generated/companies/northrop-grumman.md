@@ -7,8 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Northrop Grumman | [Cyber Systems Engineer Intern](https://go.vansh.nyc/1dD) | Roy, UT | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❌ |
-| Northrop Grumman | [Data Scientist Intern - Product Support](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679) | San Diego, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
-| Northrop Grumman | [Data Scientist Intern, Product Support](https://go.vansh.nyc/125) | San Diego, CA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❌ |
+| Northrop Grumman | [Data Scientist Intern - Product Support](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679) | San Diego, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❌ |
 | Northrop Grumman | [Engineering Intern - Multiple Teams](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Engineering-Intern--Software-Mission-Assurance-Quality----Chandler-AZ_R10258848) | Chandler, AZ | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Northrop Grumman | [Engineering Intern, Software, Mission Assurance, Quality](https://go.vansh.nyc/19N) | Chandler, AZ | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❌ |
 | Northrop Grumman | [Engineering Software and Analysis Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/Engineering-Software-and-Analysis-Intern_R10258772) | Sunnyvale, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
@@ -18,6 +17,8 @@
 | Northrop Grumman | [Flight Software Engineer Intern](https://go.vansh.nyc/1dV) | Manhattan Beach, CA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❌ |
 | Northrop Grumman | [Ground Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057) | Redondo Beach, CA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | Northrop Grumman | [Ground Software Engineer Intern](https://go.vansh.nyc/1e5) | Redondo Beach, CA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❌ |
+| Northrop Grumman | [S/W Embedded Engineering Intern](https://go.vansh.nyc/1fW) | Sykesville, MD | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❌ |
+| Northrop Grumman | [Software Embedded Engineering Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553) | Sykesville, MD | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | Northrop Grumman | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798) | Boulder, CO | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | Northrop Grumman | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910) | Linthicum Heights, MD | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | Northrop Grumman | [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259) | Colorado Springs, CO | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |

@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Context | [Intern](https://go.vansh.nyc/12J) | San Francisco, CA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
+| Context | [Intern](https://go.vansh.nyc/12J) | San Francisco, CA | Onsite | 2026-10-31 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

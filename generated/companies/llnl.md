@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | LLNL | [Critical Infrastructure Analysis Intern, Cyber and Critical Infrastructure Summer Institute](https://go.vansh.nyc/am) | Livermore, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | LLNL | [Cybersecurity Intern, Cyber and Critical Infrastructure Summer Institute](https://go.vansh.nyc/al) | Livermore, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| LLNL | [Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure](https://go.vansh.nyc/1fR) | Livermore, CA | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | LLNL | [HPC Cluster Engineer Intern](https://go.vansh.nyc/ak) | Livermore, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | LLNL | [Predictive Science Academic Alliance Program IV Student Intern](https://go.vansh.nyc/bw) | Livermore, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 

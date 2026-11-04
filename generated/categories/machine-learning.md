@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**439** tracked · **312** open now
+**440** tracked · **313** open now
 
 ## Current openings
 
@@ -68,6 +68,7 @@
 | [Costco](generated/companies/costco.md) | [Costco Digital Services Intern - Infosec AI/ML](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994) | Issaquah, WA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Costco](generated/companies/costco.md) | [Digital Services Intern, Infosec AI/ML](https://go.vansh.nyc/1bA) | Issaquah, WA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [CoVar](generated/companies/covar.md) | [Machine Learning Intern](https://job-boards.greenhouse.io/covar/jobs/5240360007) | Durham, NC | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
+| [CoVar](generated/companies/covar.md) | [Machine Learning Intern](https://go.vansh.nyc/1g3) | Durham, NC | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [DoorDash](generated/companies/doordash.md) | [Machine Learning Engineer Intern - Masters](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) | Seattle, WA +4 | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [DoorDash](generated/companies/doordash.md) | [Machine Learning Intern - PhD](https://job-boards.greenhouse.io/doordashusa/jobs/8233953) | Seattle, WA +4 | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Droyd Robotics](generated/companies/droyd-robotics.md) | [Machine Learning Intern](https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9/application) | SF | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
@@ -493,6 +494,7 @@
 - Castleton Commodities International (2)
 - Coinbase (2)
 - Costco (2)
+- CoVar (2)
 - DoorDash (2)
 - DRW (2)
 - G-Research (2)
@@ -524,7 +526,6 @@
 - Bose (1)
 - Cohere (1)
 - Constellation Space (1)
-- CoVar (1)
 - Droyd Robotics (1)
 - Electronic Arts (1)
 - Faire (1)

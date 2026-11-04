@@ -7,14 +7,13 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/Ye",
+  "apply_url": "https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Overland Park",
-      "state": "KS",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -42,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-28",
+    "posted": "2026-11-02",
     "discovered": "2026-10-16",
     "last_verified": "2026-11-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

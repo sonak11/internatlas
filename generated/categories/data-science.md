@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**367** tracked · **212** open now
+**366** tracked · **210** open now
 
 ## Current openings
 
@@ -143,8 +143,7 @@
 | [Nissan](generated/companies/nissan.md) | [Data Science Intern](https://go.vansh.nyc/GI) | Franklin, TN | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Nissan Global](generated/companies/nissan-global.md) | [Data Science Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331) | Smyrna, TN | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Nissan Global](generated/companies/nissan-global.md) | [Data Science Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Franklin--TN_R00214250) | Franklin, TN | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
-| [Northrop Grumman](generated/companies/northrop-grumman.md) | [Data Scientist Intern - Product Support](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679) | San Diego, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
-| [Northrop Grumman](generated/companies/northrop-grumman.md) | [Data Scientist Intern, Product Support](https://go.vansh.nyc/125) | San Diego, CA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❌ |
+| [Northrop Grumman](generated/companies/northrop-grumman.md) | [Data Scientist Intern - Product Support](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679) | San Diego, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❌ |
 | [OneMain Financial](generated/companies/onemain-financial.md) | [Data Science Analyst Intern](https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2609-52405) | Charlotte, NC +1 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Papa John's](generated/companies/papa-john-s.md) | [Data Science Intern](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157) | Atlanta, GA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Papa John's](generated/companies/papa-john-s.md) | [Data Science Intern](https://go.vansh.nyc/Gg) | Atlanta, GA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
@@ -214,7 +213,6 @@
 | [West Bend Insurance](generated/companies/west-bend-insurance.md) | [Data Scientist Intern](https://go.vansh.nyc/13w) | West Bend, WI | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Whataburger](generated/companies/whataburger.md) | [Data Scientist Intern](https://go.vansh.nyc/Ch) | San Antonio, TX | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [WhiteWater Midstream](generated/companies/whitewater-midstream.md) | [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007) | Austin, TX | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
-| [William Blair](generated/companies/william-blair.md) | [Technology Intern - Wit - Data Science](https://www.williamblair.com/Careers/job-description?gh_jid=5242280007) | Chicago, IL | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [WTW](generated/companies/wtw.md) | [Data Scientist Intern - P&C Insurance](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997) | London +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Wurl](generated/companies/wurl.md) | [Data Science Intern](https://go.vansh.nyc/13z) | USA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Zebra Technologies](generated/companies/zebra-technologies.md) | [Data Scientist Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610) | Holtsville, NY +1 | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
@@ -372,6 +370,7 @@
 | [Walmart](generated/companies/walmart.md) | [Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Data-Scientist-III--Sunnyvale_R-2630125) | Sunnyvale, CA | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing](https://careers.withwaymo.com/jobs?gh_jid=8167323) | San Francisco +1 | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Wealthsimple](generated/companies/wealthsimple.md) | [Software Development Intern / Data Science Intern - Multiple Teams](https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26/application?embed=true) | Toronto | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
+| [William Blair](generated/companies/william-blair.md) | [Technology Intern - Wit - Data Science](https://www.williamblair.com/Careers/job-description?gh_jid=5242280007) | Chicago, IL | Onsite | 2026-09-28 | Rolling | 🔴 Closed | ❔ |
 | [Wise](generated/companies/wise.md) | [Data Science Intern](https://jobs.smartrecruiters.com/Wise/744000156265544) | London | Onsite | 2026-10-19 | Rolling | 🔴 Closed | ❔ |
 | [Xcel Energy](generated/companies/xcel-energy.md) | [Data Science Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Data-Science-Intern-CO--MN_JR116327-1) | Minneapolis, MN +1 | Onsite | 2026-09-07 | Rolling | 🔴 Closed | ❔ |
 | [Xcel Energy](generated/companies/xcel-energy.md) | [Data Scientist Intern](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Data-Scientist-Intern---MN--CO_JR115668-1) | Minneapolis, MN +1 | Onsite | 2026-09-07 | Rolling | 🔴 Closed | ❔ |
@@ -434,7 +433,6 @@
 - New York Mets (2)
 - Nissan (2)
 - Nissan Global (2)
-- Northrop Grumman (2)
 - Papa John's (2)
 - Pinterest (2)
 - Procter & Gamble (2)
@@ -499,6 +497,7 @@
 - Mativ (1)
 - MITRE (1)
 - Neighbor (1)
+- Northrop Grumman (1)
 - OneMain Financial (1)
 - Peraton (1)
 - Point72 (1)
@@ -518,7 +517,6 @@
 - West Bend Insurance (1)
 - Whataburger (1)
 - WhiteWater Midstream (1)
-- William Blair (1)
 - WTW (1)
 - Wurl (1)
 - Zebra Technologies (1)
@@ -585,4 +583,5 @@
 - Walgreens (1)
 - Walleye Capital (1)
 - Wealthsimple (1)
+- William Blair (1)
 - Wise (1)

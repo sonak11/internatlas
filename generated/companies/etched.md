@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Etched | [IA Research Engineer Intern, Kernels](https://go.vansh.nyc/1fS) | San Jose, CA | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | Etched | [PD Intern](https://jobs.ashbyhq.com/Etched/bd8c5768-7efa-4a18-9e56-485ccaf4ec77/application) | San Jose, CA | Onsite | 2026-02-07 | Rolling | 🟢 Open | ❔ |
 | Etched | [Performance Tools Intern](https://jobs.ashbyhq.com/Etched/f02e8035-7dc9-4b0c-aab7-75bbb4e975b8/application?embed=true) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | Etched | [Chip Simulation Software Intern](https://jobs.ashbyhq.com/Etched/27e5bd6b-9357-45f0-9e79-cfa2bf4eeba8/application?embed=true) | San Jose, CA | Onsite | 2026-05-20 | Rolling | 🔴 Closed | ❔ |
@@ -27,4 +28,4 @@
 
 ## Related
 
-Browse more roles in: [☁️ Cloud](../categories/cloud.md), [🎨 Design](../categories/design.md), [⚙️ Embedded](../categories/embedded.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [☁️ Cloud](../categories/cloud.md), [🎨 Design](../categories/design.md), [⚙️ Embedded](../categories/embedded.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)

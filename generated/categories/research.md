@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**288** tracked · **169** open now
+**289** tracked · **170** open now
 
 ## Current openings
 
@@ -59,6 +59,7 @@
 | [Dow Jones](generated/companies/dow-jones.md) | [Research Analyst Intern](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55873) | Houston, TX | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Dow Jones](generated/companies/dow-jones.md) | [Research Analyst Intern](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55872) | Houston, TX | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Eaton](generated/companies/eaton.md) | [C++ Developer Intern, Research & Development Engineering](https://go.vansh.nyc/b1) | Brossard | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| [Etched](generated/companies/etched.md) | [IA Research Engineer Intern, Kernels](https://go.vansh.nyc/1fS) | San Jose, CA | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Field AI](generated/companies/field-ai.md) | [Research Scientist Intern - Robot Learning & Manipulation](https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e/apply) | Irvine, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Field AI](generated/companies/field-ai.md) | [Robotics Research – Humanoid Manipulation Intern](https://jobs.lever.co/field-ai/ada8184d-153b-4172-8f55-2b0ae74c6820/apply) | Boston, MA | Onsite | 2026-09-27 | Rolling | 🟢 Open | ❔ |
 | [Field AI](generated/companies/field-ai.md) | [Robotics Research – Humanoid Manipulation Intern](https://jobs.lever.co/field-ai/40a22216-c73b-4ec1-bfc1-dc0e1938eaba/apply) | Boston, MA | Onsite | 2026-09-27 | Rolling | 🟢 Open | ❔ |
@@ -359,6 +360,7 @@
 - Deutsche Bank (1)
 - Dexmate (1)
 - DoorDash (1)
+- Etched (1)
 - GlobalFoundries (1)
 - Huck Adventures (1)
 - ICF International (1)

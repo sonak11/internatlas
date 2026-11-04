@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Zurn Elkay Water Solutions | [Electrical & Electronics Engineering Intern](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Electrical---Electronics-Engineering-Intern--Summer-2027-_REQ-020097) | Downers Grove, IL | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | Zurn Elkay Water Solutions | [Embedded Firmware Intern](https://go.vansh.nyc/JD) | Milwaukee, WI | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | Zurn Elkay Water Solutions | [Embedded Firmware Intern - Summer 2027](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1) | Milwaukee, WI | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | Zurn Elkay Water Solutions | [Embedded Hardware Intern](https://go.vansh.nyc/MW) | Milwaukee, WI | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |

@@ -11,11 +11,11 @@
 | DRW | [FPGA Intern](https://go.vansh.nyc/5n) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ✅ |
 | DRW | [Platform Engineer Intern](https://go.vansh.nyc/5p) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | DRW | [Quantitative Research Intern](https://go.vansh.nyc/5q) | Chicago, IL +1 | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
-| DRW | [Quantitative Trading Analyst Intern](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | DRW | [Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | DRW | [Quantitative Trading Analyst Intern](https://go.vansh.nyc/5r) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | DRW | [Software Developer Intern](https://go.vansh.nyc/5t) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | DRW | [Software Developer Intern](https://go.vansh.nyc/5s) | Montréal | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
+| DRW | [Quantitative Trading Analyst Intern](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
 | DRW | [Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

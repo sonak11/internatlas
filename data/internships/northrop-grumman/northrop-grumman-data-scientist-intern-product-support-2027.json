@@ -5,9 +5,9 @@
     "name": "Northrop Grumman",
     "slug": "northrop-grumman"
   },
-  "role": "Data Scientist Intern, Product Support",
+  "role": "Data Scientist Intern - Product Support",
   "category": "data-science",
-  "apply_url": "https://go.vansh.nyc/125",
+  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-31",
+    "posted": "2026-10-30",
     "discovered": "2026-10-31",
     "last_verified": "2026-11-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
