@@ -7,15 +7,11 @@
   },
   "role": "AI Research Intern",
   "category": "ai",
-  "apply_url": "https://jobs.ashbyhq.com/pangramlabs/2d00752c-b3f2-40e1-9c50-60147c858d0b/application?embed=true",
+  "apply_url": "https://go.vansh.nyc/1eR",
   "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "NYC",
-      "country": "USA"
-    },
     {
       "city": "Brooklyn",
       "state": "NY",
@@ -49,11 +45,11 @@
   "dates": {
     "posted": "2026-10-04",
     "discovered": "2026-10-05",
-    "last_verified": "2026-11-03"
+    "last_verified": "2026-11-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

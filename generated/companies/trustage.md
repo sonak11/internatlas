@@ -8,7 +8,9 @@
 |---|---|---|---|---|---|---|---|
 | TruStage | [Information Technology Development and Infrastructure Intern](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155) | Madison, WI | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | TruStage | [Information Technology Development and Infrastructure Intern](https://go.vansh.nyc/Ms) | Madison, WI | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| TruStage | [Innovation & AI Technology Intern](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293) | Madison, WI | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
+| TruStage | [IT Intern, Innovation & AI Technology](https://go.vansh.nyc/1fm) | Madison, WI | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
-Browse more roles in: [☁️ Cloud](../categories/cloud.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [☁️ Cloud](../categories/cloud.md)

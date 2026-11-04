@@ -7,7 +7,7 @@
   },
   "role": "R&D Data Visualization Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1eh",
+  "apply_url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628298",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -25,7 +25,14 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd",
+      "masters",
+      "masters",
+      "masters",
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,11 +49,11 @@
   "dates": {
     "posted": "2026-11-03",
     "discovered": "2026-11-03",
-    "last_verified": "2026-11-03"
+    "last_verified": "2026-11-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

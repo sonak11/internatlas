@@ -5,19 +5,21 @@
     "name": "Revel",
     "slug": "revel"
   },
-  "role": "Forward Deployed Engineer Intern - Software",
+  "role": "Forward Deployed Engineer Intern, Software",
   "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/revel/34f97b81-c981-4c4b-9f4d-d471c33b46cc/application?embed=true",
+  "apply_url": "https://go.vansh.nyc/1eT",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Los Angeles",
+      "state": "CA",
       "country": "USA"
     },
     {
-      "state": "LA",
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -43,13 +45,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
+    "posted": "2026-10-06",
     "discovered": "2026-09-08",
-    "last_verified": "2026-11-03"
+    "last_verified": "2026-11-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

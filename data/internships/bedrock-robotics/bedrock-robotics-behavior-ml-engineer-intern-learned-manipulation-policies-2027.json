@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "bedrock-robotics-behavior-ml-engineer-intern-learned-manipulation-policies-2027",
+  "company": {
+    "name": "Bedrock Robotics",
+    "slug": "bedrock-robotics"
+  },
+  "role": "Behavior ML Engineer Intern, Learned Manipulation Policies",
+  "category": "machine-learning",
+  "apply_url": "https://go.vansh.nyc/1eQ",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "San Francisco",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-02",
+    "discovered": "2026-11-04",
+    "last_verified": "2026-11-04"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

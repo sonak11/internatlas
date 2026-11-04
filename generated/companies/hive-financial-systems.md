@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | Hive Financial Systems | [Analytics Intern](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5277475007) | Atlanta, GA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | Hive Financial Systems | [Analytics Intern](https://go.vansh.nyc/Xk) | Atlanta, GA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| Hive Financial Systems | [HFA Intern](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5283228007) | Atlanta, GA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | Hive Financial Systems | [Product & Program Management Intern](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274970007) | Atlanta, GA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Hive Financial Systems | [Software Engineer Intern](https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007) | Atlanta, GA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Hive Financial Systems | [Software Engineer Intern](https://go.vansh.nyc/Ta) | Atlanta, GA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |

@@ -7,19 +7,14 @@
   },
   "role": "R&D Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.keysight.com/jobs/53652?icims=1",
+  "apply_url": "https://jobs.keysight.com/jobs/56415?icims=1",
   "season": "fall",
   "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Calabasas",
-      "state": "CA",
+      "city": "Colorado Springs",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -47,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-27",
+    "posted": "2026-11-03",
     "discovered": "2026-07-28",
-    "last_verified": "2026-08-04"
+    "last_verified": "2026-11-04"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

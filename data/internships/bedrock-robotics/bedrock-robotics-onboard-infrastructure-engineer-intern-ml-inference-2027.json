@@ -5,15 +5,16 @@
     "name": "Bedrock Robotics",
     "slug": "bedrock-robotics"
   },
-  "role": "Onboard Infrastructure Engineer Intern - ML Inference",
+  "role": "Onboard Infrastructure Engineer Intern, ML Inference",
   "category": "machine-learning",
-  "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8/application?embed=true",
+  "apply_url": "https://go.vansh.nyc/1eG",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -44,11 +45,11 @@
   "dates": {
     "posted": "2026-09-10",
     "discovered": "2026-09-10",
-    "last_verified": "2026-11-03"
+    "last_verified": "2026-11-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

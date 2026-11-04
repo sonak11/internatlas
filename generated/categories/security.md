@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**180** tracked · **139** open now
+**183** tracked · **142** open now
 
 ## Current openings
 
@@ -21,6 +21,7 @@
 | [American Family Insurance Group](generated/companies/american-family-insurance-group.md) | [Cybersecurity Intern](https://go.vansh.nyc/VN) | Madison, WI +1 | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Appian](generated/companies/appian.md) | [Information Security Engineer Intern](https://go.vansh.nyc/56) | McLean, VA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❌ |
 | [Apple Bank](generated/companies/apple-bank.md) | [Information Security Intern](https://go.vansh.nyc/VV) | New York, NY | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
+| [Arconic](generated/companies/arconic.md) | [Cybersecurity Intern](https://go.vansh.nyc/1fb) | Pittsburgh, PA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❌ |
 | [ATC](generated/companies/atc.md) | [Cyber Security Intern](https://go.vansh.nyc/1bS) | Pewaukee, WI | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Atlassian](generated/companies/atlassian.md) | [Security Engineer Intern](https://go.vansh.nyc/QW) | Seattle, WA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Auto-Owners Insurance](generated/companies/auto-owners-insurance.md) | [IT Security Engineer Intern](https://go.vansh.nyc/1c6) | Lansing, MI | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❌ |
@@ -45,6 +46,7 @@
 | [Danaher Corporation](generated/companies/danaher-corporation.md) | [IT Security Intern](https://go.vansh.nyc/N9) | Coralville, IA | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [DocuSign](generated/companies/docusign.md) | [Security Intern](https://go.vansh.nyc/D2) | San Francisco, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❌ |
 | [DP World](generated/companies/dp-world.md) | [Information Security Intern](https://go.vansh.nyc/ef) | Charlotte, NC | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❌ |
+| [DuCharme, McMillen & Associates](generated/companies/ducharme-mcmillen-associates.md) | [Cybersecurity Intern](https://go.vansh.nyc/1f4) | Fort Wayne, IN | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [EHC](generated/companies/ehc.md) | [IT Security Intern](https://go.vansh.nyc/JW) | Birmingham, AL | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [EMC Insurance](generated/companies/emc-insurance.md) | [Cybersecurity Intern](https://go.vansh.nyc/1ei) | USA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Ericsson](generated/companies/ericsson.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/Vu) | Plano, TX | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
@@ -62,6 +64,7 @@
 | [HCSC](generated/companies/hcsc.md) | [Cybersecurity Operations Intern](https://go.vansh.nyc/11Z) | Chicago, IL | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [HP Inc.](generated/companies/hp-inc.md) | [Software Product Security Intern, HP IQ](https://go.vansh.nyc/YE) | San Francisco, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [IAT Insurance Group](generated/companies/iat-insurance-group.md) | [Cyber Security Intern](https://go.vansh.nyc/197) | Raleigh, NC | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
+| [ICD](generated/companies/icd.md) | [Cyber Security Intern](https://go.vansh.nyc/1eu) | New York, NY | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [ID.me](generated/companies/id-me.md) | [Product Security Engineering Intern](https://go.vansh.nyc/1bM) | Mountain View, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [IDEMIA](generated/companies/idemia.md) | [Cybersecurity Intern](https://go.vansh.nyc/12V) | USA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Illumio](generated/companies/illumio.md) | [Engineering Intern, Product Security](https://go.vansh.nyc/cO) | Sunnyvale, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
@@ -221,6 +224,7 @@
 - American Family Insurance Group (1)
 - Appian (1)
 - Apple Bank (1)
+- Arconic (1)
 - ATC (1)
 - Atlassian (1)
 - Auto-Owners Insurance (1)
@@ -237,6 +241,7 @@
 - Danaher Corporation (1)
 - DocuSign (1)
 - DP World (1)
+- DuCharme, McMillen & Associates (1)
 - EHC (1)
 - EMC Insurance (1)
 - Ericsson (1)
@@ -252,6 +257,7 @@
 - Guardian Life (1)
 - HP Inc. (1)
 - IAT Insurance Group (1)
+- ICD (1)
 - ID.me (1)
 - IDEMIA (1)
 - Inmar Intelligence (1)
