@@ -5,9 +5,9 @@
     "name": "Smith+Nephew",
     "slug": "smith-nephew"
   },
-  "role": "Data Science Intern - AI Center of Excellence",
+  "role": "Data Science Intern, AI Center of Excellence",
   "category": "ai",
-  "apply_url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1",
+  "apply_url": "https://go.vansh.nyc/1gN",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -43,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-17",
+    "posted": "2026-11-04",
     "discovered": "2026-09-17",
-    "last_verified": "2026-09-25"
+    "last_verified": "2026-11-04"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
