@@ -5,17 +5,13 @@
     "name": "VSP Vision",
     "slug": "vsp-vision"
   },
-  "role": "Software Engineer Intern, Technology Innovation",
+  "role": "Software Engineer Intern - Technology Innovation",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/X8",
+  "apply_url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Technology-Innovation_R-10020",
   "season": "summer",
   "year": 2027,
-  "work_mode": "onsite",
-  "locations": [
-    {
-      "country": "USA"
-    }
-  ],
+  "work_mode": "remote",
+  "locations": [],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -45,7 +41,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03",
-    "remote-available"
+    "src:simplify"
   ]
 }

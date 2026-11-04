@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "boston-scientific-ai-solutions-engineering-intern-2027-25c1d4",
+  "id": "moog-software-engineering-intern-2027",
   "company": {
-    "name": "Boston Scientific",
-    "slug": "boston-scientific"
+    "name": "Moog",
+    "slug": "moog"
   },
-  "role": "AI Solutions Engineering Intern",
-  "category": "ai",
-  "apply_url": "https://go.vansh.nyc/YR",
+  "role": "Software Engineering Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1gy",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Arden Hills",
-      "state": "MN",
+      "city": "Torrance",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-29",
-    "discovered": "2026-10-29",
+    "posted": "2026-11-04",
+    "discovered": "2026-11-04",
     "last_verified": "2026-11-04"
   },
   "status": "open",

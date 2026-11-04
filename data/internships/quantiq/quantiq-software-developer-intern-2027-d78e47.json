@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "doordash-electrical-engineer-intern-labs-2027",
+  "id": "quantiq-software-developer-intern-2027-d78e47",
   "company": {
-    "name": "DoorDash",
-    "slug": "doordash"
+    "name": "Quantiq",
+    "slug": "quantiq"
   },
-  "role": "Electrical Engineer Intern - Labs",
+  "role": "Software Developer Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8274095",
+  "apply_url": "https://job-boards.greenhouse.io/quantiq/jobs/4287936009",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Oakland",
-      "state": "CA",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-12",
-    "discovered": "2026-10-17",
+    "posted": "2026-06-17",
+    "discovered": "2026-11-04",
     "last_verified": "2026-11-04"
   },
   "status": "open",

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tiktok-software-engineer-intern-recommendation-infra-performance-ef-2027-5d6671",
+  "id": "parsons-ai-ml-engineer-intern-2027",
   "company": {
-    "name": "TikTok",
-    "slug": "tiktok"
+    "name": "Parsons",
+    "slug": "parsons"
   },
-  "role": "Software Engineer Intern - Recommendation Infra - Performance Efficiency",
-  "category": "software-engineering",
-  "apply_url": "https://lifeattiktok.com/search/7675159726676101381",
+  "role": "AI/ML Engineer Intern",
+  "category": "machine-learning",
+  "apply_url": "https://go.vansh.nyc/1gF",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
+      "city": "Centreville",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-20",
-    "discovered": "2026-11-01",
+    "posted": "2026-11-04",
+    "discovered": "2026-11-04",
     "last_verified": "2026-11-04"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

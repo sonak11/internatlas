@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "tmx-group-jr-security-analyst-student-intern-2027",
+  "company": {
+    "name": "TMX Group",
+    "slug": "tmx-group"
+  },
+  "role": "Jr. Security Analyst Student Intern",
+  "category": "security",
+  "apply_url": "https://go.vansh.nyc/1gt",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Toronto",
+      "country": "Canada"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-04",
+    "discovered": "2026-11-04",
+    "last_verified": "2026-11-04"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}
