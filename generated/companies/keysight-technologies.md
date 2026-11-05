@@ -14,6 +14,7 @@
 | Keysight Technologies | [Engineering Software Developer Intern](https://go.vansh.nyc/Rg) | Austin, TX +1 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [FPGA Design Intern](https://go.vansh.nyc/11u) | Calabasas, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [FPGA Design Intern](https://go.vansh.nyc/hE) | Calabasas, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Keysight Technologies | [R&D DSP/FPGA Design Automation Intern](https://go.vansh.nyc/1hn) | Santa Rosa, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [R&D Embedded Software Intern](https://go.vansh.nyc/Rd) | Colorado Springs, CO | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [R&D Hardware Design Engineer Intern](https://jobs.keysight.com/jobs/54389?icims=1) | Santa Rosa, CA | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [R&D Hardware Engineer Intern](https://go.vansh.nyc/ce) | Santa Clara, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |

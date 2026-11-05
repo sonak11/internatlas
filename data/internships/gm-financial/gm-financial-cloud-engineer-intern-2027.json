@@ -1,29 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-bs-ms-software-engineering-commercializat-2027",
+  "id": "gm-financial-cloud-engineer-intern-2027",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "GM Financial",
+    "slug": "gm-financial"
   },
-  "role": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-  "category": "software-engineering",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+  "role": "Cloud Engineer Intern",
+  "category": "cloud",
+  "apply_url": "https://go.vansh.nyc/1hc",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mountain View",
-      "country": "USA"
-    },
-    {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "Mountain View",
-      "state": "CA",
+      "city": "Irving",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -34,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -51,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-11-03",
-    "last_verified": "2026-11-04"
+    "posted": "2026-11-04",
+    "discovered": "2026-11-05",
+    "last_verified": "2026-11-05"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

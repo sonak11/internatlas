@@ -8,10 +8,10 @@
 |---|---|---|---|---|---|---|---|
 | CoStar Group | [Data Science Intern](https://go.vansh.nyc/19c) | Richmond, VA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | CoStar Group | [Data Science Intern](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond/Data-Science-Intern---Richmond--VA--Summer-2027-_R40140) | Richmond, VA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
-| CoStar Group | [Embedded Software Engineer Intern](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950) | Sunnyvale, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | CoStar Group | [Associate Embedded Software Engineer Intern](https://go.vansh.nyc/Ee) | Sunnyvale, CA | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
 | CoStar Group | [Associate Software Engineer Intern](https://go.vansh.nyc/Ix) | Irvine, CA | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
 | CoStar Group | [Embedded Software Engineer Intern](https://go.vansh.nyc/Ea) | Sunnyvale, CA | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
+| CoStar Group | [Embedded Software Engineer Intern](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950) | Sunnyvale, CA | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
 | CoStar Group | [Product Intern](https://go.vansh.nyc/8A) | Richmond, VA | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
 | CoStar Group | [Product Intern](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900) | Richmond, VA | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
 | CoStar Group | [Product Intern](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Product-Intern---Richmond--VA--Summer-2027-_R39900) | Richmond, VA | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |

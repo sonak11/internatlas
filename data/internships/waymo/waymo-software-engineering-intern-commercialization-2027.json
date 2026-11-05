@@ -1,20 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "imc-trading-research-analyst-intern-summer-2027-2027",
+  "id": "waymo-software-engineering-intern-commercialization-2027",
   "company": {
-    "name": "IMC Trading",
-    "slug": "imc-trading",
-    "career_page": "https://www.imc.com/us/careers"
+    "name": "Waymo",
+    "slug": "waymo"
   },
-  "role": "Research Analyst Intern - Summer 2027",
-  "category": "research",
-  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823946101",
+  "role": "Software Engineering Intern - Commercialization",
+  "category": "software-engineering",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "city": "Mountain View",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +29,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +46,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-04",
-    "discovered": "2026-11-04",
-    "last_verified": "2026-11-04"
+    "posted": "2026-09-14",
+    "discovered": "2026-11-05",
+    "last_verified": "2026-11-05"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

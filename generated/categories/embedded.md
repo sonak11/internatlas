@@ -2,13 +2,14 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**268** tracked · **172** open now
+**270** tracked · **173** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | [Aerospace Corporation](generated/companies/aerospace-corporation.md) | [Embedded Engineering Intern](https://go.vansh.nyc/OQ) | USA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❌ |
+| [Aerospace Corporation](generated/companies/aerospace-corporation.md) | [Intern Bachelors Embedded Eng](https://go.vansh.nyc/1hl) | Kanata | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [AeroVironment](generated/companies/aerovironment.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/Ly) | Dayton, OH +15 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [AeroVironment](generated/companies/aerovironment.md) | [Embedded Software Engineer Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388) | Dayton, OH +15 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [AGCO](generated/companies/agco.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/b4) | Hesston, KS +1 | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
@@ -35,6 +36,7 @@
 | [Astera Labs](generated/companies/astera-labs.md) | [Firmware Engineer Intern](https://go.vansh.nyc/Fk) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Astera Labs](generated/companies/astera-labs.md) | [Firmware Engineer Intern Co-op](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739956005) | San Jose, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Astera Labs](generated/companies/astera-labs.md) | [Firmware Engineer Intern, Optical](https://go.vansh.nyc/Fn) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| [Badger Meter](generated/companies/badger-meter.md) | [Firmware Test Engineer Intern](https://go.vansh.nyc/1hi) | Milwaukee, WI | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Base Power](generated/companies/base-power.md) | [Firmware Engineer Intern](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application?embed=true) | Austin, TX | Onsite | 2026-05-27 | Rolling | 🟢 Open | ❔ |
 | [Castelion](generated/companies/castelion.md) | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/castelioncorporation/jobs/4386047009) | Torrance, CA | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | [Castelion](generated/companies/castelion.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/1gh) | Torrance, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
@@ -42,7 +44,6 @@
 | [CesiumAstro](generated/companies/cesiumastro.md) | [Embedded Software Engineer Intern](https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply) | Westminster, CO | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Embedded Software Developer Intern](https://go.vansh.nyc/CD) | Ottawa | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Embedded Software Developer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890) | Ottawa | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
-| [CoStar Group](generated/companies/costar-group.md) | [Embedded Software Engineer Intern](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950) | Sunnyvale, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [EquipmentShare](generated/companies/equipmentshare.md) | [Electrical Engineering Intern - Embedded](https://www.equipmentshare.com/careers/openings/?gh_jid=8142763) | Columbia, MO | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [EquipmentShare](generated/companies/equipmentshare.md) | [Engineering Intern - Embedded](https://www.equipmentshare.com/careers/openings/?gh_jid=8189297) | Columbia, MO | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [fab2](generated/companies/fab2.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/OC) | San Francisco, CA +1 | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
@@ -197,6 +198,7 @@
 | [Cisco](generated/companies/cisco.md) | [Software Engineer Intern, Embedded Systems II](https://go.vansh.nyc/e2) | San Jose, CA +3 | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 | [CoStar Group](generated/companies/costar-group.md) | [Associate Embedded Software Engineer Intern](https://go.vansh.nyc/Ee) | Sunnyvale, CA | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
 | [CoStar Group](generated/companies/costar-group.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/Ea) | Sunnyvale, CA | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
+| [CoStar Group](generated/companies/costar-group.md) | [Embedded Software Engineer Intern](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950) | Sunnyvale, CA | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
 | [Daktronics](generated/companies/daktronics.md) | [Hardware Design Co-op Intern - Firmware](https://careers-daktronics.icims.com/jobs/7518/job?mobile=true&needsRedirect=false) | Brookings, SD | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [Draper](generated/companies/draper.md) | [Embedded Quality & Fielded Systems Intern](https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) | Cambridge, MA | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❌ |
 | [E-Space](generated/companies/e-space.md) | [Embedded Software Engineer Intern](https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3/apply) | Arlington, TX | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
@@ -296,7 +298,6 @@
 - Zurn Elkay Water Solutions (4)
 - AeroVironment (3)
 - Anduril (3)
-- CoStar Group (3)
 - Figure (3)
 - Geotab (3)
 - Hewlett Packard Enterprise (3)
@@ -306,7 +307,9 @@
 - Rockwell Automation (3)
 - RTX (3)
 - Shield AI (3)
+- CoStar Group (3)
 - Etched (3)
+- Aerospace Corporation (2)
 - AGCO (2)
 - Castelion (2)
 - CesiumAstro (2)
@@ -332,10 +335,10 @@
 - Eaton (2)
 - Itron (2)
 - The Toro Company (2)
-- Aerospace Corporation (1)
 - Allegion (1)
 - Analog Devices (1)
 - Aptiv (1)
+- Badger Meter (1)
 - Base Power (1)
 - fab2 (1)
 - General Matter (1)

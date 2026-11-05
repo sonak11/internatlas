@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Foundation Finance | [Full Stack Developer Intern](https://careers.foundationfinance.com/jobs/2097?icims=1) | Rothschild, WI | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
+| Foundation Finance | [Full Stack Developer Intern](https://careers.foundationfinance.com/jobs/2097?icims=1) | Rothschild, WI | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

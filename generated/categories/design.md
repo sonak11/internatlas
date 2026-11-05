@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**243** tracked · **144** open now
+**246** tracked · **148** open now
 
 ## Current openings
 
@@ -12,6 +12,7 @@
 | [Ambarella](generated/companies/ambarella.md) | [Physical Design Engineer Intern](https://go.vansh.nyc/gy) | USA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Analog/Mixed-Signal Design Intern/Co-op](https://careers.amd.com/jobs/92346?icims=1) | San Jose, CA +1 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Diagnostics Design Engineer Intern/Co-op](https://careers.amd.com/jobs/90435?icims=1) | Markham | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| [AMD](generated/companies/amd.md) | [Senior Systems Design Engineer Intern](https://go.vansh.nyc/1hu) | Markham | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Analog Devices](generated/companies/analog-devices.md) | [Analog Design Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297) | Wilmington, MA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Analog Devices](generated/companies/analog-devices.md) | [Digital Design Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298) | San Jose, CA +1 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Product Designer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) | Costa Mesa | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
@@ -39,6 +40,7 @@
 | [Dynamic Catholic](generated/companies/dynamic-catholic.md) | [Front-End UX Intern](https://go.vansh.nyc/1eA) | Erlanger, KY | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❌ |
 | [Electronic Arts](generated/companies/electronic-arts.md) | [Software Engineer Intern - Gameplay UI](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Gameplay-UI/216190) | Birmingham | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Electronic Arts](generated/companies/electronic-arts.md) | [UI Scripter Intern](https://jobs.ea.com/en_US/careers/JobDetail/UI-Scripter-Intern/216359) | Guildford | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| [Figma](generated/companies/figma.md) | [PhD Intern - Software Engineer - Interaction Design](https://boards.greenhouse.io/figma/jobs/6241542004) | SF +1 | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Figma](generated/companies/figma.md) | [PhD Intern, Software Engineer - Graphics (2027)](https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004) | San Francisco | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Figma](generated/companies/figma.md) | [PhD Intern, Software Engineer - Interaction Design (2027)](https://boards.greenhouse.io/figma/jobs/6241542004?gh_jid=6241542004) | San Francisco | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Figma](generated/companies/figma.md) | [Product Design Intern (2027)](https://boards.greenhouse.io/figma/jobs/6180005004?gh_jid=6180005004) | San Francisco | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
@@ -87,6 +89,7 @@
 | [Marvell](generated/companies/marvell.md) | [Physical Design Engineer Intern - MS - Multiple Teams](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Physical-Design-Engineer-Intern--MS---Summer-2027_2604518-1) | Morrisville, NC +6 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [Design Engineer Intern, HBM](https://go.vansh.nyc/bq) | Richardson, TX | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [Design Engineer Intern, Pathfinding](https://go.vansh.nyc/d7) | San Jose, CA +1 | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [Micron Technology](generated/companies/micron-technology.md) | [DRAM Design Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468) | Boise, ID | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [DRAM Design Engineer Intern](https://go.vansh.nyc/1h3) | Boise, ID | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [HBM Design Engineer Intern - HBM](https://go.vansh.nyc/bW) | Richardson, TX | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [HBM Memory Design Engineer Intern](https://go.vansh.nyc/Ev) | Richardson, TX | Onsite | 2026-10-04 | Rolling | 🟢 Open | ❔ |
@@ -142,6 +145,7 @@
 | [Tesla](generated/companies/tesla.md) | [Robotics Physics Modeling Engineer Intern - Model Based Design - Optimus](https://www.tesla.com/careers/search/job/283128) | Palo Alto, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Vehicle UI Development](https://www.tesla.com/careers/search/job/282242) | Palo Alto, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern, Vehicle UI Development](https://go.vansh.nyc/1b6) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| [Texas Instruments](generated/companies/texas-instruments.md) | [Digital Design Verification Engineer Intern](https://go.vansh.nyc/1hB) | Santa Clara, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Texas Instruments](generated/companies/texas-instruments.md) | [Digital Design Verification Engineering Intern](https://go.vansh.nyc/hS) | Santa Clara, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❌ |
 | [Upscale AI](generated/companies/upscale-ai.md) | [Advanced SerDes & Analog/Mixed-Signal IC Design Intern](https://jobs.lever.co/upscale-ai/2bad3e47-6c00-4ec2-94b5-feb4009619c9/apply) | USA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Design Engineer Intern - Graduate-Level - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279217) | Delaware, OH +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
@@ -199,7 +203,6 @@
 | [Micron Technology](generated/companies/micron-technology.md) | [Design Architecture Intern - HBM](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern----Design-Architecture--HBM_JR110177) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [Digital IP Design Engineer Intern - DRAM](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Digital-IP-Design-Engineer--DRAM_JR108533) | Boise, ID | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [DRAM Design Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108458) | Boise, ID | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
-| [Micron Technology](generated/companies/micron-technology.md) | [DRAM Design Engineer Intern](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-Design-Engineer_JR108468) | Boise, ID | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [DRAM IP Circuits Design Engineer Intern - IP Development](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---DRAM-IP-Circuits-Design-Engineer_JR108471) | Boise, ID | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [SoC RTL Design Engineer Intern - HBM](https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290) | Folsom, CA | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Analog and Mixed-Signal IC Design Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7565469003) | South SF | Onsite | 2026-02-18 | Rolling | 🔴 Closed | ❔ |
@@ -260,20 +263,21 @@
 - Qorvo (12)
 - Astera Labs (11)
 - Micron Technology (11)
+- Figma (8)
 - GlobalFoundries (8)
 - NXP Semiconductors (8)
-- Figma (7)
 - NVIDIA (7)
 - Vertiv (7)
 - Semtech (6)
 - Rivian (5)
+- AMD (4)
 - Jump Trading (4)
 - RTX (4)
-- AMD (3)
 - Cirrus Logic (3)
 - Hewlett Packard Enterprise (3)
 - Neuralink (3)
 - Tenstorrent (3)
+- Texas Instruments (3)
 - Interstates (3)
 - Analog Devices (2)
 - Bank of Montreal (2)
@@ -282,7 +286,6 @@
 - Garmin (2)
 - Leidos (2)
 - onsemi (2)
-- Texas Instruments (2)
 - Apple (2)
 - Astranis (2)
 - Brunswick (2)

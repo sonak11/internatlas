@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**291** tracked · **171** open now
+**293** tracked · **173** open now
 
 ## Current openings
 
@@ -77,7 +77,7 @@
 | [Google](generated/companies/google.md) | [Student Researcher Intern](https://go.vansh.nyc/15I) | Waterloo +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Huck Adventures](generated/companies/huck-adventures.md) | [Research Analyst Intern](https://jobs.smartrecruiters.com/HuckAdventures/743999747985535) | Boulder, CO | Onsite | 2026-08-18 | Rolling | 🟢 Open | ❔ |
 | [ICF International](generated/companies/icf-international.md) | [Energy Researcher Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Energy-Researcher--Reston--VA--Arlington--VA-_R2603418) | Arlington County +2 | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
-| [IMC Trading](generated/companies/imc-trading.md) | [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) | Chicago | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
+| [IMC Trading](generated/companies/imc-trading.md) | [Research Analyst Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) | Chicago, IL +1 | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Intel](generated/companies/intel.md) | [Software Research Intern - PhD](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Solutions-PhD-Intern-New-2027_JR0287314) | Hillsboro, OR | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [International Rescue Committee](generated/companies/international-rescue-committee.md) | [Development Data and Research Intern](https://theirc.wd1.myworkdayjobs.com/en-US/External_Careers/job/Silver-Spring-MD-USA/Development-Data-and-Research-Intern----Spring2027-_JR00005497) | Silver Spring, MD | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Fundamental Research Analyst Intern](https://go.vansh.nyc/43) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
@@ -138,6 +138,7 @@
 | [TikTok](generated/companies/tiktok.md) | [Research Engineer Intern, Monetization Technology - Business Integrity](https://go.vansh.nyc/187) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Content Intelligence](https://lifeattiktok.com/search/7662662842545539381) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Foundations & Intelligence Service](https://lifeattiktok.com/search/7662677746436524293) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Monetization Technology - Ads Core](https://lifeattiktok.com/search/7703777085291415813) | San Jose, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668204438271969589) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668202600147552517) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Neural Graphics and World Models](https://lifeattiktok.com/search/7667935738840090933) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -158,6 +159,7 @@
 | [Together AI](generated/companies/together-ai.md) | [Research Intern, Model Shaping](https://go.vansh.nyc/IP) | San Francisco, CA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Systems Research Engineer Intern - GPU Programming](https://job-boards.greenhouse.io/togetherai/jobs/5238460007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Systems Research Engineer Intern - GPU Programming](https://job-boards.greenhouse.io/togetherai/jobs/5238411007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| [Tokyo Electron](generated/companies/tokyo-electron.md) | [Research Scientist Intern - Summer 2027](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Research-Scientist---ATG-Optical-Sensor-Development-Intern--Summer-2027-_R26-02311) | Austin, TX | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Toyota Research Institute](generated/companies/toyota-research-institute.md) | [Human Interactive Driving Research Intern - Perception for Driving at the Limits](https://jobs.lever.co/tri/33c33641-756d-4cd1-8238-0100af2224b8/apply) | Los Altos, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [TPG](generated/companies/tpg.md) | [Data Analytics Research Assistant Intern - Data Analytics and Reporting - Spring Research Assistant](https://job-boards.greenhouse.io/tpgcareers/jobs/8034245003) | Remote | Remote | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [TPG](generated/companies/tpg.md) | [Research Assistant Intern, Data Analytics and Reporting](https://go.vansh.nyc/RV) | USA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
@@ -305,7 +307,7 @@
 - NVIDIA (21)
 - Together AI (16)
 - ByteDance (14)
-- TikTok (12)
+- TikTok (13)
 - Waymo (12)
 - Meta (11)
 - Pennsylvania State University (8)
@@ -386,6 +388,7 @@
 - Schonfeld (1)
 - Stand Together (1)
 - Susquehanna International Group (1)
+- Tokyo Electron (1)
 - Trace3 (1)
 - Trata (1)
 - Two Six Technologies (1)

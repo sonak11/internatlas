@@ -11,6 +11,7 @@
 | Leidos | [Performance Enablement AI/ML Intern](https://go.vansh.nyc/CC) | USA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | Leidos | [Software Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980) | Arlington County | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Leidos | [Software Engineer Intern](https://go.vansh.nyc/1bc) | Arlington, VA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| Leidos | [Software Engineering & AI Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220) | Shiloh, IL +1 | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | Leidos | [AI/ML Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168) | Huntsville, AL | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 | Leidos | [AI/ML Intern](https://go.vansh.nyc/eQ) | Huntsville, AL | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 | Leidos | [Artificial Intelligence/Machine Learning Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00192042) | Huntsville, AL | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |

@@ -6,6 +6,7 @@
 |---|---|---|---|---|---|---|---|
 | [1Password](generated/companies/1password.md) | [Product Management Intern - End User Experience](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) | Remote | Remote | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [1Password](generated/companies/1password.md) | [Security Intern, Threat Operations](https://go.vansh.nyc/eI) | Remote | Remote | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| [Amgen](generated/companies/amgen.md) | [Graduate Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585) | Remote | Remote | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Amplify](generated/companies/amplify.md) | [AI Scientist Intern](https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8/application?embed=true) | Remote | Remote | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Amplify](generated/companies/amplify.md) | [AI Scientist Intern](https://go.vansh.nyc/c5) | Remote | Remote | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Amplify](generated/companies/amplify.md) | [Data Analytics Intern](https://jobs.ashbyhq.com/amplify/7b859cc1-1354-43c5-bbd4-0571e85f7c51/application?embed=true) | Remote | Remote | 2026-10-19 | Rolling | 🟢 Open | ❔ |
@@ -26,6 +27,7 @@
 | [Clerkie](generated/companies/clerkie.md) | [Software Engineer Intern](http://getfiber.ai/careers?gh_jid=5225258007) | Remote | Remote | 2026-08-29 | Rolling | 🟢 Open | ❔ |
 | [Crystal Dynamics](generated/companies/crystal-dynamics.md) | [Gameplay Engineer Intern](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005) | Remote | Remote | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Datacor](generated/companies/datacor.md) | [Data Science Intern - Summer 2027 - Program](https://job-boards.greenhouse.io/datacor/jobs/5242412007) | Remote | Remote | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+| [DataVisor](generated/companies/datavisor.md) | [Software Engineer Intern](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply) | Remote | Remote | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Ensemble Health Partners](generated/companies/ensemble-health-partners.md) | [Data Scientist Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077) | Remote | Remote | 2026-07-17 | Rolling | 🟢 Open | ❔ |
 | [Highmark Health](generated/companies/highmark-health.md) | [Provider Delivery Software Engineer Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Provider-Delivery-Software-Engineer-enGen-Undergraduate-Intern_J290026) | Remote | Remote | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Hubs.is](generated/companies/hubs-is.md) | [Product Intern](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) | Remote | Remote | 2026-07-21 | Rolling | 🟢 Open | ❔ |

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**193** tracked · **149** open now
+**193** tracked · **148** open now
 
 ## Current openings
 
@@ -40,7 +40,6 @@
 | [CAI](generated/companies/cai.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/1cd) | USA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern - Security](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926) | Atlanta, GA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern, Security](https://go.vansh.nyc/cp) | Atlanta, GA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
-| [Cigna](generated/companies/cigna.md) | [Cybersecurity Intern, Technology Development Program](https://go.vansh.nyc/1h8) | Bloomfield, CT +1 | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Cincinnati Children’s Hospital and Medical Center](generated/companies/cincinnati-children-s-hospital-and-medical-center.md) | [Student II Security Analyst Intern](https://go.vansh.nyc/1cq) | USA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [CNA Insurance](generated/companies/cna-insurance.md) | [Cybersecurity Intern, Technology](https://go.vansh.nyc/1cc) | Chicago, IL | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❌ |
 | [Costco](generated/companies/costco.md) | [CDS Intern, OT/IoT Security Engineering](https://go.vansh.nyc/1gX) | Wa, WA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
@@ -163,6 +162,7 @@
 | [Arch Capital Group](generated/companies/arch-capital-group.md) | [Security Operations Intern](https://go.vansh.nyc/Hm) | Greensboro, NC | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 | [Capital One](generated/companies/capital-one.md) | [Cyber Security Intern](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2027_R244319) | McLean, VA +1 | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❌ |
 | [Centene Corporation](generated/companies/centene-corporation.md) | [Cybersecurity Intern](https://go.vansh.nyc/eJ) | Remote | Remote | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
+| [Cigna](generated/companies/cigna.md) | [Cybersecurity Intern, Technology Development Program](https://go.vansh.nyc/1h8) | Bloomfield, CT +1 | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❔ |
 | [Cisco](generated/companies/cisco.md) | [Security Consulting Engineer I Intern](https://go.vansh.nyc/Zg) | Research Triangle Park, NC | Onsite | 2026-10-29 | Rolling | 🔴 Closed | ❔ |
 | [CNO Financial Group](generated/companies/cno-financial-group.md) | [Cyber Security IT Intern](https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419?jr_id=6a70f504e2b7476e7b20bfd4) | Carmel, IN | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | [Cohen & Steers](generated/companies/cohen-steers.md) | [Associate Intern, Information Security](https://go.vansh.nyc/12I) | New York, NY | Onsite | 2026-10-31 | Rolling | 🔴 Closed | ❔ |
@@ -247,7 +247,6 @@
 - C.H. Robinson (1)
 - CAE (1)
 - CAI (1)
-- Cigna (1)
 - Cincinnati Children’s Hospital and Medical Center (1)
 - CNA Insurance (1)
 - Costco (1)
@@ -317,6 +316,7 @@
 - Arch Capital Group (1)
 - Capital One (1)
 - Centene Corporation (1)
+- Cigna (1)
 - Cisco (1)
 - CNO Financial Group (1)
 - Cohen & Steers (1)

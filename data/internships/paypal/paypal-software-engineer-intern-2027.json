@@ -7,7 +7,7 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://paypal.eightfold.ai/careers/job/274922260559",
+  "apply_url": "https://go.vansh.nyc/1hw",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -25,6 +25,16 @@
     {
       "city": "Chicago",
       "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Omaha",
+      "state": "NE",
+      "country": "USA"
+    },
+    {
+      "city": "Scottsdale",
+      "state": "AZ",
       "country": "USA"
     }
   ],
@@ -52,13 +62,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-04",
+    "posted": "2026-11-05",
     "discovered": "2026-09-05",
-    "last_verified": "2026-09-08"
+    "last_verified": "2026-11-05"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

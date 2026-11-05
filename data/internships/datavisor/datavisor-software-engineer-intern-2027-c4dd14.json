@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "awardco-back-end-software-engineer-intern-2027-3b9b50",
+  "id": "datavisor-software-engineer-intern-2027-c4dd14",
   "company": {
-    "name": "Awardco",
-    "slug": "awardco"
+    "name": "DataVisor",
+    "slug": "datavisor"
   },
-  "role": "Back-End Software Engineer Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/Ip",
-  "season": "summer",
+  "apply_url": "https://go.vansh.nyc/1hA",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Lindon",
-      "state": "UT",
+      "city": "Canada",
       "country": "USA"
     }
   ],
@@ -40,13 +39,14 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-10-26",
-    "last_verified": "2026-11-04"
+    "posted": "2026-11-05",
+    "discovered": "2026-11-05",
+    "last_verified": "2026-11-05"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:vanshb03",
+    "remote-available"
   ]
 }

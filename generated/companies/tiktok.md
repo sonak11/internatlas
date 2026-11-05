@@ -195,6 +195,7 @@
 | TikTok | [Research Engineer Intern, Monetization Technology - Business Integrity](https://go.vansh.nyc/187) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Research Scientist Intern - Content Intelligence](https://lifeattiktok.com/search/7662662842545539381) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Research Scientist Intern - Foundations & Intelligence Service](https://lifeattiktok.com/search/7662677746436524293) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Research Scientist Intern - Monetization Technology - Ads Core](https://lifeattiktok.com/search/7703777085291415813) | San Jose, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Research Scientist Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668204438271969589) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Research Scientist Intern - Monetization Technology - Business Integrity](https://lifeattiktok.com/search/7668202600147552517) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Research Scientist Intern - Neural Graphics and World Models](https://lifeattiktok.com/search/7667935738840090933) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |

@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| GM Financial | [Cloud Engineer Intern](https://go.vansh.nyc/1hc) | Irving, TX | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | GM Financial | [Data Engineer Intern](https://go.vansh.nyc/Zs) | Arlington, TX | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | GM financial | [Data Engineer Intern](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197) | Arlington, TX | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | GM financial | [Data Science Intern](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839) | Fort Worth, TX | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
@@ -18,4 +19,4 @@
 
 ## Related
 
-Browse more roles in: [🛠 Data Engineering](../categories/data-engineering.md), [📊 Data Science](../categories/data-science.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [☁️ Cloud](../categories/cloud.md), [🛠 Data Engineering](../categories/data-engineering.md), [📊 Data Science](../categories/data-science.md), [💻 Software Engineering](../categories/software-engineering.md)

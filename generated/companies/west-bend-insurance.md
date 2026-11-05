@@ -6,8 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| West Bend Insurance | [Data Scientist Intern](https://go.vansh.nyc/13w) | West Bend, WI | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | West Bend Insurance | [IT Software Engineer Intern](https://go.vansh.nyc/13x) | West Bend, WI | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
+| West Bend Insurance | [Data Scientist Intern](https://go.vansh.nyc/13w) | West Bend, WI | Onsite | 2026-10-31 | Rolling | 🔴 Closed | ❔ |
 | West Bend Insurance | [Data Solution Engineer Intern](https://careers-thesilverlining.icims.com/jobs/3786/job?mobile=true&needsRedirect=false) | Madison, WI +1 | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | West Bend Insurance | [IT Data Engineer Intern](https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false) | Madison, WI +1 | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 

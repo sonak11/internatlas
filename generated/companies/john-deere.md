@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| John Deere | [Product Engineering Student Intern](https://go.vansh.nyc/1hv) | Urbandale, IA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | John Deere | [Software Engineer Intern](https://go.vansh.nyc/DZ) | Champaign, IL | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | John Deere | [Software Engineer Student Intern, Product Engineering](https://go.vansh.nyc/dW) | Cary, NC | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | John Deere | [Software Engineering Intern, Technology](https://go.vansh.nyc/aT) | Ames, IA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |

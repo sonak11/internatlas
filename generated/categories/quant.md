@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**385** tracked · **221** open now
+**386** tracked · **222** open now
 
 ## Current openings
 
@@ -160,6 +160,7 @@
 | [Keyrock](generated/companies/keyrock.md) | [DeFi Quant Trader Intern - Credit](https://jobs.ashbyhq.com/keyrock/6b46ce15-7e6b-4213-9eb4-41cc64577e24/application?embed=true) | London +1 | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Keyrock](generated/companies/keyrock.md) | [Quantitative Analyst Intern - Digital Assets Market Making - High-Frequency Trading](https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33/application?embed=true) | London +1 | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Lazard](generated/companies/lazard.md) | [Quantitative Research Intern](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6612) | NYC | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
+| [Logiqal](generated/companies/logiqal.md) | [Quantum Error Correction and Architecture Intern](https://go.vansh.nyc/1hg) | Princeton, NJ | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [LSEG](generated/companies/lseg.md) | [Quantitative Services Intern](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Intern---Quantitative-Services_R0124311-2) | London | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [LSEG](generated/companies/lseg.md) | [Quantitative Services Intern](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/Boston-Massachusetts/Intern---Quantitative-Services_R0124310-2) | Boston, MA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Man Group](generated/companies/man-group.md) | [Systematic Quant Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) | Massachusetts | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
@@ -479,6 +480,7 @@
 - iSAM (1)
 - JPMorgan Chase (1)
 - Lazard (1)
+- Logiqal (1)
 - Marshall Wace (1)
 - Millennium (1)
 - PDT Partners (1)

@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Samsung Research America Internship | [Agentic AI Solutions Intern](https://go.vansh.nyc/1dP) | Mountain View, CA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
+| Samsung Research America Internship | [Agentic AI Solutions Intern](https://go.vansh.nyc/1dP) | Mountain View, CA | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Texas Instruments | [Digital Design Verification Engineer Intern](https://go.vansh.nyc/1hB) | Santa Clara, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | Texas Instruments | [Digital Design Verification Engineering Intern](https://go.vansh.nyc/hS) | Santa Clara, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❌ |
 | Texas Instruments | [Software Engineer Intern, Compiler](https://go.vansh.nyc/cv) | Sugar Land, TX | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Texas Instruments | [Web Marketing Intern, Front-end Developer](https://go.vansh.nyc/Wf) | Dallas, TX | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |

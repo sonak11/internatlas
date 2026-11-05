@@ -9,6 +9,7 @@
 | ASML | [Application Software QA Engineer Intern](https://go.vansh.nyc/gY) | San Jose, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | ASML | [Frontend Developer Intern](https://go.vansh.nyc/Wr) | San Jose, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | ASML | [Internship - Software Development Engineer in Test](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071) | San Jose, CA | Onsite | 2025-12-22 | Rolling | 🟢 Open | ❔ |
+| ASML | [Machine Learning and Image-Based EUV System Setup Intern](https://go.vansh.nyc/1h9) | San Diego, CA | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | ASML | [Optical Engineer Co-op Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-op---Optical-Engineer--Internship-_J-00354451) | Wilton, CT | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | ASML | [Platform Software Engineer In Test Intern](https://go.vansh.nyc/hQ) | San Jose, CA | Onsite | 2026-10-24 | Rolling | 🟢 Open | ❔ |
 | ASML | [Software Development Engineer in Test Intern](https://go.vansh.nyc/Y2) | San Diego, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
@@ -17,4 +18,4 @@
 
 ## Related
 
-Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🧠 Machine Learning](../categories/machine-learning.md), [💻 Software Engineering](../categories/software-engineering.md)

@@ -7,7 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Bracco | [Product Security Engineering Intern](https://go.vansh.nyc/VO) | Eden Prairie, MN | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
-| Bracco | [Software Engineering Intern](https://go.vansh.nyc/1bX) | Eden Prairie, MN | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
+| Bracco | [Software Engineering Intern](https://go.vansh.nyc/1bX) | Eden Prairie, MN | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

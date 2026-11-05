@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**367** tracked · **206** open now
+**369** tracked · **207** open now
 
 ## Current openings
 
@@ -143,6 +143,8 @@
 | [OneMain Financial](generated/companies/onemain-financial.md) | [Data Science Analyst Intern](https://myhrhome.wd1.myworkdayjobs.com/en-US/OneMainCareers/job/Wilmington-DE/Data-Science-Analyst_R2609-52405) | Charlotte, NC +1 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Papa John's](generated/companies/papa-john-s.md) | [Data Science Intern](https://papajohns.wd1.myworkdayjobs.com/papajohnscareers/job/HQ_Atlanta/XMLNAME-2027-Summer-Intern---Data-Science_R26_0000002157) | Atlanta, GA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Papa John's](generated/companies/papa-john-s.md) | [Data Science Intern](https://go.vansh.nyc/Gg) | Atlanta, GA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
+| [PayPal](generated/companies/paypal.md) | [Data Scientist Intern](https://paypal.eightfold.ai/careers/job/274922982821) | San Jose, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
+| [PayPal](generated/companies/paypal.md) | [Data Scientist Intern](https://go.vansh.nyc/1hy) | San Jose, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Peraton](generated/companies/peraton.md) | [Data Science Intern](https://peraton.jibeapply.com/jobs/170320?icims=1) | Blacksburg, VA +1 | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [Data Science Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) | Palo Alto, CA +4 | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [Data Science Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) | Palo Alto, CA +4 | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
@@ -207,7 +209,6 @@
 | [Walmart](generated/companies/walmart.md) | [Senior Data Scientist Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032) | Bentonville, AR | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Product Data Science](https://careers.withwaymo.com/jobs?gh_jid=8199365) | San Francisco +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Data Science](https://careers.withwaymo.com/jobs?gh_jid=8221956) | Mountain View, CA +1 | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
-| [West Bend Insurance](generated/companies/west-bend-insurance.md) | [Data Scientist Intern](https://go.vansh.nyc/13w) | West Bend, WI | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Whataburger](generated/companies/whataburger.md) | [Data Scientist Intern](https://go.vansh.nyc/Ch) | San Antonio, TX | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [WhiteWater Midstream](generated/companies/whitewater-midstream.md) | [Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007) | Austin, TX | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [WTW](generated/companies/wtw.md) | [Data Scientist Intern - P&C Insurance](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202605997) | London +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
@@ -370,6 +371,7 @@
 | [Walmart](generated/companies/walmart.md) | [Data Scientist 3 Intern - 2026 Intern Conversion: 2027 FT](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Crossman-Respect-Building-CA-SUNNYVALE-Home-Office/XMLNAME-2026-Intern-Conversion--2027-FT-Data-Scientist-III--Sunnyvale_R-2630125) | Sunnyvale, CA | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing](https://careers.withwaymo.com/jobs?gh_jid=8167323) | San Francisco +1 | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Wealthsimple](generated/companies/wealthsimple.md) | [Software Development Intern / Data Science Intern - Multiple Teams](https://jobs.ashbyhq.com/wealthsimple/de09418a-8a12-46aa-a371-34bafaf5be26/application?embed=true) | Toronto | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
+| [West Bend Insurance](generated/companies/west-bend-insurance.md) | [Data Scientist Intern](https://go.vansh.nyc/13w) | West Bend, WI | Onsite | 2026-10-31 | Rolling | 🔴 Closed | ❔ |
 | [William Blair](generated/companies/william-blair.md) | [Technology Intern - Wit - Data Science](https://www.williamblair.com/Careers/job-description?gh_jid=5242280007) | Chicago, IL | Onsite | 2026-09-28 | Rolling | 🔴 Closed | ❔ |
 | [Wise](generated/companies/wise.md) | [Data Science Intern](https://jobs.smartrecruiters.com/Wise/744000156265544) | London | Onsite | 2026-10-19 | Rolling | 🔴 Closed | ❔ |
 | [Wurl](generated/companies/wurl.md) | [Data Science Intern](https://go.vansh.nyc/13z) | USA | Onsite | 2026-10-31 | Rolling | 🔴 Closed | ❔ |
@@ -435,6 +437,7 @@
 - Nissan (2)
 - Nissan Global (2)
 - Papa John's (2)
+- PayPal (2)
 - Pinterest (2)
 - Procter & Gamble (2)
 - Resideo (2)
@@ -515,7 +518,6 @@
 - The Hartford (1)
 - TobogganLabs (1)
 - Viking Global (1)
-- West Bend Insurance (1)
 - Whataburger (1)
 - WhiteWater Midstream (1)
 - WTW (1)
@@ -584,6 +586,7 @@
 - Walgreens (1)
 - Walleye Capital (1)
 - Wealthsimple (1)
+- West Bend Insurance (1)
 - William Blair (1)
 - Wise (1)
 - Wurl (1)

@@ -20,7 +20,7 @@
 | IMC Trading | [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101) | Amsterdam | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | IMC Trading | [Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) | Chicago, IL +1 | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | IMC Trading | [Quantitative Trader Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101) | Hong Kong | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
-| IMC Trading | [Research Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) | Chicago | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
+| IMC Trading | [Research Analyst Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4823946101) | Chicago, IL +1 | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | IMC Trading | [Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4823924101) | Chicago, IL +1 | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | IMC Trading | [Software Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4667854101) | Amsterdam | Onsite | 2026-05-07 | Rolling | 🟢 Open | ❔ |
 | IMC Trading | [Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) | Hong Kong | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |

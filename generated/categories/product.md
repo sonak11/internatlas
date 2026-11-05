@@ -11,7 +11,6 @@
 | [1Password](generated/companies/1password.md) | [Product Management Intern - End User Experience](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) | Remote | Remote | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [1Password](generated/companies/1password.md) | [Product Management Intern, End User Experience](https://go.vansh.nyc/gR) | USA +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [ABB](generated/companies/abb.md) | [Product Management Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern-Drive-Products---Summer-2027_JR00047254) | New Berlin, WI | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
-| [ABB](generated/companies/abb.md) | [Product Management Intern](https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280) | New Berlin, WI | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Acuity](generated/companies/acuity.md) | [Product Management Technology Intern](https://careers.acuityinc.com/job/Conyers-Intern-Product-Management-Technology-GA-30012/1435075400/?ats=successfactors) | Conyers, GA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [ADT](generated/companies/adt.md) | [Product Management & Product Operations Intern](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) | Boca Raton, FL | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Allied Solutions](generated/companies/allied-solutions.md) | [Product Management Intern - Risk Management](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) | St Paul, MN | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
@@ -60,6 +59,7 @@
 | [Duolingo](generated/companies/duolingo.md) | [Product Manager, MBA Intern](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) | Pittsburgh, PA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [Electronic Arts](generated/companies/electronic-arts.md) | [Product Management Intern](https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182) | Austin, TX | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Epic Games](generated/companies/epic-games.md) | [Product Management Intern](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) | Cary, NC | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
+| [Equitable Bank](generated/companies/equitable-bank.md) | [Product Management Intern - Digital Banking](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) | Toronto | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Ernst & Young](generated/companies/ernst-young.md) | [Product Manager Intern - Tax - Other Tax](https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q) | NYC | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-2) | Markham | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Product Management Intern](https://go.vansh.nyc/he) | Markham | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
@@ -312,7 +312,6 @@
 - Springs Window Fashions (3)
 - TD Bank (3)
 - 1Password (2)
-- ABB (2)
 - Amazon (2)
 - Appian (2)
 - Brunswick (2)
@@ -339,6 +338,7 @@
 - Salesforce (2)
 - Shure (2)
 - Walmart (2)
+- ABB (1)
 - Acuity (1)
 - ADT (1)
 - Allied Solutions (1)
@@ -353,6 +353,7 @@
 - ByteDance (1)
 - Dick's Sporting Goods (1)
 - Epic Games (1)
+- Equitable Bank (1)
 - Ernst & Young (1)
 - GoFundMe (1)
 - Hewlett Packard Enterprise (1)
