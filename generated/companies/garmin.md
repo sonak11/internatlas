@@ -14,6 +14,7 @@
 | Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/20131?icims=1) | Cary, NC | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/20135?icims=1) | Tulsa, OK | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern](https://go.vansh.nyc/MG) | Cary, NC | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
+| Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/20129?icims=1) | Brea, CA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern](https://go.vansh.nyc/Lo) | Chandler, AZ | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern](https://go.vansh.nyc/MO) | Tulsa, OK | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern](https://go.vansh.nyc/Oq) | Olathe, KS | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
