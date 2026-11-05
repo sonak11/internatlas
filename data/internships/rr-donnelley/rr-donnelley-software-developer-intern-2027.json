@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "susquehanna-international-group-sig-quantitative-strategy-developer-intern-2027-3633db",
+  "id": "rr-donnelley-software-developer-intern-2027",
   "company": {
-    "name": "Susquehanna International Group (SIG)",
-    "slug": "susquehanna-international-group-sig"
+    "name": "RR Donnelley",
+    "slug": "rr-donnelley"
   },
-  "role": "Quantitative Strategy Developer Intern",
-  "category": "quant",
-  "apply_url": "https://careers-sig.icims.com/jobs/11170/job?mobile=true&needsRedirect=false",
+  "role": "Software Developer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1j4",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Philadelphia",
-      "state": "PA",
+      "city": "Warrenville",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-06",
-    "discovered": "2026-08-12",
+    "posted": "2026-11-05",
+    "discovered": "2026-11-05",
     "last_verified": "2026-11-05"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

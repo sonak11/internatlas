@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "icf-international-software-engineer-intern-2027-068128",
+  "id": "the-federal-reserve-system-knowledge-and-information-management-intern-2027",
   "company": {
-    "name": "ICF International",
-    "slug": "icf-international"
+    "name": "The Federal Reserve System",
+    "slug": "the-federal-reserve-system"
   },
-  "role": "Software Engineer Intern",
+  "role": "Knowledge and Information Management Intern",
   "category": "software-engineering",
-  "apply_url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522",
+  "apply_url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship---Knowledge-and-Information-Management-Intern_R-0000033908",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Reston",
-      "state": "VA",
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-14",
-    "discovered": "2026-10-17",
+    "posted": "2026-11-05",
+    "discovered": "2026-11-05",
     "last_verified": "2026-11-05"
   },
   "status": "open",

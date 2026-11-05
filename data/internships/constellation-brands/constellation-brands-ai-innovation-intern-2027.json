@@ -1,20 +1,26 @@
 {
   "schema_version": "1.0",
-  "id": "semtech-analog-design-engineer-intern-2027-7d3fed",
+  "id": "constellation-brands-ai-innovation-intern-2027",
   "company": {
-    "name": "Semtech",
-    "slug": "semtech"
+    "name": "Constellation Brands",
+    "slug": "constellation-brands"
   },
-  "role": "Analog Design Engineer Intern",
-  "category": "design",
-  "apply_url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3624",
+  "role": "AI Innovation Intern",
+  "category": "ai",
+  "apply_url": "https://go.vansh.nyc/1iF",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Calgary",
-      "country": "AB"
+      "city": "Rochester",
+      "state": "NY",
+      "country": "USA"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +45,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-24",
-    "discovered": "2026-10-04",
+    "posted": "2026-11-05",
+    "discovered": "2026-11-05",
     "last_verified": "2026-11-05"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
