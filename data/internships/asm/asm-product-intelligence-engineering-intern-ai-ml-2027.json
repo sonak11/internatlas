@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "general-motors-software-engineer-intern-av-ai-platform-2027-b3c026",
+  "id": "asm-product-intelligence-engineering-intern-ai-ml-2027",
   "company": {
-    "name": "General Motors",
-    "slug": "general-motors"
+    "name": "ASM",
+    "slug": "asm"
   },
-  "role": "Software Engineer Intern, AV/AI Platform",
-  "category": "ai",
-  "apply_url": "https://go.vansh.nyc/Eq",
+  "role": "Product Intelligence Engineering Intern, AI/ML",
+  "category": "machine-learning",
+  "apply_url": "https://go.vansh.nyc/1jZ",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Sunnyvale",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Warren",
-      "state": "MI",
+      "city": "Phoenix",
+      "state": "AZ",
       "country": "USA"
     }
   ],
@@ -45,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-02",
-    "discovered": "2026-10-26",
+    "posted": "2026-11-06",
+    "discovered": "2026-11-06",
     "last_verified": "2026-11-06"
   },
   "status": "open",

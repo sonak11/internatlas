@@ -27,8 +27,7 @@
 | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446) | West Valley City, UT | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | RTX | [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN06--10--50-Moulton-St--MOULTON-B6/Software-Engineer-Intern--Summer-2027----Onsite_01873017) | Cambridge, MA | Onsite | 2026-09-19 | Rolling | 🟢 Open | ❔ |
 | RTX | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646) | Aurora, CO | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
-| RTX | [Software Engineering Intern](https://go.vansh.nyc/1jj) | Aurora, CO | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
-| RTX | [Software Engineering Intern](https://go.vansh.nyc/1e6) | West Valley City, UT | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
+| RTX | [Software Engineering Intern](https://go.vansh.nyc/1jj) | Aurora, CO | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | RTX | [System Administrator Intern](https://go.vansh.nyc/9O) | Middletown, RI | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❌ |
 | RTX | [Systems Engineer Intern, Mission Sensor Manager](https://go.vansh.nyc/1cT) | Cedar Rapids, IA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❌ |
 | RTX | [Systems Security Engineer Intern](https://go.vansh.nyc/1iL) | Tewksbury, MA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |

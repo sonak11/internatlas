@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**200** tracked · **147** open now
+**202** tracked · **149** open now
 
 ## Current openings
 
@@ -68,6 +68,8 @@
 | [IAT Insurance Group](generated/companies/iat-insurance-group.md) | [Cyber Security Intern](https://go.vansh.nyc/197) | Raleigh, NC | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
 | [ICD](generated/companies/icd.md) | [Cyber Security Intern](https://go.vansh.nyc/1eu) | New York, NY | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [ID.me](generated/companies/id-me.md) | [Product Security Engineering Intern](https://go.vansh.nyc/1bM) | Mountain View, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| [Idaho National Laboratory](generated/companies/idaho-national-laboratory.md) | [Computer Security Research Intern](https://go.vansh.nyc/1jX) | Idaho Falls, ID | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
+| [Idaho National Laboratory](generated/companies/idaho-national-laboratory.md) | [Cyber Security Research Intern](https://go.vansh.nyc/1jY) | Idaho Falls, ID | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [IDEMIA](generated/companies/idemia.md) | [Cybersecurity Intern](https://go.vansh.nyc/12V) | USA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Illumio](generated/companies/illumio.md) | [Engineering Intern, Product Security](https://go.vansh.nyc/cO) | Sunnyvale, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Illumio](generated/companies/illumio.md) | [Security Research Intern](https://go.vansh.nyc/cQ) | Sunnyvale, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
@@ -227,6 +229,7 @@
 - Ciena (2)
 - GuidePoint Security (2)
 - HCSC (2)
+- Idaho National Laboratory (2)
 - Illumio (2)
 - L3Harris Technologies (2)
 - LLNL (2)

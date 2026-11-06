@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineering-intern-2027-6a2ae8",
+  "id": "zoox-software-engineer-intern-autonomy-software-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Zoox",
+    "slug": "zoox"
   },
-  "role": "Software Engineering Intern",
+  "role": "Software Engineer Intern - Autonomy Software",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1jj",
+  "apply_url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877/apply",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Aurora",
-      "state": "CO",
+      "city": "Foster City",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,10 +25,13 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
-    "citizenship_required": true,
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
+    "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-05",
+    "posted": "2026-11-06",
     "discovered": "2026-11-06",
     "last_verified": "2026-11-06"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
