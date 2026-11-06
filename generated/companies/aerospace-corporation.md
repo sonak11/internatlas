@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Aerospace Corporation | [AI Intern](https://go.vansh.nyc/1jf) | Kanata | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | Aerospace Corporation | [Cyber Security Intern](https://go.vansh.nyc/MY) | USA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❌ |
 | Aerospace Corporation | [Defensive Cyber Operations Intern](https://go.vansh.nyc/h5) | El Segundo, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❌ |
 | Aerospace Corporation | [Digital Communication Intern](https://go.vansh.nyc/dx) | El Segundo, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❌ |

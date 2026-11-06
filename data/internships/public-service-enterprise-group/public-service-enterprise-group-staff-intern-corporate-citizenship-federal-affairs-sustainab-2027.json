@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "id": "public-service-enterprise-group-staff-intern-corporate-citizenship-federal-affairs-sustainab-2027",
+  "company": {
+    "name": "Public Service Enterprise Group",
+    "slug": "public-service-enterprise-group"
+  },
+  "role": "Staff Intern - Corporate Citizenship - Federal Affairs & Sustainability",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.pseg.com/job/Newark-Summer-2027-Intern-Corporate-Citizenship-Federal-Affairs-&-Sustainability-NJ-07101/1448352900/?ats=successfactors",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Newark",
+      "state": "NJ",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-05",
+    "discovered": "2026-11-06",
+    "last_verified": "2026-11-06"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

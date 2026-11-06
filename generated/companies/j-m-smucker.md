@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| J.M. Smucker | [Data Science Intern](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118) | Remote | Remote | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | J.M. Smucker | [Finance Technology Intern](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Finance-Technology-Intern--Spring-2027_116016) | Orrville, OH | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | J.M. Smucker | [Finance Technology Intern](https://go.vansh.nyc/av) | Orrville, OH | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | J.M. Smucker | [Net Revenue Optimization Intern](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Orrville-OH/Net-Revenue-Optimization-Intern--Summer-2027_116006) | Orrville, OH | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
@@ -14,4 +15,4 @@
 
 ## Related
 
-Browse more roles in: [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [📊 Data Science](../categories/data-science.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)

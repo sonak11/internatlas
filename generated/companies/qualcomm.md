@@ -38,6 +38,7 @@
 | Qualcomm | [Display IP FPGA Emulation Intern](https://go.vansh.nyc/1hp) | Markham | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Display Systems Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721661677) | Markham | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Display Systems Engineer Intern](https://go.vansh.nyc/dX) | Markham | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| Qualcomm | [Driver and Tools Developer Intern - Telemetry Firmware](https://qualcomm.eightfold.ai/careers/job/446721989047) | Markham | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems](https://qualcomm.eightfold.ai/careers/job/446721661830) | Markham | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Edge AI and Display Hardware Architecture Intern](https://go.vansh.nyc/dY) | Markham | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Embedded Engineering Intern](https://go.vansh.nyc/Rq) | San Diego, CA +2 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
@@ -72,6 +73,7 @@
 | Qualcomm | [Soft IP ASIC Engineer Intern](https://go.vansh.nyc/DS) | Ottawa | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Soft IP Engineer Co-op Intern](https://qualcomm.eightfold.ai/careers/job/446721862542) | Ottawa | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Software Engineering Intern](https://go.vansh.nyc/Rs) | San Diego, CA +7 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
+| Qualcomm | [Telemetry Firmware, Driver and Tools Developer Intern](https://go.vansh.nyc/1jr) | Markham | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Verification Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721913769) | Toronto | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Verification Engineer Intern](https://go.vansh.nyc/1bu) | Toronto | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [AI Driven Test Automation Engineering Intern](https://go.vansh.nyc/RB) | Haifa District, IL | Onsite | 2026-10-18 | Rolling | 🔴 Closed | ❔ |

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**156** tracked · **117** open now
+**159** tracked · **120** open now
 
 ## Current openings
 
@@ -44,6 +44,7 @@
 | [Dynamic Catholic](generated/companies/dynamic-catholic.md) | [Software Developer Intern, Commerce Cloud](https://go.vansh.nyc/1eB) | Erlanger, KY | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Election Systems & Software](generated/companies/election-systems-software.md) | [DevOps Intern](https://go.vansh.nyc/fY) | Omaha, NE | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [GardaWorld](generated/companies/gardaworld.md) | [Infrastructure Engineer Intern](https://go.vansh.nyc/10Z) | Wayzata, MN | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
+| [Garmin](generated/companies/garmin.md) | [IT DevOps Administrator Intern](https://go.vansh.nyc/1jp) | Olathe, KS | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [General Dynamics Mission Systems](generated/companies/general-dynamics-mission-systems.md) | [DevOps Engineer Intern](https://go.vansh.nyc/12S) | Pittsburgh, PA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❌ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Software Engineer Intern - Cloud Platform](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034) | Santa Clara, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [GM Financial](generated/companies/gm-financial.md) | [Cloud Engineer Intern](https://go.vansh.nyc/1hc) | Irving, TX | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
@@ -125,6 +126,8 @@
 | [TruStage](generated/companies/trustage.md) | [Information Technology Development and Infrastructure Intern](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155) | Madison, WI | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [TruStage](generated/companies/trustage.md) | [Information Technology Development and Infrastructure Intern](https://go.vansh.nyc/Ms) | Madison, WI | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Veryable](generated/companies/veryable.md) | [Platform Engineer Intern](https://go.vansh.nyc/1ip) | Dallas, TX | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
+| [Western Alliance Bancorporation](generated/companies/western-alliance-bancorporation.md) | [Platform Engineering Intern](https://go.vansh.nyc/1jm) | Dallas, TX | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
+| [Western Alliance Bancorporation](generated/companies/western-alliance-bancorporation.md) | [Platform Engineering Intern](https://go.vansh.nyc/1jh) | Columbus, OH | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Aerospace Corporation](generated/companies/aerospace-corporation.md) | [Cloud Solutions Engineer / Site Reliability Intern](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Cloud-Solutions-Engineer---Site-Reliability-Undergrad-Intern_R016714) | El Segundo, CA +2 | Onsite | 2026-10-19 | Rolling | 🔴 Closed | ❌ |
 | [Aerospace Corporation](generated/companies/aerospace-corporation.md) | [Cloud Solutions Engineer Intern, Site Reliability](https://go.vansh.nyc/gq) | El Segundo, CA +2 | Onsite | 2026-10-21 | Rolling | 🔴 Closed | ❌ |
 | [Air Products](generated/companies/air-products.md) | [Information Technology/Digital Technology Intern - Infrastructure Services](https://airproducts.wd5.myworkdayjobs.com/en-US/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT-Digital-Technology--2027-_JR-2026-21953) | Allentown, PA | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
@@ -184,6 +187,7 @@
 - Shure (2)
 - The Toro Company (2)
 - TruStage (2)
+- Western Alliance Bancorporation (2)
 - Aerospace Corporation (2)
 - Allegion (1)
 - Arcesium (1)
@@ -196,6 +200,7 @@
 - Dynamic Catholic (1)
 - Election Systems & Software (1)
 - GardaWorld (1)
+- Garmin (1)
 - General Dynamics Mission Systems (1)
 - GlobalFoundries (1)
 - GM Financial (1)

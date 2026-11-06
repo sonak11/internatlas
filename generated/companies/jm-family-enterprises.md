@@ -11,6 +11,7 @@
 | JM Family Enterprises | [AI Intern](https://go.vansh.nyc/19j) | Deerfield Beach, FL | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | JM Family Enterprises | [Analytics Intern](https://go.vansh.nyc/1iw) | Deerfield Beach, FL | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | JM Family Enterprises | [Data Engineer Intern](https://go.vansh.nyc/VR) | Deerfield Beach, FL | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| JM Family Enterprises | [Data Engineering Intern](https://go.vansh.nyc/1jd) | Deerfield Beach, FL | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | JM Family Enterprises | [Offensive Security Intern](https://go.vansh.nyc/19y) | Deerfield Beach, FL | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | JM Family Enterprises | [Software Analyst Intern](https://go.vansh.nyc/1iI) | Deerfield Beach, FL | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | JM Family Enterprises | [Software Engineer Intern](https://go.vansh.nyc/YU) | Deerfield Beach, FL +1 | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |

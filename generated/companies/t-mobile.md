@@ -14,6 +14,7 @@
 | T-Mobile | [Product Operations Manager Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Product-Operations-Manager-Internship_REQ380888) | Bellevue, WA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | T-Mobile | [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882) | Philadelphia, PA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | T-Mobile | [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886) | NYC | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| T-Mobile | [Software Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650) | Atlanta, GA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | T-Mobile | [Software Engineering Intern](https://go.vansh.nyc/1f5) | Atlanta, GA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | T-Mobile | [Software Engineering Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652) | Atlanta, GA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | T-Mobile | [Software Engineering Intern](https://go.vansh.nyc/19r) | New York, NY | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |

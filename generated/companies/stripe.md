@@ -19,6 +19,8 @@
 | Stripe | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285) | Toronto | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | Stripe | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283) | New York | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | Stripe | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664) | Toronto +1 | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
+| Stripe | [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332683) | Toronto | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
+| Stripe | [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332681) | San Francisco | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | Stripe | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) | Bucharest | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Stripe | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883) | Singapore | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | Stripe | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867) | London | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -29,4 +31,4 @@
 
 ## Related
 
-Browse more roles in: [📊 Data Science](../categories/data-science.md), [🧠 Machine Learning](../categories/machine-learning.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [📊 Data Science](../categories/data-science.md), [🎨 Design](../categories/design.md), [🧠 Machine Learning](../categories/machine-learning.md), [💻 Software Engineering](../categories/software-engineering.md)

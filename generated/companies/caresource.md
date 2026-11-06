@@ -6,6 +6,11 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| CareSource | [Configuration and Automation Intern](https://go.vansh.nyc/1js) | USA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
+| CareSource | [Configuration and Automation Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Configuration-and-Automation_R14185) | Remote | Remote | 2026-11-05 | Rolling | 🟢 Open | ❔ |
+| CareSource | [Cybersecurity Intern](https://go.vansh.nyc/1je) | USA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
+| CareSource | [Data Analyst Intern](https://go.vansh.nyc/1jg) | USA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
+| CareSource | [Data Analyst Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Analyst_R14356) | Remote | Remote | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | CareSource | [Data Science Intern](https://go.vansh.nyc/1dQ) | USA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | CareSource | [Data Science Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306) | Remote | Remote | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | CareSource | [Full Stack AI Development Intern](https://go.vansh.nyc/106) | USA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
@@ -16,4 +21,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [📊 Data Science](../categories/data-science.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [📊 Data Science](../categories/data-science.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

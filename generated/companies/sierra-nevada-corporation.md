@@ -9,6 +9,7 @@
 | Sierra Nevada Corporation | [Cybersecurity Analyst Intern](https://go.vansh.nyc/VQ) | Sparks, NV | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
 | Sierra Nevada Corporation | [Data Science Intern - Summer 2027](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257) | Sparks, NV | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Sierra Nevada Corporation | [DevOps Engineer Intern](https://go.vansh.nyc/19u) | Southern Pines, NC | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❌ |
+| Sierra Nevada Corporation | [Firmware Engineer Intern](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233) | Sparks, NV | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | Sierra Nevada Corporation | [Firmware Engineer Intern](https://go.vansh.nyc/1iR) | Sparks, NV | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
 | Sierra Nevada Corporation | [Software Engineer Intern](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230) | Southern Pines, NC | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Sierra Nevada Corporation | [Software Engineer Intern](https://go.vansh.nyc/1dz) | Southern Pines, NC | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❌ |

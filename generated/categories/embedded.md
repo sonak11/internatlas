@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**273** tracked · **172** open now
+**276** tracked · **176** open now
 
 ## Current openings
 
@@ -31,6 +31,7 @@
 | [Anduril](generated/companies/anduril.md) | [2027 Firmware Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) | Costa Mesa | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [Firmware Engineer Intern](https://go.vansh.nyc/Cl) | Costa Mesa, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [Firmware Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265158007) | Costa Mesa, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| [Apex](generated/companies/apex.md) | [Software Engineer Intern - Embedded Systems](https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda/application?embed=true) | LA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Aptiv](generated/companies/aptiv.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/Ge) | Walnut Creek, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Astera Labs](generated/companies/astera-labs.md) | [Firmware Engineer Co-op Intern](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005) | Vancouver | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Astera Labs](generated/companies/astera-labs.md) | [Firmware Engineer Intern](https://go.vansh.nyc/Fk) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
@@ -98,11 +99,13 @@
 | [Odys Aviation](generated/companies/odys-aviation.md) | [Robotics & Embedded Systems Intern](https://go.vansh.nyc/1ev) | Long Beach, CA | Onsite | 2026-03-26 | Rolling | 🟢 Open | ❔ |
 | [OTTO Engineering](generated/companies/otto-engineering.md) | [Embedded Software Intern, Communications](https://go.vansh.nyc/122) | Carpentersville, IL | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [Parsons](generated/companies/parsons.md) | [Embedded Developer Intern](https://go.vansh.nyc/1iA) | Columbia, MD | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
+| [Qualcomm](generated/companies/qualcomm.md) | [Driver and Tools Developer Intern - Telemetry Firmware](https://qualcomm.eightfold.ai/careers/job/446721989047) | Markham | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Embedded Engineering Intern](https://go.vansh.nyc/Rq) | San Diego, CA +2 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Firmware Development Intern - PAL](https://qualcomm.eightfold.ai/careers/job/446721229661) | Markham | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Firmware Development Intern, PAL](https://go.vansh.nyc/Jq) | Markham | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Firmware Engineer Intern - Embedded Software Engineering - Embedded Firmware and SDK Development](https://qualcomm.eightfold.ai/careers/job/446721141411) | Toronto | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Firmware Engineer Intern, Embedded Software Engineering, Embedded Firmware and SDK Development](https://go.vansh.nyc/II) | Toronto | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
+| [Qualcomm](generated/companies/qualcomm.md) | [Telemetry Firmware, Driver and Tools Developer Intern](https://go.vansh.nyc/1jr) | Markham | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Resideo](generated/companies/resideo.md) | [Embedded Firmware Engineer Intern](https://go.vansh.nyc/1bv) | Melville, NY | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Resideo](generated/companies/resideo.md) | [Embedded Firmware Engineer Intern](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19812) | Melville, NY | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Resideo](generated/companies/resideo.md) | [Firmware Engineer Intern](https://go.vansh.nyc/1bx) | Aurora, IL | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
@@ -128,6 +131,7 @@
 | [Shield AI](generated/companies/shield-ai.md) | [Embedded Firmware Intern](https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4/apply) | Dallas, TX | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Shield AI](generated/companies/shield-ai.md) | [Embedded Firmware Intern](https://go.vansh.nyc/1bm) | Dallas, TX | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Shure](generated/companies/shure.md) | [Embedded Software Intern](https://careersus-shure.icims.com/jobs/5018/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| [Sierra Nevada Corporation](generated/companies/sierra-nevada-corporation.md) | [Firmware Engineer Intern](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233) | Sparks, NV | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Sierra Nevada Corporation](generated/companies/sierra-nevada-corporation.md) | [Firmware Engineer Intern](https://go.vansh.nyc/1iR) | Sparks, NV | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
 | [SK hynix](generated/companies/sk-hynix.md) | [SSD Firmware Development Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009) | San Jose, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [SK Hynix Memory Solution](generated/companies/sk-hynix-memory-solution.md) | [SSD Firmware Development Engineer Intern](https://go.vansh.nyc/OS) | San Jose, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -184,7 +188,6 @@
 | [Altera Corporation](generated/companies/altera-corporation.md) | [Embedded Solutions Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R02832) | Toronto | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Software Engineer Intern, Embedded Systems](https://go.vansh.nyc/gE) | USA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Software Engineer Intern, Embedded Systems](https://go.vansh.nyc/FS) | Redmond, WA +1 | Onsite | 2026-10-07 | Rolling | 🔴 Closed | ❔ |
-| [Apex](generated/companies/apex.md) | [Software Engineer Intern - Embedded Systems](https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda/application?embed=true) | LA | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Apex Technology, Inc.](generated/companies/apex-technology-inc.md) | [Software Engineering Intern, Embedded Systems](https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11) | Los Angeles | Onsite | 2026-05-11 | Rolling | 🔴 Closed | ❔ |
 | [Astranis](generated/companies/astranis.md) | [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | SF | Onsite | 2025-12-31 | Rolling | 🔴 Closed | ❔ |
 | [Atomic Semi](generated/companies/atomic-semi.md) | [Embedded Software Engineering Intern](https://jobs.ashbyhq.com/AtomicSemi/13e95284-dbcf-4cf2-8151-c9687dfc1889) | San Francisco, CA | Onsite | 2025-08-15 | Rolling | 🔴 Closed | ✅ |
@@ -285,9 +288,9 @@
 ## Hiring companies
 
 - Tesla (43)
+- Qualcomm (9)
 - AMD (8)
 - Marvell (8)
-- Qualcomm (7)
 - Rivian and Volkswagen Group Technologies (7)
 - Amazon (6)
 - Micron Technology (6)
@@ -309,6 +312,7 @@
 - Rockwell Automation (3)
 - RTX (3)
 - Shield AI (3)
+- Sierra Nevada Corporation (3)
 - CoStar Group (3)
 - Etched (3)
 - Geotab (3)
@@ -328,7 +332,6 @@
 - Odys Aviation (2)
 - Revel (2)
 - Semtech (2)
-- Sierra Nevada Corporation (2)
 - Solidigm (2)
 - Stanley Black & Decker (2)
 - The Aerospace Corporation (2)
@@ -341,6 +344,7 @@
 - The Toro Company (2)
 - Allegion (1)
 - Analog Devices (1)
+- Apex (1)
 - Aptiv (1)
 - Badger Meter (1)
 - Base Power (1)
@@ -366,7 +370,6 @@
 - Valmont (1)
 - Vertiv (1)
 - Altera Corporation (1)
-- Apex (1)
 - Apex Technology, Inc. (1)
 - Astranis (1)
 - Atomic Semi (1)

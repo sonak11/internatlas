@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**375** tracked · **214** open now
+**378** tracked · **212** open now
 
 ## Current openings
 
@@ -94,9 +94,6 @@
 | [Hadrian](generated/companies/hadrian.md) | [Data Science/Data Engineer Intern](https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813/application?embed=true) | LA +1 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Hadrian](generated/companies/hadrian.md) | [Data Science/Data Engineer Intern](https://go.vansh.nyc/1en) | Los Angeles, CA | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❌ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Data Science Intern](https://go.vansh.nyc/OD) | Andover, MA +9 | Onsite | 2026-08-30 | Rolling | 🟢 Open | ❔ |
-| [Highmark Health](generated/companies/highmark-health.md) | [Data Science Research and Development Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175) | New Mexico +50 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
-| [Highmark Health](generated/companies/highmark-health.md) | [Healthcare Analytics Data Science Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Healthcare-Analytics-Data-Science-Graduate-Intern_J288345) | New Mexico +50 | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
-| [Highmark Health](generated/companies/highmark-health.md) | [Predictive Modeling & Data Science Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Predictive-Modeling---Data-Science-Graduate-Intern_J288333) | New Mexico +50 | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Data Scientist Intern](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369) | London +2 | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Ingredion](generated/companies/ingredion.md) | [Global Supply Chain Data Science Intern](https://go.vansh.nyc/1do) | Westchester, IL | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integrainterns/jobs/5406093008) | Austin, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -108,6 +105,7 @@
 | [Itron](generated/companies/itron.md) | [Data Science Intern - Distributed Intelligence](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942) | Liberty Lake, WA | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Itron](generated/companies/itron.md) | [Data Science Intern - Distributed Intelligence](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2) | Liberty Lake, WA | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Itron](generated/companies/itron.md) | [Data Science Intern, Distributed Intelligence](https://go.vansh.nyc/JJ) | Liberty Lake, WA | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
+| [J.M. Smucker](generated/companies/j-m-smucker.md) | [Data Science Intern](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118) | Remote | Remote | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Data Scientist Intern - Data Science - System Performance Evaluation](https://careers.jhuapl.edu/jobs/59800?icims=1) | Laurel, MD | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Ketjen](generated/companies/ketjen.md) | [Data Science Intern](https://go.vansh.nyc/1fd) | Houston, TX | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Ketjen](generated/companies/ketjen.md) | [Data Science Intern](https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411) | Houston, TX | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
@@ -150,8 +148,6 @@
 | [Papa John's](generated/companies/papa-john-s.md) | [Data Science Intern](https://go.vansh.nyc/Gg) | Atlanta, GA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [PayPal](generated/companies/paypal.md) | [Data Scientist Intern](https://paypal.eightfold.ai/careers/job/274922982821) | San Jose, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [PayPal](generated/companies/paypal.md) | [Data Scientist Intern](https://go.vansh.nyc/1hy) | San Jose, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
-| [Peraton](generated/companies/peraton.md) | [Data Science Intern](https://peraton.jibeapply.com/jobs/170320?icims=1) | Blacksburg, VA +1 | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
-| [Peraton](generated/companies/peraton.md) | [Data Science Intern](https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false) | Blacksburg, VA +1 | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [Data Science Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) | Palo Alto, CA +4 | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [Data Science Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) | Palo Alto, CA +4 | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Plusgrade](generated/companies/plusgrade.md) | [Data Science Intern](https://go.vansh.nyc/1gR) | Toronto | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
@@ -179,6 +175,7 @@
 | [SOTI](generated/companies/soti.md) | [Data Scientist Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Data-Scientist--Intern--Jan-2027-12-Months-_R10571) | Mississauga | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [SOTI](generated/companies/soti.md) | [Data Scientist Intern](https://go.vansh.nyc/EA) | Mississauga | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [State Farm](generated/companies/state-farm.md) | [Data Science Intern - Magnet Program](https://jobs.statefarm.com/jobs/46353?icims=1) | Tempe, AZ | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
+| [State Farm](generated/companies/state-farm.md) | [P&C Actuarial & Underwriting Modeling Intern - Data Scientist](https://jobs.statefarm.com/jobs/46227?icims=1&lang=en-us) | Tempe, AZ +3 | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Strada Education Foundation](generated/companies/strada-education-foundation.md) | [Clear Outcomes and Data Science Intern](https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply) | Washington, DC | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [Stripe](generated/companies/stripe.md) | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285) | Toronto | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Stripe](generated/companies/stripe.md) | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283) | New York | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
@@ -213,6 +210,7 @@
 | [Vanguard](generated/companies/vanguard.md) | [Data Science Intern - Information Technology](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766) | Malvern, PA | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Viking Global](generated/companies/viking-global.md) | [Data Science Intern](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) | NYC | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [Walmart](generated/companies/walmart.md) | [Data Science Intern 3](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030) | Bentonville, AR | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
+| [Walmart](generated/companies/walmart.md) | [Data Science Intern, Last Mile Delivery](https://go.vansh.nyc/1jy) | Bentonville, AR | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Walmart](generated/companies/walmart.md) | [Senior Data Scientist Intern](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032) | Bentonville, AR | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Product Data Science](https://careers.withwaymo.com/jobs?gh_jid=8199365) | San Francisco +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Data Science](https://careers.withwaymo.com/jobs?gh_jid=8221956) | Mountain View, CA +1 | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
@@ -287,6 +285,9 @@
 | [Google](generated/companies/google.md) | [Data Scientist Intern - Product](https://www.google.com/about/careers/applications/jobs/results/119184035237765830) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | [Gordon Food Service](generated/companies/gordon-food-service.md) | [Data Science Engineer Intern](https://go.vansh.nyc/1cu) | Atlanta, GA | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | [Gordon Food Service](generated/companies/gordon-food-service.md) | [Data Science Engineer Intern](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1) | Atlanta, GA | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
+| [Highmark Health](generated/companies/highmark-health.md) | [Data Science Research and Development Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Data-Science-R-D-Graduate-Intern_J287175) | New Mexico +50 | Onsite | 2026-10-19 | Rolling | 🔴 Closed | ❔ |
+| [Highmark Health](generated/companies/highmark-health.md) | [Healthcare Analytics Data Science Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Healthcare-Analytics-Data-Science-Graduate-Intern_J288345) | New Mexico +50 | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
+| [Highmark Health](generated/companies/highmark-health.md) | [Predictive Modeling & Data Science Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Predictive-Modeling---Data-Science-Graduate-Intern_J288333) | New Mexico +50 | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
 | [HireVue](generated/companies/hirevue.md) | [Data Science Intern](https://jobs.smartrecruiters.com/HireVue/744000138728139) | Draper, UT | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
 | [Honeywell](generated/companies/honeywell.md) | [Information Systems Intern - IT - Cyber Engineer & Data Science](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155554) | USA | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
 | [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Data Scientist Intern - 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222414) | New York, NY | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
@@ -336,6 +337,8 @@
 | [Notion](generated/companies/notion.md) | [Data Science Intern (Winter 2027)](https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e) | Remote | Remote | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [NXP Semiconductors](generated/companies/nxp-semiconductors.md) | [Data Science / Structured Problem Solving Intern - Summer 2027](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Ed-Bluestein-Office/Data-Science---Structured-Problem-Solving-Intern---Summer-2027_R-10065037) | Austin, TX | Onsite | 2026-09-07 | Rolling | 🔴 Closed | ❔ |
 | [Pattern](generated/companies/pattern.md) | [Data Science Intern](https://jobs.lever.co/pattern/ad978732-7171-473d-9400-0a6fc9e23cf7/apply) | Lehi, UT | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
+| [Peraton](generated/companies/peraton.md) | [Data Science Intern](https://peraton.jibeapply.com/jobs/170320?icims=1) | Blacksburg, VA +1 | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
+| [Peraton](generated/companies/peraton.md) | [Data Science Intern](https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false) | Blacksburg, VA +1 | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Perpay](generated/companies/perpay.md) | [Data Science Intern](https://job-boards.greenhouse.io/perpay/jobs/4076978007) | Philadelphia, PA | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | [Phoenix Contact](generated/companies/phoenix-contact.md) | [Data Science & Analytics Intern](https://job-boards.greenhouse.io/phoenixcontact/jobs/7964865003) | Middletown, PA | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | [Polaris](generated/companies/polaris.md) | [Predictive Data Science Intern - Digital & IT](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525) | Medina, MN +1 | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
@@ -395,6 +398,7 @@
 - Verizon Communications (5)
 - Google (4)
 - Q2 (4)
+- Walmart (4)
 - Bank of Montreal (4)
 - Boston Scientific (4)
 - Booz Allen Hamilton (3)
@@ -402,7 +406,6 @@
 - CVS Health (3)
 - DraftKings (3)
 - Figma (3)
-- Highmark Health (3)
 - Integra FEC (3)
 - Intercontinental Exchange (3)
 - Itron (3)
@@ -410,11 +413,12 @@
 - Lyft (3)
 - Regeneron Pharmaceuticals (3)
 - SOTI (3)
+- State Farm (3)
 - Sun Life (3)
-- Walmart (3)
 - Waymo (3)
 - American Express (3)
 - Capital One (3)
+- Highmark Health (3)
 - Intact (3)
 - Leidos (3)
 - Mastercard (3)
@@ -446,12 +450,10 @@
 - Noblis (2)
 - Papa John's (2)
 - PayPal (2)
-- Peraton (2)
 - Pinterest (2)
 - Procter & Gamble (2)
 - Resideo (2)
 - Simbe Robotics (2)
-- State Farm (2)
 - Stripe (2)
 - The Federal Reserve System (2)
 - The Nuclear Company (2)
@@ -472,6 +474,7 @@
 - NJM Insurance Group (2)
 - Nokia (2)
 - Notion (2)
+- Peraton (2)
 - Robinhood (2)
 - RTX (2)
 - The Home Depot (2)
@@ -504,6 +507,7 @@
 - Ingredion (1)
 - Intel (1)
 - Intuitive (1)
+- J.M. Smucker (1)
 - Keysight Technologies (1)
 - Lawrence Livermore National Laboratory (LLNL) (1)
 - Louisiana Blue (1)

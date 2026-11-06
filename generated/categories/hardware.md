@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**341** tracked · **218** open now
+**344** tracked · **221** open now
 
 ## Current openings
 
@@ -226,6 +226,9 @@
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship- Hardware Engineer (FPGA)](https://job-boards.greenhouse.io/virtu/jobs/8657286002) | Austin, TX | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Hardware Test Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7894349003) | South SF | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Hardware Test Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7903483003) | South SF | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
+| [Zoox](generated/companies/zoox.md) | [Hardware Engineer Intern, Manufacturing Operations [Summer 2027]](https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded) | Foster City, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| [Zoox](generated/companies/zoox.md) | [Hardware Engineer Intern, Vehicle Development [Summer 2027]](https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62) | Foster City, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| [Zoox](generated/companies/zoox.md) | [Hardware Engineer Intern, Vehicle Systems [Summer 2027]](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b) | Foster City, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Akuna Capital](generated/companies/akuna-capital.md) | [Hardware Engineer Intern](https://akunacapital.com/careers/job/8018880/?gh_jid=8018880) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❌ |
 | [Altera](generated/companies/altera.md) | [FPGA IP Design Engineer Intern](https://go.vansh.nyc/d3) | Toronto | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Hardware Development Engineer Intern](https://go.vansh.nyc/gD) | Bellevue, WA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
@@ -383,6 +386,7 @@
 - Dell Technologies (3)
 - Rockwell Automation (3)
 - Zipline (3)
+- Zoox (3)
 - Microsoft (3)
 - ADT (2)
 - Garmin (2)

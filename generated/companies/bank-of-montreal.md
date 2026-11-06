@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Bank of Montreal | [Machine Learning Developer Intern Co-op](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620) | Toronto | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [UX/UI Designer Co-op Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1) | Toronto | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [UX/UI Designer Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951) | Toronto | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [Business Analyst Co-op Intern - Data and Change Management](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Business-Analyst--Data-and-Change-Management---Winter-2027--Co-op-Internship----4-Months_R260024737) | Toronto | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
@@ -46,4 +47,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [📊 Data Science](../categories/data-science.md), [🎨 Design](../categories/design.md), [🔩 Hardware](../categories/hardware.md), [📈 Quant](../categories/quant.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [📊 Data Science](../categories/data-science.md), [🎨 Design](../categories/design.md), [🔩 Hardware](../categories/hardware.md), [🧠 Machine Learning](../categories/machine-learning.md), [📈 Quant](../categories/quant.md), [💻 Software Engineering](../categories/software-engineering.md)

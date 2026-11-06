@@ -9,7 +9,6 @@
 | AMD | [AGS Libraries Intern/Co-op](https://careers.amd.com/jobs/90427?icims=1) | Calgary | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | AMD | [AI Research Infrastructure – Reinforcement Learning Post-Training Intern](https://careers.amd.com/jobs/90950?icims=1) | Santa Clara, CA | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | AMD | [Analog and Mixed Signal Engineer Intern/Co-op](https://careers.amd.com/jobs/91369?icims=1) | Markham | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
-| AMD | [Analog/Mixed-Signal Design Intern/Co-op](https://careers.amd.com/jobs/92346?icims=1) | San Jose, CA +1 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | AMD | [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91466?icims=1) | Secaucus, NJ +5 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | AMD | [ASIC Verification Engineer Intern/Co-op](https://careers.amd.com/jobs/91207?icims=1) | Ottawa | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | AMD | [Compiler Engineer Intern/Co-op](https://careers.amd.com/jobs/91866?icims=1) | San Jose, CA +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -37,10 +36,10 @@
 | AMD | [Machine Learning Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/91170?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | AMD | [Machine Learning/Artificial Intelligence Intern/Co-op](https://careers.amd.com/jobs/91363?icims=1) | Markham | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | AMD | [Machine Learning/Artificial Intelligence Intern/Co-op](https://careers.amd.com/jobs/90383?icims=1) | Markham | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
+| AMD | [Masters High-Speed SerDes and Optical Interconnect Engineering Intern](https://careers.amd.com/jobs/91893?icims=1&lang=en-us) | Santa Clara, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | AMD | [Product Development Engineering Intern/Co-op](https://careers.amd.com/jobs/91230?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | AMD | [Product Development Engineering Intern/Co-op](https://careers.amd.com/jobs/91228?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | AMD | [Product Management Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/90411?icims=1) | Calgary | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
-| AMD | [Senior Systems Design Engineer Intern](https://go.vansh.nyc/1hu) | Markham | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | AMD | [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/91367?icims=1) | Vancouver | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | AMD | [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/91180?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | AMD | [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/90947?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
@@ -51,6 +50,7 @@
 | AMD | [AI Research Intern - Reinforcement Learning and LLM Post-Training](https://careers.amd.com/jobs/91013?icims=1) | Santa Clara, CA | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | AMD | [AI Systems & GPU Performance Engineer Intern](https://careers.amd.com/jobs/92354?icims=1) | San Jose, CA +1 | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | AMD | [AI Training Systems and Performance Engineer Intern/Co-op](https://careers.amd.com/jobs/93332?icims=1) | San Jose, CA +1 | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
+| AMD | [Analog/Mixed-Signal Design Intern/Co-op](https://careers.amd.com/jobs/92346?icims=1) | San Jose, CA +1 | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | AMD | [Applied Artificial Intelligence Engineering Intern - Hardware AI](https://careers.amd.com/jobs/90997?icims=1) | Santa Clara, CA | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | AMD | [ASIC Package Engineer Intern Co-op](https://careers.amd.com/jobs/91469?icims=1) | San Jose, CA +1 | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
 | AMD | [ASIC Package Engineering Co-op/Intern](https://careers.amd.com/jobs/91463?icims=1) | San Jose, CA +1 | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
@@ -79,6 +79,7 @@
 | AMD | [Product Development Engineer Intern/Co-op](https://careers.amd.com/jobs/91227?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | AMD | [Research Engineer Intern/Co-op - AMD Research](https://careers.amd.com/jobs/90925?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | AMD | [Research Engineering Intern/Co-op - AMD Research](https://careers.amd.com/jobs/90926?icims=1) | Secaucus, NJ +5 | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
+| AMD | [Senior Systems Design Engineer Intern](https://go.vansh.nyc/1hu) | Markham | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❔ |
 | AMD | [SerDes Optical Transceivers Silicon Design and Architecture Modeling Engineer Intern/Co-op](https://careers.amd.com/jobs/92350?icims=1) | San Jose, CA +1 | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | AMD | [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/91368?icims=1) | Markham | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | AMD | [Software Engineer Intern/Co-op](https://careers.amd.com/jobs/91366?icims=1) | Calgary | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |

@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| NUVACORE | [CPU Software Intern](https://go.vansh.nyc/Tm) | Markham | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
+| NUVACORE | [CPU Software Intern](https://go.vansh.nyc/Tm) | Markham | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

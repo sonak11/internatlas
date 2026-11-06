@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**301** tracked · **182** open now
+**304** tracked · **184** open now
 
 ## Current openings
 
@@ -47,7 +47,6 @@
 | [Cartesian Systems](generated/companies/cartesian-systems.md) | [Research Assistant Micro-Intern - IAP - Alumni Host](https://job-boards.greenhouse.io/cartesiansystems/jobs/4408725009) | Cambridge, MA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Center for Strategic and International Studies](generated/companies/center-for-strategic-and-international-studies.md) | [Research Intern - Economics Program](https://job-boards.greenhouse.io/centerforstrategicandinternationalstudiesinc/jobs/4314577009) | Washington, DC | Onsite | 2026-07-14 | Rolling | 🟢 Open | ❔ |
 | [Cohere](generated/companies/cohere.md) | [Research Internship](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/application) | Montreal +3 | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❔ |
-| [Coinbase](generated/companies/coinbase.md) | [User Research Intern](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [CrowdStrike](generated/companies/crowdstrike.md) | [Overwatch Intern, Research](https://go.vansh.nyc/XD) | Arlington, VA +1 | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Databricks](generated/companies/databricks.md) | [PhD GenAI Research Scientist Intern](https://databricks.com/company/careers/open-positions/job?gh_jid=7011263002) | San Francisco | Onsite | 2023-11-07 | Rolling | 🟢 Open | ❔ |
 | [Datadog](generated/companies/datadog.md) | [Research Science Intern (PhD)](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657) | New York | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
@@ -173,10 +172,13 @@
 | [TPG](generated/companies/tpg.md) | [Data Analytics Research Assistant Intern - Data Analytics and Reporting - Spring Research Assistant](https://job-boards.greenhouse.io/tpgcareers/jobs/8034245003) | Remote | Remote | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [TPG](generated/companies/tpg.md) | [Research Assistant Intern, Data Analytics and Reporting](https://go.vansh.nyc/RV) | USA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Trace3](generated/companies/trace3.md) | [Innovation Research & Development Lab Intern](https://go.vansh.nyc/SL) | Irvine, CA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
+| [Trajectory](generated/companies/trajectory.md) | [Member of Technical Staff Intern, Research](https://go.vansh.nyc/1jJ) | San Francisco, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Trata](generated/companies/trata.md) | [Research Scientist Intern](https://go.vansh.nyc/2C) | San Francisco, CA +1 | Onsite | 2026-05-14 | Rolling | 🟢 Open | ❌ |
 | [Two Six Technologies](generated/companies/two-six-technologies.md) | [Research Intern](https://go.vansh.nyc/SO) | Arlington, VA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❌ |
+| [Two Six Technologies](generated/companies/two-six-technologies.md) | [Research Intern](https://go.vansh.nyc/1jx) | Dayton, OH | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
 | [University of Texas at Austin](generated/companies/university-of-texas-at-austin.md) | [Research Assistant: Remote Sensing Intern - UAV/Satellite Image Processing - Computer Science](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Research-Assistant--Remote-Sensing--UAV-Satellite-Image-Processing--and-Computer-Science_R_00049490) | Austin, TX | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Service Technology Research Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20270351) | Westerville, OH | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
+| [Vizient](generated/companies/vizient.md) | [Research Analytics & Insights Intern](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Research-Analytics---Insights_36064R-2) | Chicago, IL | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD,  Research, Perception Foundation Models](https://careers.withwaymo.com/jobs?gh_jid=8257801) | Mountain View, CA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Research Scientist Intern](https://careers.withwaymo.com/jobs?gh_jid=8337719) | Mountain View, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Research Scientist, Visual Reasoning](https://careers.withwaymo.com/jobs?gh_jid=8292367) | Mountain View, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
@@ -218,6 +220,7 @@
 | [Cloudflare](generated/companies/cloudflare.md) | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400) | In-Office | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407) | In-Office | Onsite | 2026-07-29 | Rolling | 🔴 Closed | ❔ |
 | [Cloudflare](generated/companies/cloudflare.md) | [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379) | In-Office | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
+| [Coinbase](generated/companies/coinbase.md) | [User Research Intern](https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360) | Hybrid | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Create Music Group](generated/companies/create-music-group.md) | [A&R Research Intern - Hip-Hop & R&B](https://ats.rippling.com/createmusicgroup/jobs/ceae3af1-66d0-40f0-9d9a-dcbecfa578c1) | LA | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Dandy](generated/companies/dandy.md) | [PhD Research Intern](https://jobs.ashbyhq.com/dandy/52bcfe21-dfa6-4669-8b58-b995c6e97b31/application?embed=true) | NYC | Onsite | 2026-09-30 | Rolling | 🔴 Closed | ❔ |
 | [DatologyAI](generated/companies/datologyai.md) | [Research Intern](https://jobs.ashbyhq.com/DatologyAI/0ced19c2-21ec-4bcc-92d2-68d448279f3f/application?embed=true) | San Mateo, CA | Onsite | 2026-09-19 | Rolling | 🔴 Closed | ❔ |
@@ -350,6 +353,7 @@
 - Shure (2)
 - The Allen Institute for AI (2)
 - TPG (2)
+- Two Six Technologies (2)
 - AMD (2)
 - Autodesk (2)
 - Nationwide Children's Hospital (2)
@@ -368,7 +372,6 @@
 - Cartesian Systems (1)
 - Center for Strategic and International Studies (1)
 - Cohere (1)
-- Coinbase (1)
 - CrowdStrike (1)
 - Databricks (1)
 - Datadog (1)
@@ -401,10 +404,11 @@
 - Susquehanna International Group (1)
 - Tokyo Electron (1)
 - Trace3 (1)
+- Trajectory (1)
 - Trata (1)
-- Two Six Technologies (1)
 - University of Texas at Austin (1)
 - Vertiv (1)
+- Vizient (1)
 - WorldEngine AI (1)
 - Yotta Labs (1)
 - ABB (1)
@@ -421,6 +425,7 @@
 - Carnegie Mellon University (1)
 - Center for AI Safety (1)
 - City of Austin (1)
+- Coinbase (1)
 - Create Music Group (1)
 - Dandy (1)
 - DatologyAI (1)

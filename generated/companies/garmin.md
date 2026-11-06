@@ -10,6 +10,7 @@
 | Garmin | [Electrical Design Engineer Intern](https://careers.garmin.com/jobs/19896?icims=1) | Tulsa, OK | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | Garmin | [FPGA Engineer Intern](https://go.vansh.nyc/FV) | Olathe, KS | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | Garmin | [FPGA Engineer Intern](https://careers.garmin.com/jobs/19836?icims=1) | Olathe, KS | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
+| Garmin | [IT DevOps Administrator Intern](https://go.vansh.nyc/1jp) | Olathe, KS | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/20131?icims=1) | Cary, NC | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/20135?icims=1) | Tulsa, OK | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern](https://go.vansh.nyc/MG) | Cary, NC | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
@@ -23,4 +24,4 @@
 
 ## Related
 
-Browse more roles in: [🎨 Design](../categories/design.md), [🔩 Hardware](../categories/hardware.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [☁️ Cloud](../categories/cloud.md), [🎨 Design](../categories/design.md), [🔩 Hardware](../categories/hardware.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

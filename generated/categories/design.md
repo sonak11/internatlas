@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**244** tracked · **144** open now
+**249** tracked · **146** open now
 
 ## Current openings
 
@@ -10,9 +10,7 @@
 |---|---|---|---|---|---|---|---|
 | [Altera](generated/companies/altera.md) | [IP Design Intern](https://go.vansh.nyc/hw) | Toronto | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Ambarella](generated/companies/ambarella.md) | [Physical Design Engineer Intern](https://go.vansh.nyc/gy) | USA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
-| [AMD](generated/companies/amd.md) | [Analog/Mixed-Signal Design Intern/Co-op](https://careers.amd.com/jobs/92346?icims=1) | San Jose, CA +1 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Diagnostics Design Engineer Intern/Co-op](https://careers.amd.com/jobs/90435?icims=1) | Markham | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
-| [AMD](generated/companies/amd.md) | [Senior Systems Design Engineer Intern](https://go.vansh.nyc/1hu) | Markham | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Analog Devices](generated/companies/analog-devices.md) | [Analog Design Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297) | Wilmington, MA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Analog Devices](generated/companies/analog-devices.md) | [Digital Design Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Digital-Design-Engineer-Intern_R265298) | San Jose, CA +1 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Product Designer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) | Costa Mesa | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
@@ -122,12 +120,13 @@
 | [Rivian](generated/companies/rivian.md) | [Software Engineer Intern Co-op - Design Automation](https://careers.rivian.com/jobs/33748?icims=1) | Palo Alto, CA | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [RosaicLabs](generated/companies/rosaiclabs.md) | [CPU Design Verification Engineer Intern](https://go.vansh.nyc/Xn) | Austin, TX +1 | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Samsung Semiconductor](generated/companies/samsung-semiconductor.md) | [SRAM Design Engineer Intern](https://go.vansh.nyc/10P) | San Jose, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
-| [Semtech](generated/companies/semtech.md) | [Analog Design Engineer Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3624) | Calgary | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Semtech](generated/companies/semtech.md) | [Analog Design Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Analog-Design-Intern_REQ3625) | Ottawa | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Semtech](generated/companies/semtech.md) | [Digital IC Design Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Digital-IC-Design-Engineering-Intern_REQ3620) | Ottawa | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Semtech](generated/companies/semtech.md) | [Digital IC Design Intern](https://go.vansh.nyc/Js) | Ottawa | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Silabs](generated/companies/silabs.md) | [Design Engineering Intern](https://go.vansh.nyc/JM) | Austin, TX | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Skydio](generated/companies/skydio.md) | [Product Design Engineer Intern](https://go.vansh.nyc/BB) | San Mateo, CA | Onsite | 2026-10-25 | Rolling | 🟢 Open | ❔ |
+| [Stripe](generated/companies/stripe.md) | [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332683) | Toronto | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
+| [Stripe](generated/companies/stripe.md) | [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332681) | San Francisco | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Tenstorrent](generated/companies/tenstorrent.md) | [Physical Design & DFT Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007) | Boston, MA +3 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Tenstorrent](generated/companies/tenstorrent.md) | [Systems Intern, Validation, Software, Design, Architecture & Packaging](https://go.vansh.nyc/gg) | Austin, TX +1 | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Commercial UI Software Engineer Intern](https://www.tesla.com/careers/search/job/285202) | Palo Alto, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
@@ -144,6 +143,9 @@
 | [Texas Instruments](generated/companies/texas-instruments.md) | [Digital Design Verification Engineer Intern](https://go.vansh.nyc/1hB) | Santa Clara, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Texas Instruments](generated/companies/texas-instruments.md) | [Digital Design Verification Engineering Intern](https://go.vansh.nyc/hS) | Santa Clara, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❌ |
 | [Upscale AI](generated/companies/upscale-ai.md) | [Advanced SerDes & Analog/Mixed-Signal IC Design Intern](https://jobs.lever.co/upscale-ai/2bad3e47-6c00-4ec2-94b5-feb4009619c9/apply) | USA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [Versant](generated/companies/versant.md) | [Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango](https://go.vansh.nyc/1jF) | Carlsbad, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
+| [Versant](generated/companies/versant.md) | [Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango](https://go.vansh.nyc/1jG) | Orlando, FL | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
+| [Versant](generated/companies/versant.md) | [Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango](https://go.vansh.nyc/1jE) | North Hollywood, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
 | [Vertiv](generated/companies/vertiv.md) | [Design Engineer Intern - Graduate-Level - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279217) | Delaware, OH +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Design Engineering Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279257) | Delaware, OH +1 | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Design Engineering Intern](https://go.vansh.nyc/Et) | Delaware, OH +1 | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
@@ -152,7 +154,9 @@
 | [Vertiv](generated/companies/vertiv.md) | [UI/UX Design Intern](https://go.vansh.nyc/8S) | Delaware, OH | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [UI/UX Design Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) | Delaware, OH +2 | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | New York +1 | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
+| [AMD](generated/companies/amd.md) | [Analog/Mixed-Signal Design Intern/Co-op](https://careers.amd.com/jobs/92346?icims=1) | San Jose, CA +1 | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [Diagnostics Design Engineering Intern/Co-op](https://careers.amd.com/jobs/91308?icims=1) | Markham | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
+| [AMD](generated/companies/amd.md) | [Senior Systems Design Engineer Intern](https://go.vansh.nyc/1hu) | Markham | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❔ |
 | [Apple](generated/companies/apple.md) | [Cellular Baseband Design Verification Intern](https://go.vansh.nyc/Dd) | USA | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 | [Apple](generated/companies/apple.md) | [Design Verification Engineer Intern](https://go.vansh.nyc/Yx) | Beaverton, OR | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 | [Astranis](generated/companies/astranis.md) | [Reliability Design Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4681416006) | SF | Onsite | 2026-06-22 | Rolling | 🔴 Closed | ❔ |
@@ -239,6 +243,7 @@
 | [RTX](generated/companies/rtx.md) | [Digital Design Electrical Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Digital-Design-Electrical-Engineer-Intern--Summer-2027--Onsite-_01872991) | Tucson, AZ | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Electrical Computer-Aided Design Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1) | Tucson, AZ | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Electrical Design Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Electrical-Design-Engineer-Intern--Summer-2027-_01877254) | Windsor Locks, CT | Onsite | 2026-09-29 | Rolling | 🔴 Closed | ❔ |
+| [Semtech](generated/companies/semtech.md) | [Analog Design Engineer Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Calgary-AB/Analog-Design-Engineer-Intern_REQ3624) | Calgary | Onsite | 2026-09-24 | Rolling | 🔴 Closed | ❔ |
 | [Semtech](generated/companies/semtech.md) | [Analog Design Engineer Intern - Signal Integrity Products Group](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Analog-Design-Engineer-Intern_REQ3622) | Burlington | Onsite | 2026-09-24 | Rolling | 🔴 Closed | ❔ |
 | [SkyGig](generated/companies/skygig.md) | [RFIC Design Intern](https://apply.workable.com/skygig/j/10A5A58F9E/apply) | San Jose, CA | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
 | [Tenstorrent](generated/companies/tenstorrent.md) | [Design Verification Engineer Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873756007) | Boston, MA | Onsite | 2026-04-09 | Rolling | 🔴 Closed | ❔ |
@@ -276,6 +281,7 @@
 - Neuralink (3)
 - Tenstorrent (3)
 - Texas Instruments (3)
+- Versant (3)
 - Interstates (3)
 - Analog Devices (2)
 - Bank of Montreal (2)
@@ -283,6 +289,7 @@
 - Electronic Arts (2)
 - Leidos (2)
 - onsemi (2)
+- Stripe (2)
 - Apple (2)
 - Astranis (2)
 - Brunswick (2)

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**199** tracked · **106** open now
+**202** tracked · **109** open now
 
 ## Current openings
 
@@ -51,8 +51,10 @@
 | [ID.me](generated/companies/id-me.md) | [Analytics Engineer Intern](https://go.vansh.nyc/h1) | Mountain View, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Jain Global](generated/companies/jain-global.md) | [Data Engineer Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1) | NYC | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Data Engineer Intern](https://go.vansh.nyc/42) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
+| [JM Family](generated/companies/jm-family.md) | [Data Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineering-Intern_JR105086) | Deerfield Beach, FL | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [JM Family](generated/companies/jm-family.md) | [Data Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120) | Deerfield Beach, FL | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [JM Family Enterprises](generated/companies/jm-family-enterprises.md) | [Data Engineer Intern](https://go.vansh.nyc/VR) | Deerfield Beach, FL | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| [JM Family Enterprises](generated/companies/jm-family-enterprises.md) | [Data Engineering Intern](https://go.vansh.nyc/1jd) | Deerfield Beach, FL | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Judi Health](generated/companies/judi-health.md) | [Data Engineer Intern](https://go.vansh.nyc/Fw) | New York, NY +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002998) | Chicago | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Kodiak Robotics](generated/companies/kodiak-robotics.md) | [Data Engineering Intern](https://job-boards.greenhouse.io/kodiak/jobs/4396622009) | Mountain View, CA | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
@@ -92,6 +94,7 @@
 | [Systems Planning and Analysis](generated/companies/systems-planning-and-analysis.md) | [Data Engineer Intern](https://spa.jibeapply.com/jobs/23698?icims=1) | Alexandria, VA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Systems Planning and Analysis](generated/companies/systems-planning-and-analysis.md) | [Data Engineer Intern](https://go.vansh.nyc/128) | Alexandria, VA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Systems Planning and Analysis](generated/companies/systems-planning-and-analysis.md) | [Data Engineering & Analytics Tools Intern](https://spa.jibeapply.com/jobs/23634?icims=1) | Washington, DC | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| [Tenet Healthcare](generated/companies/tenet-healthcare.md) | [Data Engineer Intern](https://go.vansh.nyc/1jn) | Dallas, TX | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Data Engineer Intern - Data Engineer - Applications Engineering](https://www.tesla.com/careers/search/job/285179) | Fremont, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Data Engineer Intern - Data Engineering & Business Intelligence](https://www.tesla.com/careers/search/job/285291) | Fremont, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Data Engineer Intern - Energy](https://www.tesla.com/careers/search/job/287982) | Palo Alto, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
@@ -233,6 +236,8 @@
 - Guardian Life (2)
 - IAT Insurance Group (2)
 - ID.me (2)
+- JM Family (2)
+- JM Family Enterprises (2)
 - Leidos (2)
 - Lyft (2)
 - Marmon Holdings (2)
@@ -265,8 +270,6 @@
 - ibotta (1)
 - Jain Global (1)
 - Jane Street (1)
-- JM Family (1)
-- JM Family Enterprises (1)
 - Judi Health (1)
 - Jump Trading (1)
 - Kodiak Robotics (1)
@@ -277,6 +280,7 @@
 - Perpay (1)
 - Picton Mahoney Asset Management (1)
 - Simon Property Group (1)
+- Tenet Healthcare (1)
 - Trace3 (1)
 - Wells Fargo (1)
 - West Bend Insurance (1)
