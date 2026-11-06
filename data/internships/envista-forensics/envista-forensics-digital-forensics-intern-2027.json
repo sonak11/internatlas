@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "visa-software-engineer-intern-2027-4ac3f7",
+  "id": "envista-forensics-digital-forensics-intern-2027",
   "company": {
-    "name": "Visa",
-    "slug": "visa"
+    "name": "Envista Forensics",
+    "slug": "envista-forensics"
   },
-  "role": "Software Engineer Intern",
+  "role": "Digital Forensics Intern",
   "category": "software-engineering",
-  "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF089918W-1",
+  "apply_url": "https://go.vansh.nyc/1kg",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
+      "city": "Morrisville",
+      "state": "NC",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-27",
-    "discovered": "2026-10-27",
+    "posted": "2026-11-06",
+    "discovered": "2026-11-06",
     "last_verified": "2026-11-06"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

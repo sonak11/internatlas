@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "lumbermen-s-software-developer-intern-2027-b86875",
+  "id": "the-new-york-times-interactive-news-engineering-intern-2027",
   "company": {
-    "name": "Lumbermen's",
-    "slug": "lumbermen-s"
+    "name": "The New York Times",
+    "slug": "the-new-york-times"
   },
-  "role": "Software Developer Intern",
+  "role": "Interactive News Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/lumbermens/jobs/5474346008",
+  "apply_url": "https://go.vansh.nyc/1km",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Grand Rapids",
-      "state": "MI",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-05",
+    "posted": "2026-11-06",
     "discovered": "2026-11-06",
     "last_verified": "2026-11-06"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
