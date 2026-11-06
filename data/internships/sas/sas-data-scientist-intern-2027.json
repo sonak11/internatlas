@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "together-ai-research-intern-model-shaping-2027-b7e5c7",
+  "id": "sas-data-scientist-intern-2027",
   "company": {
-    "name": "Together AI",
-    "slug": "together-ai"
+    "name": "SAS",
+    "slug": "sas"
   },
-  "role": "Research Intern - Model Shaping",
-  "category": "research",
-  "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5238465007",
-  "season": "winter",
+  "role": "Data Scientist Intern",
+  "category": "data-science",
+  "apply_url": "https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Cary",
+      "state": "NC",
       "country": "USA"
     }
   ],
@@ -42,8 +43,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-18",
-    "discovered": "2026-10-26",
+    "posted": "2026-11-06",
+    "discovered": "2026-11-06",
     "last_verified": "2026-11-06"
   },
   "status": "open",

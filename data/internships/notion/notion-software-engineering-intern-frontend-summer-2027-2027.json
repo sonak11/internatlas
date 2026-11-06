@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "id": "notion-software-engineering-intern-frontend-summer-2027-2027",
+  "company": {
+    "name": "Notion",
+    "slug": "notion",
+    "career_page": "https://www.notion.com/careers"
+  },
+  "role": "Software Engineering Intern, Frontend (Summer 2027)",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "remote",
+  "locations": [],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-06",
+    "discovered": "2026-11-06",
+    "last_verified": "2026-11-06"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:ats"
+  ]
+}

@@ -10,6 +10,8 @@
 | Talos | [Software Engineer Intern - Dealer](https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977/application?embed=true) | NYC | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | Talos | [Software Engineer Intern - RFQ](https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285/application?embed=true) | NYC | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | Talos | [Software Engineer Intern - Trading](https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d/application?embed=true) | London | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
+| Talos | [Software Engineer Intern, Dealer](https://go.vansh.nyc/1kX) | New York, NY | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| Talos | [Software Engineer Intern, RFQ](https://go.vansh.nyc/1kW) | New York, NY | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

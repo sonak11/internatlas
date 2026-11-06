@@ -1,17 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "highmark-health-provider-delivery-software-engineer-intern-2027-21ee2e",
+  "id": "invitation-charter-software-engineer-intern-2027",
   "company": {
-    "name": "Highmark Health",
-    "slug": "highmark-health"
+    "name": "Invitation-charter",
+    "slug": "invitation-charter"
   },
-  "role": "Provider Delivery Software Engineer Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Provider-Delivery-Software-Engineer-enGen-Undergraduate-Intern_J290026",
+  "apply_url": "https://go.vansh.nyc/1kv",
   "season": "summer",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Englewood",
+      "state": "CO",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -34,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-26",
-    "discovered": "2026-10-27",
+    "posted": "2026-11-06",
+    "discovered": "2026-11-06",
     "last_verified": "2026-11-06"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

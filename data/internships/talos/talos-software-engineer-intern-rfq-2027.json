@@ -5,15 +5,16 @@
     "name": "Talos",
     "slug": "talos"
   },
-  "role": "Software Engineer Intern - RFQ",
+  "role": "Software Engineer Intern, RFQ",
   "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285/application?embed=true",
+  "apply_url": "https://go.vansh.nyc/1kW",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
+    "posted": "2026-10-29",
     "discovered": "2026-09-08",
     "last_verified": "2026-11-06"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

@@ -5,15 +5,16 @@
     "name": "Talos",
     "slug": "talos"
   },
-  "role": "Software Engineer Intern - Dealer",
+  "role": "Software Engineer Intern, Dealer",
   "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/Talos-Trading/91fd5274-3b6b-43cf-b366-9f6dc2ae5977/application?embed=true",
+  "apply_url": "https://go.vansh.nyc/1kX",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
+    "posted": "2026-10-29",
     "discovered": "2026-09-08",
     "last_verified": "2026-11-06"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

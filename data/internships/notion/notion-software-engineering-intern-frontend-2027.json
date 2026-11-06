@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "booz-allen-systems-engineer-intern-summer-games-2027-aef355",
+  "id": "notion-software-engineering-intern-frontend-2027",
   "company": {
-    "name": "Booz Allen",
-    "slug": "booz-allen"
+    "name": "Notion",
+    "slug": "notion"
   },
-  "role": "Systems Engineer Intern - Summer Games",
+  "role": "Software Engineering Intern, Frontend",
   "category": "software-engineering",
-  "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Detroit-MI/University---2027-Summer-Games--Systems-Engineer-Intern---Royal-Oaks--MI_R0252341",
+  "apply_url": "https://go.vansh.nyc/1kP",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Detroit",
-      "state": "MI",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-26",
-    "discovered": "2026-10-27",
+    "posted": "2026-11-06",
+    "discovered": "2026-11-06",
     "last_verified": "2026-11-06"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

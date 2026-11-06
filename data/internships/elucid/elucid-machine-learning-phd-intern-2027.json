@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "together-ai-research-intern-inference-2027-7c1314",
+  "id": "elucid-machine-learning-phd-intern-2027",
   "company": {
-    "name": "Together AI",
-    "slug": "together-ai"
+    "name": "Elucid",
+    "slug": "elucid"
   },
-  "role": "Research Intern - Inference",
-  "category": "research",
-  "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5238462007",
-  "season": "summer",
+  "role": "Machine Learning PhD Intern",
+  "category": "machine-learning",
+  "apply_url": "https://elucid.applytojob.com/apply/A4aXsoyfPV/Machine-Learning-PhD-Intern-Spring-2027",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Boston",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -25,7 +26,6 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
       "phd"
     ],
     "citizenship_required": false,
@@ -42,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-18",
-    "discovered": "2026-09-19",
+    "posted": "2026-11-06",
+    "discovered": "2026-11-06",
     "last_verified": "2026-11-06"
   },
   "status": "open",

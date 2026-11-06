@@ -7,15 +7,11 @@
   },
   "role": "Provider Delivery Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/T8",
+  "apply_url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Provider-Delivery-Software-Engineer-enGen-Undergraduate-Intern_J290026",
   "season": "summer",
   "year": 2027,
-  "work_mode": "onsite",
-  "locations": [
-    {
-      "country": "USA"
-    }
-  ],
+  "work_mode": "remote",
+  "locations": [],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -45,7 +41,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03",
-    "remote-available"
+    "src:simplify"
   ]
 }

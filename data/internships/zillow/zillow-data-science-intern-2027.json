@@ -7,7 +7,7 @@
   },
   "role": "Data Science Intern",
   "category": "data-science",
-  "apply_url": "https://go.vansh.nyc/Tk",
+  "apply_url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -47,6 +49,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

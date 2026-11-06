@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "visa-software-engineer-intern-2027-7acc26",
+  "id": "uhaul-data-analyst-intern-2027",
   "company": {
-    "name": "Visa",
-    "slug": "visa"
+    "name": "Uhaul",
+    "slug": "uhaul"
   },
-  "role": "Software Engineer Intern",
+  "role": "Data Analyst Intern",
   "category": "software-engineering",
-  "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1",
-  "season": "summer",
+  "apply_url": "https://go.vansh.nyc/1ks",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
+      "city": "Phoenix",
+      "state": "AZ",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-27",
-    "discovered": "2026-10-27",
+    "posted": "2026-11-06",
+    "discovered": "2026-11-06",
     "last_verified": "2026-11-06"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

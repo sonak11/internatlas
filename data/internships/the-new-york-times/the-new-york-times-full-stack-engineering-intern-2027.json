@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "together-ai-systems-research-engineer-intern-gpu-programming-2027-85c5b6",
+  "id": "the-new-york-times-full-stack-engineering-intern-2027",
   "company": {
-    "name": "Together AI",
-    "slug": "together-ai"
+    "name": "The New York Times",
+    "slug": "the-new-york-times"
   },
-  "role": "Systems Research Engineer Intern - GPU Programming",
-  "category": "research",
-  "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007",
+  "role": "Full-Stack Engineering Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1l7",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-18",
-    "discovered": "2026-09-19",
+    "posted": "2026-11-06",
+    "discovered": "2026-11-06",
     "last_verified": "2026-11-06"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

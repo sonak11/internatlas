@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "zillow-data-science-intern-2027-ecaa14",
+  "id": "baird-it-data-analytics-intern-2027-172bc0",
   "company": {
-    "name": "Zillow",
-    "slug": "zillow"
+    "name": "Baird",
+    "slug": "baird"
   },
-  "role": "Data Science Intern",
-  "category": "data-science",
-  "apply_url": "https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1",
+  "role": "IT Data & Analytics Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1lb",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Seattle",
-      "state": "WA",
+      "city": "Milwaukee",
+      "state": "WI",
+      "country": "USA"
+    },
+    {
+      "city": "Madison",
+      "state": "WI",
       "country": "USA"
     }
   ],
@@ -25,9 +30,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +45,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-26",
-    "discovered": "2026-10-27",
+    "posted": "2026-11-06",
+    "discovered": "2026-11-06",
     "last_verified": "2026-11-06"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
