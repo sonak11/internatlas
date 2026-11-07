@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "zebra-technologies-software-engineer-intern-2027-b34074",
+  "id": "tiktok-geo-content-product-manager-intern-2027-3b21a5",
   "company": {
-    "name": "Zebra Technologies",
-    "slug": "zebra-technologies"
+    "name": "TikTok",
+    "slug": "tiktok"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657",
+  "role": "GEO Content Product Manager Intern",
+  "category": "product",
+  "apply_url": "https://lifeattiktok.com/search/7696000178264361269",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Holtsville",
-      "state": "NY",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-04",
-    "discovered": "2026-11-05",
+    "posted": "2026-11-07",
+    "discovered": "2026-11-07",
     "last_verified": "2026-11-07"
   },
   "status": "open",

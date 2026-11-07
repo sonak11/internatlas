@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-07
 
-## 🆕 New this week (1084)
+## 🆕 New this week (1093)
 
 - **1st Source** — [Information Security Intern](https://go.vansh.nyc/192) · security · —
 - **ADT** — [Technology & Engineering Intern](https://go.vansh.nyc/12y) · software-engineering · —
@@ -179,6 +179,7 @@
 - **CareSource** — [Data Science Intern](https://go.vansh.nyc/1dQ) · data-science · —
 - **CareSource** — [Data Science Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Data-Science-Intern_R14306) · data-science · —
 - **Carnegie Mellon SEI** — [Enabling Edge Intelligence (E2I) Intern](https://go.vansh.nyc/1gK) · software-engineering · —
+- **Category Labs** — [Research Intern](https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true) · research · —
 - **Cencora** — [Data Analytics Intern](https://go.vansh.nyc/18K) · software-engineering · —
 - **Charter Manufacturing** — [Automation & Analytics Intern](https://go.vansh.nyc/1cf) · software-engineering · —
 - **Chubb** — [Business Intelligence Intern](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/38335) · software-engineering · —
@@ -208,6 +209,7 @@
 - **Cook Group** — [Applied AI & Full Stack Development Intern](https://go.vansh.nyc/1k3) · ai · —
 - **Corgan** — [Software Development Intern](https://go.vansh.nyc/12K) · software-engineering · —
 - **Corning** — [Haptic Metrology & Stylus Tablet Development Intern](https://corningjobs.corning.com/job/Corning-Intern,-Haptic-Metrology-&-Stylus-Tablet-Development-Summer-2027-NY-14831/1446860600/?ats=successfactors) · software-engineering · —
+- **Corning** — [HPC DevOps Engineer Intern, Science & Technology](https://go.vansh.nyc/1lY) · cloud · —
 - **Corning** — [Image Analysis Intern](https://corningjobs.corning.com/job/Corning-Intern,-Image-Analysis-Summer-2027-NY-14831/1448762800/?ats=successfactors) · software-engineering · —
 - **Costco** — [CDS Intern - Innovation](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10998) · software-engineering · —
 - **Costco** — [CDS Intern - Powerapps Developer - ECM Digital Workflow](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=11001) · software-engineering · —
@@ -467,6 +469,7 @@
 - **Lyte AI** — [Software Engineering Intern](https://go.vansh.nyc/1in) · software-engineering · —
 - **MDA** — [Student Cyber Security Analyst Intern](https://go.vansh.nyc/1fU) · security · —
 - **METECS** — [Software Intern](https://go.vansh.nyc/1i5) · software-engineering · —
+- **MITRE** — [Computer Science or Software Engineering Intern](https://go.vansh.nyc/1lX) · software-engineering · —
 - **MITRE** — [Data Science Intern](https://go.vansh.nyc/1lR) · data-science · —
 - **Mach9** — [Perception Intern](https://go.vansh.nyc/18R) · software-engineering · —
 - **Man Group** — [Systematic Quant Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) · quant · —
@@ -914,6 +917,7 @@
 - **TikTok** — [Data Engineer Intern, Data Platform TikTok BP](https://go.vansh.nyc/18a) · data-engineering · —
 - **TikTok** — [Data Engineer Intern, Monetization Data](https://go.vansh.nyc/18f) · data-engineering · —
 - **TikTok** — [Data Engineering Project Intern, Ads Targeting](https://go.vansh.nyc/186) · data-engineering · —
+- **TikTok** — [Data Operations Intern](https://lifeattiktok.com/search/7704912455690504453) · software-engineering · —
 - **TikTok** — [Data Science Intern, TikTok Integrity and Safety](https://go.vansh.nyc/17R) · data-science · —
 - **TikTok** — [Data Science Intern, TikTok LIVE](https://go.vansh.nyc/17O) · data-science · —
 - **TikTok** — [Data Science Intern, TikTok Product](https://go.vansh.nyc/17Y) · data-science · —
@@ -924,6 +928,8 @@
 - **TikTok** — [Frontend Engineer Project Intern, Multimedia Arch](https://go.vansh.nyc/18z) · software-engineering · —
 - **TikTok** — [Fullstack Software Engineer Intern, Global E-Commerce](https://go.vansh.nyc/18i) · software-engineering · —
 - **TikTok** — [Fullstack Software Engineer Intern, Global E-Commerce](https://go.vansh.nyc/18g) · software-engineering · —
+- **TikTok** — [GEO Content Product Manager Intern](https://lifeattiktok.com/search/7696000178264361269) · product · —
+- **TikTok** — [GEO Content Product Manager Intern](https://go.vansh.nyc/1lW) · product · —
 - **TikTok** — [Machine Learning Engineer Intern](https://lifeattiktok.com/search/7703899923206867205) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern, Ads Signal & Measurement](https://go.vansh.nyc/17Q) · machine-learning · —
 - **TikTok** — [Machine Learning Engineer Intern, App Ads and Gaming](https://go.vansh.nyc/17X) · machine-learning · —
@@ -948,6 +954,7 @@
 - **TikTok** — [Research Engineer Intern, Monetization Technology - Business Integrity](https://go.vansh.nyc/187) · research · —
 - **TikTok** — [Research Scientist Intern - Monetization Technology - Ads Core](https://lifeattiktok.com/search/7703777085291415813) · research · —
 - **TikTok** — [Research Scientist Intern, Monetization Technology - Business Integrity](https://go.vansh.nyc/185) · research · —
+- **TikTok** — [Software Engineer Intern](https://lifeattiktok.com/search/7705012688944810245) · software-engineering · —
 - **TikTok** — [Software Engineer Intern, Ads Infrastructure](https://go.vansh.nyc/18m) · cloud · —
 - **TikTok** — [Software Engineer Intern, Foundation Platform](https://go.vansh.nyc/18C) · software-engineering · —
 - **TikTok** — [Software Engineer Intern, Global E-commerce-Search](https://go.vansh.nyc/188) · software-engineering · —
@@ -1061,15 +1068,16 @@
 - **Zebra Technologies** — [Software/AI Engineer Intern, Handheld Mobile Computers](https://go.vansh.nyc/19p) · ai · —
 - **Zebra Technologies** — [Software Engineer Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103645) · software-engineering · —
 - **Zebra Technologies** — [Software Engineer Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657) · software-engineering · —
-- **Zebra Technologies** — [Software Engineer Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638) · software-engineering · —
 - **Zebra Technologies** — [Software Engineer Intern - AI Features & Product Convergence](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636) · ai · —
 - **Zebra Technologies** — [Software Engineer Intern, AI Features & Product Convergence](https://go.vansh.nyc/1gx) · ai · —
 - **Zebra Technologies** — [Software Engineer Intern - US](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103626) · software-engineering · —
 - **Zebra Technologies** — [Systems Engineer Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Germantown-Maryland/XMLNAME-2027-Summer-Internship--US----Systems-Engineer_JR103659) · software-engineering · —
 - **Zebra Technologies** — [Systems Engineer Intern](https://go.vansh.nyc/1gw) · software-engineering · —
 - **ZipRecruiter** — [Software Engineer Intern](https://go.vansh.nyc/13A) · software-engineering · —
+- **Zoox** — [AI Workflows & Safety Decision Making Intern [2027]](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1) · ai · —
 - **Zoox** — [Data Science Intern](https://go.vansh.nyc/1lQ) · data-science · —
 - **Zoox** — [Data Science Intern [Summer 2027]](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97) · data-science · —
+- **Zoox** — [Data Scientist Intern](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply) · data-science · —
 - **Zoox** — [Hardware Engineer Intern, Manufacturing Operations [Summer 2027]](https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded) · hardware · —
 - **Zoox** — [Hardware Engineer Intern, Vehicle Development [Summer 2027]](https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62) · hardware · —
 - **Zoox** — [Hardware Engineer Intern - Vehicle Systems](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b/apply) · hardware · —
@@ -1077,6 +1085,7 @@
 - **Zoox** — [Information Technology & Applications Intern [Summer 2027]](https://jobs.lever.co/zoox/f35b2447-360f-4945-8ae8-16870e8d7558) · software-engineering · —
 - **Zoox** — [Process Improvement Intern [2027]](https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852) · software-engineering · —
 - **Zoox** — [Program Manager, Infrastructure Operations Intern [Summer 2027]](https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8) · cloud · —
+- **Zoox** — [Safety Reporting & Benchmarking Intern](https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db/apply) · software-engineering · —
 - **Zoox** — [Safety Reporting & Benchmarking Intern [Summer 2027]](https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db) · software-engineering · —
 - **Zoox** — [Software Engineer Intern - Autonomy Software](https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877/apply) · software-engineering · —
 - **Zoox** — [Software Engineer Intern - Software Platforms & Product](https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520/apply) · software-engineering · —

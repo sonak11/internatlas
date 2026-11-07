@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-07",
-  "count": 9900,
+  "count": 9908,
   "internships": [
     {
       "schema_version": "1.0",
@@ -25534,7 +25534,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -25746,7 +25746,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -58131,9 +58131,9 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-03",
-        "last_verified": "2026-10-26"
+        "last_verified": "2026-11-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -60351,7 +60351,7 @@
         "discovered": "2026-11-06",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -95845,6 +95845,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "category-labs-research-intern-2027",
+      "company": {
+        "name": "Category Labs",
+        "slug": "category-labs"
+      },
+      "role": "Research Intern",
+      "category": "research",
+      "apply_url": "https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "caterpillar-corporate-intern-autonomy-intelligent-systems-engineering-2027-b29afb",
       "company": {
         "name": "Caterpillar",
@@ -120601,6 +120655,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "corning-hpc-devops-engineer-intern-science-technology-2027",
+      "company": {
+        "name": "Corning",
+        "slug": "corning"
+      },
+      "role": "HPC DevOps Engineer Intern, Science & Technology",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/1lY",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Corning",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -174011,7 +174117,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189739,7 +189845,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189844,7 +189950,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189897,7 +190003,7 @@
         "discovered": "2026-10-11",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189950,7 +190056,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190002,7 +190108,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190054,7 +190160,7 @@
         "discovered": "2026-10-06",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190108,7 +190214,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190161,7 +190267,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190212,7 +190318,7 @@
         "discovered": "2026-10-12",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190266,7 +190372,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190317,7 +190423,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190368,7 +190474,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190419,7 +190525,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190471,7 +190577,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190522,7 +190628,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190678,7 +190784,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190731,7 +190837,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190839,7 +190945,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190892,7 +190998,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190946,7 +191052,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191048,7 +191154,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191203,7 +191309,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191256,7 +191362,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -231915,7 +232021,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -237097,7 +237203,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -237149,7 +237255,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -237209,7 +237315,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "jm-family-data-engineer-intern-2027-ba752a",
+      "id": "jm-family-data-engineer-intern-2027",
       "company": {
         "name": "JM Family",
         "slug": "jm-family"
@@ -237252,60 +237358,6 @@
       },
       "dates": {
         "posted": "2026-11-05",
-        "discovered": "2026-11-06",
-        "last_verified": "2026-11-07"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "jm-family-data-engineer-intern-2027",
-      "company": {
-        "name": "JM Family",
-        "slug": "jm-family"
-      },
-      "role": "Data Engineer Intern",
-      "category": "data-engineering",
-      "apply_url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Deerfield Beach",
-          "state": "FL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-27",
         "discovered": "2026-10-27",
         "last_verified": "2026-11-07"
       },
@@ -237361,7 +237413,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -237415,7 +237467,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -237835,7 +237887,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -238048,7 +238100,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -241057,7 +241109,7 @@
         "discovered": "2026-10-14",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -291273,6 +291325,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "mitre-computer-science-or-software-engineering-intern-2027",
+      "company": {
+        "name": "MITRE",
+        "slug": "mitre"
+      },
+      "role": "Computer Science or Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1lX",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-06",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "mitre-critical-infrastructure-protection-intern-2027",
       "company": {
         "name": "MITRE",
@@ -292262,7 +292366,7 @@
         "discovered": "2026-11-06",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -295511,7 +295615,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -315074,7 +315178,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -315286,7 +315390,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -391605,7 +391709,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -426559,7 +426663,7 @@
         "discovered": "2026-11-05",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -426611,7 +426715,7 @@
         "discovered": "2026-11-05",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -430136,7 +430240,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -472297,6 +472401,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-data-operations-intern-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Data Operations Intern",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7704912455690504453",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-data-science-intern-advertisement-team-2027",
       "company": {
         "name": "TikTok",
@@ -473840,6 +473997,110 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-geo-content-product-manager-intern-2027-3b21a5",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "GEO Content Product Manager Intern",
+      "category": "product",
+      "apply_url": "https://lifeattiktok.com/search/7696000178264361269",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tiktok-geo-content-product-manager-intern-2027",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "GEO Content Product Manager Intern",
+      "category": "product",
+      "apply_url": "https://go.vansh.nyc/1lW",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -481178,6 +481439,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "tiktok-software-engineer-intern-2027-072ac3",
+      "company": {
+        "name": "TikTok",
+        "slug": "tiktok"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://lifeattiktok.com/search/7705012688944810245",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "tiktok-software-engineer-intern-2027-75df16",
       "company": {
         "name": "TikTok",
@@ -488224,7 +488539,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -491358,7 +491673,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -495902,7 +496217,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -530884,7 +531199,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -530892,7 +531207,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "zebra-technologies-software-engineer-intern-2027-b34074",
+      "id": "zebra-technologies-software-engineer-intern-2027",
       "company": {
         "name": "Zebra Technologies",
         "slug": "zebra-technologies"
@@ -530935,58 +531250,6 @@
       },
       "dates": {
         "posted": "2026-11-04",
-        "discovered": "2026-11-05",
-        "last_verified": "2026-11-07"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "zebra-technologies-software-engineer-intern-2027",
-      "company": {
-        "name": "Zebra Technologies",
-        "slug": "zebra-technologies"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Holtsville",
-          "state": "NY",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-11-03",
         "discovered": "2026-10-21",
         "last_verified": "2026-11-07"
       },
@@ -531042,7 +531305,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -531094,7 +531357,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -531308,7 +531571,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -531360,7 +531623,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -534309,6 +534572,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "zoox-ai-workflows-safety-decision-making-intern-2027-2027",
+      "company": {
+        "name": "Zoox",
+        "slug": "zoox",
+        "career_page": "https://zoox.com/careers"
+      },
+      "role": "AI Workflows & Safety Decision Making Intern [2027]",
+      "category": "ai",
+      "apply_url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Foster City",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "zoox-autonomy-and-geofence-expansion-intern-2027",
       "company": {
         "name": "Zoox",
@@ -534467,6 +534783,66 @@
       "tags": [
         "auto-ingested",
         "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "zoox-data-scientist-intern-2027",
+      "company": {
+        "name": "Zoox",
+        "slug": "zoox"
+      },
+      "role": "Data Scientist Intern",
+      "category": "data-science",
+      "apply_url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Foster City",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd",
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -534891,6 +535267,60 @@
       "tags": [
         "auto-ingested",
         "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "zoox-safety-reporting-benchmarking-intern-2027",
+      "company": {
+        "name": "Zoox",
+        "slug": "zoox"
+      },
+      "role": "Safety Reporting & Benchmarking Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db/apply",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Foster City",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
