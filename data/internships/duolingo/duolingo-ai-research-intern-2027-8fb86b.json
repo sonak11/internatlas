@@ -1,21 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "duolingo-ai-research-intern-phd-2027",
+  "id": "duolingo-ai-research-intern-2027-8fb86b",
   "company": {
     "name": "Duolingo",
-    "slug": "duolingo",
-    "career_page": "https://careers.duolingo.com/"
+    "slug": "duolingo"
   },
-  "role": "AI Research Intern (PhD)",
+  "role": "AI Research Intern",
   "category": "ai",
-  "apply_url": "https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002",
+  "apply_url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8928923002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "state": "NY",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -26,7 +29,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,12 +47,12 @@
   },
   "dates": {
     "posted": "2026-11-06",
-    "discovered": "2026-11-06",
-    "last_verified": "2026-11-06"
+    "discovered": "2026-11-07",
+    "last_verified": "2026-11-07"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

@@ -6,13 +6,13 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Toshiba Commerce Solutions | [Agentic Software Engineering Intern](https://go.vansh.nyc/19V) | Frisco, TX | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
-| Toshiba Commerce Solutions | [Agentic Software Engineering Intern](https://go.vansh.nyc/19T) | Durham, NC | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Toshiba Commerce Solutions | [AI Data Science & Business Analytics Intern](https://go.vansh.nyc/19U) | Durham, NC | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
-| Toshiba Commerce Solutions | [AI Software Engineering Intern](https://go.vansh.nyc/1e8) | Frisco, TX | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
-| Toshiba Commerce Solutions | [Software Engineering Intern](https://go.vansh.nyc/19Y) | Durham, NC | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| Toshiba Commerce Solutions | [Agentic Software Engineering Intern](https://go.vansh.nyc/19V) | Frisco, TX | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
+| Toshiba Commerce Solutions | [Agentic Software Engineering Intern](https://go.vansh.nyc/19T) | Durham, NC | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 | Toshiba Commerce Solutions | [AI Engineering Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5192820007) | Frisco, TX | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❌ |
+| Toshiba Commerce Solutions | [AI Software Engineering Intern](https://go.vansh.nyc/1e8) | Frisco, TX | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | Toshiba Commerce Solutions | [Project Management & AI Automation Intern](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5190937007) | Frisco, TX | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❌ |
+| Toshiba Commerce Solutions | [Software Engineering Intern](https://go.vansh.nyc/19Y) | Durham, NC | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

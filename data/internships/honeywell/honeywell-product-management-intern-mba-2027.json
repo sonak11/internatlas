@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "toshiba-global-commerce-solutions-agentic-software-engineer-intern-2027-dac65a",
+  "id": "honeywell-product-management-intern-mba-2027",
   "company": {
-    "name": "Toshiba Global Commerce Solutions",
-    "slug": "toshiba-global-commerce-solutions"
+    "name": "Honeywell",
+    "slug": "honeywell"
   },
-  "role": "Agentic Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5281707007",
-  "season": "spring",
+  "role": "Product Management Intern - MBA",
+  "category": "product",
+  "apply_url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159658",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Frisco",
-      "state": "TX",
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -40,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-02",
-    "discovered": "2026-11-03",
-    "last_verified": "2026-11-06"
+    "posted": "2026-11-06",
+    "discovered": "2026-11-07",
+    "last_verified": "2026-11-07"
   },
   "status": "open",
   "tags": [

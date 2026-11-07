@@ -1,19 +1,29 @@
 {
   "schema_version": "1.0",
-  "id": "together-ai-research-intern-model-shaping-2027-803c6d",
+  "id": "duolingo-ai-research-intern-2027",
   "company": {
-    "name": "Together AI",
-    "slug": "together-ai"
+    "name": "Duolingo",
+    "slug": "duolingo"
   },
-  "role": "Research Intern - Model Shaping",
-  "category": "research",
-  "apply_url": "https://job-boards.greenhouse.io/togetherai/jobs/5238466007",
+  "role": "AI Research Intern",
+  "category": "ai",
+  "apply_url": "https://careers.duolingo.com/jobs/8928712002?gh_jid=8928712002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -24,10 +34,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,9 +49,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-18",
-    "discovered": "2026-09-19",
-    "last_verified": "2026-11-06"
+    "posted": "2026-11-06",
+    "discovered": "2026-11-07",
+    "last_verified": "2026-11-07"
   },
   "status": "open",
   "tags": [

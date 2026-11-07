@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "mitre-data-science-intern-2027",
+  "company": {
+    "name": "MITRE",
+    "slug": "mitre"
+  },
+  "role": "Data Science Intern",
+  "category": "data-science",
+  "apply_url": "https://go.vansh.nyc/1lR",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "McLean",
+      "state": "VA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": true,
+    "security_clearance_required": false,
+    "visa_sponsorship": "no"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-06",
+    "discovered": "2026-11-07",
+    "last_verified": "2026-11-07"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

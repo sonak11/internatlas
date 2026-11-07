@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "icf-international-ai-engineer-intern-2027-f6e53e",
+  "id": "afterquery-ai-ml-research-intern-2027",
   "company": {
-    "name": "ICF International",
-    "slug": "icf-international"
+    "name": "AfterQuery",
+    "slug": "afterquery"
   },
-  "role": "AI Engineer Intern",
-  "category": "ai",
-  "apply_url": "https://go.vansh.nyc/9b",
+  "role": "AI/ML Research Intern",
+  "category": "machine-learning",
+  "apply_url": "https://go.vansh.nyc/1lt",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Reston",
-      "state": "VA",
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-14",
-    "discovered": "2026-10-25",
-    "last_verified": "2026-11-06"
+    "posted": "2026-09-12",
+    "discovered": "2026-11-07",
+    "last_verified": "2026-11-07"
   },
   "status": "open",
   "tags": [
