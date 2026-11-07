@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-07",
-  "count": 9911,
+  "count": 9922,
   "internships": [
     {
       "schema_version": "1.0",
@@ -64985,6 +64985,110 @@
         "last_verified": "2026-10-28"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "blackhawk-network-technology-intern-2027-5a752a",
+      "company": {
+        "name": "Blackhawk Network",
+        "slug": "blackhawk-network"
+      },
+      "role": "Technology Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1m8",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pleasanton",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "blackhawk-network-technology-intern-2027",
+      "company": {
+        "name": "Blackhawk Network",
+        "slug": "blackhawk-network"
+      },
+      "role": "Technology Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1m7",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Coppell",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -131368,6 +131472,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "dayton-freight-business-intelligence-intern-2027",
+      "company": {
+        "name": "Dayton Freight",
+        "slug": "dayton-freight"
+      },
+      "role": "Business Intelligence Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1ma",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dayton",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "dayton-freight-software-developer-intern-2027",
+      "company": {
+        "name": "Dayton Freight",
+        "slug": "dayton-freight"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1m9",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dayton",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "de-shaw-software-developer-intern-2027",
       "company": {
         "name": "DE Shaw",
@@ -149830,6 +150038,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "empirical-software-engineering-intern-2027",
+      "company": {
+        "name": "empirical",
+        "slug": "empirical"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1mg",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dakota Dunes",
+          "state": "SD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -169727,6 +169987,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "framatome-ai-and-software-innovation-intern-2027",
+      "company": {
+        "name": "Framatome",
+        "slug": "framatome"
+      },
+      "role": "AI and Software Innovation Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1m6",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lynchburg",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -250146,6 +250458,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "kinaxis-developer-intern-back-end-technologies-2027-323108",
+      "company": {
+        "name": "Kinaxis",
+        "slug": "kinaxis"
+      },
+      "role": "Developer Intern, Back End Technologies",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1md",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "kinaxis-developer-intern-back-end-technologies-2027",
       "company": {
         "name": "Kinaxis",
@@ -250396,7 +250759,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "kinaxis-full-stack-developer-intern-c-2027",
+      "id": "kinaxis-full-stack-developer-intern-c-2027-9cd18f",
       "company": {
         "name": "Kinaxis",
         "slug": "kinaxis"
@@ -250438,13 +250801,66 @@
       },
       "dates": {
         "posted": "2026-10-23",
-        "discovered": "2026-10-31",
+        "discovered": "2026-11-07",
         "last_verified": "2026-11-07"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "kinaxis-full-stack-developer-intern-c-2027",
+      "company": {
+        "name": "Kinaxis",
+        "slug": "kinaxis"
+      },
+      "role": "Full Stack Developer Intern, C#",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1mc",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-10-31",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -372865,6 +373281,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "riverside-research-formal-methods-research-intern-2027",
+      "company": {
+        "name": "Riverside Research",
+        "slug": "riverside-research"
+      },
+      "role": "Formal Methods Research Intern",
+      "category": "research",
+      "apply_url": "https://go.vansh.nyc/1mh",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lexington",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "riverside-research-software-applications-intern-2027-ebeb94",
       "company": {
         "name": "Riverside Research",
@@ -424790,6 +425258,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "springs-window-fashions-software-engineering-intern-2027",
+      "company": {
+        "name": "Springs Window Fashions",
+        "slug": "springs-window-fashions"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1mf",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Long Island City",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "springs-window-fashions-software-engineering-intern-summer-2027-2027",
       "company": {
         "name": "Springs Window Fashions",
@@ -424888,6 +425408,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "springs-window-fashions-textile-engineering-analytics-software-intern-2027",
+      "company": {
+        "name": "Springs Window Fashions",
+        "slug": "springs-window-fashions"
+      },
+      "role": "Textile Engineering Analytics & Software Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1me",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Middleton",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -428166,7 +428738,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "stoke-space-software-intern-2027",
+      "id": "stoke-space-software-intern-2027-8a73ed",
       "company": {
         "name": "Stoke Space",
         "slug": "stoke-space"
@@ -428209,13 +428781,67 @@
       },
       "dates": {
         "posted": "2026-09-01",
-        "discovered": "2026-09-01",
+        "discovered": "2026-11-07",
         "last_verified": "2026-11-07"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "stoke-space-software-intern-2027",
+      "company": {
+        "name": "Stoke Space",
+        "slug": "stoke-space"
+      },
+      "role": "Software Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1m5",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Kent",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-04",
+        "discovered": "2026-09-01",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -430290,7 +430916,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -461994,58 +462620,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "the-federal-reserve-system-innovation-intern-2027-3079b2",
-      "company": {
-        "name": "The Federal Reserve System",
-        "slug": "the-federal-reserve-system"
-      },
-      "role": "Innovation Intern",
-      "category": "software-engineering",
-      "apply_url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Innovation-Intern_R-0000033884",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Atlanta",
-          "state": "GA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-26",
-        "discovered": "2026-10-27",
-        "last_verified": "2026-11-07"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "the-federal-reserve-system-innovation-intern-2027",
       "company": {
         "name": "The Federal Reserve System",
@@ -462053,7 +462627,7 @@
       },
       "role": "Innovation Intern",
       "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/Qt",
+      "apply_url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Innovation-Intern_R-0000033884",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -462093,7 +462667,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {

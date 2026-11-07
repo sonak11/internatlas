@@ -33,13 +33,13 @@ _Generated 2026-11-07_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 5733 | `██████████████` |
-| ai | 882 | `██` |
+| software-engineering | 5742 | `██████████████` |
+| ai | 883 | `██` |
 | machine-learning | 466 | `█` |
 | data-science | 388 | `█` |
 | quant | 388 | `█` |
 | hardware | 345 | `█` |
-| research | 303 | `█` |
+| research | 304 | `█` |
 | product | 288 | `█` |
 | embedded | 281 | `█` |
 | design | 254 | `█` |
@@ -50,25 +50,25 @@ _Generated 2026-11-07_
 ## Newest listings
 
 - 2026-11-07 — **Barrios**: [Data and Computer Eng/Sci Intern](https://go.vansh.nyc/1lZ)
+- 2026-11-07 — **Blackhawk Network**: [Technology Intern](https://go.vansh.nyc/1m8)
+- 2026-11-07 — **Blackhawk Network**: [Technology Intern](https://go.vansh.nyc/1m7)
 - 2026-11-07 — **Category Labs**: [Research Intern](https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true)
 - 2026-11-07 — **Corning**: [HPC DevOps Engineer Intern, Science & Technology](https://go.vansh.nyc/1lY)
+- 2026-11-07 — **Dayton Freight**: [Business Intelligence Intern](https://go.vansh.nyc/1ma)
+- 2026-11-07 — **Dayton Freight**: [Software Developer Intern](https://go.vansh.nyc/1m9)
+- 2026-11-07 — **empirical**: [Software Engineering Intern](https://go.vansh.nyc/1mg)
+- 2026-11-07 — **Framatome**: [AI and Software Innovation Intern](https://go.vansh.nyc/1m6)
 - 2026-11-07 — **Highgate**: [Data Services Intern](https://go.vansh.nyc/1m0)
 - 2026-11-07 — **IDEMIA**: [Service Platform Engineering Intern](https://go.vansh.nyc/1m1)
+- 2026-11-07 — **Kinaxis**: [Developer Intern, Back End Technologies](https://go.vansh.nyc/1md)
+- 2026-11-07 — **Kinaxis**: [Full Stack Developer Intern, C#](https://go.vansh.nyc/1mc)
+- 2026-11-07 — **Riverside Research**: [Formal Methods Research Intern](https://go.vansh.nyc/1mh)
+- 2026-11-07 — **Springs Window Fashions**: [Software Engineering Intern](https://go.vansh.nyc/1mf)
+- 2026-11-07 — **Springs Window Fashions**: [Textile Engineering Analytics & Software Intern](https://go.vansh.nyc/1me)
 - 2026-11-07 — **Tesla**: [Software Engineer Intern - SI Reinforcement Learning](https://www.tesla.com/careers/search/job/289241)
 - 2026-11-07 — **TikTok**: [Data Operations Intern](https://lifeattiktok.com/search/7704912455690504453)
 - 2026-11-07 — **TikTok**: [GEO Content Product Manager Intern](https://lifeattiktok.com/search/7696000178264361269)
 - 2026-11-07 — **TikTok**: [GEO Content Product Manager Intern](https://go.vansh.nyc/1lW)
-- 2026-11-07 — **TikTok**: [Software Engineer Intern](https://lifeattiktok.com/search/7705012688944810245)
-- 2026-11-07 — **Zoox**: [AI Workflows & Safety Decision Making Intern [2027]](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1)
-- 2026-11-07 — **Zoox**: [Data Scientist Intern](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply)
-- 2026-11-07 — **Zoox**: [Process Improvement Intern [2027]](https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852)
-- 2026-11-07 — **Zoox**: [Safety Reporting & Benchmarking Intern](https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db/apply)
-- 2026-11-07 — **Zoox**: [Safety Reporting & Benchmarking Intern [Summer 2027]](https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db)
-- 2026-11-06 — **Alaska Airlines**: [Cybersecurity Threat Defense Intern](https://go.vansh.nyc/1kd)
-- 2026-11-06 — **Alaska Airlines**: [Software Delivery Platform Intern](https://go.vansh.nyc/1ke)
-- 2026-11-06 — **Alaska Airlines**: [Software Engineer Intern](https://go.vansh.nyc/1kc)
-- 2026-11-06 — **ASM**: [Product Intelligence Engineering Intern, AI/ML](https://go.vansh.nyc/1jZ)
-- 2026-11-06 — **Astranis**: [Embedded Software Developer Intern, Network/Payload](https://go.vansh.nyc/1lz)
 
 ## Recently closed
 
@@ -1244,6 +1244,7 @@ _Generated 2026-11-07_
 - Stifel — Technology Product Development Developer Intern
 - STR — Data Analyst Intern
 - STR — Data Analyst Intern
+- Stryten — Industrial or Mechanical Engineering Intern
 - Sun Life — Quality Engineering Analyst Intern
 - Sun Life — Quality Engineering Analyst Intern
 - Susquehanna — Trading System Engineering Intern

@@ -5,16 +5,16 @@
     "name": "Kinaxis",
     "slug": "kinaxis"
   },
-  "role": "Full Stack Developer Intern - C#",
+  "role": "Full Stack Developer Intern, C#",
   "category": "software-engineering",
-  "apply_url": "https://kinaxis.jibeapply.com/jobs/35343?icims=1",
+  "apply_url": "https://go.vansh.nyc/1mc",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "Ottawa",
-      "country": "ON"
+      "country": "Canada"
     }
   ],
   "compensation": {
@@ -41,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-23",
+    "posted": "2026-11-07",
     "discovered": "2026-10-31",
     "last_verified": "2026-11-07"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

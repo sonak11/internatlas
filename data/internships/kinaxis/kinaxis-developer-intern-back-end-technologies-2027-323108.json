@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "the-federal-reserve-system-innovation-intern-2027-3079b2",
+  "id": "kinaxis-developer-intern-back-end-technologies-2027-323108",
   "company": {
-    "name": "The Federal Reserve System",
-    "slug": "the-federal-reserve-system"
+    "name": "Kinaxis",
+    "slug": "kinaxis"
   },
-  "role": "Innovation Intern",
+  "role": "Developer Intern, Back End Technologies",
   "category": "software-engineering",
-  "apply_url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Innovation-Intern_R-0000033884",
-  "season": "summer",
+  "apply_url": "https://go.vansh.nyc/1md",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Atlanta",
-      "state": "GA",
-      "country": "USA"
+      "city": "Ottawa",
+      "country": "Canada"
     }
   ],
   "compensation": {
@@ -40,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-26",
-    "discovered": "2026-10-27",
+    "posted": "2026-11-07",
+    "discovered": "2026-11-07",
     "last_verified": "2026-11-07"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
