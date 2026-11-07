@@ -21,6 +21,7 @@
 | [AEG](../companies/aeg.md) | 0/1 | research |
 | [AEM](../companies/aem.md) | 1/1 | software-engineering |
 | [AES](../companies/aes.md) | 0/1 | software-engineering |
+| [AFL](../companies/afl.md) | 1/1 | design |
 | [AGCO](../companies/agco.md) | 4/5 | ai, embedded, software-engineering |
 | [AIG](../companies/aig.md) | 0/1 | software-engineering |
 | [AMAROK Security](../companies/amarok-security.md) | 0/1 | research |
@@ -203,6 +204,7 @@
 | [Avis Budget Group](../companies/avis-budget-group.md) | 0/6 | software-engineering |
 | [Awardco](../companies/awardco.md) | 1/2 | software-engineering |
 | [Awetomaton](../companies/awetomaton.md) | 1/1 | cloud |
+| [Axiom Consultants](../companies/axiom-consultants.md) | 1/1 | ai |
 | [Axiom Math](../companies/axiom-math.md) | 1/1 | software-engineering |
 | [Axiom Space](../companies/axiom-space.md) | 4/4 | software-engineering |
 | [Axis Capital](../companies/axis-capital.md) | 0/1 | software-engineering |
@@ -587,7 +589,7 @@
 | [Energy Transfer Partners](../companies/energy-transfer-partners.md) | 1/3 | quant, software-engineering |
 | [Engenious Design](../companies/engenious-design.md) | 0/2 | software-engineering |
 | [Enova](../companies/enova.md) | 2/2 | software-engineering |
-| [Enovation Controls](../companies/enovation-controls.md) | 5/5 | machine-learning, software-engineering |
+| [Enovation Controls](../companies/enovation-controls.md) | 6/6 | machine-learning, software-engineering |
 | [Ensco](../companies/ensco.md) | 0/1 | security |
 | [Ensemble Health Partners](../companies/ensemble-health-partners.md) | 1/2 | data-science, software-engineering |
 | [Ensign-Bickford Aerospace & Defense Company](../companies/ensign-bickford-aerospace-defense-company.md) | 1/1 | software-engineering |
@@ -1055,7 +1057,7 @@
 | [Marathon Petroleum](../companies/marathon-petroleum.md) | 0/2 | software-engineering |
 | [Maricopa Association of Governments](../companies/maricopa-association-of-governments.md) | 1/1 | software-engineering |
 | [Markem-Imaje](../companies/markem-imaje.md) | 1/1 | software-engineering |
-| [Marmon Holdings](../companies/marmon-holdings.md) | 4/6 | ai, data-engineering, software-engineering |
+| [Marmon Holdings](../companies/marmon-holdings.md) | 5/7 | ai, data-engineering, software-engineering |
 | [Marquee Brands](../companies/marquee-brands.md) | 0/1 | software-engineering |
 | [Marriott Vacations Worldwide](../companies/marriott-vacations-worldwide.md) | 1/1 | software-engineering |
 | [Marsh](../companies/marsh.md) | 2/4 | software-engineering |
@@ -1116,6 +1118,7 @@
 | [Monolithic Power Systems, Inc.](../companies/monolithic-power-systems-inc.md) | 0/1 | software-engineering |
 | [Montenson](../companies/montenson.md) | 1/5 | ai, software-engineering |
 | [Montgomery Investment Technology, Inc.](../companies/montgomery-investment-technology-inc.md) | 1/1 | software-engineering |
+| [Moody's](../companies/moody-s.md) | 1/1 | ai |
 | [Moog](../companies/moog.md) | 2/14 | ai, embedded, hardware, software-engineering |
 | [Moon](../companies/moon.md) | 0/3 | machine-learning, software-engineering |
 | [Morningstar](../companies/morningstar.md) | 0/1 | software-engineering |
@@ -1684,7 +1687,7 @@
 | [The Cary Company](../companies/the-cary-company.md) | 1/1 | ai |
 | [The Design Rules Company](../companies/the-design-rules-company.md) | 1/1 | software-engineering |
 | [The Exploration Company](../companies/the-exploration-company.md) | 2/2 | software-engineering |
-| [The Federal Reserve System](../companies/the-federal-reserve-system.md) | 11/28 | data-science, research, security, software-engineering |
+| [The Federal Reserve System](../companies/the-federal-reserve-system.md) | 10/28 | data-science, research, security, software-engineering |
 | [The Focusrite Group](../companies/the-focusrite-group.md) | 1/1 | software-engineering |
 | [The Friedkin Group](../companies/the-friedkin-group.md) | 0/1 | ai |
 | [The Hartford](../companies/the-hartford.md) | 1/9 | ai, data-engineering, data-science, software-engineering |

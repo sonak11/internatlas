@@ -2,12 +2,13 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**254** tracked · **151** open now
+**255** tracked · **152** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| [AFL](generated/companies/afl.md) | [Web Design/Development Intern](https://go.vansh.nyc/1mq) | Duncan, SC | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Altera](generated/companies/altera.md) | [IP Design Intern](https://go.vansh.nyc/hw) | Toronto | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Ambarella](generated/companies/ambarella.md) | [Physical Design Engineer Intern](https://go.vansh.nyc/gy) | USA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Diagnostics Design Engineer Intern/Co-op](https://careers.amd.com/jobs/90435?icims=1) | Markham | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -304,6 +305,7 @@
 - Intel (2)
 - Microchip Technology (2)
 - Renesas Electronics (2)
+- AFL (1)
 - Altera (1)
 - Ambarella (1)
 - Anduril (1)

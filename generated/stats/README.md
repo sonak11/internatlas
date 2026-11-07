@@ -33,8 +33,8 @@ _Generated 2026-11-07_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 5742 | `██████████████` |
-| ai | 883 | `██` |
+| software-engineering | 5743 | `██████████████` |
+| ai | 886 | `██` |
 | machine-learning | 466 | `█` |
 | data-science | 388 | `█` |
 | quant | 388 | `█` |
@@ -42,7 +42,7 @@ _Generated 2026-11-07_
 | research | 304 | `█` |
 | product | 288 | `█` |
 | embedded | 281 | `█` |
-| design | 254 | `█` |
+| design | 255 | `█` |
 | data-engineering | 207 | `█` |
 | security | 206 | `█` |
 | cloud | 170 | `█` |
@@ -1328,6 +1328,7 @@ _Generated 2026-11-07_
 - The Aerospace Corporation — Software Tools and Assurance Intern - Information Systems and Cyber Division
 - The Boeing Company — Data Analytics Intern
 - The Federal Reserve System — Advanced Analytics Intern
+- The Federal Reserve System — Innovation Intern
 - The Federal Reserve System — Mac/Mobile Intern
 - The Federal Reserve System — Policy & Analysis Intern
 - The Federal Reserve System — Research Intern

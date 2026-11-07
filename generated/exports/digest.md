@@ -1,10 +1,11 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-07
 
-## 🆕 New this week (1108)
+## 🆕 New this week (1113)
 
 - **1st Source** — [Information Security Intern](https://go.vansh.nyc/192) · security · —
 - **ADT** — [Technology & Engineering Intern](https://go.vansh.nyc/12y) · software-engineering · —
 - **AEM** — [QA Tester Intern, Datalogger Products](https://go.vansh.nyc/1kO) · software-engineering · —
+- **AFL** — [Web Design/Development Intern](https://go.vansh.nyc/1mq) · design · —
 - **AMD** — [Masters High-Speed SerDes and Optical Interconnect Engineering Intern](https://careers.amd.com/jobs/91893?icims=1&lang=en-us) · software-engineering · —
 - **AMD** — [Senior Systems Design Engineer Intern](https://go.vansh.nyc/1hu) · design · —
 - **APEX Analytix** — [Automation Developer Intern](https://go.vansh.nyc/1ij) · software-engineering · —
@@ -69,6 +70,7 @@
 - **Auto-Owners Insurance** — [Intelligent Automation Developer Intern](https://go.vansh.nyc/1c5) · software-engineering · —
 - **Auto-Owners Insurance** — [IT Security Engineer Intern](https://go.vansh.nyc/1c6) · security · —
 - **Auto-Owners Insurance** — [Software Developer Intern](https://go.vansh.nyc/1cM) · software-engineering · —
+- **Axiom Consultants** — [AI Developer Intern](https://go.vansh.nyc/1mp) · ai · —
 - **Axos Bank** — [AI Engineer Intern](https://go.vansh.nyc/1bU) · ai · —
 - **Axos Bank** — [Software Development Intern](https://go.vansh.nyc/1bT) · software-engineering · —
 - **Badger Meter** — [Firmware Test Engineer Intern](https://go.vansh.nyc/1hi) · embedded · —
@@ -282,6 +284,7 @@
 - **Enovation Controls** — [Manufacturing Engineering Test Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648371) · software-engineering · —
 - **Enovation Controls** — [Manufacturing Software Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4648416) · software-engineering · —
 - **Enovation Controls** — [Manufacturing Software Engineer Intern](https://go.vansh.nyc/1lO) · software-engineering · —
+- **Enovation Controls** — [Product Content Automation Intern](https://go.vansh.nyc/1mr) · software-engineering · —
 - **Entrust** — [AI Developer Intern](https://go.vansh.nyc/19k) · ai · —
 - **Envista Forensics** — [Digital Forensics Intern](https://go.vansh.nyc/1kg) · software-engineering · —
 - **Equitable Bank** — [Product Management Intern - Digital Banking](https://jobs.lever.co/eqbank/e4ed38f2-5de1-405f-a02d-c21f421bc7c1/apply) · product · —
@@ -484,6 +487,7 @@
 - **Mach9** — [Perception Intern](https://go.vansh.nyc/18R) · software-engineering · —
 - **Man Group** — [Systematic Quant Intern](https://job-boards.eu.greenhouse.io/mangroup/jobs/5012811101) · quant · —
 - **Maricopa Association of Governments** — [Socioeconomic Data Intern](https://go.vansh.nyc/1dx) · software-engineering · —
+- **Marmon Holdings** — [AI Technology Solutions Intern](https://go.vansh.nyc/1mo) · ai · —
 - **Marriott Vacations Worldwide** — [Corporate Information Technology Intern](https://mymvw.wd5.myworkdayjobs.com/mvw/job/MVW-Headquarters/Corporate-Intern-Information-Technology_JR95562) · software-engineering · —
 - **Marvell** — [Hardware Signal Integrity Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877) · hardware · —
 - **Marvell** — [Hardware Signal Integrity Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Hardware-Signal-Integrity-Intern--MS---Summer-2027_2603877-1) · hardware · —
@@ -514,6 +518,7 @@
 - **Molina Healthcare** — [Undergraduate Electronic Data Interchange Intern](https://go.vansh.nyc/1jD) · software-engineering · —
 - **Momentive** — [Data Science Intern, Enterprise Reporting & Analytics](https://go.vansh.nyc/1cF) · data-science · —
 - **Montgomery Investment Technology, Inc.** — [Computer Programming Intern](https://go.vansh.nyc/1i3) · software-engineering · —
+- **Moody's** — [Applied AI & Analytics Intern](https://go.vansh.nyc/1mn) · ai · —
 - **Moog** — [Electrical Engineering Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Electrical-Engineering_R-26-19824) · software-engineering · —
 - **Moog** — [Software Engineering Intern](https://go.vansh.nyc/1gy) · software-engineering · —
 - **Mosaic** — [Artificial Intelligence Co-op Intern](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420) · ai · —

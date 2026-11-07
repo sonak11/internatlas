@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-07",
-  "count": 9922,
+  "count": 9927,
   "internships": [
     {
       "schema_version": "1.0",
@@ -8476,6 +8476,58 @@
       "tags": [
         "auto-ingested",
         "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "afl-web-design-development-intern-2027",
+      "company": {
+        "name": "AFL",
+        "slug": "afl"
+      },
+      "role": "Web Design/Development Intern",
+      "category": "design",
+      "apply_url": "https://go.vansh.nyc/1mq",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Duncan",
+          "state": "SC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-06",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -57186,6 +57238,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "axiom-consultants-ai-developer-intern-2027",
+      "company": {
+        "name": "Axiom Consultants",
+        "slug": "axiom-consultants"
+      },
+      "role": "AI Developer Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1mp",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rockville",
+          "state": "MD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-06",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -151195,6 +151299,57 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "enovation-controls-product-content-automation-intern-2027",
+      "company": {
+        "name": "Enovation Controls",
+        "slug": "enovation-controls"
+      },
+      "role": "Product Content Automation Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1mr",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-06",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03",
+        "remote-available"
       ]
     },
     {
@@ -270567,6 +270722,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "marmon-holdings-ai-technology-solutions-intern-2027",
+      "company": {
+        "name": "Marmon Holdings",
+        "slug": "marmon-holdings"
+      },
+      "role": "AI Technology Solutions Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1mo",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-06",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "marmon-holdings-data-engineering-intern-co-op-2027-390575",
       "company": {
         "name": "Marmon Holdings",
@@ -294154,6 +294361,58 @@
       "dates": {
         "posted": "2026-11-05",
         "discovered": "2026-11-05",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "moody-s-applied-ai-analytics-intern-2027",
+      "company": {
+        "name": "Moody's",
+        "slug": "moody-s"
+      },
+      "role": "Applied AI & Analytics Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1mn",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Newark",
+          "state": "NJ",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-06",
+        "discovered": "2026-11-07",
         "last_verified": "2026-11-07"
       },
       "status": "open",
@@ -462664,7 +462923,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
