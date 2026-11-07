@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
+  "id": "aechelon-technology-junior-software-engineer-intern-rtk-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Aechelon Technology",
+    "slug": "aechelon-technology"
   },
-  "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175421?type=students",
+  "role": "Junior Software Engineer Intern, RTK",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1m3",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Farmer's Branch",
+      "state": "TX",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-10-12",
+    "posted": "2026-08-13",
+    "discovered": "2026-11-07",
     "last_verified": "2026-11-07"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

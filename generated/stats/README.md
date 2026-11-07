@@ -9,7 +9,7 @@ _Generated 2026-11-07_
 | Company | Listings |
 |---|---|
 | TikTok | 305 |
-| Tesla | 293 |
+| Tesla | 294 |
 | RTX | 218 |
 | ByteDance | 120 |
 | Marvell | 94 |
@@ -21,7 +21,7 @@ _Generated 2026-11-07_
 | American Express | 79 |
 | AMD | 78 |
 | Amazon | 74 |
-| Northrop Grumman | 58 |
+| Northrop Grumman | 57 |
 | L3Harris Technologies | 56 |
 | General Motors | 55 |
 | Jump Trading | 50 |
@@ -33,11 +33,11 @@ _Generated 2026-11-07_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 5729 | `██████████████` |
-| ai | 881 | `██` |
+| software-engineering | 5733 | `██████████████` |
+| ai | 882 | `██` |
 | machine-learning | 466 | `█` |
-| quant | 391 | `█` |
 | data-science | 388 | `█` |
+| quant | 388 | `█` |
 | hardware | 345 | `█` |
 | research | 303 | `█` |
 | product | 288 | `█` |
@@ -45,12 +45,16 @@ _Generated 2026-11-07_
 | design | 254 | `█` |
 | data-engineering | 207 | `█` |
 | security | 206 | `█` |
-| cloud | 169 | `█` |
+| cloud | 170 | `█` |
 
 ## Newest listings
 
+- 2026-11-07 — **Barrios**: [Data and Computer Eng/Sci Intern](https://go.vansh.nyc/1lZ)
 - 2026-11-07 — **Category Labs**: [Research Intern](https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true)
 - 2026-11-07 — **Corning**: [HPC DevOps Engineer Intern, Science & Technology](https://go.vansh.nyc/1lY)
+- 2026-11-07 — **Highgate**: [Data Services Intern](https://go.vansh.nyc/1m0)
+- 2026-11-07 — **IDEMIA**: [Service Platform Engineering Intern](https://go.vansh.nyc/1m1)
+- 2026-11-07 — **Tesla**: [Software Engineer Intern - SI Reinforcement Learning](https://www.tesla.com/careers/search/job/289241)
 - 2026-11-07 — **TikTok**: [Data Operations Intern](https://lifeattiktok.com/search/7704912455690504453)
 - 2026-11-07 — **TikTok**: [GEO Content Product Manager Intern](https://lifeattiktok.com/search/7696000178264361269)
 - 2026-11-07 — **TikTok**: [GEO Content Product Manager Intern](https://go.vansh.nyc/1lW)
@@ -65,10 +69,6 @@ _Generated 2026-11-07_
 - 2026-11-06 — **Alaska Airlines**: [Software Engineer Intern](https://go.vansh.nyc/1kc)
 - 2026-11-06 — **ASM**: [Product Intelligence Engineering Intern, AI/ML](https://go.vansh.nyc/1jZ)
 - 2026-11-06 — **Astranis**: [Embedded Software Developer Intern, Network/Payload](https://go.vansh.nyc/1lz)
-- 2026-11-06 — **Astranis**: [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4704571006)
-- 2026-11-06 — **Baird**: [IT Data & Analytics Intern](https://go.vansh.nyc/1lb)
-- 2026-11-06 — **Bank of Montreal**: [Quantitative Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097)
-- 2026-11-06 — **Bank of Montreal**: [Quantitative Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1)
 
 ## Recently closed
 
@@ -348,6 +348,8 @@ _Generated 2026-11-07_
 - Centene — Medical Economics Intern
 - Centene Corporation — AI Engineer Intern
 - Centene Corporation — Cybersecurity Intern
+- CenturyLink — Data Intern, Analytics & Decision Science
+- CenturyLink — Data Internship - Analytics & Decision Science
 - CFS Energy — Scientific Software Engineer Intern
 - CFS Energy — Software Engineer Intern
 - Chamberlain Group — Community Product Management Intern - Summer 2027
@@ -612,18 +614,11 @@ _Generated 2026-11-07_
 - GM financial — Portfolio Analytics Intern
 - Goldman Sachs — Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Americas
 - Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Investment Banking
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
 - Goldman Sachs — Summer Analyst Intern
 - Goldman Sachs — Summer Analyst Intern - Americas - Engineering
 - Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
@@ -824,8 +819,6 @@ _Generated 2026-11-07_
 - Manulife Financial — Product Management & Risk Technology Intern
 - Marvell — AI Data Science Intern
 - Marvell — Analog and Mixed Signal Layout Engineer Intern Co-op
-- Marvell — Design for Test Intern - MS
-- Marvell — Design for Test Intern - MS
 - Marvell — Design Verification Intern
 - Marvell — Firmware Engineer Intern Co-op
 - Marvell — Test Engineering Intern
@@ -903,12 +896,13 @@ _Generated 2026-11-07_
 - Nokia — Hardware Engineer Co-op Intern - IP Routing
 - Nokia — Operations Analytics Co-op Intern - Intern
 - Nokia — Optical Test Intern Co-op
-- North Atlantic Industries — Software Engineer Intern
 - Northmarq — Software Engineering Intern
 - Northrop Grumman — Cyber Software Engineer Intern
 - Northrop Grumman — Cyber Software Engineer Intern
 - Northrop Grumman — Cyber Systems Engineer Intern
+- Northrop Grumman — Cybersecurity Software Engineering Intern
 - Northrop Grumman — Data Scientist Intern - Product Support
+- Northrop Grumman — DevOps Software Engineering Intern
 - Northrop Grumman — Engineering Intern - Multiple Teams
 - Northrop Grumman — Engineering Intern, Software, Mission Assurance, Quality
 - Northrop Grumman — Engineering Software and Analysis Intern
@@ -920,12 +914,16 @@ _Generated 2026-11-07_
 - Northrop Grumman — Ground Software Engineer Intern
 - Northrop Grumman — S/W Embedded Engineering Intern
 - Northrop Grumman — Software Embedded Engineering Intern
+- Northrop Grumman — Software Engineer Co-op Intern
+- Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineer Intern
 - Northrop Grumman — Software Engineering Intern
 - Northrop Grumman — Software Engineering Intern
+- Northrop Grumman — Software Engineering Intern
+- Northrop Grumman — Software Test Engineering Intern
 - Northrop Grumman — Systems Engineer Intern
 - Northrop Grumman — Systems Engineering Intern - AI Experience
 - Northwestern Mutual — Enterprise Sustainability & Impact Intern - Modeling & Analytics
@@ -964,6 +962,7 @@ _Generated 2026-11-07_
 - Paccar — Aftersales Data Analyst Intern
 - Paccar — AI-Driven Vehicle Definition Intern
 - Paccar — Application Developer Intern
+- Paccar — Data Engineer Intern
 - Paccar — Data Engineer Intern
 - Paccar — Dealer Development Marketing Data Analytics Intern
 - Paccar — Field Service Data Analyst Intern
@@ -1120,6 +1119,7 @@ _Generated 2026-11-07_
 - RTX — Electrical Engineer Intern
 - RTX — Electrical Engineer Intern
 - RTX — Electrical Engineer Intern
+- RTX — Electrical Engineer Intern
 - RTX — Electrical Engineer Intern - Summer 2027
 - RTX — Electrical Engineering Intern
 - RTX — Electro-Optics Systems Engineer Intern
@@ -1230,6 +1230,7 @@ _Generated 2026-11-07_
 - StarSling — Software Engineer Intern
 - State Affairs — Software Engineer Intern
 - State Affairs — Software Engineer Intern
+- State Farm — Data Science Intern - Magnet Program
 - State Farm — Magnet Program Intern
 - State Farm — Magnet Program @ University of Illinois Urbana-Champaign Intern
 - State of North Carolina — Data Analytics Intern
@@ -1243,7 +1244,6 @@ _Generated 2026-11-07_
 - Stifel — Technology Product Development Developer Intern
 - STR — Data Analyst Intern
 - STR — Data Analyst Intern
-- Stryten — Industrial or Mechanical Engineering Intern
 - Sun Life — Quality Engineering Analyst Intern
 - Sun Life — Quality Engineering Analyst Intern
 - Susquehanna — Trading System Engineering Intern

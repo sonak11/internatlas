@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**169** tracked · **130** open now
+**170** tracked · **130** open now
 
 ## Current openings
 
@@ -60,6 +60,7 @@
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Cloud Developer Intern](https://go.vansh.nyc/EL) | San Jose, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [HP IQ](generated/companies/hp-iq.md) | [Software Engineer Intern - Cloud Services - Summer 2027](https://job-boards.greenhouse.io/hpiq/jobs/6111955004) | SF | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [ICF International](generated/companies/icf-international.md) | [Cloud Engineer Intern, AWS/Azure](https://go.vansh.nyc/ai) | Reston, VA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| [IDEMIA](generated/companies/idemia.md) | [Service Platform Engineering Intern](https://go.vansh.nyc/1m1) | Brentwood, TN | Onsite | 2026-11-07 | Rolling | 🟢 Open | ❔ |
 | [IDEMIA North America](generated/companies/idemia-north-america.md) | [Cloud Software Engineering Intern](https://go.vansh.nyc/gr) | Reston, VA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Insulet Corporation](generated/companies/insulet-corporation.md) | [DevOps Engineer Intern](https://go.vansh.nyc/JZ) | San Diego, CA | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❌ |
 | [Intercontinental Exchange](generated/companies/intercontinental-exchange.md) | [Infrastructure Development & Automation Intern](https://go.vansh.nyc/1lE) | Atlanta, GA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
@@ -84,7 +85,6 @@
 | [Nintendo](generated/companies/nintendo.md) | [Software Engineer Intern, DevOps](https://go.vansh.nyc/12m) | Redmond, WA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Nissan](generated/companies/nissan.md) | [EA & Cloud Intern](https://go.vansh.nyc/Gn) | Franklin, TN | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Nissan Global](generated/companies/nissan-global.md) | [EA & Cloud Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214) | Franklin, TN | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
-| [Northrop Grumman](generated/companies/northrop-grumman.md) | [DevOps Software Engineering Intern](https://go.vansh.nyc/1gk) | Roy, UT | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❌ |
 | [Oceaneering](generated/companies/oceaneering.md) | [Azure AKS DevOps Intern](https://go.vansh.nyc/Hd) | Houston, TX | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Software Engineer Intern, Infrastructure](https://go.vansh.nyc/4r) | Palo Alto, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Software Engineer Intern, Infrastructure](https://go.vansh.nyc/4q) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
@@ -161,6 +161,7 @@
 | [Manhattan Associates](generated/companies/manhattan-associates.md) | [Cloud Intern](https://go.vansh.nyc/MX) | Atlanta, GA | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern - Cloud & Distributed Backend](https://apply.careers.microsoft.com/careers/job/1970393556922923) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [National Laboratory of the Rockies](generated/companies/national-laboratory-of-the-rockies.md) | [Software and Data Infrastructure Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) | Golden, CO | Onsite | 2026-07-08 | Rolling | 🔴 Closed | ❔ |
+| [Northrop Grumman](generated/companies/northrop-grumman.md) | [DevOps Software Engineering Intern](https://go.vansh.nyc/1gk) | Roy, UT | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❌ |
 | [Palantir](generated/companies/palantir.md) | [Software Engineer Intern - Infrastructure](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e/apply) | London | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) | New York, NY | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❌ |
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | Palo Alto, CA | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ✅ |
@@ -223,6 +224,7 @@
 - Hewlett Packard Enterprise (1)
 - HP IQ (1)
 - ICF International (1)
+- IDEMIA (1)
 - IDEMIA North America (1)
 - Insulet Corporation (1)
 - Intercontinental Exchange (1)
@@ -240,7 +242,6 @@
 - Nintendo (1)
 - Nissan (1)
 - Nissan Global (1)
-- Northrop Grumman (1)
 - Oceaneering (1)
 - PETRONAS Canada (1)
 - Pilot Company (1)
@@ -265,6 +266,7 @@
 - Leidos (1)
 - Manhattan Associates (1)
 - National Laboratory of the Rockies (1)
+- Northrop Grumman (1)
 - Palantir (1)
 - Panasonic Holdings (1)
 - Phlair (1)

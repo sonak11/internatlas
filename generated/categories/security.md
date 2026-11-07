@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**206** tracked · **150** open now
+**206** tracked · **149** open now
 
 ## Current openings
 
@@ -110,7 +110,6 @@
 | [Netsmart](generated/companies/netsmart.md) | [Security Analyst Intern](https://go.vansh.nyc/SN) | Overland Park, KS | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Nintendo](generated/companies/nintendo.md) | [Software Engineer Intern, Platform Security](https://go.vansh.nyc/12o) | Redmond, WA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Nissan](generated/companies/nissan.md) | [Cyber Security Intern](https://go.vansh.nyc/eD) | Smyrna, TN | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
-| [Northrop Grumman](generated/companies/northrop-grumman.md) | [Cybersecurity Software Engineering Intern](https://go.vansh.nyc/1gl) | Clearfield, UT | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❌ |
 | [OCC](generated/companies/occ.md) | [Application Security Intern](https://go.vansh.nyc/JV) | Dallas, TX | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Oceaneering](generated/companies/oceaneering.md) | [Cybersecurity SOC Intern](https://go.vansh.nyc/GZ) | Houston, TX | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [Oceaneering](generated/companies/oceaneering.md) | [IT Security Architecture Intern](https://go.vansh.nyc/H2) | Houston, TX | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
@@ -195,6 +194,7 @@
 | [Molina Healthcare](generated/companies/molina-healthcare.md) | [Cybersecurity Internship (Remote) –(Undergraduate)](https://go.vansh.nyc/11K) | USA | Onsite | 2026-10-30 | Rolling | 🔴 Closed | ❔ |
 | [Motorola Solutions](generated/companies/motorola-solutions.md) | [Software Engineer Cybersecurity Services Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250) | Salt Lake City, UT +4 | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 | [Motorola Solutions](generated/companies/motorola-solutions.md) | [Software Engineer Intern, Cybersecurity Services](https://go.vansh.nyc/19M) | USA +5 | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❌ |
+| [Northrop Grumman](generated/companies/northrop-grumman.md) | [Cybersecurity Software Engineering Intern](https://go.vansh.nyc/1gl) | Clearfield, UT | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❌ |
 | [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - Security and Privacy](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | Santa Clara, CA | Onsite | 2026-05-14 | Rolling | 🔴 Closed | ❔ |
 | [OpenSesame](generated/companies/opensesame.md) | [Security Analyst Intern](https://go.vansh.nyc/CY) | USA | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
 | [QTS](generated/companies/qts.md) | [Information Security Operations Analyst Intern](https://go.vansh.nyc/9n) | US GA Atlanta Suwanee 1 DC1 | Onsite | 2026-10-14 | Rolling | 🔴 Closed | ❌ |
@@ -306,7 +306,6 @@
 - Netsmart (1)
 - Nintendo (1)
 - Nissan (1)
-- Northrop Grumman (1)
 - OCC (1)
 - Oshkosh (1)
 - Palantir Technologies (1)
@@ -355,6 +354,7 @@
 - Leidos (1)
 - MEMX (1)
 - Molina Healthcare (1)
+- Northrop Grumman (1)
 - NVIDIA (1)
 - OpenSesame (1)
 - QTS (1)

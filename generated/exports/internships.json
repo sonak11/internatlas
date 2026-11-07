@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-07",
-  "count": 9908,
+  "count": 9911,
   "internships": [
     {
       "schema_version": "1.0",
@@ -5680,6 +5680,110 @@
       "dates": {
         "posted": "2026-10-10",
         "discovered": "2026-10-17",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aechelon-technology-junior-software-engineer-intern-2027",
+      "company": {
+        "name": "Aechelon Technology",
+        "slug": "aechelon-technology"
+      },
+      "role": "Junior Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1m2",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Overland Park",
+          "state": "KS",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-13",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aechelon-technology-junior-software-engineer-intern-rtk-2027",
+      "company": {
+        "name": "Aechelon Technology",
+        "slug": "aechelon-technology"
+      },
+      "role": "Junior Software Engineer Intern, RTK",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1m3",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Farmer's Branch",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-13",
+        "discovered": "2026-11-07",
         "last_verified": "2026-11-07"
       },
       "status": "open",
@@ -62059,6 +62163,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "barrios-data-and-computer-eng-sci-intern-2027",
+      "company": {
+        "name": "Barrios",
+        "slug": "barrios"
+      },
+      "role": "Data and Computer Eng/Sci Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1lZ",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "barrios-data-and-computer-engineering-computer-science-intern-2027",
       "company": {
         "name": "Barrios",
@@ -98340,7 +98496,7 @@
         "discovered": "2026-10-19",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -98386,7 +98542,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -140417,6 +140573,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "drivewealth-ai-consulting-associate-program-brokerage-intern-2027-3a62bb",
+      "company": {
+        "name": "DriveWealth",
+        "slug": "drivewealth"
+      },
+      "role": "AI Consulting Associate Program Brokerage Intern",
+      "category": "ai",
+      "apply_url": "https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "drivewealth-ai-consulting-associate-program-brokerage-intern-2027",
       "company": {
         "name": "DriveWealth",
@@ -140459,9 +140667,9 @@
       "dates": {
         "posted": "2026-10-20",
         "discovered": "2026-10-21",
-        "last_verified": "2026-10-23"
+        "last_verified": "2026-11-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189958,7 +190166,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027-14d0f0",
+      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
       "company": {
         "name": "Goldman Sachs",
         "slug": "goldman-sachs"
@@ -190000,63 +190208,10 @@
       },
       "dates": {
         "posted": "2026-08-15",
-        "discovered": "2026-10-11",
-        "last_verified": "2026-11-07"
-      },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-associate-intern-the-core-quantitati-2027",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171535?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "NYC",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
         "discovered": "2026-08-15",
         "last_verified": "2026-11-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190106,58 +190261,6 @@
       "dates": {
         "posted": "2026-08-15",
         "discovered": "2026-09-04",
-        "last_verified": "2026-11-07"
-      },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-americas-the-core-quantitativ-2027-41219d",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171551?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Salt Lake City",
-          "state": "UT",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-10-06",
         "last_verified": "2026-11-07"
       },
       "status": "closed",
@@ -190229,111 +190332,7 @@
       },
       "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
       "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171533?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "NYC",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-09-04",
-        "last_verified": "2026-11-07"
-      },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/175421?type=students",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-15",
-        "discovered": "2026-10-12",
-        "last_verified": "2026-11-07"
-      },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
-      "company": {
-        "name": "Goldman Sachs",
-        "slug": "goldman-sachs"
-      },
-      "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-      "category": "quant",
-      "apply_url": "https://higher.gs.com/roles/171549?type=students",
+      "apply_url": "https://higher.gs.com/roles/171551?type=students",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -190372,7 +190371,60 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-07"
       },
-      "status": "closed",
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027",
+      "company": {
+        "name": "Goldman Sachs",
+        "slug": "goldman-sachs"
+      },
+      "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+      "category": "quant",
+      "apply_url": "https://higher.gs.com/roles/175421?type=students",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-15",
+        "discovered": "2026-09-04",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190577,7 +190629,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -206359,6 +206411,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "highgate-data-services-intern-2027",
+      "company": {
+        "name": "Highgate",
+        "slug": "highgate"
+      },
+      "role": "Data Services Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1m0",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irving",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "highgate-data-services-intern-summer-2027-2027",
       "company": {
         "name": "Highgate",
@@ -219234,6 +219338,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "idemia-service-platform-engineering-intern-2027",
+      "company": {
+        "name": "IDEMIA",
+        "slug": "idemia"
+      },
+      "role": "Service Platform Engineering Intern",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/1m1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Brentwood",
+          "state": "TN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -237475,60 +237631,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "jm-family-software-engineer-intern-2027-8abde1",
-      "company": {
-        "name": "JM Family",
-        "slug": "jm-family"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Deerfield Beach",
-          "state": "FL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-11-02",
-        "discovered": "2026-11-03",
-        "last_verified": "2026-11-07"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "jm-family-software-engineer-intern-2027-ce1cf5",
       "company": {
         "name": "JM Family",
@@ -237590,7 +237692,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158",
+      "apply_url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -237608,7 +237710,9 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -237623,7 +237727,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-10-29",
+        "posted": "2026-11-02",
         "discovered": "2026-10-29",
         "last_verified": "2026-11-07"
       },
@@ -272912,9 +273016,9 @@
       "dates": {
         "posted": "2026-09-17",
         "discovered": "2026-09-17",
-        "last_verified": "2026-11-04"
+        "last_verified": "2026-11-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -272966,9 +273070,9 @@
       "dates": {
         "posted": "2026-09-17",
         "discovered": "2026-09-17",
-        "last_verified": "2026-11-04"
+        "last_verified": "2026-11-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -313486,9 +313590,9 @@
       "dates": {
         "posted": "2026-08-26",
         "discovered": "2026-08-26",
-        "last_verified": "2026-11-05"
+        "last_verified": "2026-11-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -314174,7 +314278,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -314332,7 +314436,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -315444,7 +315548,7 @@
         "discovered": "2026-11-05",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -315872,61 +315976,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "northrop-grumman-software-engineer-intern-2027-97c2d6",
-      "company": {
-        "name": "Northrop Grumman",
-        "slug": "northrop-grumman"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Colorado Springs",
-          "state": "CO",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-16",
-        "discovered": "2026-11-03",
-        "last_verified": "2026-11-07"
-      },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -316151,14 +316201,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/1h5",
-      "season": "spring",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
+      "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "McClellan",
-          "state": "CA",
+          "city": "Colorado Springs",
+          "state": "CO",
           "country": "USA"
         }
       ],
@@ -316186,14 +316236,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-11-04",
+        "posted": "2026-10-16",
         "discovered": "2026-07-25",
         "last_verified": "2026-11-07"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -316614,7 +316664,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -316666,7 +316716,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -317583,9 +317633,9 @@
       "dates": {
         "posted": "2026-08-29",
         "discovered": "2026-08-29",
-        "last_verified": "2026-09-04"
+        "last_verified": "2026-11-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -333003,7 +333053,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -388689,7 +388739,7 @@
         "discovered": "2026-11-05",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -426490,7 +426540,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-11-07"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -430240,7 +430290,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-11-07"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -454640,6 +454690,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "tesla-software-engineer-intern-si-reinforcement-learning-2027-28d8f8",
+      "company": {
+        "name": "Tesla",
+        "slug": "tesla"
+      },
+      "role": "Software Engineer Intern - SI Reinforcement Learning",
+      "category": "software-engineering",
+      "apply_url": "https://www.tesla.com/careers/search/job/289241",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Palo Alto",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -500816,6 +500918,57 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "upstart-applied-scientist-intern-2027",
+      "company": {
+        "name": "Upstart",
+        "slug": "upstart"
+      },
+      "role": "Applied Scientist Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1m4",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-11-07",
+        "last_verified": "2026-11-07"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03",
+        "remote-available"
       ]
     },
     {

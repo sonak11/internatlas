@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "northrop-grumman-software-engineer-intern-2027-97c2d6",
+  "id": "aechelon-technology-junior-software-engineer-intern-2027",
   "company": {
-    "name": "Northrop Grumman",
-    "slug": "northrop-grumman"
+    "name": "Aechelon Technology",
+    "slug": "aechelon-technology"
   },
-  "role": "Software Engineer Intern",
+  "role": "Junior Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
+  "apply_url": "https://go.vansh.nyc/1m2",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Colorado Springs",
-      "state": "CO",
+      "city": "Overland Park",
+      "state": "KS",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-16",
-    "discovered": "2026-11-03",
+    "posted": "2026-08-13",
+    "discovered": "2026-11-07",
     "last_verified": "2026-11-07"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

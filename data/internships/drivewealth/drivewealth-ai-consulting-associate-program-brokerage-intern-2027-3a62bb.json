@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-americas-the-core-quantitativ-2027-41219d",
+  "id": "drivewealth-ai-consulting-associate-program-brokerage-intern-2027-3a62bb",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "DriveWealth",
+    "slug": "drivewealth"
   },
-  "role": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/171551?type=students",
+  "role": "AI Consulting Associate Program Brokerage Intern",
+  "category": "ai",
+  "apply_url": "https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application?embed=true",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Salt Lake City",
-      "state": "UT",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-10-06",
+    "posted": "2026-10-20",
+    "discovered": "2026-11-07",
     "last_verified": "2026-11-07"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

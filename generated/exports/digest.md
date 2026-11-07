@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-07
 
-## 🆕 New this week (1093)
+## 🆕 New this week (1096)
 
 - **1st Source** — [Information Security Intern](https://go.vansh.nyc/192) · security · —
 - **ADT** — [Technology & Engineering Intern](https://go.vansh.nyc/12y) · software-engineering · —
@@ -84,6 +84,7 @@
 - **Bank of Montreal** — [UX/UI Designer Co-op Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1) · design · —
 - **Bank of Montreal** — [UX/UI Designer Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951) · design · —
 - **Baringa** — [Solutions AI Lab Intern](https://job-boards.eu.greenhouse.io/baringa/jobs/5028472101) · ai · —
+- **Barrios** — [Data and Computer Eng/Sci Intern](https://go.vansh.nyc/1lZ) · software-engineering · —
 - **Berkshire Hathaway Energy** — [Renewable Generation Performance Intern](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006008) · software-engineering · —
 - **BiblioCommons** — [Junior Full-Stack Engineer Intern](https://go.vansh.nyc/1iD) · software-engineering · —
 - **Blackberry** — [Software Developer Intern](https://go.vansh.nyc/1fe) · software-engineering · —
@@ -350,6 +351,7 @@
 - **Hewlett Packard (HP)** — [Software Engineering Intern, AIML Platform](https://go.vansh.nyc/1e0) · software-engineering · —
 - **Hewlett Packard (HP)** — [Software Engineering Intern, Product & Developer Productivity](https://go.vansh.nyc/1e4) · software-engineering · —
 - **Hewlett Packard Enterprise** — [Hardware Engineering Intern](https://go.vansh.nyc/1ed) · hardware · —
+- **Highgate** — [Data Services Intern](https://go.vansh.nyc/1m0) · software-engineering · —
 - **Highmark Health** — [AI Services and Platforms Software Engineer Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322) · ai · —
 - **Highmark Health** — [Healthcare Analytics Data Science Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Healthcare-Analytics-Data-Science-Graduate-Intern_J288345) · data-science · —
 - **Highmark Health** — [Vulnerability Management Analyst Undergraduate Intern](https://go.vansh.nyc/1e9) · software-engineering · —
@@ -362,6 +364,7 @@
 - **ICD** — [Cyber Security Intern](https://go.vansh.nyc/1eu) · security · —
 - **ID.me** — [Product Security Engineering Intern](https://go.vansh.nyc/1bM) · security · —
 - **IDEMIA** — [Cybersecurity Intern](https://go.vansh.nyc/12V) · security · —
+- **IDEMIA** — [Service Platform Engineering Intern](https://go.vansh.nyc/1m1) · cloud · —
 - **IDEMIA** — [Software Engineer Intern](https://go.vansh.nyc/12W) · software-engineering · —
 - **IDEMIA** — [Software Engineering Intern, Enrollment and Credentialing Services](https://go.vansh.nyc/12X) · software-engineering · —
 - **IGS Energy** — [Software Engineer Intern](https://go.vansh.nyc/1d0) · software-engineering · —
@@ -409,8 +412,8 @@
 - **JM Family** — [AI Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180) · ai · —
 - **JM Family** — [Analytics Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Analytics-Intern_JR105200) · software-engineering · —
 - **JM Family** — [Data Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineering-Intern_JR105086) · data-engineering · —
-- **JM Family** — [Software Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182) · software-engineering · —
 - **JM Family** — [Software Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199) · software-engineering · —
+- **JM Family** — [Software Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182) · software-engineering · —
 - **JM Family Enterprises** — [AI Center of Excellence Delivery Team Intern](https://go.vansh.nyc/1fK) · ai · —
 - **JM Family Enterprises** — [AI & Decision Science Intern](https://go.vansh.nyc/1dZ) · ai · —
 - **JM Family Enterprises** — [AI Intern](https://go.vansh.nyc/19j) · ai · —
@@ -560,7 +563,6 @@
 - **Northrop Grumman** — [Software Embedded Engineering Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553) · embedded · —
 - **Northrop Grumman** — [Software Engineer Co-op Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329) · software-engineering · —
 - **Northrop Grumman** — [Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181) · software-engineering · —
-- **Northrop Grumman** — [Software Engineer Intern](https://go.vansh.nyc/1h5) · software-engineering · —
 - **Northrop Grumman** — [Software Engineering Intern](https://go.vansh.nyc/1gn) · software-engineering · —
 - **Northrop Grumman** — [Software Test Engineering Intern](https://go.vansh.nyc/1gj) · software-engineering · —
 - **Notion** — [Software Engineer Intern - Frontend](https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413/application?embed=true) · software-engineering · —
@@ -871,6 +873,7 @@
 - **Tesla** — [Software Engineer Intern, SI Data Infrastructure](https://go.vansh.nyc/1aM) · cloud · —
 - **Tesla** — [Software Engineer Intern, SI Hardware Infrastructure](https://go.vansh.nyc/1b3) · hardware · —
 - **Tesla** — [Software Engineer Intern, SI Infrastructure](https://go.vansh.nyc/1aX) · cloud · —
+- **Tesla** — [Software Engineer Intern - SI Reinforcement Learning](https://www.tesla.com/careers/search/job/289241) · software-engineering · —
 - **Tesla** — [Software Engineer Intern - SI Reinforcement Learning](https://www.tesla.com/careers/search/job/289240) · software-engineering · —
 - **Tesla** — [Software Engineer Intern, Vehicle UI Development](https://go.vansh.nyc/1b6) · design · —
 - **Tesla** — [Software Engineer Opticaster Intern, Energy Engineering](https://go.vansh.nyc/1av) · software-engineering · —
