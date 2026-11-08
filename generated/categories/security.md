@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**206** tracked · **149** open now
+**207** tracked · **150** open now
 
 ## Current openings
 
@@ -124,6 +124,7 @@
 | [Qube Research and Technologies](generated/companies/qube-research-and-technologies.md) | [Security Engineer Intern](https://go.vansh.nyc/QJ) | New York, NY | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Regeneron Pharmaceuticals](generated/companies/regeneron-pharmaceuticals.md) | [IT, Digital Enablement & Information Security Intern](https://go.vansh.nyc/Zk) | Tarrytown, NY +1 | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Cybersecurity Intern](https://go.vansh.nyc/Hk) | Palo Alto, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❌ |
+| [Rockefeller Capital Management](generated/companies/rockefeller-capital-management.md) | [Analyst Intern, Information Security](https://go.vansh.nyc/1mv) | New York, NY | Onsite | 2026-11-07 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Systems Security Engineer Intern](https://go.vansh.nyc/1iL) | Tewksbury, MA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
 | [Salesforce](generated/companies/salesforce.md) | [Software Engineer Intern, Security/Government](https://go.vansh.nyc/bA) | San Francisco, CA +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❌ |
 | [Seattle Seahawks / First & Goal](generated/companies/seattle-seahawks-first-goal.md) | [Information Security Intern](https://go.vansh.nyc/193) | Renton, WA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
@@ -317,6 +318,7 @@
 - Qube Research and Technologies (1)
 - Regeneron Pharmaceuticals (1)
 - Rivian (1)
+- Rockefeller Capital Management (1)
 - Salesforce (1)
 - Seattle Seahawks / First & Goal (1)
 - TC Energy (1)

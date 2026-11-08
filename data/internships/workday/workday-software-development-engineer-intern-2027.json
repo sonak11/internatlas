@@ -7,14 +7,14 @@
   },
   "role": "Software Development Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/Gq",
+  "apply_url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807",
   "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "Vancouver",
-      "country": "Canada"
+      "country": "BC"
     }
   ],
   "compensation": {
@@ -43,11 +43,11 @@
   "dates": {
     "posted": "2026-10-09",
     "discovered": "2026-10-10",
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-08"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
