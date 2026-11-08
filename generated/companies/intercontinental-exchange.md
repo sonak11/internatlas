@@ -37,12 +37,15 @@
 | Intercontinental Exchange | [Software Developer Intern](https://go.vansh.nyc/133) | Jacksonville, FL | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Software Developer Intern](https://careers-ice.icims.com/jobs/14076/job?mobile=true&needsRedirect=false) | Jacksonville, FL | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Software Development Engineer in Test Intern](https://go.vansh.nyc/135) | Atlanta, GA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
+| Intercontinental Exchange | [Software Engineer Intern](https://go.vansh.nyc/1n8) | Jacksonville, FL | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Software Engineer Intern](https://ice.jibeapply.com/jobs/14077?icims=1) | Jacksonville, FL | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Software Engineer Intern](https://careers-ice.icims.com/jobs/14105/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Software Engineer Intern](https://ice.jibeapply.com/jobs/14105?icims=1) | NYC | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Intercontinental Exchange | [Software Engineer Intern](https://go.vansh.nyc/1n6) | New York, NY | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Software Engineer Intern](https://careers-ice.icims.com/jobs/14075/job?mobile=true&needsRedirect=false) | Jacksonville, FL | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Software Engineer Intern - Java](https://ice.jibeapply.com/jobs/14078?icims=1) | Jacksonville, FL | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Software Engineer Intern - Java](https://careers-ice.icims.com/jobs/14078/job?mobile=true&needsRedirect=false) | Jacksonville, FL | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Intercontinental Exchange | [Software Engineer Intern, Java](https://go.vansh.nyc/1n7) | Jacksonville, FL | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Software Engineering Intern](https://go.vansh.nyc/130) | New York, NY | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Software Engineering Intern](https://go.vansh.nyc/132) | Jacksonville, FL | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Software Engineering Intern](https://ice.jibeapply.com/jobs/14075?icims=1) | Jacksonville, FL | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |

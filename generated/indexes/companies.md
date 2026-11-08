@@ -437,13 +437,13 @@
 | [ConocoPhillips](../companies/conocophillips.md) | 0/2 | quant, software-engineering |
 | [Consensus Cloud Solutions](../companies/consensus-cloud-solutions.md) | 0/1 | software-engineering |
 | [Constellation Brands](../companies/constellation-brands.md) | 4/4 | ai, software-engineering |
-| [Constellation Energy](../companies/constellation-energy.md) | 15/15 | data-engineering, data-science, software-engineering |
+| [Constellation Energy](../companies/constellation-energy.md) | 16/16 | data-engineering, data-science, software-engineering |
 | [Constellation Space](../companies/constellation-space.md) | 1/1 | machine-learning |
 | [Context](../companies/context.md) | 0/1 | software-engineering |
 | [Continental Resources](../companies/continental-resources.md) | 0/2 | software-engineering |
 | [Contoro](../companies/contoro.md) | 0/1 | software-engineering |
 | [Cook Group](../companies/cook-group.md) | 2/3 | ai |
-| [Copart](../companies/copart.md) | 8/15 | ai, data-engineering, software-engineering |
+| [Copart](../companies/copart.md) | 9/16 | ai, data-engineering, software-engineering |
 | [Core & Main](../companies/core-main.md) | 0/1 | machine-learning |
 | [Corewell Health](../companies/corewell-health.md) | 0/4 | ai, software-engineering |
 | [Corgan](../companies/corgan.md) | 2/2 | software-engineering |
@@ -908,7 +908,7 @@
 | [Interac](../companies/interac.md) | 0/4 | ai, software-engineering |
 | [Interclypse](../companies/interclypse.md) | 1/1 | software-engineering |
 | [Interco](../companies/interco.md) | 1/2 | software-engineering |
-| [Intercontinental Exchange](../companies/intercontinental-exchange.md) | 45/45 | ai, cloud, data-science, product, quant, security, software-engineering |
+| [Intercontinental Exchange](../companies/intercontinental-exchange.md) | 48/48 | ai, cloud, data-science, product, quant, security, software-engineering |
 | [Intercontinental Exchange, Inc.](../companies/intercontinental-exchange-inc.md) | 3/4 | cloud, machine-learning, security, software-engineering |
 | [Interdigital](../companies/interdigital.md) | 0/3 | research, software-engineering |
 | [International Rescue Committee](../companies/international-rescue-committee.md) | 1/1 | research |
@@ -920,7 +920,7 @@
 | [Inversion Space](../companies/inversion-space.md) | 6/6 | ai, embedded, software-engineering |
 | [Invesco](../companies/invesco.md) | 5/17 | data-science, product, software-engineering |
 | [Invitation-charter](../companies/invitation-charter.md) | 3/3 | data-science, software-engineering |
-| [Iridium Communications](../companies/iridium-communications.md) | 2/2 | software-engineering |
+| [Iridium Communications](../companies/iridium-communications.md) | 0/2 | software-engineering |
 | [Itron](../companies/itron.md) | 9/16 | ai, data-science, embedded, software-engineering |
 | [Ivalua](../companies/ivalua.md) | 0/1 | software-engineering |
 | [Ixian Robotics](../companies/ixian-robotics.md) | 1/1 | software-engineering |
@@ -1363,6 +1363,7 @@
 | [QTS](../companies/qts.md) | 0/5 | cloud, security, software-engineering |
 | [Qorvo](../companies/qorvo.md) | 4/49 | design, embedded, product, research, software-engineering |
 | [QuEra Computing](../companies/quera-computing.md) | 0/1 | data-engineering |
+| [Quadric](../companies/quadric.md) | 4/4 | ai, design, machine-learning, software-engineering |
 | [Quadrillion](../companies/quadrillion.md) | 2/3 | research, software-engineering |
 | [Quadrillion Labs](../companies/quadrillion-labs.md) | 1/1 | software-engineering |
 | [Qualcomm](../companies/qualcomm.md) | 71/86 | ai, cloud, design, embedded, hardware, machine-learning, security, software-engineering |
@@ -1440,7 +1441,7 @@
 | [Riot Games](../companies/riot-games.md) | 1/1 | software-engineering |
 | [Rippling](../companies/rippling.md) | 4/7 | machine-learning, software-engineering |
 | [Rise8](../companies/rise8.md) | 0/1 | product |
-| [Riverlane](../companies/riverlane.md) | 5/5 | hardware, research, software-engineering |
+| [Riverlane](../companies/riverlane.md) | 2/5 | hardware, research, software-engineering |
 | [Riveron](../companies/riveron.md) | 0/1 | software-engineering |
 | [Riverside Research](../companies/riverside-research.md) | 3/3 | research, software-engineering |
 | [Rivet Industries](../companies/rivet-industries.md) | 0/2 | software-engineering |
@@ -1476,7 +1477,7 @@
 | [S&P Global](../companies/s-p-global.md) | 1/3 | machine-learning, software-engineering |
 | [SAS](../companies/sas.md) | 3/5 | data-science, software-engineering |
 | [SCM](../companies/scm.md) | 1/1 | quant |
-| [SDSU Research Foundation](../companies/sdsu-research-foundation.md) | 1/1 | software-engineering |
+| [SDSU Research Foundation](../companies/sdsu-research-foundation.md) | 2/2 | software-engineering |
 | [SECURE](../companies/secure.md) | 0/2 | software-engineering |
 | [SEP](../companies/sep.md) | 0/1 | software-engineering |
 | [SESCO](../companies/sesco.md) | 1/1 | quant |

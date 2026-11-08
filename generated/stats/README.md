@@ -26,23 +26,23 @@ _Generated 2026-11-08_
 | General Motors | 55 |
 | Jump Trading | 50 |
 | Qorvo | 49 |
+| Intercontinental Exchange | 48 |
 | Cloudflare | 47 |
-| Intercontinental Exchange | 45 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 5763 | `██████████████` |
-| ai | 886 | `██` |
-| machine-learning | 466 | `█` |
+| software-engineering | 5770 | `██████████████` |
+| ai | 887 | `██` |
+| machine-learning | 467 | `█` |
 | quant | 391 | `█` |
 | data-science | 388 | `█` |
 | hardware | 345 | `█` |
 | research | 305 | `█` |
 | product | 287 | `█` |
 | embedded | 281 | `█` |
-| design | 256 | `█` |
+| design | 257 | `█` |
 | security | 207 | `█` |
 | data-engineering | 207 | `█` |
 | cloud | 170 | `█` |
@@ -699,6 +699,8 @@ _Generated 2026-11-08_
 - Interac — Technical Analyst Intern
 - Intercontinental Exchange, Inc. — Artificial Intelligence, Data & Machine Learning Intern
 - Intuitive Surgical — AI Research Intern
+- Iridium Communications — Software Engineering Intern
+- Iridium Communications — Software Engineering Intern
 - Itron — HR AI Data Science Intern
 - Itron — HR AI Data Science Intern
 - Itron — HR AI Data Science Intern
@@ -1057,6 +1059,9 @@ _Generated 2026-11-08_
 - Rippling — Frontend Software Engineer Intern
 - Rippling — Machine Learning Engineer Intern
 - Rippling — Software Engineer Intern
+- Riverlane — Hardware Engineer Intern
+- Riverlane — Research Intern
+- Riverlane — Software Engineering Intern
 - Rivian and Volkswagen Group Technologies — Engineering Intern, Embedded Hardware, Vehicle Networking & Audio
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern, 3D
 - Rivian and Volkswagen Group Technologies — Software Engineer Intern, Embedded Platforms
