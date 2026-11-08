@@ -40,7 +40,7 @@ _Generated 2026-11-08_
 | data-science | 388 | `█` |
 | hardware | 345 | `█` |
 | research | 304 | `█` |
-| product | 288 | `█` |
+| product | 287 | `█` |
 | embedded | 281 | `█` |
 | design | 256 | `█` |
 | security | 207 | `█` |
@@ -1396,6 +1396,7 @@ _Generated 2026-11-08_
 - Workday — Analytics Engineer Intern
 - Workday — Analytics Engineer Intern
 - Workday — Machine Learning Engineer Intern
+- Workday — Software Development Engineer Intern
 - Workiva — Machine Learning Engineering Intern
 - WSP — Software Developer Intern
 - Wurl — Data Science Intern

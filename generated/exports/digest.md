@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-08
 
-## 🆕 New this week (1047)
+## 🆕 New this week (1048)
 
 - **AEM** — [QA Tester Intern, Datalogger Products](https://go.vansh.nyc/1kO) · software-engineering · —
 - **AFL** — [Web Design/Development Intern](https://go.vansh.nyc/1mq) · design · —
@@ -22,6 +22,7 @@
 - **Alaska Air Group** — [BI Analyst Intern](https://corporatejobs-alaskaair.icims.com/jobs/21286/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **Alaska Air Group** — [Guest Products Analyst Intern](https://corporatejobs-alaskaair.icims.com/jobs/21208/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **Alaska Air Group** — [Software Engineer Intern](https://corporatejobs-alaskaair.icims.com/jobs/21277/job?mobile=true&needsRedirect=false) · software-engineering · —
+- **Alaska Air Group** — [VR Development Intern](https://go.vansh.nyc/1mN) · software-engineering · —
 - **Alaska Air Group** — [VR Development Intern](https://corporatejobs-alaskaair.icims.com/jobs/21281/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **Alaska Airlines** — [Cybersecurity Threat Defense Intern](https://go.vansh.nyc/1kd) · security · —
 - **Alaska Airlines** — [Software Delivery Platform Intern](https://go.vansh.nyc/1ke) · software-engineering · —

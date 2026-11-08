@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "workday-product-manager-intern-2027-fc5b8c",
+  "id": "alaska-air-group-vr-development-intern-2027-11ba97",
   "company": {
-    "name": "Workday",
-    "slug": "workday"
+    "name": "Alaska Air Group",
+    "slug": "alaska-air-group"
   },
-  "role": "Product Manager Intern",
-  "category": "product",
-  "apply_url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813",
+  "role": "VR Development Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1mN",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Pleasanton",
-      "state": "CA",
+      "city": "Renton",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-09",
-    "discovered": "2026-10-10",
+    "posted": "2026-11-02",
+    "discovered": "2026-11-08",
     "last_verified": "2026-11-08"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
