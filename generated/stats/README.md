@@ -21,25 +21,25 @@ _Generated 2026-11-08_
 | American Express | 79 |
 | AMD | 78 |
 | Amazon | 74 |
-| Northrop Grumman | 57 |
+| Northrop Grumman | 58 |
 | L3Harris Technologies | 56 |
 | General Motors | 55 |
 | Jump Trading | 50 |
 | Qorvo | 49 |
 | Cloudflare | 47 |
-| Anduril | 44 |
+| Intercontinental Exchange | 45 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 5756 | `██████████████` |
+| software-engineering | 5763 | `██████████████` |
 | ai | 886 | `██` |
 | machine-learning | 466 | `█` |
 | quant | 391 | `█` |
 | data-science | 388 | `█` |
 | hardware | 345 | `█` |
-| research | 304 | `█` |
+| research | 305 | `█` |
 | product | 287 | `█` |
 | embedded | 281 | `█` |
 | design | 256 | `█` |
@@ -298,7 +298,6 @@ _Generated 2026-11-08_
 - Booz Allen Hamilton — Software Developer Intern
 - Booz Allen Hamilton — Software Developer Intern
 - Booz Allen Hamilton — Software Engineer Intern
-- Booz Allen Hamilton — Systems Engineer Intern
 - Booz Allen Hamilton — Systems Engineer Intern, Games
 - Bosch — Calibration Process Optimization Intern
 - Bosch Home Comfort — AI Business Solutions Intern
@@ -596,6 +595,29 @@ _Generated 2026-11-08_
 - GlobalFoundries — PDK Design Engineering Intern - Silicon Photonics
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
 - GM financial — Portfolio Analytics Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Google — Software Engineering Intern
 - Gordon Food Service — Category Technology Intern - MMSC
 - Gordon Food Service — Cloud DevOps Intern
@@ -1181,6 +1203,7 @@ _Generated 2026-11-08_
 - Stifel — Technology Product Development Developer Intern
 - STR — Data Analyst Intern
 - STR — Data Analyst Intern
+- Stryten — Industrial or Mechanical Engineering Intern
 - Sun Life — Quality Engineering Analyst Intern
 - Sun Life — Quality Engineering Analyst Intern
 - Susquehanna — Trading System Engineering Intern

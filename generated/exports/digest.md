@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-08
 
-## 🆕 New this week (1048)
+## 🆕 New this week (1049)
 
 - **AEM** — [QA Tester Intern, Datalogger Products](https://go.vansh.nyc/1kO) · software-engineering · —
 - **AFL** — [Web Design/Development Intern](https://go.vansh.nyc/1mq) · design · —
@@ -237,6 +237,7 @@
 - **Divergent Technologies** — [Production Business Intelligence Intern](https://job-boards.greenhouse.io/divergent/jobs/5393537008) · software-engineering · —
 - **Divergent Technologies** — [Production Business Intelligence Intern](https://go.vansh.nyc/1bi) · software-engineering · —
 - **DocuSign** — [Software Engineering Intern, Self-Service Directory Diagnostics](https://go.vansh.nyc/1kf) · software-engineering · —
+- **DoorDash** — [Software Engineer Intern](https://go.vansh.nyc/1mQ) · software-engineering · —
 - **DraftKings** — [Software Engineer Intern](https://go.vansh.nyc/1hI) · software-engineering · —
 - **Draper** — [Optics-Physics Sensor Engineer Intern](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094) · software-engineering · —
 - **DriveTime** — [Data Science Intern](https://go.vansh.nyc/1ct) · data-science · —

@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-08",
-  "count": 9944,
+  "count": 9952,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3433,7 +3433,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "aclu-kentucky-undergraduate-software-engineer-intern-technology-and-analyt-2027",
+      "id": "aclu-kentucky-undergraduate-software-engineer-intern-technology-and-analyt-2027-52dd34",
       "company": {
         "name": "ACLU Kentucky",
         "slug": "aclu-kentucky"
@@ -3473,13 +3473,65 @@
       },
       "dates": {
         "posted": "2026-10-27",
-        "discovered": "2026-10-27",
+        "discovered": "2026-11-08",
         "last_verified": "2026-11-08"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aclu-kentucky-undergraduate-software-engineer-intern-technology-and-analyt-2027",
+      "company": {
+        "name": "ACLU Kentucky",
+        "slug": "aclu-kentucky"
+      },
+      "role": "Undergraduate Software Engineer Intern, Technology and Analytics (Educate Pod)",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1mY",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-27",
+        "discovered": "2026-10-27",
+        "last_verified": "2026-11-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -74238,14 +74290,14 @@
       },
       "role": "Systems Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/SX",
+      "apply_url": "https://go.vansh.nyc/1mV",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Detroit",
-          "state": "MI",
+          "city": "Dayton",
+          "state": "OH",
           "country": "USA"
         }
       ],
@@ -74273,9 +74325,9 @@
       "dates": {
         "posted": "2026-10-26",
         "discovered": "2026-10-26",
-        "last_verified": "2026-10-28"
+        "last_verified": "2026-11-08"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -98271,6 +98323,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "center-for-ai-safety-cais-research-engineer-intern-2027",
+      "company": {
+        "name": "Center for AI Safety (CAIS)",
+        "slug": "center-for-ai-safety-cais"
+      },
+      "role": "Research Engineer Intern",
+      "category": "research",
+      "apply_url": "https://go.vansh.nyc/1mP",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-05",
+        "discovered": "2026-11-08",
+        "last_verified": "2026-11-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -138088,6 +138192,63 @@
     },
     {
       "schema_version": "1.0",
+      "id": "doordash-software-engineer-intern-2027-4af845",
+      "company": {
+        "name": "DoorDash",
+        "slug": "doordash"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/G9",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "Sunnyvale",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-08",
+        "discovered": "2026-11-08",
+        "last_verified": "2026-11-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "doordash-software-engineer-intern-2027-90b578",
       "company": {
         "name": "DoorDash",
@@ -138209,20 +138370,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/G9",
+      "apply_url": "https://go.vansh.nyc/1mQ",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "San Francisco",
-          "state": "CA",
-          "country": "USA"
-        },
-        {
-          "city": "Sunnyvale",
-          "state": "CA",
-          "country": "USA"
+          "city": "Toronto",
+          "country": "Canada"
         }
       ],
       "compensation": {
@@ -138249,7 +138404,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-10-08",
+        "posted": "2026-11-05",
         "discovered": "2026-09-15",
         "last_verified": "2026-11-08"
       },
@@ -190718,7 +190873,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190823,7 +190978,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190876,7 +191031,7 @@
         "discovered": "2026-11-08",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190929,7 +191084,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190981,7 +191136,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191033,7 +191188,7 @@
         "discovered": "2026-11-08",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191087,7 +191242,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191140,7 +191295,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191191,7 +191346,7 @@
         "discovered": "2026-11-08",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191245,7 +191400,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191296,7 +191451,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191347,7 +191502,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191398,7 +191553,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191450,7 +191605,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191501,7 +191656,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191657,7 +191812,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191710,7 +191865,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191818,7 +191973,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191871,7 +192026,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191925,7 +192080,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -192027,7 +192182,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -192182,7 +192337,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -192235,7 +192390,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -229731,6 +229886,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "intercontinental-exchange-integration-intern-2027-0a56aa",
+      "company": {
+        "name": "Intercontinental Exchange",
+        "slug": "intercontinental-exchange"
+      },
+      "role": "Integration Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1mT",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Jacksonville",
+          "state": "FL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-11-08",
+        "last_verified": "2026-11-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "intercontinental-exchange-integration-intern-2027-2488ff",
       "company": {
         "name": "Intercontinental Exchange",
@@ -239498,6 +239705,63 @@
       "dates": {
         "posted": "2026-09-29",
         "discovered": "2026-10-26",
+        "last_verified": "2026-11-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "john-deere-software-engineer-intern-product-engineering-2027",
+      "company": {
+        "name": "John Deere",
+        "slug": "john-deere"
+      },
+      "role": "Software Engineer Intern, Product Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1mU",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Waterloo",
+          "state": "IA",
+          "country": "USA"
+        },
+        {
+          "city": "Cary",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-23",
+        "discovered": "2026-11-08",
         "last_verified": "2026-11-08"
       },
       "status": "open",
@@ -317221,6 +317485,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "northrop-grumman-software-engineer-intern-2027-97c2d6",
+      "company": {
+        "name": "Northrop Grumman",
+        "slug": "northrop-grumman"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Colorado Springs",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-16",
+        "discovered": "2026-11-08",
+        "last_verified": "2026-11-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "northrop-grumman-software-engineer-intern-2027-a796d0",
       "company": {
         "name": "Northrop Grumman",
@@ -317438,7 +317756,7 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
+      "apply_url": "https://go.vansh.nyc/1mX",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -317473,14 +317791,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-10-16",
+        "posted": "2026-10-27",
         "discovered": "2026-07-25",
         "last_verified": "2026-11-08"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -365138,6 +365456,63 @@
     },
     {
       "schema_version": "1.0",
+      "id": "qube-research-and-technologies-technology-intern-2027",
+      "company": {
+        "name": "Qube Research and Technologies",
+        "slug": "qube-research-and-technologies"
+      },
+      "role": "Technology Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1mW",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-26",
+        "discovered": "2026-11-08",
+        "last_verified": "2026-11-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "qube-research-technologies-business-data-analytics-intern-2027",
       "company": {
         "name": "Qube Research & Technologies",
@@ -400634,6 +401009,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "ryan-software-engineer-intern-2027-53d6d5",
+      "company": {
+        "name": "Ryan",
+        "slug": "ryan"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/CQ",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Plano",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-16",
+        "discovered": "2026-11-08",
+        "last_verified": "2026-11-08"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "ryan-software-engineer-intern-2027-552f26",
       "company": {
         "name": "Ryan",
@@ -400855,15 +401282,14 @@
       },
       "role": "Software Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/CQ",
+      "apply_url": "https://go.vansh.nyc/1mO",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Plano",
-          "state": "TX",
-          "country": "USA"
+          "city": "North York",
+          "country": "Canada"
         }
       ],
       "compensation": {
@@ -400890,7 +401316,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-10-16",
+        "posted": "2026-10-29",
         "discovered": "2026-10-17",
         "last_verified": "2026-11-08"
       },
@@ -431945,7 +432371,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-11-08"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
