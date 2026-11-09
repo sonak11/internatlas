@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**208** tracked · **150** open now
+**215** tracked · **156** open now
 
 ## Current openings
 
@@ -36,10 +36,12 @@
 | [ByteDance](generated/companies/bytedance.md) | [Security Software Engineer Project Intern, Network Security](https://go.vansh.nyc/14B) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Software Engineer Project Intern, Security-Data](https://go.vansh.nyc/14C) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [C.H. Robinson](generated/companies/c-h-robinson.md) | [Cyber Security Intern](https://go.vansh.nyc/gV) | Eden Prairie, MN | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
+| [CACI](generated/companies/caci.md) | [Cyber Security Intern](https://go.vansh.nyc/1oq) | Sterling, VA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [CAE](generated/companies/cae.md) | [Cybersecurity Integration Specialist Intern](https://go.vansh.nyc/SA) | Montreal | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [CareSource](generated/companies/caresource.md) | [Cybersecurity Intern](https://go.vansh.nyc/1je) | USA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern - Security](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926) | Atlanta, GA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern, Security](https://go.vansh.nyc/cp) | Atlanta, GA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [Citizens Energy Group](generated/companies/citizens-energy-group.md) | [IT Security Intern](https://go.vansh.nyc/1oR) | Indianapolis, IN | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [CNA Insurance](generated/companies/cna-insurance.md) | [Cybersecurity Intern, Technology](https://go.vansh.nyc/1cc) | Chicago, IL | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❌ |
 | [Costco](generated/companies/costco.md) | [CDS Intern, OT/IoT Security Engineering](https://go.vansh.nyc/1gX) | Wa, WA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Crowe](generated/companies/crowe.md) | [Cybersecurity Intern](https://go.vansh.nyc/SD) | Chicago, IL +3 | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
@@ -62,10 +64,10 @@
 | [GeoComply](generated/companies/geocomply.md) | [Browser Security Engineer Intern](https://go.vansh.nyc/QA) | Vancouver | Onsite | 2026-07-09 | Rolling | 🟢 Open | ❔ |
 | [Graco](generated/companies/graco.md) | [Cybersecurity Intern](https://go.vansh.nyc/1cy) | Dayton, MN | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Guardian Life](generated/companies/guardian-life.md) | [Cybersecurity Intern, Digital & Technology](https://go.vansh.nyc/1cZ) | New York, NY +2 | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
-| [GuidePoint Security](generated/companies/guidepoint-security.md) | [Application Security Intern](https://go.vansh.nyc/Hf) | USA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [HCSC](generated/companies/hcsc.md) | [Cybersecurity Operations Intern](https://go.vansh.nyc/11Z) | Chicago, IL | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Howmet Aerospace](generated/companies/howmet-aerospace.md) | [Cybersecurity Intern](https://go.vansh.nyc/1h7) | Pittsburgh, PA | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [HP Inc.](generated/companies/hp-inc.md) | [Software Product Security Intern, HP IQ](https://go.vansh.nyc/YE) | San Francisco, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| [i3](generated/companies/i3.md) | [Cybersecurity Intern](https://go.vansh.nyc/1pd) | Huntsville, AL | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❌ |
 | [IAT Insurance Group](generated/companies/iat-insurance-group.md) | [Cyber Security Intern](https://go.vansh.nyc/197) | Raleigh, NC | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
 | [ICD](generated/companies/icd.md) | [Cyber Security Intern](https://go.vansh.nyc/1eu) | New York, NY | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [ID.me](generated/companies/id-me.md) | [Product Security Engineering Intern](https://go.vansh.nyc/1bM) | Mountain View, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
@@ -107,6 +109,7 @@
 | [Navy Federal](generated/companies/navy-federal.md) | [Associate Intern, Security Automation](https://go.vansh.nyc/N7) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Security Workflow Engineer Intern](https://go.vansh.nyc/My) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Security Workflow Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| [NBCUniversal](generated/companies/nbcuniversal.md) | [Cybersecurity, Governance & Security Engineering Intern, Media Tech](https://go.vansh.nyc/1oC) | New York, NY | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [Netsmart](generated/companies/netsmart.md) | [Security Analyst Intern](https://go.vansh.nyc/SN) | Overland Park, KS | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Nintendo](generated/companies/nintendo.md) | [Software Engineer Intern, Platform Security](https://go.vansh.nyc/12o) | Redmond, WA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Nissan](generated/companies/nissan.md) | [Cyber Security Intern](https://go.vansh.nyc/eD) | Smyrna, TN | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
@@ -127,6 +130,7 @@
 | [Rockefeller Capital Management](generated/companies/rockefeller-capital-management.md) | [Analyst Intern, Information Security](https://go.vansh.nyc/1mv) | New York, NY | Onsite | 2026-11-07 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Systems Security Engineer Intern](https://go.vansh.nyc/1iL) | Tewksbury, MA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
 | [Salesforce](generated/companies/salesforce.md) | [Software Engineer Intern, Security/Government](https://go.vansh.nyc/bA) | San Francisco, CA +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❌ |
+| [SeatGeek](generated/companies/seatgeek.md) | [Security Engineer Intern](https://go.vansh.nyc/1oZ) | New York, NY | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Seattle Seahawks / First & Goal](generated/companies/seattle-seahawks-first-goal.md) | [Information Security Intern](https://go.vansh.nyc/193) | Renton, WA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [TC Energy](generated/companies/tc-energy.md) | [Enterprise Security Intern, Detection & Response](https://go.vansh.nyc/1gW) | Calgary | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Red Team Security Engineer Intern, Vehicle Software](https://go.vansh.nyc/1b1) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
@@ -158,6 +162,8 @@
 | [Valley Children's Specialty Medical Group](generated/companies/valley-children-s-specialty-medical-group.md) | [IT Security Intern](https://go.vansh.nyc/1kN) | Madera, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Verkada](generated/companies/verkada.md) | [Security Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5213881007) | San Mateo, CA +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Workday](generated/companies/workday.md) | [Cybersecurity Engineer Intern](https://go.vansh.nyc/gd) | Pleasanton, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
+| [Zoetis](generated/companies/zoetis.md) | [Information Security Intern](https://go.vansh.nyc/1ox) | Parsippany, NJ | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
+| [Zoetis](generated/companies/zoetis.md) | [IT/OT Security Intern](https://go.vansh.nyc/1op) | Kalamazoo, MI | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [1Password](generated/companies/1password.md) | [Developer Intern, Data Security](https://go.vansh.nyc/eY) | USA +1 | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 | [Alaska Airlines](generated/companies/alaska-airlines.md) | [Cybersecurity Threat Defense Intern](https://go.vansh.nyc/1kd) | SeaTac, WA | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
 | [American Express](generated/companies/american-express.md) | [Cybersecurity Intern](https://go.vansh.nyc/6W) | Phoenix, AZ | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❌ |
@@ -179,6 +185,7 @@
 | [Expedia Group](generated/companies/expedia-group.md) | [Security Engineering Intern](https://go.vansh.nyc/8C) | Seattle, WA | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
 | [Express](generated/companies/express.md) | [Information Security Intern](https://go.vansh.nyc/CT) | Columbus, OH | Onsite | 2024-10-24 | Rolling | 🔴 Closed | ❌ |
 | [General Dynamics Mission Systems](generated/companies/general-dynamics-mission-systems.md) | [Cybersecurity Software Engineer Intern](https://careers-gdms.icims.com/jobs/74257/job?mobile=true&needsRedirect=false) | Manassas, VA | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
+| [GuidePoint Security](generated/companies/guidepoint-security.md) | [Application Security Intern](https://go.vansh.nyc/Hf) | USA | Onsite | 2026-10-08 | Rolling | 🔴 Closed | ❔ |
 | [GuidePoint Security](generated/companies/guidepoint-security.md) | [Cybersecurity Intern](https://go.vansh.nyc/VU) | USA | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 | [HCSC](generated/companies/hcsc.md) | [Security Data Classification Intern](https://go.vansh.nyc/G6) | Richardson, TX | Onsite | 2026-10-08 | Rolling | 🔴 Closed | ❔ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Cybersecurity Engineering Intern](https://go.vansh.nyc/hW) | Spring, TX | Onsite | 2026-10-24 | Rolling | 🔴 Closed | ❔ |
@@ -233,7 +240,6 @@
 - Booz Allen (2)
 - Booz Allen Hamilton (2)
 - Ciena (2)
-- GuidePoint Security (2)
 - HCSC (2)
 - Idaho National Laboratory (2)
 - Illumio (2)
@@ -244,6 +250,8 @@
 - The Federal Reserve System (2)
 - TikTok (2)
 - TMX Group (2)
+- Zoetis (2)
+- GuidePoint Security (2)
 - Motorola Solutions (2)
 - Robinhood (2)
 - Visa (2)
@@ -261,8 +269,10 @@
 - Bosch (1)
 - Bracco (1)
 - C.H. Robinson (1)
+- CACI (1)
 - CAE (1)
 - CareSource (1)
+- Citizens Energy Group (1)
 - CNA Insurance (1)
 - Costco (1)
 - Crowe (1)
@@ -287,6 +297,7 @@
 - Guardian Life (1)
 - Howmet Aerospace (1)
 - HP Inc. (1)
+- i3 (1)
 - IAT Insurance Group (1)
 - ICD (1)
 - ID.me (1)
@@ -305,6 +316,7 @@
 - MDA (1)
 - Midland States Bank (1)
 - National Laboratory of the Rockies (1)
+- NBCUniversal (1)
 - Netsmart (1)
 - Nintendo (1)
 - Nissan (1)
@@ -321,6 +333,7 @@
 - Rivian (1)
 - Rockefeller Capital Management (1)
 - Salesforce (1)
+- SeatGeek (1)
 - Seattle Seahawks / First & Goal (1)
 - TC Energy (1)
 - The Nuclear Company (1)

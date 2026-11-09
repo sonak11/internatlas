@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "id": "cesiumastro-embedded-software-engineer-intern-2027-1748f5",
+  "company": {
+    "name": "CesiumAstro",
+    "slug": "cesiumastro"
+  },
+  "role": "Embedded Software Engineer Intern",
+  "category": "embedded",
+  "apply_url": "https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Westminster",
+      "state": "CO",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-16",
+    "discovered": "2026-11-09",
+    "last_verified": "2026-11-09"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

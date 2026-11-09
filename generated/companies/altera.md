@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Altera | [FPGA Design Verification Intern](https://go.vansh.nyc/1p3) | Toronto | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | Altera | [FPGA Development Tools Intern](https://go.vansh.nyc/10V) | Toronto | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | Altera | [IP Design Intern](https://go.vansh.nyc/hw) | Toronto | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Altera | [Software Engineer Intern, Factory Apps](https://go.vansh.nyc/ZA) | Toronto | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |

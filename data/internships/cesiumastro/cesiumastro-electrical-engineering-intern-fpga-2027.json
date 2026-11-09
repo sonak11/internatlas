@@ -5,16 +5,16 @@
     "name": "CesiumAstro",
     "slug": "cesiumastro"
   },
-  "role": "Electrical Engineering Intern - FPGA",
+  "role": "Electrical Engineering Intern, FPGA",
   "category": "hardware",
-  "apply_url": "https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636/apply",
+  "apply_url": "https://go.vansh.nyc/1ow",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "El Segundo",
-      "state": "CA",
+      "city": "Melbourne",
+      "state": "FL",
       "country": "USA"
     }
   ],
@@ -43,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-03",
+    "posted": "2026-11-09",
     "discovered": "2026-10-03",
-    "last_verified": "2026-10-16"
+    "last_verified": "2026-11-09"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

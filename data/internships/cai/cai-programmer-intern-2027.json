@@ -7,14 +7,12 @@
   },
   "role": "Programmer Intern",
   "category": "software-engineering",
-  "apply_url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Programmer-Intern_R8523",
+  "apply_url": "https://go.vansh.nyc/1pg",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Allentown",
-      "state": "PA",
       "country": "USA"
     }
   ],
@@ -40,13 +38,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-13",
+    "posted": "2026-11-09",
     "discovered": "2026-10-13",
-    "last_verified": "2026-10-15"
+    "last_verified": "2026-11-09"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

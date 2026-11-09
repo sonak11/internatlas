@@ -5,9 +5,9 @@
     "name": "Cisco",
     "slug": "cisco"
   },
-  "role": "Software Engineer Intern, Full Stack / Backend I",
+  "role": "Software Engineer Intern, Full-Stack / Backend I",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/e3",
+  "apply_url": "https://go.vansh.nyc/1ok",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -18,18 +18,13 @@
       "country": "USA"
     },
     {
-      "city": "Milpitas",
-      "state": "CA",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     },
     {
-      "city": "Rtp",
+      "city": "Research Triangle Park",
       "state": "NC",
-      "country": "USA"
-    },
-    {
-      "city": "San Francisco",
-      "state": "CA",
       "country": "USA"
     }
   ],
@@ -55,11 +50,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-22",
+    "posted": "2026-11-09",
     "discovered": "2026-10-22",
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-11-09"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:vanshb03"

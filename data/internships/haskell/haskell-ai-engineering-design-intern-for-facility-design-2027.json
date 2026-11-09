@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "haskell-ai-engineering-design-intern-for-facility-design-2027",
+  "company": {
+    "name": "Haskell",
+    "slug": "haskell"
+  },
+  "role": "AI Engineering Design Intern for Facility Design",
+  "category": "ai",
+  "apply_url": "https://careers.haskell.com/jobs/7415?icims=1&lang=en-us",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Jacksonville",
+      "state": "FL",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-09",
+    "discovered": "2026-11-09",
+    "last_verified": "2026-11-09"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

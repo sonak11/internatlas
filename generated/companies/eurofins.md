@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Eurofins | [Business Intelligence Intern](https://go.vansh.nyc/1dC) | Lancaster, PA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
+| Eurofins | [Business Intelligence Intern](https://go.vansh.nyc/1dC) | Lancaster, PA | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
