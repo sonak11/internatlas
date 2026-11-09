@@ -1,20 +1,24 @@
 {
   "schema_version": "1.0",
-  "id": "goldman-sachs-quantitative-strategist-intern-asset-and-wealth-management-q-2027-0ac951",
+  "id": "tenstorrent-systems-intern-multiple-teams-2027",
   "company": {
-    "name": "Goldman Sachs",
-    "slug": "goldman-sachs"
+    "name": "Tenstorrent",
+    "slug": "tenstorrent"
   },
-  "role": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-  "category": "quant",
-  "apply_url": "https://higher.gs.com/roles/175421?type=students",
+  "role": "Systems Intern, Multiple Teams",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1np",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    {
+      "city": "Vancouver",
+      "country": "Canada"
     }
   ],
   "compensation": {
@@ -39,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-15",
-    "discovered": "2026-11-08",
+    "posted": "2026-10-14",
+    "discovered": "2026-11-09",
     "last_verified": "2026-11-09"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

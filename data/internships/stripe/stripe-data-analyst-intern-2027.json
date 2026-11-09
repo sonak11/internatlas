@@ -3,23 +3,18 @@
   "id": "stripe-data-analyst-intern-2027",
   "company": {
     "name": "Stripe",
-    "slug": "stripe",
-    "career_page": "https://stripe.com/jobs/university"
+    "slug": "stripe"
   },
-  "role": "Data Analyst, Intern",
+  "role": "Data Analyst Intern",
   "category": "software-engineering",
-  "apply_url": "https://stripe.com/jobs/search?gh_jid=8194287",
-  "season": "summer",
+  "apply_url": "https://go.vansh.nyc/1nJ",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "Toronto",
-      "country": "USA"
-    },
-    {
-      "city": "Toronto",
-      "country": "ON"
+      "country": "Canada"
     }
   ],
   "compensation": {
@@ -53,6 +48,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

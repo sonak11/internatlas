@@ -5,15 +5,16 @@
     "name": "Bedrock Robotics",
     "slug": "bedrock-robotics"
   },
-  "role": "State Estimation Intern - Learned Mapping & Semantic SLAM",
+  "role": "State Estimation Intern, Learned Mapping & Semantic SLAM",
   "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/bedrock-robotics/8c7bad61-50e3-4702-be36-72e9b72a9760/application?embed=true",
+  "apply_url": "https://go.vansh.nyc/1nX",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -49,6 +50,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

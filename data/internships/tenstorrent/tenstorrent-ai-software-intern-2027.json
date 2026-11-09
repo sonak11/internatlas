@@ -7,20 +7,14 @@
   },
   "role": "AI Software Intern",
   "category": "ai",
-  "apply_url": "https://go.vansh.nyc/FU",
+  "apply_url": "https://go.vansh.nyc/1nu",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Santa Clara",
-      "state": "CA",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "Canada"
     }
   ],
   "compensation": {
@@ -45,7 +39,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-07",
+    "posted": "2026-10-08",
     "discovered": "2026-10-26",
     "last_verified": "2026-11-09"
   },

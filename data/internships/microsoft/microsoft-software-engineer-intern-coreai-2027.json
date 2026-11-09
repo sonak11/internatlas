@@ -5,9 +5,9 @@
     "name": "Microsoft",
     "slug": "microsoft"
   },
-  "role": "Software Engineer Intern - CoreAI",
+  "role": "Software Engineer Intern, CoreAI",
   "category": "software-engineering",
-  "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+  "apply_url": "https://go.vansh.nyc/19t",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -42,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
+    "posted": "2026-11-02",
     "discovered": "2026-08-03",
     "last_verified": "2026-11-09"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

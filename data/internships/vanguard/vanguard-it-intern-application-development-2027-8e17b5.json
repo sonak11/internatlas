@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "microsoft-software-engineer-intern-coreai-2027-8c26f2",
+  "id": "vanguard-it-intern-application-development-2027-8e17b5",
   "company": {
-    "name": "Microsoft",
-    "slug": "microsoft"
+    "name": "Vanguard",
+    "slug": "vanguard"
   },
-  "role": "Software Engineer Intern, CoreAI",
+  "role": "IT Intern Application Development",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/19t",
+  "apply_url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship-Application-Development--NC-_182781",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Redmond",
-      "state": "WA",
+      "city": "Charlotte",
+      "state": "NC",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-02",
-    "discovered": "2026-11-03",
+    "posted": "2026-10-02",
+    "discovered": "2026-11-09",
     "last_verified": "2026-11-09"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

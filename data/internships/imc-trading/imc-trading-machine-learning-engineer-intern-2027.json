@@ -7,17 +7,14 @@
   },
   "role": "Machine Learning Engineer Intern",
   "category": "machine-learning",
-  "apply_url": "https://job-boards.eu.greenhouse.io/imc/jobs/4962456101",
+  "apply_url": "https://go.vansh.nyc/1nv",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
       "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -50,6 +47,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

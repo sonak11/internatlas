@@ -5,19 +5,16 @@
     "name": "Affirm",
     "slug": "affirm"
   },
-  "role": "Software Engineer Intern - Machine Learning",
+  "role": "Software Engineer Intern, Machine Learning",
   "category": "machine-learning",
-  "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
+  "apply_url": "https://go.vansh.nyc/1nR",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
       "city": "San Francisco",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -50,6 +47,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
