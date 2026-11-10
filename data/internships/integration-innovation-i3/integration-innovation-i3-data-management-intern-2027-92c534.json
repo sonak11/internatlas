@@ -1,24 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-ms-phd-software-engineer-multiverse-2027-afd7a0",
+  "id": "integration-innovation-i3-data-management-intern-2027-92c534",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "Integration Innovation (i3)",
+    "slug": "integration-innovation-i3"
   },
-  "role": "2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+  "role": "Data Management Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
+  "apply_url": "https://i3-corps.jibeapply.com/jobs/5490?icims=1&lang=en-us",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "country": "USA"
-    },
-    {
-      "city": "SF",
+      "city": "Huntsville",
+      "state": "AL",
       "country": "USA"
     }
   ],
@@ -29,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -47,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-06",
-    "discovered": "2026-11-06",
-    "last_verified": "2026-11-09"
+    "posted": "2026-11-09",
+    "discovered": "2026-11-10",
+    "last_verified": "2026-11-10"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

@@ -7,14 +7,15 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Software-Engineering-Intern_R57963",
+  "apply_url": "https://go.vansh.nyc/1pD",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Richmond Hill",
-      "country": "ON"
+      "city": "Lake Oswego",
+      "state": "OR",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-23",
+    "posted": "2026-11-09",
     "discovered": "2026-09-08",
-    "last_verified": "2026-11-09"
+    "last_verified": "2026-11-10"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
