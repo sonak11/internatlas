@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Mindsmith | [Software Engineering Intern](https://app.dover.com/apply/mindsmith/e0ca8149-6811-4de9-ba38-65a0244a2b7e) | Lehi, UT | Onsite | 2026-06-24 | Rolling | 🟢 Open | ❔ |
+| Mindsmith | [Software Engineering Intern](https://go.vansh.nyc/1r9) | Lehi, UT | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

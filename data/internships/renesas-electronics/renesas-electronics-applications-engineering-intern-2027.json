@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "kla-software-engineering-intern-2027-92da50",
+  "id": "renesas-electronics-applications-engineering-intern-2027",
   "company": {
-    "name": "KLA",
-    "slug": "kla"
+    "name": "Renesas Electronics",
+    "slug": "renesas-electronics"
   },
-  "role": "Software Engineering Intern",
+  "role": "Applications Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/h2",
+  "apply_url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000160890129",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Milpitas",
+      "city": "San Jose",
       "state": "CA",
       "country": "USA"
     }
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-23",
-    "discovered": "2026-11-01",
+    "posted": "2026-11-10",
+    "discovered": "2026-11-10",
     "last_verified": "2026-11-10"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

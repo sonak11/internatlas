@@ -7,14 +7,13 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/13y",
-  "season": "summer",
+  "apply_url": "https://jobs.ashbyhq.com/westmag/d0b7d88b-4f22-4c1f-abc7-0bd724878882/application?embed=true",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "South San Francisco",
-      "state": "CA",
+      "city": "South SF",
       "country": "USA"
     }
   ],
@@ -40,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-31",
+    "posted": "2026-10-29",
     "discovered": "2026-10-30",
     "last_verified": "2026-11-10"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

@@ -7,14 +7,15 @@
   },
   "role": "Software Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/h6",
-  "season": "spring",
+  "apply_url": "https://go.vansh.nyc/1rP",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Richmond Hill",
-      "country": "Canada"
+      "city": "Knoxville",
+      "state": "TN",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,7 +40,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-23",
+    "posted": "2026-11-10",
     "discovered": "2026-10-24",
     "last_verified": "2026-11-10"
   },

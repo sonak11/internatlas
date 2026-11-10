@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "general-dynamics-mission-systems-software-engineer-intern-2027-37346e",
+  "id": "peripheral-robotics-engineering-intern-capture-systems-2027",
   "company": {
-    "name": "General Dynamics Mission Systems",
-    "slug": "general-dynamics-mission-systems"
+    "name": "Peripheral",
+    "slug": "peripheral"
   },
-  "role": "Software Engineer Intern",
+  "role": "Robotics Engineering Intern, Capture Systems",
   "category": "software-engineering",
-  "apply_url": "https://careers-gdms.icims.com/jobs/79755/job?mobile=true&needsRedirect=false",
+  "apply_url": "https://go.vansh.nyc/1rj",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Manassas",
-      "state": "VA",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "Canada"
     }
   ],
   "compensation": {
@@ -40,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-09",
+    "posted": "2026-11-10",
     "discovered": "2026-11-10",
     "last_verified": "2026-11-10"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

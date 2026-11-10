@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Virtu | [Quantitative Trading Intern](https://go.vansh.nyc/4R) | Austin, TX +2 | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
+| Virtu | [Quantitative Trading Intern](https://go.vansh.nyc/4R) | Austin, TX +2 | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

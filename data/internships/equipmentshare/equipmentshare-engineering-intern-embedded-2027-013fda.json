@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "western-magnetics-software-engineer-intern-2027-fbed20",
+  "id": "equipmentshare-engineering-intern-embedded-2027-013fda",
   "company": {
-    "name": "Western Magnetics",
-    "slug": "western-magnetics"
+    "name": "EquipmentShare",
+    "slug": "equipmentshare"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/westmag/d0b7d88b-4f22-4c1f-abc7-0bd724878882/application?embed=true",
-  "season": "winter",
+  "role": "Engineering Intern - Embedded",
+  "category": "embedded",
+  "apply_url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8371896",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "South SF",
+      "city": "Columbia",
+      "state": "MO",
       "country": "USA"
     }
   ],
@@ -39,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-29",
-    "discovered": "2026-11-01",
+    "posted": "2026-11-10",
+    "discovered": "2026-11-10",
     "last_verified": "2026-11-10"
   },
   "status": "open",

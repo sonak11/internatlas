@@ -16,6 +16,9 @@
 | Palantir Technologies | [Software Engineer Intern](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) | Palo Alto, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | Palantir Technologies | [Software Engineer Intern](https://go.vansh.nyc/4l) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | Palantir Technologies | [Software Engineer Intern](https://go.vansh.nyc/4j) | Palo Alto, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
+| Palantir Technologies | [Software Engineer Intern, Connectivity Platform and Product](https://go.vansh.nyc/1rT) | New York, NY | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
+| Palantir Technologies | [Software Engineer Intern, Connectivity Platform and Product](https://go.vansh.nyc/1rs) | Denver, CO | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| Palantir Technologies | [Software Engineer Intern, Data Connectors](https://go.vansh.nyc/1rS) | New York, NY | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | Palantir Technologies | [Software Engineer Intern, Defense Tech](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d) | Palo Alto, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | Palantir Technologies | [Software Engineer Intern, Defense Tech](https://go.vansh.nyc/4p) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | Palantir Technologies | [Software Engineer Intern, Defense Tech](https://go.vansh.nyc/4o) | Palo Alto, CA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
