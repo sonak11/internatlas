@@ -12,6 +12,7 @@
 | Tenstorrent | [AI Software Intern, Cloud, Infrastructure & Data Centre Deployment](https://go.vansh.nyc/g7) | Austin, TX +1 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | Tenstorrent | [Hardware Intern - Architecture - AI HW & System on a Chip](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007) | Boston, MA +3 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | Tenstorrent | [Hardware Intern, AI HW & System on a Chip](https://go.vansh.nyc/Fx) | Toronto +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| Tenstorrent | [Hardware Intern, Architecture, AI HW & SoC](https://go.vansh.nyc/1qf) | Austin, TX +3 | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | Tenstorrent | [Physical Design & DFT Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007) | Boston, MA +3 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | Tenstorrent | [RISC-5 CPU Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256699007) | Boston, MA +3 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | Tenstorrent | [Systems Intern, Multiple Teams](https://go.vansh.nyc/1np) | Toronto +1 | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |

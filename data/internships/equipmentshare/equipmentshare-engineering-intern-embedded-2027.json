@@ -5,9 +5,9 @@
     "name": "EquipmentShare",
     "slug": "equipmentshare"
   },
-  "role": "Engineering Intern - Embedded",
+  "role": "Engineering Intern, Embedded",
   "category": "embedded",
-  "apply_url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8189297",
+  "apply_url": "https://go.vansh.nyc/1q3",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
+    "posted": "2026-11-03",
     "discovered": "2026-09-14",
     "last_verified": "2026-11-10"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
