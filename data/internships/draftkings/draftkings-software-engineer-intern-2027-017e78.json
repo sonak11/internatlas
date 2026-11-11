@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "enova-software-engineer-intern-2027-80cfb4",
+  "id": "draftkings-software-engineer-intern-2027-017e78",
   "company": {
-    "name": "Enova",
-    "slug": "enova"
+    "name": "DraftKings",
+    "slug": "draftkings"
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/enova/jobs/8239619",
+  "apply_url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
-      "country": "USA"
+      "city": "London",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -25,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-29",
-    "discovered": "2026-10-26",
+    "posted": "2026-11-11",
+    "discovered": "2026-11-11",
     "last_verified": "2026-11-11"
   },
   "status": "open",

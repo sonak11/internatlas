@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "jabil-ai-agent-developer-intern-supply-chain-it-ai-enablement-2027-990bbd",
+  "id": "airbnb-market-associate-intern-experiences-2027",
   "company": {
-    "name": "Jabil",
-    "slug": "jabil"
+    "name": "Airbnb",
+    "slug": "airbnb",
+    "career_page": "https://careers.airbnb.com/"
   },
-  "role": "AI Agent Developer Intern - Supply Chain IT - AI & Enablement",
-  "category": "ai",
-  "apply_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054",
+  "role": "Market Associate Intern, Experiences",
+  "category": "software-engineering",
+  "apply_url": "https://careers.airbnb.com/positions/8376087?gh_jid=8376087",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "St. Petersburg",
-      "state": "FL",
+      "city": "Paris",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-10",
+    "posted": "2026-11-11",
     "discovered": "2026-11-11",
     "last_verified": "2026-11-11"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

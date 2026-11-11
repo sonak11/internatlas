@@ -1,40 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "marvell-digital-ic-design-intern-2027-930dbb",
+  "id": "the-marzetti-company-ai-solutions-intern-human-resources-2027",
   "company": {
-    "name": "Marvell",
-    "slug": "marvell"
+    "name": "The Marzetti Company",
+    "slug": "the-marzetti-company"
   },
-  "role": "Digital IC Design Intern",
-  "category": "design",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Digital-IC-Design-Intern--MS---Summer-2027_2604828-1",
+  "role": "AI Solutions Intern - Human Resources",
+  "category": "ai",
+  "apply_url": "https://careers.marzetticompany.com/jobs/8128?icims=1&lang=en-us",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Hudson Valley",
-      "state": "NY",
-      "country": "USA"
-    },
-    {
-      "city": "Austin",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "Irvine",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Santa Clara",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Boise",
-      "state": "ID",
+      "city": "Columbus",
+      "state": "OH",
       "country": "USA"
     }
   ],
@@ -62,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-21",
-    "discovered": "2026-10-26",
+    "posted": "2026-11-11",
+    "discovered": "2026-11-11",
     "last_verified": "2026-11-11"
   },
   "status": "open",

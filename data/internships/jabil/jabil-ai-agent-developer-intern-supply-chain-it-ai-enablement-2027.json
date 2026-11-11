@@ -5,20 +5,15 @@
     "name": "Jabil",
     "slug": "jabil"
   },
-  "role": "AI Agent Developer Intern, Supply Chain IT - AI & Enablement",
+  "role": "AI Agent Developer Intern - Supply Chain IT - AI & Enablement",
   "category": "ai",
-  "apply_url": "https://go.vansh.nyc/1rC",
+  "apply_url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "St. Petersburg",
-      "state": "FL",
-      "country": "USA"
-    },
-    {
-      "city": "Tampa",
       "state": "FL",
       "country": "USA"
     }
@@ -52,6 +47,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

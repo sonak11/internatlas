@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "mcdonald-s-software-engineer-intern-2027-ebe554",
+  "id": "exacare-ai-data-and-analytics-intern-2027",
   "company": {
-    "name": "McDonald's",
-    "slug": "mcdonald-s"
+    "name": "exacare ai",
+    "slug": "exacare-ai"
   },
-  "role": "Software Engineer Intern",
+  "role": "Data and Analytics Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.mcdonalds.com/job/Chicago-Software-Development-Engineer-Intern-IL-60607/1449052900/?ats=successfactors",
+  "apply_url": "https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -40,7 +39,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-09",
+    "posted": "2026-11-11",
     "discovered": "2026-11-11",
     "last_verified": "2026-11-11"
   },

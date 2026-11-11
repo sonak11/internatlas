@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "icf-international-ai-engineer-intern-2027-692bf1",
+  "id": "state-of-wisconsin-investment-board-data-analytics-engineering-intern-2027",
   "company": {
-    "name": "ICF International",
-    "slug": "icf-international"
+    "name": "State of Wisconsin Investment Board",
+    "slug": "state-of-wisconsin-investment-board"
   },
-  "role": "AI Engineer Intern",
-  "category": "ai",
-  "apply_url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1",
+  "role": "Data Analytics Engineering Intern",
+  "category": "data-engineering",
+  "apply_url": "https://go.vansh.nyc/1uG",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Reston",
-      "state": "VA",
+      "city": "Madison",
+      "state": "WI",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-29",
-    "discovered": "2026-10-17",
-    "last_verified": "2026-11-02"
+    "posted": "2026-11-11",
+    "discovered": "2026-11-11",
+    "last_verified": "2026-11-11"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
