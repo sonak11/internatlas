@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Viking Global | [Data Science Intern](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) | NYC | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
+| Viking Global | [Data Science Intern](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) | NYC | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

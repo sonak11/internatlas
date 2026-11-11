@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "art-of-problem-solving-data-science-intern-2027-a44a2d",
+  "company": {
+    "name": "Art of Problem Solving",
+    "slug": "art-of-problem-solving"
+  },
+  "role": "Data Science Intern",
+  "category": "data-science",
+  "apply_url": "https://go.vansh.nyc/1sA",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "San Diego",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-10",
+    "discovered": "2026-11-11",
+    "last_verified": "2026-11-11"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

@@ -7,39 +7,14 @@
   },
   "role": "Hardware Engineering Intern",
   "category": "hardware",
-  "apply_url": "https://jobs.smartrecruiters.com/WesternDigital/744000140949875",
+  "apply_url": "https://go.vansh.nyc/1sa",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Fremont",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Rochester",
-      "state": "MN",
-      "country": "USA"
-    },
-    {
       "city": "San Jose",
       "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Irvine",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Colorado Springs",
-      "state": "CO",
-      "country": "USA"
-    },
-    {
-      "city": "Longmont",
-      "state": "CO",
       "country": "USA"
     }
   ],
@@ -68,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-31",
+    "posted": "2026-11-10",
     "discovered": "2026-07-31",
-    "last_verified": "2026-10-23"
+    "last_verified": "2026-11-11"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

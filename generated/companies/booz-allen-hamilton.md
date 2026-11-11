@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Booz Allen Hamilton | [Cyber Security Intern](https://go.vansh.nyc/1bV) | Colorado Springs, CO | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❌ |
+| Booz Allen Hamilton | [Data Scientist Intern](https://go.vansh.nyc/1sy) | McLean, VA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Booz Allen Hamilton | [Data Scientist Intern](https://go.vansh.nyc/1bW) | Colorado Springs, CO | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | Booz Allen Hamilton | [Data Scientist Intern](https://go.vansh.nyc/19s) | Detroit, MI | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Booz Allen Hamilton | [Electronic Warfare FPGA Engineer Intern](https://go.vansh.nyc/M1) | Beavercreek, OH | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |

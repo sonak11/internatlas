@@ -10,6 +10,7 @@
 | Toyota Research Institute | [Automated Driving Advanced Development Intern - Machine Learning Research](https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply) | Los Altos, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | Toyota Research Institute | [Human Aware Interactions and Learning Intern](https://go.vansh.nyc/eU) | Cambridge, MA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Toyota Research Institute | [Human Interactive Driving Research Intern - Perception for Driving at the Limits](https://jobs.lever.co/tri/33c33641-756d-4cd1-8238-0100af2224b8/apply) | Los Altos, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| Toyota Research Institute | [Human-Centered AI Research Intern - Causal Reasoning Models](https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37/apply) | Los Altos, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Toyota Research Institute | [Human-Centered AI Research Intern - Causal Reasoning Models](https://jobs.lever.co/tri/6433edb6-76be-409f-9a73-9b9d9c207f9f/apply) | Los Altos, CA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | Toyota Research Institute | [Human-Centered AI Research Intern - Human Language Models](https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e/apply) | Los Altos, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | Toyota Research Institute | [Robotics Intern - Trustworthy Learning under Uncertainty](https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424/apply) | Los Altos, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |

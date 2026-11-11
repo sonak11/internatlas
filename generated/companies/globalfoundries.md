@@ -34,6 +34,7 @@
 | GlobalFoundries | [Software Engineer Intern](https://go.vansh.nyc/Go) | Austin, TX +1 | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | GlobalFoundries | [Software Engineer Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineering-Intern--Summer-2027-_JR-2604039) | Austin, TX +1 | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | GlobalFoundries | [Software Engineer Intern - Cloud Platform](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034) | Santa Clara, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| GlobalFoundries | [Systems Engineer Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604045) | Richardson, TX | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | GlobalFoundries | [Tapeout Engineer Intern - Tapeout Operations](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Tapeout-Engineering-Intern--Tapeout-Operations--Summer-2027-_JR-2604923) | Essex Junction, VT | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | GlobalFoundries | [Tapeout Engineer Intern, Tapeout Operations](https://go.vansh.nyc/hl) | Essex Junction, VT | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | GlobalFoundries | [Technology Architecture Engineer Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Technology-Architecture-Engineering-Intern--Summer-2027-_JR-2604362) | Malta, NY | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
@@ -42,7 +43,6 @@
 | GlobalFoundries | [RF Technology Development Automation Engineer Intern - Summer 2027](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/RF-Technology-Development-Automation-Engineering-Intern--Summer-2027-_JR-2604272) | Malta, NY | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | GlobalFoundries | [Robotics and Automation Engineering Intern - Junior](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Robotics-and-Automation-Engineering-Intern--Junior--Summer-2027-_JR-2604655) | Essex Junction, VT | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | GlobalFoundries | [Silicon Photonics Advanced Packaging Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Advanced-Packaging-Intern--Summer-2027-_JR-2605136) | Malta, NY | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
-| GlobalFoundries | [Systems Engineer Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineering-Intern--Summer-2027-_JR-2604044) | Richardson, TX | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | GlobalFoundries | [Systems/Process Engineering Intern - Tapeout Operations](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Systems-Process-Engineering--Tapeout-Operations-Summer-2027-_JR-2604924) | Malta, NY | Onsite | 2026-10-21 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Jabil | [AI Agent Developer Intern - Supply Chain IT - AI & Enablement](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Agent-Developer-Intern--Supply-Chain-IT---AI---Enablement-_J2469054) | St. Petersburg, FL | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Jabil | [AI Agent Developer Intern, Supply Chain IT - AI & Enablement](https://go.vansh.nyc/1rC) | St. Petersburg, FL +1 | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Jabil | [Validation Engineer Intern](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Validation-Engineer-Intern_J2469310) | Austin, TX | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Jabil | [AI Transformation Intern](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/AI-Transformation-Intern_J2466044) | Austin, TX | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |

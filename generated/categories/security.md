@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**219** tracked · **158** open now
+**220** tracked · **158** open now
 
 ## Current openings
 
@@ -37,7 +37,6 @@
 | [C.H. Robinson](generated/companies/c-h-robinson.md) | [Cyber Security Intern](https://go.vansh.nyc/gV) | Eden Prairie, MN | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [CACI](generated/companies/caci.md) | [Cyber Security Intern](https://go.vansh.nyc/1oq) | Sterling, VA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [CAE](generated/companies/cae.md) | [Cybersecurity Integration Specialist Intern](https://go.vansh.nyc/SA) | Montreal | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
-| [CareSource](generated/companies/caresource.md) | [Cybersecurity Intern](https://go.vansh.nyc/1je) | USA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern - Security](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926) | Atlanta, GA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern, Security](https://go.vansh.nyc/cp) | Atlanta, GA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Citizens Energy Group](generated/companies/citizens-energy-group.md) | [IT Security Intern](https://go.vansh.nyc/1oR) | Indianapolis, IN | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
@@ -62,6 +61,7 @@
 | [General Dynamics Mission Systems, Inc.](generated/companies/general-dynamics-mission-systems-inc.md) | [Systems Intern, Cybersecurity and Linux Administration](https://go.vansh.nyc/1rI) | San Antonio, TX | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❌ |
 | [General Matter](generated/companies/general-matter.md) | [Information Security Engineer Intern](https://go.vansh.nyc/9J) | Los Angeles, CA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [GeoComply](generated/companies/geocomply.md) | [Browser Security Engineer Intern](https://go.vansh.nyc/QA) | Vancouver | Onsite | 2026-07-09 | Rolling | 🟢 Open | ❔ |
+| [Global Payments](generated/companies/global-payments.md) | [CyberSecurity Intern](https://go.vansh.nyc/1s5) | Columbus, GA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❌ |
 | [Graco](generated/companies/graco.md) | [Cybersecurity Intern](https://go.vansh.nyc/1cy) | Dayton, MN | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Guardian Life](generated/companies/guardian-life.md) | [Cybersecurity Intern, Digital & Technology](https://go.vansh.nyc/1cZ) | New York, NY +2 | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [HCSC](generated/companies/hcsc.md) | [Cybersecurity Operations Intern](https://go.vansh.nyc/11Z) | Chicago, IL | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
@@ -175,6 +175,7 @@
 | [Booz Allen Hamilton](generated/companies/booz-allen-hamilton.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/1iU) | McLean, VA | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❌ |
 | [CAI](generated/companies/cai.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/1cd) | USA | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | [Capital One](generated/companies/capital-one.md) | [Cyber Security Intern](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2027_R244319) | McLean, VA +1 | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❌ |
+| [CareSource](generated/companies/caresource.md) | [Cybersecurity Intern](https://go.vansh.nyc/1je) | USA | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❔ |
 | [Centene Corporation](generated/companies/centene-corporation.md) | [Cybersecurity Intern](https://go.vansh.nyc/eJ) | Remote | Remote | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 | [Cigna](generated/companies/cigna.md) | [Cybersecurity Intern, Technology Development Program](https://go.vansh.nyc/1h8) | Bloomfield, CT +1 | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❔ |
 | [Cincinnati Children’s Hospital and Medical Center](generated/companies/cincinnati-children-s-hospital-and-medical-center.md) | [Student II Security Analyst Intern](https://go.vansh.nyc/1cq) | USA | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
@@ -275,7 +276,6 @@
 - C.H. Robinson (1)
 - CACI (1)
 - CAE (1)
-- CareSource (1)
 - Citizens Energy Group (1)
 - CNA Insurance (1)
 - Costco (1)
@@ -298,6 +298,7 @@
 - General Dynamics Mission Systems, Inc. (1)
 - General Matter (1)
 - GeoComply (1)
+- Global Payments (1)
 - Graco (1)
 - Guardian Life (1)
 - Howmet Aerospace (1)
@@ -357,6 +358,7 @@
 - Arconic (1)
 - CAI (1)
 - Capital One (1)
+- CareSource (1)
 - Centene Corporation (1)
 - Cigna (1)
 - Cincinnati Children’s Hospital and Medical Center (1)

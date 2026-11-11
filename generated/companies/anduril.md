@@ -23,6 +23,7 @@
 | Anduril | [2027 Low Observables Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) | Costa Mesa | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2027 Manufacturing Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) | Atlanta | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2027 Mechanical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) | Atlanta | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
+| Anduril | [2027 Optical Payload Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007) | Costa Mesa | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2027 Product Designer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007) | Costa Mesa | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2027 Product Sourcing Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) | Costa Mesa | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2027 Quality & Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007) | Ashville | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |

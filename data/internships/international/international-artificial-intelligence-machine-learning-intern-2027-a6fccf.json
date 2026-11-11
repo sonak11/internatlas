@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "marvell-ams-validation-intern-2027-5f14df",
+  "id": "international-artificial-intelligence-machine-learning-intern-2027-a6fccf",
   "company": {
-    "name": "Marvell",
-    "slug": "marvell"
+    "name": "International",
+    "slug": "international"
   },
-  "role": "AMS Validation Intern",
-  "category": "software-engineering",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AMS-Validation-Intern_2603863",
+  "role": "Artificial Intelligence/Machine Learning Intern",
+  "category": "machine-learning",
+  "apply_url": "https://go.vansh.nyc/1sz",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
-      "state": "CA",
+      "city": "Lisle",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-29",
-    "discovered": "2026-10-23",
-    "last_verified": "2026-11-10"
+    "posted": "2026-11-10",
+    "discovered": "2026-11-11",
+    "last_verified": "2026-11-11"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

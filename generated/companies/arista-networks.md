@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Arista Networks | [Software Engineer Intern, C/C++](https://go.vansh.nyc/12B) | USA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
+| Arista Networks | [Software Engineer Intern, C/C++](https://go.vansh.nyc/12B) | USA | Onsite | 2026-10-31 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**292** tracked · **146** open now
+**296** tracked · **151** open now
 
 ## Current openings
 
@@ -15,6 +15,9 @@
 | [ADT](generated/companies/adt.md) | [Product Management & Product Operations Intern](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) | Boca Raton, FL | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Allied Solutions](generated/companies/allied-solutions.md) | [Product Management Intern - Risk Management](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) | St Paul, MN | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Allstate](generated/companies/allstate.md) | [Product Management Advertising Intern](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) | Illinois | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| [Altice USA](generated/companies/altice-usa.md) | [Product Management B2B Broadband Services Intern](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors) | Bethpage, NY | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| [Altice USA](generated/companies/altice-usa.md) | [Product Management Customer Management App Intern](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors) | Bethpage, NY | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| [Altice USA](generated/companies/altice-usa.md) | [Product Management Intern - Video CPE](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Video-CPE-NY-11714/1449511700/?ats=successfactors) | Bethpage, NY | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Product Manager Intern - ALA](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) | Seattle, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Technical Product Manager Intern](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) | Seattle, WA +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Product Management Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/90411?icims=1) | Calgary | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -100,12 +103,14 @@
 | [Propio](generated/companies/propio.md) | [Product Manager Intern](https://go.vansh.nyc/gi) | Overland Park, KS | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [Pyrotek](generated/companies/pyrotek.md) | [Product Management Intern](https://jobs.smartrecruiters.com/Pyrotek3/744000160635163) | Spokane, WA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [MBA Intern Co-op - Product Management Product Development](https://careers.rivian.com/jobs/33793?icims=1) | Palo Alto, CA | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
+| [Rubrik](generated/companies/rubrik.md) | [Product Management Intern](https://www.rubrik.com/company/careers/departments/job.8350601?gh_jid=8350601) | Palo Alto, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Salesforce](generated/companies/salesforce.md) | [Product Management Intern - Product Management](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659) | SF +1 | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Salesforce](generated/companies/salesforce.md) | [Product Management Intern - Product Management](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1) | SF +1 | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Shure](generated/companies/shure.md) | [Global Product Management Data Intern](https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Shure](generated/companies/shure.md) | [Global Product Management Intern - Conferencing](https://careersus-shure.icims.com/jobs/4990/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Signify](generated/companies/signify.md) | [Product Management Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Peachtree-City/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366870) | Peachtree City, GA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Signify](generated/companies/signify.md) | [Product Manager Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Aurora/Product-Management-Intern--Cooper-Lighting-Solutions---Spring-2027_366897) | Aurora, CO | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
+| [Snowflake](generated/companies/snowflake.md) | [Product Management Intern](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true) | Menlo Park, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [Sonos](generated/companies/sonos.md) | [Software Product Manager Intern](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1) | Seattle, WA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [SOTI](generated/companies/soti.md) | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--May-2027---12-Months-_R10638) | Mississauga | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [SOTI](generated/companies/soti.md) | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--SOTI-XSight---May-2027---12-Months-_R10614) | Mississauga | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
@@ -258,7 +263,6 @@
 | [Schneider Electric](generated/companies/schneider-electric.md) | [Graduate Product Management Intern](https://se.jibeapply.com/jobs/135310?icims=1) | Nashville, TN | Onsite | 2026-09-30 | Rolling | 🔴 Closed | ❔ |
 | [Signify](generated/companies/signify.md) | [Product Management Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Menlo-Park/Product-Management-Intern---Fall-2026_365521) | Menlo Park, CA | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
 | [Skydio](generated/companies/skydio.md) | [Product Management Intern](https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true) | San Mateo, CA | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
-| [Snowflake](generated/companies/snowflake.md) | [Product Management Intern](https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf/application?embed=true) | Menlo Park, CA | Onsite | 2026-10-30 | Rolling | 🔴 Closed | ❔ |
 | [Sonos](generated/companies/sonos.md) | [Software Product Management Intern](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2866-1) | Seattle, WA | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 | [SOTI](generated/companies/soti.md) | [Associate Product Manager Intern](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041) | Mississauga | Onsite | 2026-05-08 | Rolling | 🔴 Closed | ❔ |
 | [SOTI](generated/companies/soti.md) | [Product Manager Intern - Sales Enablement Products](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Product-Manager--Intern-_R10095) | Mississauga | Onsite | 2026-05-14 | Rolling | 🔴 Closed | ❔ |
@@ -321,6 +325,7 @@
 - Microsoft (4)
 - Salesforce (4)
 - USAA (4)
+- Altice USA (3)
 - Duolingo (3)
 - NVIDIA (3)
 - Signify (3)
@@ -393,6 +398,8 @@
 - Propio (1)
 - Pyrotek (1)
 - Rivian (1)
+- Rubrik (1)
+- Snowflake (1)
 - The New York Times (1)
 - Tradeweb (1)
 - UL Solutions (1)
@@ -435,7 +442,6 @@
 - Royal Bank of Canada (1)
 - Schneider Electric (1)
 - Skydio (1)
-- Snowflake (1)
 - Swift (1)
 - Tessera Labs (1)
 - The Home Depot (1)

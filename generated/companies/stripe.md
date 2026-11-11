@@ -19,6 +19,7 @@
 | Stripe | [Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=8333122) | Toronto +1 | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | Stripe | [Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=8328662) | Seattle, WA +3 | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | Stripe | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285) | Toronto | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+| Stripe | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283) | New York | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | Stripe | [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664) | Toronto +1 | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | Stripe | [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332683) | Toronto | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | Stripe | [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332681) | San Francisco | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |

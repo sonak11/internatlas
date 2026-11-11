@@ -6,9 +6,12 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Bank of Montreal | [Data Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973) | Toronto | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [Quantitative Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) | Toronto | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [Quantitative Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1) | Toronto | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [Technology Research Associate Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Technology-Research-Associate--Winter-2027--Co-op-Internship----4-months_R260024978) | Toronto | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
+| Bank of Montreal | [Treasury & Payment Solutions Strategy Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) | Toronto | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| Bank of Montreal | [Treasury & Payment Solutions Strategy Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382-1) | Toronto | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [UX/UI Designer Co-op Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1) | Toronto | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [UX/UI Designer Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951) | Toronto | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [Business Analyst Co-op Intern - Data and Change Management](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Business-Analyst--Data-and-Change-Management---Winter-2027--Co-op-Internship----4-Months_R260024737) | Toronto | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "icf-international-ai-engineer-intern-2027-4a7c21",
+  "id": "rtx-software-engineer-intern-2027-27e44d",
   "company": {
-    "name": "ICF International",
-    "slug": "icf-international"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "AI Engineer Intern",
-  "category": "ai",
-  "apply_url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SR--7887-Bryan-Dairy-Rd--BLDG-600/Software-Engineering-Intern--Summer-2027-_01888045",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Reston",
-      "state": "VA",
+      "city": "Largo",
+      "state": "FL",
       "country": "USA"
     }
   ],
@@ -25,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,9 +43,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-14",
-    "discovered": "2026-10-14",
-    "last_verified": "2026-11-10"
+    "posted": "2026-11-10",
+    "discovered": "2026-11-11",
+    "last_verified": "2026-11-11"
   },
   "status": "open",
   "tags": [

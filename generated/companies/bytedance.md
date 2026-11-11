@@ -73,6 +73,7 @@
 | ByteDance | [Site Reliability Engineer Intern, Data Infra](https://go.vansh.nyc/14D) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Site Reliability Engineer Intern, Data Infra](https://go.vansh.nyc/14t) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Site Reliability Engineer Intern, Data Infra](https://go.vansh.nyc/145) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| ByteDance | [Site Reliability Engineer Intern, Data Platform, Computer Platform](https://go.vansh.nyc/1s7) | San Jose, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Software Development Engineer Intern - Network Automation - 2027 Summer](https://jobs.bytedance.com/en/position/7671147251943213317/detail) | San Jose, CA | Onsite | 2026-08-08 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Software Development Engineer Intern, Network Automation](https://go.vansh.nyc/17M) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Software Engineer Intern](https://jobs.bytedance.com/en/position/7668373268886161669/detail) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |

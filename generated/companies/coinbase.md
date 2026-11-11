@@ -17,7 +17,6 @@
 | Coinbase | [Associate Product Manager Intern - Multiple Teams](https://boards.greenhouse.io/embed/job_app?token=8168322) | SF | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Coinbase | [Business Controller Intern](https://www.coinbase.com/careers/positions/8175366?gh_jid=8175366) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | Coinbase | [Credit Risk Intern](https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
-| Coinbase | [Crypto Inventory Operations Intern](https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | Coinbase | [Data Engineer Intern](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | Coinbase | [Data Engineer Intern](https://go.vansh.nyc/Mv) | San Francisco, CA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Coinbase | [Data Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8175459) | SF | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
@@ -47,6 +46,7 @@
 | Coinbase | [Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8168315) | SF | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Coinbase | [Tax Information Reporting Intern](https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241) | Hybrid | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | Coinbase | [Tax Operations Intern](https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
+| Coinbase | [Crypto Inventory Operations Intern](https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435) | Hybrid | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | Coinbase | [Product Manager (HR Technology) Intern](https://www.coinbase.com/careers/positions/8175504?gh_jid=8175504) | Hybrid | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | Coinbase | [Product Manager Intern - HR Technology](https://boards.greenhouse.io/embed/job_app?token=8175504) | NYC | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | Coinbase | [Strategic Finance Intern](https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438) | Hybrid | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |

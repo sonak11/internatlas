@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Booz Allen | [2027 Summer Games Data Scientist Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Lexington-MA/University---2027-Summer-Games-Data-Scientist-Intern---Lexington--MA_R0252275) | Lexington, MA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
+| Booz Allen | [Data Scientist Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0253332) | McLean, VA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Booz Allen | [Data Scientist Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Data-Scientist-Intern---Huntsville--AL_R0248407) | Huntsville, AL | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Booz Allen | [Data Scientist Intern - 2027 Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406) | Honolulu, HI | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Booz Allen | [Data Scientist Intern - Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143) | Rome, NY | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |

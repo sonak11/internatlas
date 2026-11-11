@@ -6,6 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Renesas Electronics | [Applications Engineer Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000160975701) | Morrisville, NC | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| Renesas Electronics | [Applications Engineer Intern](https://go.vansh.nyc/1sk) | Morrisville, NC | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Renesas Electronics | [Applications Engineering Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000160890129) | San Jose, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Renesas Electronics | [Validation Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000160632739) | San Jose, CA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | Renesas Electronics | [Analog Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000153498869) | San Jose, CA +2 | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |

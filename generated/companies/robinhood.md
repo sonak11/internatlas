@@ -10,6 +10,7 @@
 |---|---|---|---|---|---|---|---|
 | Robinhood | [Fraud Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src%3D&gh_jid=8198241) | Denver, CO | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | Robinhood | [Investment Analyst MBA Intern, Robinhood Ventures (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198187?t=gh_src%3D&gh_jid=8198187) | Menlo Park, CA | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
+| Robinhood | [People Partner Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src%3D&gh_jid=8197614) | New York, NY | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | Robinhood | [Brokerage Operations Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198198?t=gh_src%3D&gh_jid=8198198) | Chicago, IL | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | Robinhood | [Brokerage Risk Analyst Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198223?t=gh_src%3D&gh_jid=8198223) | Chicago, IL | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | Robinhood | [Business Analyst Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8123238?t=gh_src%3D&gh_jid=8123238) | Washington, DC | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
@@ -25,7 +26,6 @@
 | Robinhood | [Market Research Strategy Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src%3D&gh_jid=8103727) | Singapore | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | Robinhood | [Offensive Security Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src%3D&gh_jid=8214142) | Bellevue, WA | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
 | Robinhood | [People Insights & Analytics Intern - Summer 2027](https://boards.greenhouse.io/robinhood/jobs/8198255) | Menlo Park, CA | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
-| Robinhood | [People Partner Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src%3D&gh_jid=8197614) | New York, NY | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | Robinhood | [PeopleX Insights & Analytics Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8198255?t=gh_src%3D&gh_jid=8198255) | Menlo Park, CA | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | Robinhood | [Security Risk Management Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8207970?t=gh_src%3D&gh_jid=8207970) | Menlo Park, CA | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
 | Robinhood | [Software Developer Intern](https://boards.greenhouse.io/robinhood/jobs/8199744) | Toronto | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |

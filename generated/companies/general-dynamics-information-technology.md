@@ -7,6 +7,8 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | General Dynamics Information Technology | [AI Network Engineering Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2) | Bossier City, LA | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
+| General Dynamics Information Technology | [AI/ML Business Intelligence Development Intern](https://go.vansh.nyc/1s6) | Bossier City, LA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❌ |
+| General Dynamics Information Technology | [AI/ML Business Intelligence Development Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935) | Bossier City, LA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | General Dynamics Information Technology | [AI/ML Data Science and Engineering Intern](https://go.vansh.nyc/1hS) | Bossier City, LA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
 | General Dynamics Information Technology | [AI/ML Software Development and Engineering Intern](https://go.vansh.nyc/1hT) | Bossier City, LA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
 | General Dynamics Information Technology | [AI/ML Software Development and Engineering Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939) | Bossier City, LA | Onsite | 2026-09-26 | Rolling | 🟢 Open | ❔ |

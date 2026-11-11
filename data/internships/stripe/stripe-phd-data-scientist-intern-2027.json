@@ -8,13 +8,13 @@
   },
   "role": "PhD Data Scientist, Intern",
   "category": "data-science",
-  "apply_url": "https://stripe.com/jobs/search?gh_jid=8194285",
+  "apply_url": "https://stripe.com/jobs/search?gh_jid=8194283",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
+      "city": "New York",
       "country": "USA"
     }
   ],
@@ -42,7 +42,7 @@
   "dates": {
     "posted": "2026-10-01",
     "discovered": "2026-10-01",
-    "last_verified": "2026-11-10"
+    "last_verified": "2026-11-11"
   },
   "status": "open",
   "tags": [

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**264** tracked · **160** open now
+**265** tracked · **160** open now
 
 ## Current openings
 
@@ -29,6 +29,7 @@
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [UX/UI Designer Co-op Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951-1) | Toronto | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [UX/UI Designer Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/UX-UI-Designer--Winter-2027--Co-op-Internship---8-months_R260026951) | Toronto | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Boston Scientific](generated/companies/boston-scientific.md) | [R&D Software Design Intern](https://go.vansh.nyc/YD) | Arden Hills, MN | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| [Boston Scientific](generated/companies/boston-scientific.md) | [R&D Software Design Intern](https://bostonscientific.eightfold.ai/careers/job/563602813862687) | Arden Hills, MN | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Analog Design Engineer Intern](https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec/apply) | Austin, TX | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Design Verification Engineer Intern](https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e/apply) | Austin, TX | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Digital Design Engineer Intern](https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e/apply) | Austin, TX | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
@@ -112,7 +113,6 @@
 | [onsemi](generated/companies/onsemi.md) | [Integrated Circuit Design Engineer Intern](https://go.vansh.nyc/DQ) | Allen, TX | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [Product Design Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8350814) | Remote | Remote | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [SOI Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421670100/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
-| [Quadric](generated/companies/quadric.md) | [Design Verification Intern](https://go.vansh.nyc/1n5) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Camera Design Engineering Intern](https://qualcomm.eightfold.ai/careers/job/446721829439) | Vancouver | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Camera Design Engineering Intern](https://go.vansh.nyc/Yi) | Vancouver | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Camera Design Implementation Intern](https://qualcomm.eightfold.ai/careers/job/446721678727) | Vancouver | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
@@ -247,6 +247,7 @@
 | [Qorvo](generated/companies/qorvo.md) | [RFIC Design Intern](https://careers.qorvo.com/job/San-Diego-RFIC-Design-Intern-CA-92121/1424705100/?ats=successfactors) | San Diego, CA | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [RFIC Design Intern](https://careers.qorvo.com/job/Chelmsford-RFIC-Design-Intern-MA-1824/1424704100/?ats=successfactors) | Chelmsford, MA | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [SOI Design Engineer Intern - High Performance Analog - Advanced Cellular](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421973500/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
+| [Quadric](generated/companies/quadric.md) | [Design Verification Intern](https://go.vansh.nyc/1n5) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Design Methodology Engineer Intern - MSIP - HW](https://qualcomm.eightfold.ai/careers/job/446721140936) | Toronto | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Digital Design Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721156182) | Toronto | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [MSIP Digital Design Verification Engineering Intern - HW](https://qualcomm.eightfold.ai/careers/job/446721156800) | Toronto | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
@@ -300,6 +301,7 @@
 - Interstates (3)
 - Analog Devices (2)
 - Bank of Montreal (2)
+- Boston Scientific (2)
 - DoorDash (2)
 - Electronic Arts (2)
 - fab2 (2)
@@ -319,7 +321,6 @@
 - Altera (1)
 - Ambarella (1)
 - Anduril (1)
-- Boston Scientific (1)
 - Coinbase (1)
 - Databricks (1)
 - Duolingo (1)
@@ -333,7 +334,6 @@
 - Motorola (1)
 - North Atlantic Industries (1)
 - Notion (1)
-- Quadric (1)
 - Rambus (1)
 - Roche (1)
 - RosaicLabs (1)
@@ -358,6 +358,7 @@
 - Persona (1)
 - Philips (1)
 - Plusgrade (1)
+- Quadric (1)
 - Rivian and Volkswagen Group Technologies (1)
 - Roblox (1)
 - SkyGig (1)

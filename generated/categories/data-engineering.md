@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**212** tracked · **114** open now
+**213** tracked · **115** open now
 
 ## Current openings
 
@@ -10,6 +10,7 @@
 |---|---|---|---|---|---|---|---|
 | [7-Eleven](generated/companies/7-eleven.md) | [Data Engineer Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281) | Irving, TX | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [7-Eleven](generated/companies/7-eleven.md) | [Data Engineer Intern](https://go.vansh.nyc/1pp) | Irving, TX | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
+| [Addepar](generated/companies/addepar.md) | [Data Engineer Intern](https://job-boards.greenhouse.io/addepar1/jobs/8910327002) | NYC | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Addepar](generated/companies/addepar.md) | [Data Engineering Intern](https://go.vansh.nyc/1rY) | New York, NY | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Allstate](generated/companies/allstate.md) | [Data Analytics Engineer Intern](https://go.vansh.nyc/fe) | USA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Allstate](generated/companies/allstate.md) | [Data Analytics Engineer Intern](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R36286) | Illinois | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
@@ -238,6 +239,7 @@
 - First National Bank (3)
 - National Information Solutions Cooperative (3)
 - 7-Eleven (2)
+- Addepar (2)
 - Allstate (2)
 - Alstom (2)
 - Amazon (2)
@@ -268,7 +270,6 @@
 - Super (2)
 - TD Bank (2)
 - Workday (2)
-- Addepar (1)
 - Cambridge Investment Research (1)
 - Citizens Financial Group (1)
 - Edison International (1)

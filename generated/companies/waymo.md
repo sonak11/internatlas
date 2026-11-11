@@ -12,6 +12,7 @@
 | Waymo | [2027 Summer Intern, BS/MS, Software Engineer, Multiverse](https://careers.withwaymo.com/jobs?gh_jid=8350832) | San Francisco +1 | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)](https://careers.withwaymo.com/jobs?gh_jid=8214729) | Warsaw | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, BS/MS/PhD, AI-driven ML Performance Engineering Intern](https://careers.withwaymo.com/jobs?gh_jid=8248060) | Mountain View, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+| Waymo | [2027 Summer Intern, BS/MS/PhD, Software Engineer, Eval Data Infra](https://careers.withwaymo.com/jobs?gh_jid=8257205) | Mountain View, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model)](https://careers.withwaymo.com/jobs?gh_jid=8358262) | Mountain View +1 | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MBA, Salesforce Product Owner](https://careers.withwaymo.com/jobs?gh_jid=8198582) | Los Angeles +1 | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MBA, Strategic Finance](https://careers.withwaymo.com/jobs?gh_jid=8197014) | San Francisco | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
@@ -37,7 +38,6 @@
 | Waymo | [2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern](https://careers.withwaymo.com/jobs?gh_jid=8319171) | Mountain View, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8205680) | London +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MS/PhD, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8224729) | Mountain View +1 | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
-| Waymo | [2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra](https://careers.withwaymo.com/jobs?gh_jid=8257205) | Mountain View, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency](https://careers.withwaymo.com/jobs?gh_jid=8287385) | Mountain View, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MS/PhD, Software Engineer, Multiverse](https://careers.withwaymo.com/jobs?gh_jid=8214519) | Mountain View +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform](https://careers.withwaymo.com/jobs?gh_jid=8240198) | Mountain View, CA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |

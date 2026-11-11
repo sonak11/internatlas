@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "id": "nvidia-performance-engineering-intern-platform-performance-and-powe-2027-e724a3",
+  "company": {
+    "name": "NVIDIA",
+    "slug": "nvidia"
+  },
+  "role": "Performance Engineering Intern - Platform Performance and Power",
+  "category": "software-engineering",
+  "apply_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541",
+  "season": "spring",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Canada",
+      "country": "USA"
+    },
+    {
+      "city": "Santa Clara",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-10",
+    "discovered": "2026-11-11",
+    "last_verified": "2026-11-11"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

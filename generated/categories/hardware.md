@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**355** tracked · **227** open now
+**357** tracked · **229** open now
 
 ## Current openings
 
@@ -22,7 +22,6 @@
 | [Amazon](generated/companies/amazon.md) | [Hardware Development Engineer Intern Co-op - Robotics](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) | North Reading, MA +1 | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Amazon.com Services LLC](generated/companies/amazon-com-services-llc.md) | [Hardware Development Engineer Intern](https://go.vansh.nyc/cT) | Bellevue, WA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Ambarella](generated/companies/ambarella.md) | [ASIC Design Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100357) | USA | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
-| [AMD](generated/companies/amd.md) | [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91466?icims=1) | Secaucus, NJ +5 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [ASIC Verification Engineer Intern/Co-op](https://careers.amd.com/jobs/91207?icims=1) | Ottawa | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Hardware Design Engineer Intern/Co-op](https://careers.amd.com/jobs/91360?icims=1) | Markham | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Hardware Design Engineer Intern/Co-op](https://careers.amd.com/jobs/90372?icims=1) | Vancouver | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -41,6 +40,7 @@
 | [Anduril](generated/companies/anduril.md) | [2027 Low Observables Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) | Costa Mesa | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Manufacturing Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007) | Atlanta | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Mechanical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007) | Atlanta | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
+| [Anduril](generated/companies/anduril.md) | [2027 Optical Payload Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007) | Costa Mesa | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Product Sourcing Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271285007?gh_jid=5271285007) | Costa Mesa | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Quality & Test Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007) | Ashville | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Reliability Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007) | Costa Mesa | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
@@ -86,6 +86,7 @@
 | [Eight Sleep](generated/companies/eight-sleep.md) | [Hardware Support & Test Intern](https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5/application?embed=true) | SF | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Emerson Electric](generated/companies/emerson-electric.md) | [Hardware Design Engineer Intern](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010801) | Round Rock, TX | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Figure](generated/companies/figure.md) | [Hardware Reliability Intern](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | San Jose, CA | Onsite | 2026-06-23 | Rolling | 🟢 Open | ❔ |
+| [Formlabs](generated/companies/formlabs.md) | [Hardware Reliability Intern](https://careers.formlabs.com/job/8186619/apply/?gh_jid=8186619) | Somerville, MA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Hardware Systems Integration Intern](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683) | Somerville, MA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Hardware Systems Integration Intern - Winter/Spring 2027](https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004) | Somerville, MA | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Formlabs](generated/companies/formlabs.md) | [Hardware Test Engineer Intern](https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515) | Somerville, MA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
@@ -229,6 +230,7 @@
 | [Two Sigma](generated/companies/two-sigma.md) | [Hardware Engineering Intern](https://go.vansh.nyc/Jg) | New York, NY | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [Viavi Solutions](generated/companies/viavi-solutions.md) | [Digital Hardware Engineering Intern](https://go.vansh.nyc/1oU) | Lenexa, KS | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship- Hardware Engineer (FPGA)](https://job-boards.greenhouse.io/virtu/jobs/8657286002) | Austin, TX | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
+| [Western Digital](generated/companies/western-digital.md) | [Hardware Engineering Intern](https://go.vansh.nyc/1sa) | San Jose, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Hardware Test Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7894349003) | South SF | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Hardware Test Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7903483003) | South SF | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | [Zoox](generated/companies/zoox.md) | [Hardware Engineer Intern - Vehicle Systems](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b/apply) | Foster City, CA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
@@ -242,6 +244,7 @@
 | [AMD](generated/companies/amd.md) | [ASIC Package Engineer Intern Co-op](https://careers.amd.com/jobs/91469?icims=1) | San Jose, CA +1 | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [ASIC Package Engineering Co-op/Intern](https://careers.amd.com/jobs/91463?icims=1) | San Jose, CA +1 | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91471?icims=1) | Secaucus, NJ +5 | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
+| [AMD](generated/companies/amd.md) | [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91466?icims=1) | Secaucus, NJ +5 | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [Hardware Design Verification Engineer Co-op/Intern](https://careers.amd.com/jobs/90811?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [Hardware Design Verification Engineer Co-op/Intern](https://careers.amd.com/jobs/90810?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [Hardware Design Verification Engineer Intern/Co-op](https://careers.amd.com/jobs/91362?icims=1) | Vancouver | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
@@ -361,12 +364,11 @@
 | [V2X](generated/companies/v2x.md) | [Electrical Engineer Intern - Hardware Engineering](https://careers.gov2x.com/jobs/62685?icims=1) | Indianapolis, IN | Onsite | 2026-08-28 | Rolling | 🔴 Closed | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - FPGA Engineer](https://job-boards.greenhouse.io/virtu/jobs/8638124002) | Dublin | Onsite | 2026-08-12 | Rolling | 🔴 Closed | ❔ |
 | [Western Digital](generated/companies/western-digital.md) | [Fall 2026 PhD Intern - Hardware Development Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000138191379) | Fremont, CA | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
-| [Western Digital](generated/companies/western-digital.md) | [Hardware Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/744000140949875) | Fremont, CA +5 | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Long Range Platform Hardware Engineering Intern](https://www.zipline.com/open-roles?gh_jid=7891460003) | South SF | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 
 ## Hiring companies
 
-- Anduril (32)
+- Anduril (33)
 - AMD (19)
 - SpaceX (19)
 - Neuralink (14)
@@ -379,11 +381,11 @@
 - Keysight Technologies (8)
 - NVIDIA (7)
 - Ciena (6)
+- Formlabs (6)
 - GlobalFoundries (6)
 - RTX (6)
 - Skydio (6)
 - CesiumAstro (5)
-- Formlabs (5)
 - GE Vernova (5)
 - Jump Trading (5)
 - Altera (4)
@@ -414,6 +416,7 @@
 - The Toro Company (2)
 - Two Sigma (2)
 - Virtu Financial (2)
+- Western Digital (2)
 - Bank of Montreal (2)
 - Boston Scientific (2)
 - IMC Trading (2)
@@ -422,7 +425,6 @@
 - Nokia (2)
 - Space Dynamics Laboratory (2)
 - The Walt Disney Company (2)
-- Western Digital (2)
 - Amazon.com Services LLC (1)
 - Ambarella (1)
 - Arc (1)

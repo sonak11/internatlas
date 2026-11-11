@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "id": "royal-bank-of-canada-global-investment-banking-intern-2027",
+  "company": {
+    "name": "Royal Bank of Canada",
+    "slug": "royal-bank-of-canada"
+  },
+  "role": "Global Investment Banking Intern",
+  "category": "software-engineering",
+  "apply_url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/BROOKFIELD-PLACE-FKA-3-WORLD-FINANCIAL-CENTER-200-VESEY-STREETNEW-YORK/XMLNAME-2027-Global-Investment-Banking--AidenEdge-Program-Winter-Analyst--4-Months-_R-0000186588-1",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "NYC",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-10",
+    "discovered": "2026-11-11",
+    "last_verified": "2026-11-11"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

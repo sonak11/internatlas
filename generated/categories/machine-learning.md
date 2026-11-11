@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**482** tracked · **347** open now
+**489** tracked · **352** open now
 
 ## Current openings
 
@@ -21,10 +21,7 @@
 | [Amazon](generated/companies/amazon.md) | [Machine Learning Systems Software Development Engineer Intern, Annapurna Labs](https://go.vansh.nyc/MP) | Toronto | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Software Development Engineer Intern, Machine Learning/Automated Reasoning](https://go.vansh.nyc/10y) | Seattle, WA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Software Engineer Intern - Machine Learning/Automated Reasoning](https://amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027) | Boston, MA +8 | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
-| [AMD](generated/companies/amd.md) | [Machine Learning Intern/Co-op - Artificial Intelligence](https://careers.amd.com/jobs/91181?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
-| [AMD](generated/companies/amd.md) | [Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence](https://careers.amd.com/jobs/91177?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence](https://careers.amd.com/jobs/90892?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
-| [AMD](generated/companies/amd.md) | [Machine Learning Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/91170?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Machine Learning/Artificial Intelligence Intern/Co-op](https://careers.amd.com/jobs/91363?icims=1) | Markham | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Machine Learning/Artificial Intelligence Intern/Co-op](https://careers.amd.com/jobs/90383?icims=1) | Markham | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Analog Devices](generated/companies/analog-devices.md) | [AI/ML Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579) | Wilmington, MA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
@@ -93,6 +90,8 @@
 | [G-Research](generated/companies/g-research.md) | [Machine Learning Engineer Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Engineer-Intern_R3773) | London | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [G-Research](generated/companies/g-research.md) | [Machine Learning Research Intern](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682) | London | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Gecko Robotics](generated/companies/gecko-robotics.md) | [AI/Machine Learning Engineer Intern](https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true) | NYC | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
+| [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [AI/ML Business Intelligence Development Intern](https://go.vansh.nyc/1s6) | Bossier City, LA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❌ |
+| [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [AI/ML Business Intelligence Development Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935) | Bossier City, LA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [AI/ML Data Science and Engineering Intern](https://go.vansh.nyc/1hS) | Bossier City, LA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
 | [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [AI/ML Software Development and Engineering Intern](https://go.vansh.nyc/1hT) | Bossier City, LA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
 | [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [AI/ML Software Development and Engineering Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939) | Bossier City, LA | Onsite | 2026-09-26 | Rolling | 🟢 Open | ❔ |
@@ -106,9 +105,12 @@
 | [General Motors](generated/companies/general-motors.md) | [AI/ML Engineer Intern, Autonomous Vehicle Simulation](https://go.vansh.nyc/1od) | Sunnyvale, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [AI/ML Engineer Intern, Autonomous Vehicles](https://go.vansh.nyc/ZG) | Seattle, WA +1 | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [AI/ML Engineer Intern, Capacity & Performance Engineering, Autonomous Vehicles](https://go.vansh.nyc/9K) | Sunnyvale, CA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
+| [General Motors](generated/companies/general-motors.md) | [Machine Learning Engineer Intern - AV/AI Platform](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695) | Sunnyvale, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
+| [General Motors](generated/companies/general-motors.md) | [Machine Learning Engineer Intern, AV/AI Platform](https://go.vansh.nyc/1sp) | Sunnyvale, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Machine Learning Engineer Intern, Embodied AI](https://go.vansh.nyc/1rQ) | Sunnyvale, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Research and Development Intern, AI/Machine Learning](https://go.vansh.nyc/8d) | Mountain View, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Research and Development Intern, Machine Learning for Automation](https://go.vansh.nyc/8c) | Warren, MI | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
+| [General Motors](generated/companies/general-motors.md) | [Software Engineer Intern - Machine Learning Engineer - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034) | Sunnyvale, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Summer Intern - Research and Development - Machine Learning for Automation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724) | Warren, MI | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [AI/ML Systems Engineering Intern](https://go.vansh.nyc/bh) | Richardson, TX | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [AI/ML Systems Engineering Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineering-Intern--Summer-2027-_JR-2604051) | Richardson, TX | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
@@ -117,6 +119,7 @@
 | [Guardian Life](generated/companies/guardian-life.md) | [Summer Intern - Digital & Technology - AI & Machine Learning](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---AI---Machine-Learning_R000110205) | Holmdel, NJ +2 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [AI/ML Developer Intern](https://go.vansh.nyc/BM) | San Jose, CA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Honeywell](generated/companies/honeywell.md) | [Artificial Intelligence/Machine Learning Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155522) | USA | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
+| [Hook Music](generated/companies/hook-music.md) | [Machine Learning Engineering Intern, Recommendation Systems](https://go.vansh.nyc/1sf) | USA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Human Computer Lab](generated/companies/human-computer-lab.md) | [Software/ML Engineering Intern](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application) | Toronto +1 | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Deep Learning Research Intern - 2027 - Sydney](https://job-boards.eu.greenhouse.io/imc/jobs/4956547101) | Sydney | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Deep Learning Research Intern - Summer 2027 - Amsterdam](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) | Amsterdam | Onsite | 2026-07-06 | Rolling | 🟢 Open | ❔ |
@@ -124,6 +127,8 @@
 | [IMC Trading](generated/companies/imc-trading.md) | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) | Chicago | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Machine Learning Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) | NYC +1 | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Machine Learning Engineer Intern](https://go.vansh.nyc/1nv) | New York, NY | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
+| [International](generated/companies/international.md) | [Artificial Intelligence/Machine Learning Intern](https://go.vansh.nyc/1sz) | Lisle, IL | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| [International](generated/companies/international.md) | [Artificial Intelligence/Machine Learning Intern](https://careers.international.com/jobs/60456?icims=1&lang=en-us) | Lisle, IL | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Intuitive](generated/companies/intuitive.md) | [AI/ML Engineer Intern](https://go.vansh.nyc/19B) | Sunnyvale, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Intuitive Surgical](generated/companies/intuitive-surgical.md) | [AI/ML Engineer Intern](https://jobs.smartrecruiters.com/Intuitive/744000159218439) | Sunnyvale, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Machine Learning Engineer Intern](https://go.vansh.nyc/3Z) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
@@ -358,6 +363,9 @@
 | [Adobe](generated/companies/adobe.md) | [AI/ML Intern – Machine Learning Engineer/Researcher Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-AI-ML-Intern---Machine-Learning-Engineer-Intern_R160706) | Seattle, WA +2 | Onsite | 2026-05-16 | Rolling | 🔴 Closed | ❔ |
 | [Advanced Space](generated/companies/advanced-space.md) | [Machine Learning Intern](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009) | Westminster, CO | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning](https://amazon.jobs/en/jobs/10394278/2026-fall-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting) | Palo Alto, CA +7 | Onsite | 2026-04-16 | Rolling | 🔴 Closed | ❔ |
+| [AMD](generated/companies/amd.md) | [Machine Learning Intern/Co-op - Artificial Intelligence](https://careers.amd.com/jobs/91181?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
+| [AMD](generated/companies/amd.md) | [Machine Learning Intern/Co-op - Machine Learning - Artificial Intelligence](https://careers.amd.com/jobs/91177?icims=1) | San Jose, CA +1 | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
+| [AMD](generated/companies/amd.md) | [Machine Learning Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/91170?icims=1) | Rochester, NY +5 | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [Machine Learning System Engineering Intern/Co-op](https://careers.amd.com/jobs/92342?icims=1) | San Jose, CA +1 | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [ML Systems Research Engineering Intern](https://careers.amd.com/jobs/90993?icims=1) | Santa Clara, CA | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | [American Family Insurance Group](generated/companies/american-family-insurance-group.md) | [GenAI/ML Intern](https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/AMFAM---2027-Summer-GenAI-ML-Intern_R39514) | Madison, WI +1 | Onsite | 2026-10-02 | Rolling | 🔴 Closed | ❔ |
@@ -401,7 +409,6 @@
 | [Genentech](generated/companies/genentech.md) | [Machine Learning Intern - OpRegen Machine Learning](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---OpRegen-Machine-Learning_202608-121800) | South SF | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [Artificial Intelligence/Machine Learning Intern](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) | Falls Church, VA | Onsite | 2026-08-07 | Rolling | 🔴 Closed | ❔ |
 | [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [Defense Agencies Intern - AI/ML](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275) | Falls Church, VA | Onsite | 2026-10-12 | Rolling | 🔴 Closed | ❔ |
-| [General Motors](generated/companies/general-motors.md) | [Machine Learning Engineer Intern - AV/AI Platform](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695) | Sunnyvale, CA | Onsite | 2026-10-02 | Rolling | 🔴 Closed | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Machine Learning Intern - Autonomous Vehicles - Software Validation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649) | Sunnyvale, CA | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Research and Development Intern - Research & Development: AI/ML](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795) | Mountain View, CA +1 | Onsite | 2026-06-12 | Rolling | 🔴 Closed | ❔ |
 | [Genesis Molecular AI](generated/companies/genesis-molecular-ai.md) | [Machine Learning Research Intern](https://jobs.ashbyhq.com/genesis-molecular-ai/42fc0631-3f81-481a-b496-daa875c9e92e/application?embed=true) | SF +1 | Onsite | 2026-09-24 | Rolling | 🔴 Closed | ❔ |
@@ -496,17 +503,17 @@
 - TikTok (81)
 - Waymo (24)
 - ByteDance (20)
-- General Motors (17)
+- General Motors (19)
 - Qualcomm (12)
 - Tesla (11)
 - AMD (8)
+- General Dynamics Information Technology (7)
 - IMC Trading (7)
 - NVIDIA (7)
 - Pinterest (7)
 - Rivian (7)
 - Amazon (6)
 - Bedrock Robotics (5)
-- General Dynamics Information Technology (5)
 - Jump Trading (5)
 - Nissan Global (5)
 - Autodesk (5)
@@ -547,6 +554,7 @@
 - G-Research (2)
 - GlobalFoundries (2)
 - Guardian Life (2)
+- International (2)
 - Jane Street (2)
 - Merck (2)
 - NBCUniversal (2)
@@ -590,6 +598,7 @@
 - GRITT ROBOTICS INC (1)
 - Hewlett Packard Enterprise (1)
 - Honeywell (1)
+- Hook Music (1)
 - Human Computer Lab (1)
 - Intuitive (1)
 - Intuitive Surgical (1)

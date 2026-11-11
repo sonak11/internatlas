@@ -25,6 +25,8 @@
 | Skydio | [Hardware Test and Reliability Intern - Summer 2027](https://jobs.ashbyhq.com/skydio/36d75e36-eeb2-4399-8887-37c4a5ff5800/application?embed=true) | San Mateo, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Skydio | [Manufacturing Software Engineer Intern](https://jobs.ashbyhq.com/skydio/ffc665c1-2aa6-4c2f-b04b-93a6fb7b5feb/application?embed=true) | San Mateo, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | Skydio | [Manufacturing Software Engineer Intern](https://go.vansh.nyc/9y) | San Mateo, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| Skydio | [Middleware Software Engineer Intern](https://jobs.ashbyhq.com/skydio/c85af510-9fe4-4167-a914-c3ab344bef03/application?embed=true) | San Mateo, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| Skydio | [Middleware Software Engineer Intern](https://go.vansh.nyc/1s9) | San Mateo, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Skydio | [Mobile Software Engineer Intern](https://jobs.ashbyhq.com/skydio/8a237302-3fe8-4403-b32b-7690f333ba52/application?embed=true) | San Mateo, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Skydio | [Mobile Software Engineer Intern](https://go.vansh.nyc/cH) | San Mateo, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Skydio | [Process Engineering Intern](https://go.vansh.nyc/BC) | San Mateo, CA | Onsite | 2026-10-25 | Rolling | 🟢 Open | ❔ |
