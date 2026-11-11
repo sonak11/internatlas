@@ -142,6 +142,7 @@
 | TikTok | [Machine Learning Engineer Intern, E-Commerce Knowledge Graph](https://go.vansh.nyc/Cv) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern, E-Commerce Recommendation Live](https://go.vansh.nyc/Cy) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern, E-Commerce Recommendation Mall](https://go.vansh.nyc/Cw) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning Engineer Intern, E-Commerce Recommendation Mall](https://go.vansh.nyc/1sI) | San Jose, CA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern, E-Commerce Recommendation Video](https://go.vansh.nyc/Cz) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern, E-Commerce Recommendation/Search Alliance](https://go.vansh.nyc/CA) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Engineer Intern, E-Commerce Supply Chain & Logistics LLM/Agent](https://go.vansh.nyc/Cu) | Seattle, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |

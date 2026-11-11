@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**265** tracked · **160** open now
+**269** tracked · **164** open now
 
 ## Current openings
 
@@ -65,6 +65,7 @@
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [VLSI Logic Design Intern](https://go.vansh.nyc/GT) | Fort Collins, CO | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [VLSI Logic Design Intern](https://go.vansh.nyc/GR) | Chippewa Falls, WI | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [HP IQ](generated/companies/hp-iq.md) | [Product Design Engineering Intern](https://job-boards.greenhouse.io/hpiq/jobs/6141235004) | SF | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| [Indie](generated/companies/indie.md) | [Design Verification Engineer Intern](https://go.vansh.nyc/1td) | Aliso Viejo, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003019) | Chicago | Onsite | 2026-07-08 | Rolling | 🟢 Open | ✅ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943) | London | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus UI Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8003019) | Chicago, IL | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
@@ -160,6 +161,9 @@
 | [Versant](generated/companies/versant.md) | [Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango](https://go.vansh.nyc/1jF) | Carlsbad, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
 | [Versant](generated/companies/versant.md) | [Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango](https://go.vansh.nyc/1jG) | Orlando, FL | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
 | [Versant](generated/companies/versant.md) | [Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango](https://go.vansh.nyc/1jE) | North Hollywood, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
+| [Versant3](generated/companies/versant3.md) | [Technology, Product, Design & Engineering Intern](https://go.vansh.nyc/1tC) | North Hollywood, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❌ |
+| [Versant3](generated/companies/versant3.md) | [Technology, Product, Design & Engineering Intern](https://go.vansh.nyc/1tz) | Orlando, FL | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❌ |
+| [Versant3](generated/companies/versant3.md) | [Technology, Product, Design & Engineering Intern](https://go.vansh.nyc/1tA) | USA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❌ |
 | [Vertiv](generated/companies/vertiv.md) | [Design Engineer Intern - Graduate-Level - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279217) | Delaware, OH +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Design Engineering Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279257) | Delaware, OH +1 | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Design Engineering Intern](https://go.vansh.nyc/Et) | Delaware, OH +1 | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
@@ -298,6 +302,7 @@
 - Tenstorrent (3)
 - Texas Instruments (3)
 - Versant (3)
+- Versant3 (3)
 - Interstates (3)
 - Analog Devices (2)
 - Bank of Montreal (2)
@@ -328,6 +333,7 @@
 - Garmin (1)
 - General Motors (1)
 - HP IQ (1)
+- Indie (1)
 - Jump Trading Group (1)
 - KRAFTON (1)
 - lowRISC CIC (1)

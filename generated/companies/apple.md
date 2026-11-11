@@ -11,6 +11,8 @@
 | Apple | [GPU Intern](https://jobs.apple.com/en-us/details/200679652) | London +2 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | Apple | [GPU Intern](https://jobs.apple.com/en-us/details/200679650) | London +2 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | Apple | [GPU Intern - Multiple Teams](https://jobs.apple.com/en-us/details/200682357) | London +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
+| Apple | [Hardware Engineering Intern](https://go.vansh.nyc/1tl) | USA | Onsite | 2026-05-21 | Rolling | 🟢 Open | ❔ |
+| Apple | [Hardware Technologies Engineering Intern](https://go.vansh.nyc/1tk) | USA | Onsite | 2026-05-21 | Rolling | 🟢 Open | ❔ |
 | Apple | [Machine Learning and Artificial Intelligence Undergrad Intern](https://go.vansh.nyc/19Z) | USA | Onsite | 2026-05-21 | Rolling | 🟢 Open | ❔ |
 | Apple | [Software Engineer Intern, Undergrad](https://go.vansh.nyc/33) | USA | Onsite | 2026-05-22 | Rolling | 🟢 Open | ❔ |
 | Apple | [Software Engineering Intern, Masters](https://go.vansh.nyc/32) | USA | Onsite | 2026-05-22 | Rolling | 🟢 Open | ❔ |
@@ -25,4 +27,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [🎨 Design](../categories/design.md), [🧠 Machine Learning](../categories/machine-learning.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🎨 Design](../categories/design.md), [🔩 Hardware](../categories/hardware.md), [🧠 Machine Learning](../categories/machine-learning.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

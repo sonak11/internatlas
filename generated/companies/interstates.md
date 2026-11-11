@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Interstates | [Cyber Security Intern](https://go.vansh.nyc/1tI) | Sioux Falls, SD | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | Interstates | [Data Analyst Intern](https://www.interstates.com/careers/jobs?gh_jid=4056077009&gh_jid=4056077009) | Sioux Center, IA +1 | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | Interstates | [Electrical Engineering Intern - Design Services](https://www.interstates.com/careers/jobs?gh_jid=4368636009&gh_jid=4368636009) | Sioux Falls, SD | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | Interstates | [Engineering Intern - Design Services](https://www.interstates.com/careers/jobs?gh_jid=4368652009&gh_jid=4368652009) | Omaha, NE | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
@@ -13,4 +14,4 @@
 
 ## Related
 
-Browse more roles in: [🎨 Design](../categories/design.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🎨 Design](../categories/design.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

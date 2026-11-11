@@ -20,6 +20,7 @@
 | National Information Solutions Cooperative | [Software Development Intern](https://go.vansh.nyc/1q6) | Mandan, ND | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | National Information Solutions Cooperative | [Software Development Intern](https://job-boards.greenhouse.io/nisc/jobs/8092699) | Lake St Louis, MO +2 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | National Information Solutions Cooperative | [Software Development Intern](https://go.vansh.nyc/1q5) | Cedar Rapids, IA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
+| National Information Solutions Cooperative | [Test Automation Intern](https://go.vansh.nyc/1sM) | Lake Saint Louis, MO | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | National Information Solutions Cooperative | [Data Engineer Intern](https://job-boards.greenhouse.io/testnisc/jobs/8167884) | Lake St Louis, MO | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | National Information Solutions Cooperative | [Data Engineer Intern](https://job-boards.greenhouse.io/testnisc/jobs/8167886) | Mandan, ND | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | National Information Solutions Cooperative | [Data Engineer Intern](https://job-boards.greenhouse.io/testnisc/jobs/8167883) | Lake St Louis, MO +2 | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |

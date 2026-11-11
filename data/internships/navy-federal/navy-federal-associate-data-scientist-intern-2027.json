@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "amd-software-engineer-intern-co-op-2027-2c5395",
+  "id": "navy-federal-associate-data-scientist-intern-2027",
   "company": {
-    "name": "AMD",
-    "slug": "amd"
+    "name": "Navy Federal",
+    "slug": "navy-federal"
   },
-  "role": "Software Engineer Intern/Co-op",
-  "category": "software-engineering",
-  "apply_url": "https://careers.amd.com/jobs/91367?icims=1",
-  "season": "winter",
+  "role": "Associate Data Scientist Intern",
+  "category": "data-science",
+  "apply_url": "https://go.vansh.nyc/1ux",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Vancouver",
-      "country": "BC"
+      "city": "Vienna",
+      "state": "VA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-09-01",
+    "posted": "2026-09-09",
+    "discovered": "2026-11-11",
     "last_verified": "2026-11-11"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

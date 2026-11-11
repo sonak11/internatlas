@@ -7,11 +7,16 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Navy Federal | [AI Engineering Intern](https://go.vansh.nyc/bC) | Vienna, VA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| Navy Federal | [Associate Data Engineer Intern](https://go.vansh.nyc/1up) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Navy Federal | [Associate Data Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32292) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| Navy Federal | [Associate Data Scientist Intern](https://go.vansh.nyc/1ux) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| Navy Federal | [Associate Information Security Analyst Intern](https://go.vansh.nyc/1us) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Navy Federal | [Associate Intern - Lending Automation Technology & Solutions](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32359) | Pensacola, FL +1 | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Navy Federal | [Associate Intern, Identity & Access Management](https://go.vansh.nyc/QD) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Navy Federal | [Associate Intern, Penetration Testing](https://go.vansh.nyc/QE) | Pensacola, FL | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Navy Federal | [Associate Intern, Security Automation](https://go.vansh.nyc/N7) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| Navy Federal | [Associate Product Security Engineer Intern](https://go.vansh.nyc/1ur) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
+| Navy Federal | [Associate Zero Trust Information Security Analyst Intern](https://go.vansh.nyc/1uq) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Navy Federal | [Business Intelligence Analyst Associate Intern](https://go.vansh.nyc/Mx) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Navy Federal | [Business Intelligence Analyst Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32290) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Navy Federal | [Business Intelligence Analyst Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32080) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
