@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**267** tracked · **140** open now
+**268** tracked · **141** open now
 
 ## Current openings
 
@@ -119,6 +119,7 @@
 | [Skydio](generated/companies/skydio.md) | [Product Design Engineer Intern](https://go.vansh.nyc/BB) | San Mateo, CA | Onsite | 2026-10-25 | Rolling | 🟢 Open | ❔ |
 | [Stripe](generated/companies/stripe.md) | [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332683) | Toronto | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Stripe](generated/companies/stripe.md) | [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332681) | San Francisco | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
+| [Systems Planning and Analysis](generated/companies/systems-planning-and-analysis.md) | [UI/UX Software Intern](https://go.vansh.nyc/1xp) | Alexandria, VA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Tenstorrent](generated/companies/tenstorrent.md) | [Physical Design & DFT Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256706007) | Boston, MA +3 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Tenstorrent](generated/companies/tenstorrent.md) | [Systems Intern, Validation, Software, Design, Architecture & Packaging](https://go.vansh.nyc/gg) | Austin, TX +1 | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Commercial UI Software Engineer Intern](https://www.tesla.com/careers/search/job/285202) | Palo Alto, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
@@ -344,6 +345,7 @@
 - Samsung Semiconductor (1)
 - Silabs (1)
 - Skydio (1)
+- Systems Planning and Analysis (1)
 - Upscale AI (1)
 - Virtu Financial (1)
 - Atomic Semi (1)

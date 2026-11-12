@@ -7,7 +7,7 @@
   },
   "role": "Data Science Intern",
   "category": "data-science",
-  "apply_url": "https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881",
+  "apply_url": "https://go.vansh.nyc/1wF",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -18,7 +18,8 @@
       "country": "USA"
     },
     {
-      "city": "NYC",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -53,6 +54,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "id": "pinterest-sales-analytics-intern-2027-usa-2027",
+  "company": {
+    "name": "Pinterest",
+    "slug": "pinterest",
+    "career_page": "https://www.pinterestcareers.com/"
+  },
+  "role": "Sales Analytics Intern 2027 (USA)",
+  "category": "software-engineering",
+  "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214783",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "remote",
+  "locations": [],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-12",
+    "discovered": "2026-11-12",
+    "last_verified": "2026-11-12"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:ats"
+  ]
+}

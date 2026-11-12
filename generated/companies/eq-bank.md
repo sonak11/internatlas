@@ -6,8 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| EQ Bank | [Commercial Lending AI Engineer Intern](https://go.vansh.nyc/1ef) | Toronto | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | EQ Bank | [Software Engineer Intern](https://go.vansh.nyc/1eg) | Toronto | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
+| EQ Bank | [Commercial Lending AI Engineer Intern](https://go.vansh.nyc/1ef) | Toronto | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | EQ Bank | [Retail Lending AI Engineer Intern](https://go.vansh.nyc/1ee) | Toronto | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
