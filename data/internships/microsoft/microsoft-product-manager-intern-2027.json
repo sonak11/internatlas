@@ -7,11 +7,17 @@
   },
   "role": "Product Manager Intern",
   "category": "product",
-  "apply_url": "https://go.vansh.nyc/5Y",
+  "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
   "season": "summer",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Redmond",
+      "state": "WA",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -37,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-04",
+    "posted": "2026-08-03",
     "discovered": "2026-08-03",
-    "last_verified": "2026-11-11"
+    "last_verified": "2026-11-12"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

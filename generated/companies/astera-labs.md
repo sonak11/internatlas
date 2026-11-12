@@ -9,6 +9,7 @@
 | Astera Labs | [Advanced Design Verification Engineer Intern](https://go.vansh.nyc/Fb) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Applied AI Engineer Intern, Silicon Engineering](https://go.vansh.nyc/Fd) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Applied AI Intern, Non-Silicon](https://go.vansh.nyc/Fc) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| Astera Labs | [Cybersecurity Engineer Intern](https://go.vansh.nyc/1uY) | San Jose, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Data Analytics Intern](https://go.vansh.nyc/Ff) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Design Architecture Engineer Intern](https://go.vansh.nyc/Fe) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Design Engineer Intern](https://go.vansh.nyc/Fi) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
@@ -23,7 +24,10 @@
 | Astera Labs | [Firmware Engineer Intern](https://go.vansh.nyc/Fk) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Firmware Engineer Intern](https://go.vansh.nyc/1of) | Vancouver | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Firmware Engineer Intern Co-op](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739956005) | San Jose, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| Astera Labs | [Firmware Engineer Intern, DevSecOps](https://go.vansh.nyc/1uV) | San Jose, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
+| Astera Labs | [Firmware Engineer Intern, Leo](https://go.vansh.nyc/1uU) | San Jose, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Firmware Engineer Intern, Optical](https://go.vansh.nyc/Fn) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| Astera Labs | [Firmware Engineer Intern, SCO2](https://go.vansh.nyc/1uT) | San Jose, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Packaging Automation & Data Engineering Intern](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738127005) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Packaging Automation & Data Engineering Intern](https://go.vansh.nyc/Fo) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Physical Design Engineer Intern](https://go.vansh.nyc/Fq) | Toronto | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
@@ -33,4 +37,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [🛠 Data Engineering](../categories/data-engineering.md), [🎨 Design](../categories/design.md), [⚙️ Embedded](../categories/embedded.md), [🧭 Product](../categories/product.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🛠 Data Engineering](../categories/data-engineering.md), [🎨 Design](../categories/design.md), [⚙️ Embedded](../categories/embedded.md), [🧭 Product](../categories/product.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

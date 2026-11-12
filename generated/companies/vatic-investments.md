@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Vatic Investments | [AI Research Intern](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954) | NYC | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
+| Vatic Investments | [AI Research Intern](https://job-boards.greenhouse.io/vaticlabs/jobs/7205954) | NYC | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

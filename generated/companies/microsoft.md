@@ -11,6 +11,7 @@
 | Microsoft | [First-Year Explore Program Engineering Intern](https://go.vansh.nyc/199) | Redmond, WA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Product Manager Intern](https://go.vansh.nyc/hO) | Cambridge, MA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Product Manager Intern](https://go.vansh.nyc/5Y) | Remote | Remote | 2026-08-04 | Rolling | 🟢 Open | ❔ |
+| Microsoft | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) | Redmond, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Researcher Intern - Coreai](https://apply.careers.microsoft.com/careers/job/1970393557027387) | Redmond, WA +1 | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Security Assurance Intern](https://go.vansh.nyc/15H) | Redmond, WA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Security Research Intern](https://go.vansh.nyc/eB) | Redmond, WA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |

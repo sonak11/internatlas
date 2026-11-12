@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Ciena | [AI/ML Layout Engineering Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/AI-ML-Layout-Engineering-Intern--Winter-2027-_R032102) | Ottawa | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | Ciena | [ASIC Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750) | Ottawa | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | Ciena | [Services Business Intelligence & Analytics Intern](https://go.vansh.nyc/cx) | Montreal +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Ciena | [Services Business Intelligence & Analytics Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Montreal/Services-Business-Intelligence---Analytics-Intern_R031851) | Montreal +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
@@ -41,4 +42,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [🎨 Design](../categories/design.md), [⚙️ Embedded](../categories/embedded.md), [🔩 Hardware](../categories/hardware.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🎨 Design](../categories/design.md), [⚙️ Embedded](../categories/embedded.md), [🔩 Hardware](../categories/hardware.md), [🧠 Machine Learning](../categories/machine-learning.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

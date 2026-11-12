@@ -15,6 +15,8 @@
 | NBCUniversal | [Media Tech: Product & Engineering Intern](https://go.vansh.nyc/1oy) | New York, NY | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | NBCUniversal | [Product & Engineering Intern, Media Tech](https://go.vansh.nyc/1oF) | Universal City, CA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | NBCUniversal | [Product Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000153372229) | London | Onsite | 2026-10-04 | Rolling | 🟢 Open | ❔ |
+| NBCUniversal | [Software Engineer Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529) | Universal City, LA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| NBCUniversal | [Software Engineer Intern](https://go.vansh.nyc/1vv) | Universal City, CA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | NBCUniversal | [Software Engineering Intern](https://go.vansh.nyc/1oB) | Universal City, CA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | NBCUniversal | [Software Engineering Intern](https://go.vansh.nyc/1oA) | New York, NY | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | NBCUniversal | [Technology Intern, NBC News Group](https://go.vansh.nyc/1os) | New York, NY | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |

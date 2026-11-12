@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| TRC Companies | [GIS Intern](https://careers.trccompanies.com/jobs/28698?icims=1&lang=en-us) | Seattle, WA +5 | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | TRC Companies | [GIS Intern](https://careers.trccompanies.com/jobs/26961?icims=1) | Seattle, WA +5 | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | TRC Companies | [Safety Intern](https://careers.trccompanies.com/jobs/27074?icims=1) | Exton, PA | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | TRC Companies | [Software Engineer Intern](https://go.vansh.nyc/IM) | Calgary | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |

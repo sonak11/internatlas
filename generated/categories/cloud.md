@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**178** tracked · **132** open now
+**180** tracked · **131** open now
 
 ## Current openings
 
@@ -38,7 +38,6 @@
 | [Cambridge Consultants](generated/companies/cambridge-consultants.md) | [Cloud Software Engineer Intern](https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4988184101) | UK | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Compeer Financial](generated/companies/compeer-financial.md) | [Infrastructure Engineering Intern](https://go.vansh.nyc/Nd) | Lakeville, MN | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❌ |
 | [Corning](generated/companies/corning.md) | [HPC DevOps Engineer Intern, Science & Technology](https://go.vansh.nyc/1lY) | Corning, NY | Onsite | 2026-11-07 | Rolling | 🟢 Open | ❔ |
-| [Disney](generated/companies/disney.md) | [Software Engineer Intern, Pipeline Infrastructure](https://go.vansh.nyc/UA) | Vancouver | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [DotDash Meredith](generated/companies/dotdash-meredith.md) | [Cloud Platform Engineering Intern](https://go.vansh.nyc/GX) | Edmonton +1 | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [DRW](generated/companies/drw.md) | [Platform Engineer Intern](https://go.vansh.nyc/5p) | Chicago, IL | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
 | [Dynamic Catholic](generated/companies/dynamic-catholic.md) | [Software Developer Intern, Commerce Cloud](https://go.vansh.nyc/1eB) | Erlanger, KY | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
@@ -48,7 +47,6 @@
 | [GardaWorld](generated/companies/gardaworld.md) | [Infrastructure Engineer Intern](https://go.vansh.nyc/10Z) | Wayzata, MN | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [Garmin](generated/companies/garmin.md) | [IT DevOps Administrator Intern](https://go.vansh.nyc/1jp) | Olathe, KS | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [General Dynamics Mission Systems](generated/companies/general-dynamics-mission-systems.md) | [DevOps Engineer Intern](https://go.vansh.nyc/12S) | Pittsburgh, PA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❌ |
-| [GlobalFoundries](generated/companies/globalfoundries.md) | [Software Engineer Intern - Cloud Platform](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034) | Santa Clara, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [GM Financial](generated/companies/gm-financial.md) | [Cloud Engineer Intern](https://go.vansh.nyc/1hc) | Irving, TX | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Great American Insurance Company](generated/companies/great-american-insurance-company.md) | [Cloud Data Platform Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795) | Cincinnati, OH | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Great American Insurance Company](generated/companies/great-american-insurance-company.md) | [DevOps Developer Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826) | Cincinnati, OH | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
@@ -75,6 +73,8 @@
 | [LLNL](generated/companies/llnl.md) | [Critical Infrastructure Analysis Intern, Cyber and Critical Infrastructure Summer Institute](https://go.vansh.nyc/am) | Livermore, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [LPL Financial Holdings](generated/companies/lpl-financial-holdings.md) | [Platform Engineer Intern](https://go.vansh.nyc/QR) | Fort Mill, SC +2 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Mastercard](generated/companies/mastercard.md) | [Platform Engineering Intern](https://go.vansh.nyc/gm) | O'Fallon, MO | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| [McDonald's](generated/companies/mcdonald-s.md) | [Global Tech Infrastructure & Operations Intern](https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors) | Chicago, IL | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| [McDonald's](generated/companies/mcdonald-s.md) | [Global Tech Infrastructure & Operations Intern](https://go.vansh.nyc/1vz) | Chicago, IL | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [MDA](generated/companies/mda.md) | [Engineering Intern, DevOps](https://go.vansh.nyc/Rl) | Montreal | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Software Engineer Intern - Systems and Infrastructure - PhD](https://www.metacareers.com/jobs/945520495299801) | Seattle, WA +6 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Cloud & Distributed Backend](https://go.vansh.nyc/5L) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ✅ |
@@ -94,7 +94,6 @@
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Software Engineer Intern, Production Infrastructure](https://go.vansh.nyc/4t) | Seattle, WA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Peripheral](generated/companies/peripheral.md) | [Software Engineer Intern, Infrastructure](https://go.vansh.nyc/1ri) | Toronto | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [PETRONAS Canada](generated/companies/petronas-canada.md) | [Student Intern, Infrastructure Automation and Innovation](https://go.vansh.nyc/1lK) | Calgary | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
-| [Pilot Company](generated/companies/pilot-company.md) | [Program Intern, Cloud Operations](https://go.vansh.nyc/V0) | Knoxville, TN | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [IT Infrastructure & Cloud Engineering Intern](https://go.vansh.nyc/Rv) | San Diego, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Raft Company Website](generated/companies/raft-company-website.md) | [DevOps Engineering Intern](https://go.vansh.nyc/1jT) | McLean, VA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❌ |
 | [SailPoint](generated/companies/sailpoint.md) | [Software Engineer Intern - Platform Engines](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164) | Remote | Remote | 2026-10-07 | Rolling | 🟢 Open | ❔ |
@@ -154,10 +153,12 @@
 | [Autodesk](generated/companies/autodesk.md) | [Cloud Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400-3) | Montreal | Onsite | 2026-08-07 | Rolling | 🔴 Closed | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [Cloud Developer Intern - Interactive Graphics, Media & Entertainment](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400) | Montreal | Onsite | 2026-08-07 | Rolling | 🔴 Closed | ❔ |
 | [Crowe](generated/companies/crowe.md) | [ServiceNow Implementation Intern - ServiceNow Cloud Solutions](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/ServiceNow-Implementation-Intern_R-71036) | Chicago, IL | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
+| [Disney](generated/companies/disney.md) | [Software Engineer Intern, Pipeline Infrastructure](https://go.vansh.nyc/UA) | Vancouver | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❔ |
 | [Etched](generated/companies/etched.md) | [Infrastructure Intern](https://jobs.ashbyhq.com/Etched/e56469e3-7398-4d83-9fe3-3f8ab1b10468) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🔴 Closed | ❔ |
 | [Etched](generated/companies/etched.md) | [Infrastructure Intern](https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🔴 Closed | ❔ |
 | [Etched](generated/companies/etched.md) | [Infrastructure Intern](https://jobs.ashbyhq.com/Etched/65348db2-5658-41d0-a833-af222865d979) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🔴 Closed | ❔ |
 | [Gallup](generated/companies/gallup.md) | [DevOps Engineer Intern](https://go.vansh.nyc/N5) | Omaha, NE | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
+| [GlobalFoundries](generated/companies/globalfoundries.md) | [Software Engineer Intern - Cloud Platform](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineering-Intern--Cloud-Platform--Summer-2027-_JR-2604034) | Santa Clara, CA | Onsite | 2026-10-21 | Rolling | 🔴 Closed | ❔ |
 | [Gordon Food Service](generated/companies/gordon-food-service.md) | [Cloud DevOps Intern](https://go.vansh.nyc/1cv) | Atlanta, GA | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | [GuidePoint Security](generated/companies/guidepoint-security.md) | [Cloud Infrastructure Intern](https://go.vansh.nyc/He) | USA | Onsite | 2026-10-08 | Rolling | 🔴 Closed | ❔ |
 | [Hitachi Energy](generated/companies/hitachi-energy.md) | [Cloud & Data Specialist Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/London-London-United-Kingdom/Intern---Cloud---Data-Specialist--67651-_R0138533) | London | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |
@@ -174,6 +175,7 @@
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | Washington | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❌ |
 | [Panasonic Holdings](generated/companies/panasonic-holdings.md) | [Back-End Cloud Developer Intern](https://careers.na.panasonic.com/jobs/50754?icims=1) | Bridgeton, MO | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Phlair](generated/companies/phlair.md) | [Working Student Intern - Control Team - Systems & Data Infrastructure](https://jobs.ashbyhq.com/phlair/8021960b-1e19-406b-99c2-bac26fbe2c86/application?embed=true) | Edmonton +1 | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
+| [Pilot Company](generated/companies/pilot-company.md) | [Program Intern, Cloud Operations](https://go.vansh.nyc/V0) | Knoxville, TN | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Poshmark](generated/companies/poshmark.md) | [Cloud Platform Engineer Intern, Growth](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) | Redwood City, CA | Onsite | 2026-04-20 | Rolling | 🔴 Closed | ❌ |
 | [QTS](generated/companies/qts.md) | [Data Center Infrastructure Management Intern - DCIM](https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Suwanee-GA/Summer-2027-Internship--Data-Center-Infrastructure-Management--DCIM-_R2026-1892) | Ashburn, VA +1 | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Software Developer Intern - Digital Engine Services - Ground Cloud Software Developer](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-MD--1000-Blvd-Marie-Victorin--MD-BLDG/Stage---Hiver-2027---Service-Numriques-pour-les-Moteurs---Dveloppeur-logiciel--Internship---Winter-2027-Digital-Engine-Services--DES----Ground-cloud-software-developer_01874389) | Longueuil | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
@@ -205,6 +207,7 @@
 - Juniper Networks (2)
 - Keysight Technologies (2)
 - LLNL (2)
+- McDonald's (2)
 - Microsoft (2)
 - Optimum (Altice USA) (2)
 - The Toro Company (2)
@@ -216,7 +219,6 @@
 - Cambridge Consultants (1)
 - Compeer Financial (1)
 - Corning (1)
-- Disney (1)
 - DotDash Meredith (1)
 - DRW (1)
 - Dynamic Catholic (1)
@@ -224,7 +226,6 @@
 - GardaWorld (1)
 - Garmin (1)
 - General Dynamics Mission Systems (1)
-- GlobalFoundries (1)
 - GM Financial (1)
 - Great American Insurance Group (1)
 - GreatAmerica Financial Services (1)
@@ -253,7 +254,6 @@
 - Oceaneering (1)
 - Peripheral (1)
 - PETRONAS Canada (1)
-- Pilot Company (1)
 - Qualcomm (1)
 - Raft Company Website (1)
 - SailPoint (1)
@@ -271,7 +271,9 @@
 - Air Products (1)
 - Allegion (1)
 - Crowe (1)
+- Disney (1)
 - Gallup (1)
+- GlobalFoundries (1)
 - Gordon Food Service (1)
 - GuidePoint Security (1)
 - Hitachi Energy (1)
@@ -283,6 +285,7 @@
 - Palantir (1)
 - Panasonic Holdings (1)
 - Phlair (1)
+- Pilot Company (1)
 - Poshmark (1)
 - QTS (1)
 - RTX (1)

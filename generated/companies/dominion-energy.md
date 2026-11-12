@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Dominion Energy | [Electric Transmission Asset Analyst Intern - Digital Solutions Team](https://go.vansh.nyc/cc) | Glen Allen, VA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| Dominion Energy | [Electric Transmission Asset Analyst Intern - Digital Solutions Team](https://go.vansh.nyc/cc) | Glen Allen, VA | Onsite | 2026-10-19 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

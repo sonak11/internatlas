@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**217** tracked · **116** open now
+**218** tracked · **117** open now
 
 ## Current openings
 
@@ -97,6 +97,7 @@
 | [SemiAnalysis](generated/companies/semianalysis.md) | [Data Engineer Intern](https://go.vansh.nyc/1rv) | Chicago, IL | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Shure](generated/companies/shure.md) | [Data Engineer Intern](https://careersus-shure.icims.com/jobs/4982/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Simon Property Group](generated/companies/simon-property-group.md) | [Data Engineering Intern](https://go.vansh.nyc/1ft) | Indianapolis, IN | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
+| [State of Wisconsin Investment Board](generated/companies/state-of-wisconsin-investment-board.md) | [Data Analytics Engineering Intern](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330) | Madison, WI | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [State of Wisconsin Investment Board](generated/companies/state-of-wisconsin-investment-board.md) | [Data Analytics Engineering Intern](https://go.vansh.nyc/1uG) | Madison, WI | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Systems Planning and Analysis](generated/companies/systems-planning-and-analysis.md) | [Data Engineer Intern](https://spa.jibeapply.com/jobs/23698?icims=1) | Alexandria, VA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Systems Planning and Analysis](generated/companies/systems-planning-and-analysis.md) | [Data Engineer Intern](https://go.vansh.nyc/128) | Alexandria, VA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
@@ -263,6 +264,7 @@
 - POET (2)
 - Riot Games (2)
 - Shure (2)
+- State of Wisconsin Investment Board (2)
 - Veeam Software (2)
 - 7-Eleven (2)
 - American Family Insurance Group (2)
@@ -301,7 +303,6 @@
 - Raft Company Website (1)
 - SemiAnalysis (1)
 - Simon Property Group (1)
-- State of Wisconsin Investment Board (1)
 - Tenet Healthcare (1)
 - Trace3 (1)
 - Acxiom (1)

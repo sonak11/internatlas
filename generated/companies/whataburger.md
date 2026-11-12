@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Whataburger | [Data Scientist Intern](https://go.vansh.nyc/Ch) | San Antonio, TX | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| Whataburger | [Data Scientist Intern](https://go.vansh.nyc/Ch) | San Antonio, TX | Onsite | 2026-10-14 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

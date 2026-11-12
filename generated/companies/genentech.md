@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Genentech | [Summer Intern - Digital, AI, and Clinical Outcome Assessments](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790) | South SF | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | Genentech | [Applied GenAI Scientist Intern - GenAI Applications](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---GenAI-Applications_202610-125229) | South SF | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | Genentech | [Data Science & Machine Learning Intern - Agentic AI Discovery & Prototyping](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Data-Science---Machine-Learning_202609-124657) | South SF | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 | Genentech | [Digital Sciences Intern - Product Technical Development](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Product-Technical-Development---Digital-Sciences-Focus_202609-123436) | South SF | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
@@ -15,4 +16,4 @@
 
 ## Related
 
-Browse more roles in: [🧠 Machine Learning](../categories/machine-learning.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🧠 Machine Learning](../categories/machine-learning.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)
