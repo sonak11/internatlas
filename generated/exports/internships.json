@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-12",
-  "count": 10489,
+  "count": 10502,
   "internships": [
     {
       "schema_version": "1.0",
@@ -45708,6 +45708,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "arcesium-technology-operations-intern-2027",
+      "company": {
+        "name": "Arcesium",
+        "slug": "arcesium"
+      },
+      "role": "Technology Operations Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1vQ",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-12",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "arcfield-software-engineer-intern-on-call-2027",
       "company": {
         "name": "Arcfield",
@@ -47433,7 +47485,7 @@
         "discovered": "2026-11-10",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -47485,7 +47537,7 @@
         "discovered": "2026-11-10",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -51216,7 +51268,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -52405,7 +52457,7 @@
         "discovered": "2026-10-23",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -56615,6 +56667,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "austal-usa-cybersecurity-intern-2027",
+      "company": {
+        "name": "Austal USA",
+        "slug": "austal-usa"
+      },
+      "role": "Cybersecurity Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/1vR",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mobile",
+          "state": "AL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-12",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -83743,7 +83847,7 @@
         "discovered": "2026-10-14",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -83846,7 +83950,7 @@
         "discovered": "2026-10-31",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -83949,7 +84053,7 @@
         "discovered": "2026-10-14",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -84000,7 +84104,7 @@
         "discovered": "2026-10-31",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103086,7 +103190,7 @@
         "discovered": "2026-10-28",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -148097,7 +148201,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "dreamworks-animation-software-engineer-intern-2027-be5293",
+      "id": "dreamworks-animation-software-engineer-intern-2027",
       "company": {
         "name": "DreamWorks Animation",
         "slug": "dreamworks-animation"
@@ -148111,58 +148215,6 @@
       "locations": [
         {
           "city": "NYC",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-11-09",
-        "discovered": "2026-11-10",
-        "last_verified": "2026-11-12"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "dreamworks-animation-software-engineer-intern-2027",
-      "company": {
-        "name": "DreamWorks Animation",
-        "slug": "dreamworks-animation"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160659379",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Universal City",
-          "state": "LA",
           "country": "USA"
         }
       ],
@@ -192805,7 +192857,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -194776,7 +194828,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -194828,7 +194880,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -194996,7 +195048,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -195048,7 +195100,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -195792,7 +195844,7 @@
         "discovered": "2026-10-13",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -198098,7 +198150,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -198212,7 +198264,7 @@
         "discovered": "2026-11-01",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -217880,6 +217932,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "hewlett-packard-enterprise-research-associate-intern-systems-architecture-lab-2027",
+      "company": {
+        "name": "Hewlett Packard Enterprise",
+        "slug": "hewlett-packard-enterprise"
+      },
+      "role": "Research Associate Intern, Systems Architecture Lab",
+      "category": "research",
+      "apply_url": "https://go.vansh.nyc/1w1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Milpitas",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-12",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "hewlett-packard-enterprise-software-development-intern-ai-assisted-development-2027",
       "company": {
         "name": "Hewlett Packard Enterprise",
@@ -227974,7 +228078,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -228025,7 +228129,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -251770,7 +251874,7 @@
         "discovered": "2026-11-02",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -252402,7 +252506,7 @@
         "discovered": "2026-11-02",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -252610,7 +252714,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -252727,7 +252831,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "jm-family-enterprises-software-engineer-intern-2027-ea56d3",
+      "id": "jm-family-enterprises-software-engineer-intern-2027",
       "company": {
         "name": "JM Family Enterprises",
         "slug": "jm-family-enterprises"
@@ -252768,58 +252872,6 @@
       },
       "dates": {
         "posted": "2026-11-05",
-        "discovered": "2026-11-05",
-        "last_verified": "2026-11-12"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "jm-family-enterprises-software-engineer-intern-2027",
-      "company": {
-        "name": "JM Family Enterprises",
-        "slug": "jm-family-enterprises"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/1bt",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Deerfield Beach",
-          "state": "FL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-11-02",
         "discovered": "2026-10-29",
         "last_verified": "2026-11-12"
       },
@@ -277684,6 +277736,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "lightmatter-package-layout-automation-intern-2027",
+      "company": {
+        "name": "Lightmatter",
+        "slug": "lightmatter"
+      },
+      "role": "Package Layout Automation Intern",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/lightmatter/jobs/5473740008",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-12",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "lightmatter-photonics-layout-intern-2027",
       "company": {
         "name": "Lightmatter",
@@ -285413,7 +285517,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -285464,7 +285568,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -331062,7 +331166,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -356895,7 +356999,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "panera-bread-data-science-ai-analytics-intern-2027",
+      "id": "panera-bread-data-science-ai-analytics-intern-2027-11d447",
       "company": {
         "name": "Panera Bread",
         "slug": "panera-bread"
@@ -356943,6 +357047,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "panera-bread-data-science-ai-analytics-intern-2027",
+      "company": {
+        "name": "Panera Bread",
+        "slug": "panera-bread"
+      },
+      "role": "Data Science & AI Analytics Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1vS",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Newton",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-11",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -365768,7 +365924,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -386925,7 +387081,7 @@
         "discovered": "2026-11-08",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -393454,6 +393610,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rhoda-ai-research-intern-2027",
+      "company": {
+        "name": "Rhoda AI",
+        "slug": "rhoda-ai"
+      },
+      "role": "Research Intern",
+      "category": "research",
+      "apply_url": "https://go.vansh.nyc/1vV",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mountain View",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-12",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -411992,6 +412200,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-electrical-engineer-intern-firmware-2027",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Electrical Engineer Intern - Firmware",
+      "category": "embedded",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Fort Wayne",
+          "state": "IN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-11",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-electrical-engineer-intern-rdp-2027",
       "company": {
         "name": "RTX",
@@ -416924,6 +417186,60 @@
         "last_verified": "2026-10-17"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-software-engineer-intern-2027-7542cf",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "West Valley City",
+          "state": "UT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-11",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-12"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -433208,6 +433524,214 @@
     },
     {
       "schema_version": "1.0",
+      "id": "servicenow-associate-ai-engineering-intern-cloud-security-automation-2027",
+      "company": {
+        "name": "ServiceNow",
+        "slug": "servicenow"
+      },
+      "role": "Associate AI Engineering Intern, Cloud Security Automation",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1vZ",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-12",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "servicenow-associate-detection-engineering-intern-2027",
+      "company": {
+        "name": "ServiceNow",
+        "slug": "servicenow"
+      },
+      "role": "Associate Detection Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1w0",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Kirkland",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-12",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "servicenow-associate-information-security-engineer-intern-2027",
+      "company": {
+        "name": "ServiceNow",
+        "slug": "servicenow"
+      },
+      "role": "Associate Information Security Engineer Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/1vY",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-12",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "servicenow-associate-security-engineering-automation-intern-2027",
+      "company": {
+        "name": "ServiceNow",
+        "slug": "servicenow"
+      },
+      "role": "Associate Security Engineering & Automation Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/1vX",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-12",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "servicenow-associate-software-engineer-intern-ai-engineering-2027",
       "company": {
         "name": "ServiceNow",
@@ -434735,6 +435259,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "shive-hattery-software-developer-intern-2027",
+      "company": {
+        "name": "Shive-Hattery",
+        "slug": "shive-hattery"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1vU",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Iowa City",
+          "state": "IA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-11",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -440012,6 +440588,61 @@
         "discovered": "2026-10-30",
         "last_verified": "2026-11-12"
       },
+      "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sk-hynix-embedded-software-engineer-intern-2027",
+      "company": {
+        "name": "SK hynix",
+        "slug": "sk-hynix"
+      },
+      "role": "Embedded Software Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-12",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-12"
+      },
       "status": "open",
       "tags": [
         "auto-ingested",
@@ -440329,6 +440960,58 @@
       "dates": {
         "posted": "2026-08-31",
         "discovered": "2026-10-26",
+        "last_verified": "2026-11-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sk-hynix-memory-solutions-america-inc-embedded-software-engineer-intern-2027",
+      "company": {
+        "name": "SK hynix memory solutions America Inc.",
+        "slug": "sk-hynix-memory-solutions-america-inc"
+      },
+      "role": "Embedded Software Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://go.vansh.nyc/1vW",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-12",
+        "discovered": "2026-11-12",
         "last_verified": "2026-11-12"
       },
       "status": "open",
@@ -454155,6 +454838,63 @@
     },
     {
       "schema_version": "1.0",
+      "id": "stepstone-group-ai-quant-analyst-intern-2027",
+      "company": {
+        "name": "StepStone Group",
+        "slug": "stepstone-group"
+      },
+      "role": "AI Quant Analyst Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1vT",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "La Jolla",
+          "state": "CA",
+          "country": "USA"
+        },
+        {
+          "city": "San Diego",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-11",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-12"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "stepstone-group-ai-quant-summer-analyst-intern-2027",
       "company": {
         "name": "StepStone Group",
@@ -457219,7 +457959,7 @@
         "discovered": "2026-11-06",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -461967,7 +462707,7 @@
         "discovered": "2026-11-07",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -462026,7 +462766,7 @@
         "discovered": "2026-11-07",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -462083,7 +462823,7 @@
         "discovered": "2026-11-06",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -462514,7 +463254,7 @@
         "discovered": "2026-11-08",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -462672,7 +463412,7 @@
         "discovered": "2026-11-08",
         "last_verified": "2026-11-12"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -551206,7 +551946,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "wellmark-software-engineer-intern-2027-101547",
+      "id": "wellmark-software-engineer-intern-2027",
       "company": {
         "name": "Wellmark",
         "slug": "wellmark"
@@ -551247,58 +551987,6 @@
       },
       "dates": {
         "posted": "2026-09-15",
-        "discovered": "2026-09-16",
-        "last_verified": "2026-11-12"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "wellmark-software-engineer-intern-2027",
-      "company": {
-        "name": "Wellmark",
-        "slug": "wellmark"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Des Moines",
-          "state": "IA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-11",
         "discovered": "2026-09-11",
         "last_verified": "2026-11-12"
       },

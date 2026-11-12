@@ -15,7 +15,6 @@
 | DreamWorks Animation | [Media Tech: Data – AI & Machine Learning Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160649935) | Universal City, LA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | DreamWorks Animation | [Media Tech: Product & Engineering Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160652809) | NYC | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | DreamWorks Animation | [Software Engineer Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160659459) | NYC | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
-| DreamWorks Animation | [Software Engineer Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160659379) | Universal City, LA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | DreamWorks Animation | [Streaming Platforms – Product Management Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160661249) | NYC | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | DreamWorks Animation | [Studio Operations – Data Analytics Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160648109) | Universal City, LA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 

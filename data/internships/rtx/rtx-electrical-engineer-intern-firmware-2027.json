@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "wellmark-software-engineer-intern-2027-101547",
+  "id": "rtx-electrical-engineer-intern-firmware-2027",
   "company": {
-    "name": "Wellmark",
-    "slug": "wellmark"
+    "name": "RTX",
+    "slug": "rtx"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.smartrecruiters.com/WellmarkInc/744000149684819",
+  "role": "Electrical Engineer Intern - Firmware",
+  "category": "embedded",
+  "apply_url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Des Moines",
-      "state": "IA",
+      "city": "Fort Wayne",
+      "state": "IN",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-15",
-    "discovered": "2026-09-16",
+    "posted": "2026-11-11",
+    "discovered": "2026-11-12",
     "last_verified": "2026-11-12"
   },
   "status": "open",

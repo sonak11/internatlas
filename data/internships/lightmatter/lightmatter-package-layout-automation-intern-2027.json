@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "dreamworks-animation-software-engineer-intern-2027-be5293",
+  "id": "lightmatter-package-layout-automation-intern-2027",
   "company": {
-    "name": "DreamWorks Animation",
-    "slug": "dreamworks-animation"
+    "name": "Lightmatter",
+    "slug": "lightmatter"
   },
-  "role": "Software Engineer Intern",
+  "role": "Package Layout Automation Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000160659459",
+  "apply_url": "https://boards.greenhouse.io/lightmatter/jobs/5473740008",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Mountain View",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -39,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-09",
-    "discovered": "2026-11-10",
+    "posted": "2026-11-12",
+    "discovered": "2026-11-12",
     "last_verified": "2026-11-12"
   },
   "status": "open",
