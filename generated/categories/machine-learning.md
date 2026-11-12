@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**496** tracked · **343** open now
+**496** tracked · **342** open now
 
 ## Current openings
 
@@ -102,7 +102,6 @@
 | [General Motors](generated/companies/general-motors.md) | [Machine Learning Engineer Intern - AV/AI Platform](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--AV-AI-Platform_JR-202621695) | Sunnyvale, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Machine Learning Engineer Intern, AV/AI Platform](https://go.vansh.nyc/1sp) | Sunnyvale, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Machine Learning Engineer Intern, Embodied AI](https://go.vansh.nyc/1rQ) | Sunnyvale, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
-| [General Motors](generated/companies/general-motors.md) | [Research and Development Intern, AI/Machine Learning](https://go.vansh.nyc/8d) | Mountain View, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Software Engineer Intern - Machine Learning Engineer - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034) | Sunnyvale, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [GRITT ROBOTICS INC](generated/companies/gritt-robotics-inc.md) | [ML & Cloud Infrastructure Engineer Intern](https://go.vansh.nyc/54) | South San Francisco, CA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [Guardian Life](generated/companies/guardian-life.md) | [AI & Machine Learning Intern, Digital & Technology](https://go.vansh.nyc/1cW) | New York, NY +2 | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
@@ -410,6 +409,7 @@
 | [General Motors](generated/companies/general-motors.md) | [AI/Machine Learning Intern - Research and Development](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---AI-Machine-Learning_JR-202621620) | Mountain View, CA | Onsite | 2026-10-12 | Rolling | 🔴 Closed | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Machine Learning Intern - Autonomous Vehicles - Software Validation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--PhD-_JR-202621649) | Sunnyvale, CA | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Research and Development Intern - Research & Development: AI/ML](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2026-Fall-Intern---Research---Development--AI-ML_JR-202612795) | Mountain View, CA +1 | Onsite | 2026-06-12 | Rolling | 🔴 Closed | ❔ |
+| [General Motors](generated/companies/general-motors.md) | [Research and Development Intern, AI/Machine Learning](https://go.vansh.nyc/8d) | Mountain View, CA | Onsite | 2026-10-12 | Rolling | 🔴 Closed | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Research and Development Intern, Machine Learning for Automation](https://go.vansh.nyc/8c) | Warren, MI | Onsite | 2026-10-12 | Rolling | 🔴 Closed | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Summer Intern - Research and Development - Machine Learning for Automation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724) | Warren, MI | Onsite | 2026-10-12 | Rolling | 🔴 Closed | ❔ |
 | [Genesis Molecular AI](generated/companies/genesis-molecular-ai.md) | [Machine Learning Research Intern](https://jobs.ashbyhq.com/genesis-molecular-ai/42fc0631-3f81-481a-b496-daa875c9e92e/application?embed=true) | SF +1 | Onsite | 2026-09-24 | Rolling | 🔴 Closed | ❔ |

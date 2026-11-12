@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**180** tracked · **129** open now
+**179** tracked · **128** open now
 
 ## Current openings
 
@@ -73,7 +73,6 @@
 | [LPL Financial Holdings](generated/companies/lpl-financial-holdings.md) | [Platform Engineer Intern](https://go.vansh.nyc/QR) | Fort Mill, SC +2 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Mastercard](generated/companies/mastercard.md) | [Platform Engineering Intern](https://go.vansh.nyc/gm) | O'Fallon, MO | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [McDonald's](generated/companies/mcdonald-s.md) | [Global Tech Infrastructure & Operations Intern](https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors) | Chicago, IL | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
-| [McDonald's](generated/companies/mcdonald-s.md) | [Global Tech Infrastructure & Operations Intern](https://go.vansh.nyc/1vz) | Chicago, IL | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [MDA](generated/companies/mda.md) | [Engineering Intern, DevOps](https://go.vansh.nyc/Rl) | Montreal | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Software Engineer Intern - Systems and Infrastructure - PhD](https://www.metacareers.com/jobs/945520495299801) | Seattle, WA +6 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Cloud & Distributed Backend](https://go.vansh.nyc/5L) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ✅ |
@@ -207,7 +206,6 @@
 - Juniper Networks (2)
 - Keysight Technologies (2)
 - LLNL (2)
-- McDonald's (2)
 - Microsoft (2)
 - Optimum (Altice USA) (2)
 - The Toro Company (2)
@@ -241,6 +239,7 @@
 - Kinaxis (1)
 - LPL Financial Holdings (1)
 - Mastercard (1)
+- McDonald's (1)
 - MDA (1)
 - Meta (1)
 - MITRE (1)

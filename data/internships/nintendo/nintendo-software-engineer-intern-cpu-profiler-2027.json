@@ -5,9 +5,9 @@
     "name": "Nintendo",
     "slug": "nintendo"
   },
-  "role": "Software Engineer Intern, CPU Profiler",
+  "role": "Software Engineer Intern - CPU Profiler",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/12l",
+  "apply_url": "https://careers.nintendo.com/?gh_jid=4469762009",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -47,6 +49,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

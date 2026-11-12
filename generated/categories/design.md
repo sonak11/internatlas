@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**268** tracked · **142** open now
+**267** tracked · **140** open now
 
 ## Current openings
 
@@ -50,10 +50,8 @@
 | [General Motors](generated/companies/general-motors.md) | [AV Sensor Design, Release and Integration Intern](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993) | Warren, MI | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Circuit Design Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Circuit-Design-Intern--Master-s-or-PhD--Summer-2027-_JR-2604363) | Austin, TX | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [CPU IP Design & Verification Intern - RISC-V Processor Development](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604040) | Austin, TX +1 | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
-| [GlobalFoundries](generated/companies/globalfoundries.md) | [Design Verification Engineer Intern](https://go.vansh.nyc/1qc) | Plano, TX | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
-| [GlobalFoundries](generated/companies/globalfoundries.md) | [Design Verification Engineer Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024) | Richardson, TX | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Design Verification Engineer Intern](https://go.vansh.nyc/1ba) | Richardson, TX | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
-| [GlobalFoundries](generated/companies/globalfoundries.md) | [Design Verification Engineer Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604022) | Plano, TX | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| [GlobalFoundries](generated/companies/globalfoundries.md) | [Design Verification Engineer Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024) | Richardson, TX | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Foundation IP Design Verification Intern](https://go.vansh.nyc/CM) | Santa Clara, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Foundation IP Design Verification Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Foundation-IP-Design-Verification-Intern--Summer-2027-_JR-2604356) | Santa Clara, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [VLSI Design Verification Intern](https://go.vansh.nyc/GS) | Fort Collins, CO | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
@@ -177,6 +175,7 @@
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [CPU IP Design & Verification Intern - RISC-V Processor Development](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604042) | Austin, TX +1 | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [CPU IP Design & Verification Intern, RISC-V Processor Development](https://go.vansh.nyc/hm) | Austin, TX +1 | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Design Application Engineering Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Design-Application-Engineering-Intern--Summer-2027-_JR-2604221) | Santa Clara, CA | Onsite | 2026-09-25 | Rolling | 🔴 Closed | ❔ |
+| [GlobalFoundries](generated/companies/globalfoundries.md) | [Design Verification Engineer Intern](https://go.vansh.nyc/1qc) | Plano, TX | Onsite | 2026-11-10 | Rolling | 🔴 Closed | ❔ |
 | [Gumloop](generated/companies/gumloop.md) | [Design Engineer Intern](https://jobs.ashbyhq.com/Gumloop/dcdc0658-b3fd-44cd-b0cf-4016c9513d40/application?embed=true) | SF | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
 | [Heron Power](generated/companies/heron-power.md) | [Electronics Design Engineer Intern](http://jobs.ashbyhq.com/heron-power/28af5d2d-bd93-4681-9422-05d17c3437eb/application) | Santa Cruz, CA | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
 | [Heron Power](generated/companies/heron-power.md) | [Electronics Design Engineer Intern](http://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b/application) | Santa Cruz, CA | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
@@ -284,8 +283,8 @@
 - Qualcomm (15)
 - Qorvo (12)
 - Astera Labs (11)
-- GlobalFoundries (11)
 - Micron Technology (11)
+- GlobalFoundries (10)
 - Figma (8)
 - NXP Semiconductors (8)
 - NVIDIA (7)

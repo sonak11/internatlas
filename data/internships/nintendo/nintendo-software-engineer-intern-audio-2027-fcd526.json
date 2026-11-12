@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "globalfoundries-design-verification-engineer-intern-2027-cbca87",
+  "id": "nintendo-software-engineer-intern-audio-2027-fcd526",
   "company": {
-    "name": "GlobalFoundries",
-    "slug": "globalfoundries"
+    "name": "Nintendo",
+    "slug": "nintendo"
   },
-  "role": "Design Verification Engineer Intern",
-  "category": "design",
-  "apply_url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Design-Verification-Engineer-Intern--Summer-2027-_JR-2604024",
+  "role": "Software Engineer Intern, Audio",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/12n",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Richardson",
-      "state": "TX",
+      "city": "Redmond",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-02",
-    "discovered": "2026-11-10",
+    "posted": "2026-10-28",
+    "discovered": "2026-11-12",
     "last_verified": "2026-11-12"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

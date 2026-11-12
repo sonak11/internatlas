@@ -5,9 +5,9 @@
     "name": "Nintendo",
     "slug": "nintendo"
   },
-  "role": "Software Engineer Intern, Audio",
+  "role": "Software Engineer Intern - Audio",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/12n",
+  "apply_url": "https://careers.nintendo.com/?gh_jid=4470048009",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -47,6 +49,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

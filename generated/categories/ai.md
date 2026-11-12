@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**950** tracked · **487** open now
+**952** tracked · **483** open now
 
 ## Current openings
 
@@ -187,6 +187,7 @@
 | [General Motors](generated/companies/general-motors.md) | [Summer Intern - AI & Hardware Analytics - Adpt](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) | Milford, MI +1 | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Summer Intern - Onboard Autonomy - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135) | Sunnyvale, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [GenMD](generated/companies/genmd.md) | [Member of Technical Staff Intern, Applied AI](https://go.vansh.nyc/1bK) | Palo Alto, CA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
+| [GIRO](generated/companies/giro.md) | [Software Development, Quality Assurance and AI Intern](https://go.vansh.nyc/1wi) | Montreal | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [AI Processor Hardware/Software Integration Engineer Intern](https://go.vansh.nyc/1uH) | Richardson, TX | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [AI Processor Hardware/Software Integration Engineer Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028) | Richardson, TX | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [AI Software Intern](https://go.vansh.nyc/dN) | Santa Clara, CA +1 | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
@@ -207,6 +208,7 @@
 | [Hitachi](generated/companies/hitachi.md) | [Research Intern - Knowledge Engineering & Generative AI](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Santa-Clara-California-United-States/Research-Intern--Knowledge-Engineering---Generative-AI_R0148396) | Santa Clara, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [HNTB](generated/companies/hntb.md) | [AI Business Process Developer Intern](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865) | Austin, TX | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [HNTB](generated/companies/hntb.md) | [AI Business Process Developer Intern](https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1) | Austin, TX | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
+| [Honeywell Aerospace](generated/companies/honeywell-aerospace.md) | [Software AI Intern](https://go.vansh.nyc/1wr) | USA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❌ |
 | [HUB International](generated/companies/hub-international.md) | [AI Engineering Intern](https://go.vansh.nyc/1vr) | Chicago, IL | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [ICF International](generated/companies/icf-international.md) | [AI Engineer Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1) | Reston, VA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❌ |
 | [Ingredion](generated/companies/ingredion.md) | [AI & Data Scientist Intern](https://go.vansh.nyc/1dn) | Westchester, IL | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
@@ -394,10 +396,6 @@
 | [StepStone Group](generated/companies/stepstone-group.md) | [AI Intern](https://boards.greenhouse.io/embed/job_app?token=8096268) | La Jolla | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [StepStone Group](generated/companies/stepstone-group.md) | [AI Quant Analyst Intern](https://go.vansh.nyc/1vT) | La Jolla, CA +1 | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [StepStone Group](generated/companies/stepstone-group.md) | [AI Quant Summer Analyst Intern](https://boards.greenhouse.io/embed/job_app?token=8368989) | La Jolla | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
-| [T-Mobile](generated/companies/t-mobile.md) | [AI Engineering Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381194) | Bellevue, WA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
-| [T-Mobile](generated/companies/t-mobile.md) | [AI Engineering Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381198) | Bellevue, WA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
-| [T-Mobile](generated/companies/t-mobile.md) | [AI Engineering Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765) | Bellevue, WA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
-| [T-Mobile](generated/companies/t-mobile.md) | [AI Engineering Intern](https://go.vansh.nyc/1kC) | Bellevue, WA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [T-Mobile](generated/companies/t-mobile.md) | [AI Strategist Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279) | Bellevue, WA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [T-Mobile](generated/companies/t-mobile.md) | [AI Strategist Intern](https://go.vansh.nyc/1l9) | Bellevue, WA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [T-Mobile](generated/companies/t-mobile.md) | [Associate AI Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492) | Frisco, TX +1 | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
@@ -491,8 +489,6 @@
 | [xAI](generated/companies/xai.md) | [Spring 2027 Business Operations Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255113007) | New York, NY | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [xAI](generated/companies/xai.md) | [Summer 2027 Business Operations Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255116007) | New York, NY | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Yotta Labs](generated/companies/yotta-labs.md) | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | Remote | Remote | 2026-08-02 | Rolling | 🟢 Open | ❔ |
-| [Zoetis](generated/companies/zoetis.md) | [AI Architecture, Enablement & Tools Intern, AI Capabilities](https://go.vansh.nyc/1ph) | USA +1 | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
-| [Zoetis](generated/companies/zoetis.md) | [AI Assistant Development Intern](https://go.vansh.nyc/1oP) | Parsippany, NJ | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [Zoox](generated/companies/zoox.md) | [AI Validation and Benchmarking Engineer Intern](https://go.vansh.nyc/8X) | Foster City, CA | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Zoox](generated/companies/zoox.md) | [AI Workflows Intern [Summer 2027]](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1) | Foster City, CA | Onsite | 2026-11-07 | Rolling | 🟢 Open | ❔ |
 | [1X](generated/companies/1x.md) | [AI Residency Intern](https://jobs.ashbyhq.com/1x/5b2b4c73-13b5-46ca-8467-8024741a4b57/application) | San Carlos, CA | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
@@ -878,6 +874,10 @@
 | [Space Dynamics Laboratory](generated/companies/space-dynamics-laboratory.md) | [Software Engineer Intern - AI Enabled Software Development](https://spacedynamicslaboratory.applytojob.com/apply/82GBzTsnBq/Software-Engineering-Intern-AI-Enabled-Software-Development) | North Logan, UT | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [SPREEAI](generated/companies/spreeai.md) | [Software Engineer Intern, AI Infrastructure / Training / Inference](https://ats.rippling.com/en-GB/spreeai/jobs/d34aed29-7a11-4e37-b5bc-e9317f82f0b1) | San Francisco, CA | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ✅ |
 | [SS&C](generated/companies/ss-c.md) | [Healthcare AI & Automation Intern](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Remote---Florida-US/Healthcare-AI---Automation-Intern_R45126) | Florida | Onsite | 2026-07-22 | Rolling | 🔴 Closed | ❔ |
+| [T-Mobile](generated/companies/t-mobile.md) | [AI Engineering Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381194) | Bellevue, WA | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
+| [T-Mobile](generated/companies/t-mobile.md) | [AI Engineering Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381198) | Bellevue, WA | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
+| [T-Mobile](generated/companies/t-mobile.md) | [AI Engineering Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765) | Bellevue, WA | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
+| [T-Mobile](generated/companies/t-mobile.md) | [AI Engineering Intern](https://go.vansh.nyc/1kC) | Bellevue, WA | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
 | [T-Mobile](generated/companies/t-mobile.md) | [Associate AI Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484) | Overland Park, KS | Onsite | 2026-10-29 | Rolling | 🔴 Closed | ❔ |
 | [Tencent](generated/companies/tencent.md) | [AI Agent Research & Application Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/AI-Agent-Research---Application-Intern_R106432-1) | London | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
 | [Tencent](generated/companies/tencent.md) | [AI Product Manager Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Product-manager-Intern_R107654-1) | London | Onsite | 2026-06-27 | Rolling | 🔴 Closed | ❔ |
@@ -957,6 +957,8 @@
 | [Zebra Technologies](generated/companies/zebra-technologies.md) | [Software/AI Engineer Intern - Handheld Mobile Computers](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632) | Holtsville, NY | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 | [Zebra Technologies](generated/companies/zebra-technologies.md) | [Software/AI Engineer Intern, Handheld Mobile Computers](https://go.vansh.nyc/19p) | Holtsville, NY | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 | [Zimmer Biomet Holdings](generated/companies/zimmer-biomet-holdings.md) | [Product Management Intern - Artificial Intelligence Product Management](https://careers.zimmerbiomet.com/us/en/job/12745) | Remote | Remote | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
+| [Zoetis](generated/companies/zoetis.md) | [AI Architecture, Enablement & Tools Intern, AI Capabilities](https://go.vansh.nyc/1ph) | USA +1 | Onsite | 2026-11-09 | Rolling | 🔴 Closed | ❔ |
+| [Zoetis](generated/companies/zoetis.md) | [AI Assistant Development Intern](https://go.vansh.nyc/1oP) | Parsippany, NJ | Onsite | 2026-11-09 | Rolling | 🔴 Closed | ❔ |
 | [Zurich Insurance](generated/companies/zurich-insurance.md) | [Data Analytics & AI Internship/Co-op - Data Analytics & AI](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors) | Toronto | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 
 ## Hiring companies
@@ -1122,7 +1124,6 @@
 - Wellmark (2)
 - William Blair (2)
 - xAI (2)
-- Zoetis (2)
 - Zoox (2)
 - 7-Eleven (2)
 - American Family Insurance Group (2)
@@ -1155,6 +1156,7 @@
 - Tradeweb (2)
 - Trane Technologies (2)
 - Verizon Communications (2)
+- Zoetis (2)
 - ADT (1)
 - AGCO (1)
 - Alcon (1)
@@ -1193,10 +1195,12 @@
 - FormFactor (1)
 - Framatome (1)
 - Genentech (1)
+- GIRO (1)
 - Graco (1)
 - GrayMatter Robotics (1)
 - Helsing (1)
 - Hex Technologies (1)
+- Honeywell Aerospace (1)
 - HUB International (1)
 - Ingredion (1)
 - Inmar Intelligence (1)

@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| State Farm | [Property and Casualty Underwriting Intern - Knowledge Management](https://jobs.statefarm.com/jobs/46442?icims=1&lang=en-us) | Richardson, TX +1 | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | State Farm | [Data Science Intern - Magnet Program](https://jobs.statefarm.com/jobs/46353?icims=1) | Tempe, AZ | Onsite | 2026-09-24 | Rolling | 🔴 Closed | ❔ |
 | State Farm | [Data Science Intern - Magnet Program - Online MS Analytics](https://jobs.statefarm.com/jobs/46057?icims=1) | Athens, GA | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | State Farm | [Financial Operations Data Analytics Intern](https://jobs.statefarm.com/jobs/45477?icims=1) | Tempe, AZ +3 | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |

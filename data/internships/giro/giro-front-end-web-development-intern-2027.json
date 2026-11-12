@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "shield-software-engineer-intern-2027-f91e8c",
+  "id": "giro-front-end-web-development-intern-2027",
   "company": {
-    "name": "Shield",
-    "slug": "shield"
+    "name": "GIRO",
+    "slug": "giro"
   },
-  "role": "Software Engineer Intern",
+  "role": "Front-End Web Development Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1bN",
-  "season": "summer",
+  "apply_url": "https://go.vansh.nyc/1wh",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Diego",
-      "state": "CA",
-      "country": "USA"
+      "city": "Montreal",
+      "country": "Canada"
     }
   ],
   "compensation": {
@@ -40,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-02",
-    "discovered": "2026-11-03",
+    "posted": "2026-11-12",
+    "discovered": "2026-11-12",
     "last_verified": "2026-11-12"
   },
   "status": "open",

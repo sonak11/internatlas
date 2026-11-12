@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Vizient | [Contract Operations Intern - Analytics](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1) | Irving, TX | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | Vizient | [Data Management Intern](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Data-Management_36162R) | Irving, TX | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | Vizient | [Intern Revenue Intelligence - Revenue Intelligence](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Revenue-Intelligence_36048R-1) | Centennial, CO +2 | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | Vizient | [Pharmacy Aggregation Intern](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1) | Washington, DC +6 | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |

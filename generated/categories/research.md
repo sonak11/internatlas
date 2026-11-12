@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**313** tracked · **180** open now
+**314** tracked · **181** open now
 
 ## Current openings
 
@@ -66,6 +66,7 @@
 | [Field AI](generated/companies/field-ai.md) | [Robotics Research – Humanoid Manipulation Intern](https://jobs.lever.co/field-ai/ada8184d-153b-4172-8f55-2b0ae74c6820/apply) | Boston, MA | Onsite | 2026-09-27 | Rolling | 🟢 Open | ❔ |
 | [Field AI](generated/companies/field-ai.md) | [Robotics Research – Humanoid Manipulation Intern](https://jobs.lever.co/field-ai/40a22216-c73b-4ec1-bfc1-dc0e1938eaba/apply) | Boston, MA | Onsite | 2026-09-27 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Research and Development Intern - Vehicle Health Management](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Health-Management_JR-202622258) | Warren, MI | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
+| [GIRO](generated/companies/giro.md) | [Software Development Intern, Algorithms and Operations Research](https://go.vansh.nyc/1wg) | Montreal | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Research Account Management & Field Application Engineering Support Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/GF-Labs-Research-AM-and-FAE-support-Intern--Summer-2027--_JR-2604431) | Essex Junction, VT | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/86701057991680710) | Palo Alto, CA +27 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Student Researcher Intern](https://www.google.com/about/careers/applications/jobs/results/104405499448828614) | Montreal | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
@@ -391,6 +392,7 @@
 - Dexmate (1)
 - DoorDash (1)
 - Etched (1)
+- GIRO (1)
 - GlobalFoundries (1)
 - Hewlett Packard Enterprise (1)
 - Huck Adventures (1)

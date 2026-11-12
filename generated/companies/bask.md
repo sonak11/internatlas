@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Bask | [Backend Engineering Intern](https://go.vansh.nyc/1vi) | USA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| Bask | [Frontend Engineering Intern](https://go.vansh.nyc/1wc) | USA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | Bask | [Software Engineering Intern](https://go.vansh.nyc/1vj) | USA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 
 ## Related

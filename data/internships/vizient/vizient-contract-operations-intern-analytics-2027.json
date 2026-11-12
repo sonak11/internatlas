@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "vizient-contract-operations-intern-analytics-2027",
+  "company": {
+    "name": "Vizient",
+    "slug": "vizient"
+  },
+  "role": "Contract Operations Intern - Analytics",
+  "category": "software-engineering",
+  "apply_url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Chicago-IL-60607/XMLNAME-2027-Summer-Internship---Contract-Operations---Analytics_36238R-1",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Irving",
+      "state": "TX",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-12",
+    "discovered": "2026-11-12",
+    "last_verified": "2026-11-12"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

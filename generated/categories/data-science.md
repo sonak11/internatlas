@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**406** tracked · **217** open now
+**411** tracked · **222** open now
 
 ## Current openings
 
@@ -130,6 +130,8 @@
 | [Meta](generated/companies/meta.md) | [Data Scientist Intern - Product Analytics](https://www.metacareers.com/jobs/1633096478817942) | Menlo Park, CA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [Data Science Intern](https://go.vansh.nyc/XF) | San Jose, CA +1 | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [HBM Data Scientist Intern](https://go.vansh.nyc/VY) | Richardson, TX | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| [Microsoft](generated/companies/microsoft.md) | [Data Scientist Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557027390) | Redmond, WA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
+| [Microsoft](generated/companies/microsoft.md) | [Data Scientist Intern, CoreAI](https://go.vansh.nyc/1wj) | Redmond, WA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [MITRE](generated/companies/mitre.md) | [Data Science and Engineering Intern](https://go.vansh.nyc/10t) | McLean, VA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❌ |
 | [MITRE](generated/companies/mitre.md) | [Data Science Intern](https://go.vansh.nyc/1lR) | McLean, VA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❌ |
 | [Momentive](generated/companies/momentive.md) | [Data Science Intern - Enterprise Reporting & Analytics](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1) | Niskayuna, NY | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
@@ -178,6 +180,8 @@
 | [SAS](generated/companies/sas.md) | [Data Science Research Intern](https://go.vansh.nyc/H0) | Bloomington, MN | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | [SAS](generated/companies/sas.md) | [Data Scientist Intern](https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false) | Cary, NC | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Schonfeld](generated/companies/schonfeld.md) | [Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) | NYC | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
+| [SharkNinja](generated/companies/sharkninja.md) | [Data Science Intern](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006) | Needham, MA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
+| [SharkNinja](generated/companies/sharkninja.md) | [Data Science Intern](https://go.vansh.nyc/1wu) | Needham, MA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Sierra Nevada Corporation](generated/companies/sierra-nevada-corporation.md) | [Data Science Intern - Summer 2027](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257) | Sparks, NV | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Simbe Robotics](generated/companies/simbe-robotics.md) | [Data Analytics & Data Science Intern](https://jobs.lever.co/SimbeRobotics/96ee45fb-f094-4751-a43d-3e376f32667f/apply) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Simbe Robotics](generated/companies/simbe-robotics.md) | [Data Analytics & Data Science Intern](https://go.vansh.nyc/hK) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
@@ -206,6 +210,7 @@
 | [TobogganLabs](generated/companies/tobogganlabs.md) | [Data Science Intern](https://go.vansh.nyc/13r) | Montreal | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Toyota](generated/companies/toyota.md) | [Data Science Intern](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1) | Plano, TX | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Toyota](generated/companies/toyota.md) | [Data Science Intern, TFS](https://go.vansh.nyc/dm) | Plano, TX | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| [Trinity Life Sciences](generated/companies/trinity-life-sciences.md) | [Data Science Intern](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881) | Waltham, MA +1 | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [TWG Global](generated/companies/twg-global.md) | [Data Science Intern - MAQR](https://apply.workable.com/twgai/j/AC536E5EE2/apply) | Santa Monica, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [TWG Global](generated/companies/twg-global.md) | [Data Science Intern - SOLT](https://apply.workable.com/twgai/j/263B34D737/apply) | Santa Monica, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [UL Solutions](generated/companies/ul-solutions.md) | [Data Science Intern](https://go.vansh.nyc/DO) | Northbrook, IL +1 | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
@@ -474,6 +479,7 @@
 - LexisNexis Risk Solutions (2)
 - Meta (2)
 - Micron Technology (2)
+- Microsoft (2)
 - MITRE (2)
 - Momentive (2)
 - New York Mets (2)
@@ -487,6 +493,7 @@
 - Red Ventures (2)
 - SageSure (2)
 - SAS (2)
+- SharkNinja (2)
 - Simbe Robotics (2)
 - Stripe (2)
 - The Nuclear Company (2)
@@ -566,6 +573,7 @@
 - The Hartford (1)
 - Tinder (1)
 - TobogganLabs (1)
+- Trinity Life Sciences (1)
 - WhiteWater Midstream (1)
 - Wing (1)
 - WTW (1)

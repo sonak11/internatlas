@@ -1,20 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "radiance-technologies-software-engineer-intern-2027-64f95c",
+  "id": "hudson-river-trading-algorithm-development-intern-quant-research-2027",
   "company": {
-    "name": "Radiance Technologies",
-    "slug": "radiance-technologies"
+    "name": "Hudson River Trading",
+    "slug": "hudson-river-trading"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/Ju",
-  "season": "spring",
+  "role": "Algorithm Development Intern - Quant Research",
+  "category": "quant",
+  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dayton",
-      "state": "OH",
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "London",
       "country": "USA"
     }
   ],
@@ -40,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-24",
-    "discovered": "2026-11-09",
+    "posted": "2026-07-13",
+    "discovered": "2026-11-12",
     "last_verified": "2026-11-12"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

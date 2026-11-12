@@ -8,6 +8,8 @@
 |---|---|---|---|---|---|---|---|
 | Microsoft | [Applied Scientist Intern](https://go.vansh.nyc/FW) | Redmond, WA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Applied Scientist Intern, Turing](https://go.vansh.nyc/Z4) | Redmond, WA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| Microsoft | [Data Scientist Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557027390) | Redmond, WA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
+| Microsoft | [Data Scientist Intern, CoreAI](https://go.vansh.nyc/1wj) | Redmond, WA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [First-Year Explore Program Engineering Intern](https://go.vansh.nyc/199) | Redmond, WA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Product Manager Intern](https://go.vansh.nyc/hO) | Cambridge, MA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Product Manager Intern](https://go.vansh.nyc/5Y) | Remote | Remote | 2026-08-04 | Rolling | 🟢 Open | ❔ |
@@ -52,4 +54,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [☁️ Cloud](../categories/cloud.md), [⚙️ Embedded](../categories/embedded.md), [🔩 Hardware](../categories/hardware.md), [🧠 Machine Learning](../categories/machine-learning.md), [🧭 Product](../categories/product.md), [🔬 Research](../categories/research.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [☁️ Cloud](../categories/cloud.md), [📊 Data Science](../categories/data-science.md), [⚙️ Embedded](../categories/embedded.md), [🔩 Hardware](../categories/hardware.md), [🧠 Machine Learning](../categories/machine-learning.md), [🧭 Product](../categories/product.md), [🔬 Research](../categories/research.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

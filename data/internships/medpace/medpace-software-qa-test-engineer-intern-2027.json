@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "hudson-river-trading-algorithm-development-quant-research-trading-internship-summ-2027",
+  "id": "medpace-software-qa-test-engineer-intern-2027",
   "company": {
-    "name": "Hudson River Trading",
-    "slug": "hudson-river-trading",
-    "career_page": "https://www.hudsonrivertrading.com/careers"
+    "name": "Medpace",
+    "slug": "medpace"
   },
-  "role": "Algorithm Development (Quant Research & Trading) Internship – Summer 2027",
-  "category": "quant",
-  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062",
-  "season": "summer",
+  "role": "Software QA Test Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1wm",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
+      "city": "Cincinnati",
+      "state": "OH",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-13",
-    "discovered": "2026-09-28",
+    "posted": "2026-11-12",
+    "discovered": "2026-11-12",
     "last_verified": "2026-11-12"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "t-mobile-software-engineering-intern-2027-1c57b3",
+  "id": "bracco-software-engineer-intern-co-op-r-d-sustaining-2027",
   "company": {
-    "name": "T-Mobile",
-    "slug": "t-mobile"
+    "name": "Bracco",
+    "slug": "bracco"
   },
-  "role": "Software Engineering Intern",
+  "role": "Software Engineer Intern/Co-op - R&D Sustaining",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1kt",
-  "season": "summer",
+  "apply_url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Overland Park",
-      "state": "KS",
+      "city": "Eden Prairie",
+      "state": "MN",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-06",
-    "discovered": "2026-11-06",
+    "posted": "2026-09-10",
+    "discovered": "2026-11-12",
     "last_verified": "2026-11-12"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

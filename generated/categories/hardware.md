@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**361** tracked · **219** open now
+**361** tracked · **220** open now
 
 ## Current openings
 
@@ -12,6 +12,8 @@
 | [ADT](generated/companies/adt.md) | [Hardware Engineering & Connected Devices Intern](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022475) | Boca Raton, FL | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Altera](generated/companies/altera.md) | [FPGA Design Verification Intern](https://go.vansh.nyc/1p3) | Toronto | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [Altera](generated/companies/altera.md) | [FPGA Development Tools Intern](https://go.vansh.nyc/10V) | Toronto | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
+| [Altera](generated/companies/altera.md) | [FPGA IP Design Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----PEY-Intern_R03443) | Toronto | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
+| [Altera](generated/companies/altera.md) | [FPGA IP Design Engineer Intern, PEY](https://go.vansh.nyc/1wy) | Toronto | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [ASIC Engineer Intern](https://go.vansh.nyc/gF) | Sunnyvale, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [ASIC Engineer Intern](https://go.vansh.nyc/hA) | Seattle, WA +2 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [ASIC Engineer Intern](https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027) | Sunnyvale, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
@@ -96,7 +98,6 @@
 | [General Dynamics Mission Systems, Inc.](generated/companies/general-dynamics-mission-systems-inc.md) | [FPGA Engineer Intern](https://go.vansh.nyc/1pc) | Scottsdale, AZ | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❌ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Device Engineer Intern - Silicon Photonics](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604264) | Malta, NY | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Device Engineering Intern - Silicon Photonics](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604263) | Malta, NY | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
-| [GlobalFoundries](generated/companies/globalfoundries.md) | [Device Engineering Intern - Silicon Photonics](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604261) | Malta, NY | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Silicon Photonics Reliability Engineering Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Reliability-Engineering-Intern--Summer-2027-_JR-2604258) | Malta, NY | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Hardware Engineer Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/97352132356645574) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Silicon Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/136529930677560006) | Madison, WI +2 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
@@ -228,7 +229,6 @@
 | [Zoox](generated/companies/zoox.md) | [Hardware Engineer Intern, Vehicle Development [Summer 2027]](https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62) | Foster City, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Zoox](generated/companies/zoox.md) | [Hardware Engineer Intern, Vehicle Systems [Summer 2027]](https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b) | Foster City, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Akuna Capital](generated/companies/akuna-capital.md) | [Hardware Engineer Intern](https://akunacapital.com/careers/job/8018880/?gh_jid=8018880) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❌ |
-| [Altera](generated/companies/altera.md) | [FPGA IP Design Engineer Intern](https://go.vansh.nyc/d3) | Toronto | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 | [Altera](generated/companies/altera.md) | [Hardware Design Engineer Intern](https://go.vansh.nyc/10W) | Toronto | Onsite | 2026-10-30 | Rolling | 🔴 Closed | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Hardware Development Engineer Intern](https://go.vansh.nyc/gD) | Bellevue, WA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [ASIC Package Engineer Intern Co-op](https://careers.amd.com/jobs/91469?icims=1) | San Jose, CA +1 | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
@@ -387,12 +387,12 @@
 - RTX (7)
 - Ciena (6)
 - Formlabs (6)
-- GlobalFoundries (6)
 - Skydio (6)
+- Altera (5)
 - CesiumAstro (5)
 - GE Vernova (5)
+- GlobalFoundries (5)
 - Jump Trading (5)
-- Altera (4)
 - Cadence Design Systems (4)
 - Google (4)
 - Graphcore (4)

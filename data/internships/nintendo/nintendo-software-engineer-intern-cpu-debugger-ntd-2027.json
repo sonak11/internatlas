@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "jm-family-software-engineer-intern-2027-ce1cf5",
+  "id": "nintendo-software-engineer-intern-cpu-debugger-ntd-2027",
   "company": {
-    "name": "JM Family",
-    "slug": "jm-family"
+    "name": "Nintendo",
+    "slug": "nintendo"
   },
-  "role": "Software Engineer Intern",
+  "role": "Software Engineer Intern - CPU Debugger - NTD",
   "category": "software-engineering",
-  "apply_url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199",
+  "apply_url": "https://careers.nintendo.com/?gh_jid=4471972009",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Deerfield Beach",
-      "state": "FL",
+      "city": "Redmond",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -42,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-05",
-    "discovered": "2026-11-05",
+    "posted": "2026-10-28",
+    "discovered": "2026-11-12",
     "last_verified": "2026-11-12"
   },
   "status": "open",

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**311** tracked · **178** open now
+**314** tracked · **178** open now
 
 ## Current openings
 
@@ -46,7 +46,8 @@
 | [CesiumAstro](generated/companies/cesiumastro.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/1ov) | Melbourne, FL | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [Cisco](generated/companies/cisco.md) | [Software Engineer Embedded Systems I Intern](https://go.vansh.nyc/1sE) | San Jose, CA +2 | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Cisco](generated/companies/cisco.md) | [Software Engineer Intern, Embedded Systems I](https://go.vansh.nyc/1uy) | San Jose, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
-| [EquipmentShare](generated/companies/equipmentshare.md) | [Engineering Intern - Embedded](https://www.equipmentshare.com/careers/openings/?gh_jid=8371896) | Columbia, MO | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| [Entegris](generated/companies/entegris.md) | [Embedded Software Engineer Intern](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870) | Bloomington, MN | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
+| [Entegris](generated/companies/entegris.md) | [Embedded Software Engineering Intern](https://go.vansh.nyc/1wx) | Bloomington, MN | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [EquipmentShare](generated/companies/equipmentshare.md) | [Engineering Intern - Embedded](https://www.equipmentshare.com/careers/openings/?gh_jid=8371891) | Columbia, MO | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [EquipmentShare](generated/companies/equipmentshare.md) | [Engineering Intern, Embedded](https://go.vansh.nyc/1q3) | Columbia, MO | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [fab2](generated/companies/fab2.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/OC) | San Francisco, CA +1 | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
@@ -68,6 +69,7 @@
 | [Honeywell](generated/companies/honeywell.md) | [Embedded Engineer Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155562) | USA | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Honeywell](generated/companies/honeywell.md) | [Embedded Engineer Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561) | USA | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Honeywell](generated/companies/honeywell.md) | [Embedded Engineer Intern](https://go.vansh.nyc/Ou) | USA | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
+| [Honeywell Aerospace](generated/companies/honeywell-aerospace.md) | [Embedded Engineering Intern](https://go.vansh.nyc/1ws) | USA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❌ |
 | [Humble Robotics](generated/companies/humble-robotics.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/cV) | San Francisco, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Inversion Space](generated/companies/inversion-space.md) | [Avionics Embedded Software Engineer Intern](https://job-boards.greenhouse.io/inversionspace/jobs/4744391005) | Playa Vista, LA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Inversion Space](generated/companies/inversion-space.md) | [Avionics Embedded Software Engineer Intern](https://go.vansh.nyc/aM) | Playa Vista, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
@@ -88,8 +90,6 @@
 | [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1) | Santa Clara, CA +1 | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern](https://go.vansh.nyc/E1) | Santa Clara, CA +1 | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern - MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1) | Santa Clara, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
-| [Mettler Toledo](generated/companies/mettler-toledo.md) | [Embedded Software Engineering Intern](https://mt.avature.net/en_US/careers/JobDetail/23080) | Oakland, CA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
-| [Mettler Toledo](generated/companies/mettler-toledo.md) | [Embedded Software Engineering Intern](https://go.vansh.nyc/1ou) | Oakland, CA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [Embedded Software Engineering Intern](https://go.vansh.nyc/XX) | Boise, ID | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [SSD Firmware Intern, CICD](https://go.vansh.nyc/1d7) | Longmont, CO | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Motorola](generated/companies/motorola.md) | [Embedded Software Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372) | Irvine, CA | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
@@ -220,6 +220,7 @@
 | [Eaton](generated/companies/eaton.md) | [Firmware Engineer Intern/Co-op - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687238596754) | Moon Twp, PA | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Eaton](generated/companies/eaton.md) | [Firmware Engineer Intern/Co-op - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687238593356) | Moon Twp, PA | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [EquipmentShare](generated/companies/equipmentshare.md) | [Electrical Engineering Intern - Embedded](https://www.equipmentshare.com/careers/openings/?gh_jid=8142763) | Columbia, MO | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
+| [EquipmentShare](generated/companies/equipmentshare.md) | [Engineering Intern - Embedded](https://www.equipmentshare.com/careers/openings/?gh_jid=8371896) | Columbia, MO | Onsite | 2026-11-10 | Rolling | 🔴 Closed | ❔ |
 | [EquipmentShare](generated/companies/equipmentshare.md) | [Engineering Intern - Embedded](https://www.equipmentshare.com/careers/openings/?gh_jid=8189297) | Columbia, MO | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | [Etched](generated/companies/etched.md) | [Firmware Intern](https://jobs.ashbyhq.com/Etched/1efd9b58-66fe-4798-a877-776857b4e189) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🔴 Closed | ❔ |
 | [Etched](generated/companies/etched.md) | [Firmware Intern](https://jobs.ashbyhq.com/Etched/8134a9bf-9624-48dd-98be-0bf1c3cb1f55) | San Jose, CA | Onsite | 2026-05-22 | Rolling | 🔴 Closed | ❔ |
@@ -241,6 +242,8 @@
 | [Kepler Communications](generated/companies/kepler-communications.md) | [Embedded Software Engineer Intern - January 2027 - 4 months](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1/apply) | Toronto | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Lexington Medical](generated/companies/lexington-medical.md) | [Electrical/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400236008) | Bedford, MA | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern Co-op](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Firmware-Engineer-Intern---BS-MS---2027-Co-Op_2604959) | Toronto | Onsite | 2026-10-02 | Rolling | 🔴 Closed | ❔ |
+| [Mettler Toledo](generated/companies/mettler-toledo.md) | [Embedded Software Engineering Intern](https://mt.avature.net/en_US/careers/JobDetail/23080) | Oakland, CA | Onsite | 2026-11-09 | Rolling | 🔴 Closed | ❔ |
+| [Mettler Toledo](generated/companies/mettler-toledo.md) | [Embedded Software Engineering Intern](https://go.vansh.nyc/1ou) | Oakland, CA | Onsite | 2026-11-09 | Rolling | 🔴 Closed | ❔ |
 | [Microchip Technology](generated/companies/microchip-technology.md) | [Engineering Intern - Firmware Development](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26) | Houston, TX | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [Data Center SSD Firmware Intern](https://go.vansh.nyc/1d3) | Longmont, CO | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/XW) | Boise, ID | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
@@ -358,6 +361,7 @@
 - Aerospace Corporation (2)
 - AGCO (2)
 - Castelion (2)
+- Entegris (2)
 - fab2 (2)
 - Fab2 (2)
 - Gecko Robotics (2)
@@ -369,7 +373,6 @@
 - Keysight Technologies (2)
 - Lightmatter (2)
 - Lunar Outpost (2)
-- Mettler Toledo (2)
 - Motorola Solutions (2)
 - Odys Aviation (2)
 - Revel (2)
@@ -385,6 +388,7 @@
 - Eaton (2)
 - Itron (2)
 - Johns Hopkins Applied Physics Laboratory (2)
+- Mettler Toledo (2)
 - The Aerospace Corporation (2)
 - The Toro Company (2)
 - Ursa Major (2)
@@ -395,6 +399,7 @@
 - Base Power (1)
 - General Matter (1)
 - Heron Power (1)
+- Honeywell Aerospace (1)
 - Humble Robotics (1)
 - Legrand (1)
 - Life Fitness (1)

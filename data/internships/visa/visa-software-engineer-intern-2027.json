@@ -7,15 +7,14 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin--TX---2027_REF089882W-1",
+  "apply_url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
-      "state": "TX",
-      "country": "USA"
+      "city": "Cambridge",
+      "country": "UK"
     }
   ],
   "compensation": {
@@ -42,11 +41,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-27",
+    "posted": "2026-11-12",
     "discovered": "2026-09-17",
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-12"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

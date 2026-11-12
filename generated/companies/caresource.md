@@ -9,6 +9,7 @@
 | CareSource | [Configuration and Automation Intern](https://go.vansh.nyc/1js) | USA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | CareSource | [Configuration and Automation Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Configuration-and-Automation_R14185) | Remote | Remote | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | CareSource | [Military and Veterans Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Florida-WFH/XMLNAME-2027-Summer-Internship-Program---CareSource-Military-and-Veterans-Intern_R14186-1) | Florida +1 | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| CareSource | [Software Engineer Intern](https://go.vansh.nyc/1wz) | USA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | CareSource | [AI Intern](https://go.vansh.nyc/105) | USA | Onsite | 2026-10-29 | Rolling | 🔴 Closed | ❔ |
 | CareSource | [AI Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---AI-Intern_R14123) | Remote | Remote | 2026-10-29 | Rolling | 🔴 Closed | ❔ |
 | CareSource | [Cybersecurity Intern](https://go.vansh.nyc/1je) | USA | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❔ |

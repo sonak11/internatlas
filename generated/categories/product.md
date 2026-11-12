@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**298** tracked · **153** open now
+**299** tracked · **153** open now
 
 ## Current openings
 
@@ -73,9 +73,9 @@
 | [GoFundMe](generated/companies/gofundme.md) | [MBA Product Management Intern](https://job-boards.greenhouse.io/gofundme/jobs/8304644) | SF | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Associate Product Manager Intern](https://www.google.com/about/careers/applications/jobs/results/103464941339452102) | London | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Gordon Food Service](generated/companies/gordon-food-service.md) | [Digital Product Management Intern](https://go.vansh.nyc/1vB) | Wyoming, MI | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
-| [H&R Block](generated/companies/h-r-block.md) | [Product Management Intern - S](https://careers.hrblock.com/jobs/76986?icims=1) | Kansas City, MO | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Product Management Intern](https://go.vansh.nyc/OB) | Andover, MA +9 | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | [Honeywell](generated/companies/honeywell.md) | [Product Management Intern - MBA](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159658) | Atlanta, GA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
+| [Illinois Tool Works](generated/companies/illinois-tool-works.md) | [Product Management Intern](https://itw.wd5.myworkdayjobs.com/external/job/Troy---101-Trade-Sq-E/Product-Management-Intern---Summer-2026_JR10105) | Troy, MI | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Illinois Tool Works](generated/companies/illinois-tool-works.md) | [Product Management Intern](https://careers.itw.com/global/en/job/JR10105) | Troy, OH | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Intercontinental Exchange](generated/companies/intercontinental-exchange.md) | [Product Management Intern](https://ice.jibeapply.com/jobs/14065?icims=1) | Atlanta, GA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Intercontinental Exchange](generated/companies/intercontinental-exchange.md) | [Product Management Intern](https://careers-ice.icims.com/jobs/14065/job?mobile=true&needsRedirect=false) | Atlanta, GA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
@@ -222,6 +222,7 @@
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [Summer Analyst Intern - Wealth Management - Product Management and Design](https://higher.gs.com/roles/170935?type=students) | London | Onsite | 2026-08-15 | Rolling | 🔴 Closed | ❔ |
 | [Google](generated/companies/google.md) | [Product Manager Intern - Summer 2027](https://www.google.com/about/careers/applications/jobs/results/134770032394543814) | SF +3 | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [Guardian Life](generated/companies/guardian-life.md) | [Summer Intern - Group Benefits Product Management](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Boston/XMLNAME-2027-Guardian-Summer-Intern--Group-Benefits-Product-Management_R000110299) | Boston, MA | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
+| [H&R Block](generated/companies/h-r-block.md) | [Product Management Intern - S](https://careers.hrblock.com/jobs/76986?icims=1) | Kansas City, MO | Onsite | 2026-09-28 | Rolling | 🔴 Closed | ❔ |
 | [Hudl](generated/companies/hudl.md) | [Product Management Intern](https://job-boards.greenhouse.io/hudl/jobs/8155103) | Lincoln, NE | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | [Illinois Tool Works](generated/companies/illinois-tool-works.md) | [Product Management Intern](https://careers.itw.com/global/en/job/JR10112) | San Luis Obispo, CA | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
 | [Johns Manville](generated/companies/johns-manville.md) | [Product Management Intern](https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432) | Denver, CO | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
@@ -329,6 +330,7 @@
 - USAA (4)
 - Altice USA (3)
 - Duolingo (3)
+- Illinois Tool Works (3)
 - NVIDIA (3)
 - Signify (3)
 - Springs Window Fashions (3)
@@ -345,7 +347,6 @@
 - Gemini (2)
 - General Motors (2)
 - Google (2)
-- Illinois Tool Works (2)
 - Intercontinental Exchange (2)
 - Invesco (2)
 - LexisNexis Risk Solutions (2)
@@ -386,7 +387,6 @@
 - Ernst & Young (1)
 - GoFundMe (1)
 - Gordon Food Service (1)
-- H&R Block (1)
 - Hewlett Packard Enterprise (1)
 - Honeywell (1)
 - Intuit (1)
@@ -423,6 +423,7 @@
 - Fidelity National Information Services (1)
 - First Citizens BancShares (1)
 - Guardian Life (1)
+- H&R Block (1)
 - Hudl (1)
 - Johns Manville (1)
 - JP Morgan Chase (1)

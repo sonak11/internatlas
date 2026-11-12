@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "mcdonald-s-global-tech-infrastructure-operations-intern-2027-9d3c88",
+  "id": "microsoft-data-scientist-intern-coreai-2027-5940ef",
   "company": {
-    "name": "McDonald's",
-    "slug": "mcdonald-s"
+    "name": "Microsoft",
+    "slug": "microsoft"
   },
-  "role": "Global Tech Infrastructure & Operations Intern",
-  "category": "cloud",
-  "apply_url": "https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors",
+  "role": "Data Scientist Intern, CoreAI",
+  "category": "data-science",
+  "apply_url": "https://go.vansh.nyc/1wj",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "Redmond",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-11",
+    "posted": "2026-11-12",
     "discovered": "2026-11-12",
     "last_verified": "2026-11-12"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

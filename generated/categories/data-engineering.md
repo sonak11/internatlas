@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**218** tracked · **114** open now
+**219** tracked · **115** open now
 
 ## Current openings
 
@@ -65,6 +65,7 @@
 | [Lyft](generated/companies/lyft.md) | [Data Engineer Intern](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) | Toronto | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Marmon Holdings](generated/companies/marmon-holdings.md) | [Data Engineering Intern Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) | Milwaukee, WI | Onsite | 2026-05-16 | Rolling | 🟢 Open | ❔ |
 | [Marmon Holdings](generated/companies/marmon-holdings.md) | [Data Engineering Intern/Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) | Milwaukee, WI | Onsite | 2026-03-04 | Rolling | 🟢 Open | ❔ |
+| [Medpace](generated/companies/medpace.md) | [Data Engineer Intern](https://go.vansh.nyc/1wk) | Cincinnati, OH | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Medpace](generated/companies/medpace.md) | [Data Engineer Intern - Spring 2027](https://careers.medpace.com/jobs/12921?icims=1) | Cincinnati, OH | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [National Interstate Insurance](generated/companies/national-interstate-insurance.md) | [Data Engineering Intern](https://go.vansh.nyc/Wd) | Cincinnati, OH | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Associate Data Engineer Intern](https://go.vansh.nyc/1up) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
@@ -259,6 +260,7 @@
 - Leidos (2)
 - Lyft (2)
 - Marmon Holdings (2)
+- Medpace (2)
 - OLG (2)
 - Pacific Life (2)
 - POET (2)
@@ -295,7 +297,6 @@
 - Jump Trading (1)
 - Kodiak Robotics (1)
 - LPL Financial Holdings (1)
-- Medpace (1)
 - National Interstate Insurance (1)
 - Pella (1)
 - Perpay (1)

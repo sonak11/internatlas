@@ -8,6 +8,13 @@
 |---|---|---|---|---|---|---|---|
 | Nintendo | [Business Intelligence Intern](https://go.vansh.nyc/1tL) | Redmond, WA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Nintendo | [IT Software Engineer Intern](https://go.vansh.nyc/1tJ) | Redmond, WA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| Nintendo | [Software Engineer Intern - Audio](https://careers.nintendo.com/?gh_jid=4470048009) | Redmond, WA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
+| Nintendo | [Software Engineer Intern - Connectivity](https://careers.nintendo.com/?gh_jid=4472147009) | Redmond, WA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| Nintendo | [Software Engineer Intern - CPU Debugger - NTD](https://careers.nintendo.com/?gh_jid=4471972009) | Redmond, WA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
+| Nintendo | [Software Engineer Intern - CPU Profiler](https://careers.nintendo.com/?gh_jid=4469762009) | Redmond, WA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
+| Nintendo | [Software Engineer Intern - Graphics](https://careers.nintendo.com/?gh_jid=4473550009) | Redmond, WA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
+| Nintendo | [Software Engineer Intern - Performance Tools](https://careers.nintendo.com/?gh_jid=4473568009) | Redmond, WA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
+| Nintendo | [Software Engineer Intern - Platform Security](https://careers.nintendo.com/?gh_jid=4469778009) | Redmond, WA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | Nintendo | [Software Engineer Intern, Audio](https://go.vansh.nyc/12n) | Redmond, WA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | Nintendo | [Software Engineer Intern, Connectivity](https://go.vansh.nyc/12p) | Redmond, WA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | Nintendo | [Software Engineer Intern, CPU Debugger](https://go.vansh.nyc/12k) | Redmond, WA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |

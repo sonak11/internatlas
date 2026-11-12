@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**238** tracked · **170** open now
+**240** tracked · **170** open now
 
 ## Current openings
 
@@ -98,6 +98,7 @@
 | [Marvell](generated/companies/marvell.md) | [Security Verification/Validation Engineer Intern](https://go.vansh.nyc/1dy) | Chandler, AZ | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Mativ](generated/companies/mativ.md) | [Cybersecurity Intern](https://go.vansh.nyc/11W) | Alpharetta, GA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [MDA](generated/companies/mda.md) | [Student Cyber Security Analyst Intern](https://go.vansh.nyc/1fU) | Brampton | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
+| [Medpace](generated/companies/medpace.md) | [Information Security Intern](https://go.vansh.nyc/1wn) | Cincinnati, OH | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Security Assurance Intern](https://go.vansh.nyc/15H) | Redmond, WA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Security Research Intern](https://go.vansh.nyc/eB) | Redmond, WA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/e6) | Cambridge, MA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
@@ -117,6 +118,7 @@
 | [Navy Federal](generated/companies/navy-federal.md) | [Security Workflow Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [NBCUniversal](generated/companies/nbcuniversal.md) | [Cybersecurity, Governance & Security Engineering Intern, Media Tech](https://go.vansh.nyc/1oC) | New York, NY | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [Netsmart](generated/companies/netsmart.md) | [Security Analyst Intern](https://go.vansh.nyc/SN) | Overland Park, KS | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
+| [Nintendo](generated/companies/nintendo.md) | [Software Engineer Intern - Platform Security](https://careers.nintendo.com/?gh_jid=4469778009) | Redmond, WA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Nintendo](generated/companies/nintendo.md) | [Software Engineer Intern, Platform Security](https://go.vansh.nyc/12o) | Redmond, WA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Nissan](generated/companies/nissan.md) | [Cyber Security Intern](https://go.vansh.nyc/eD) | Smyrna, TN | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [OCC](generated/companies/occ.md) | [Application Security Intern](https://go.vansh.nyc/JV) | Dallas, TX | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
@@ -176,8 +178,6 @@
 | [Welltower](generated/companies/welltower.md) | [Cyber Security Intern](https://go.vansh.nyc/1uw) | Frisco, TX | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Workday](generated/companies/workday.md) | [Cybersecurity Engineer Intern](https://go.vansh.nyc/gd) | Pleasanton, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Zebra Technologies](generated/companies/zebra-technologies.md) | [Security Intern](https://go.vansh.nyc/1qC) | Lincolnshire, IL | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
-| [Zoetis](generated/companies/zoetis.md) | [Information Security Intern](https://go.vansh.nyc/1ox) | Parsippany, NJ | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
-| [Zoetis](generated/companies/zoetis.md) | [IT/OT Security Intern](https://go.vansh.nyc/1op) | Kalamazoo, MI | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [1Password](generated/companies/1password.md) | [Developer Intern, Data Security](https://go.vansh.nyc/eY) | USA +1 | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 | [1Password](generated/companies/1password.md) | [Security Intern, Threat Operations](https://go.vansh.nyc/eI) | Remote | Remote | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 | [AbbVie](generated/companies/abbvie.md) | [Cybersecurity Intern, Business Technology Solutions](https://go.vansh.nyc/SW) | North Chicago, IL | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
@@ -246,6 +246,8 @@
 | [Together AI](generated/companies/together-ai.md) | [Hardware Security Engineer Intern](https://go.vansh.nyc/bm) | San Francisco, CA | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
 | [Visa](generated/companies/visa.md) | [Network and Security Engineering Intern](https://go.vansh.nyc/Xh) | Denver, CO | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❌ |
 | [Visa](generated/companies/visa.md) | [Network and Security Engineering Intern](https://go.vansh.nyc/Xg) | Ashburn, VA | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❌ |
+| [Zoetis](generated/companies/zoetis.md) | [Information Security Intern](https://go.vansh.nyc/1ox) | Parsippany, NJ | Onsite | 2026-11-09 | Rolling | 🔴 Closed | ❔ |
+| [Zoetis](generated/companies/zoetis.md) | [IT/OT Security Intern](https://go.vansh.nyc/1op) | Kalamazoo, MI | Onsite | 2026-11-09 | Rolling | 🔴 Closed | ❔ |
 
 ## Hiring companies
 
@@ -270,17 +272,18 @@
 - LLNL (2)
 - Marvell (2)
 - National Information Solutions Cooperative (2)
+- Nintendo (2)
 - ServiceNow (2)
 - The Federal Reserve System (2)
 - TikTok (2)
 - TMX Group (2)
 - Wellmark (2)
-- Zoetis (2)
 - 1Password (2)
 - GuidePoint Security (2)
 - Motorola Solutions (2)
 - Robinhood (2)
 - Visa (2)
+- Zoetis (2)
 - 1st Source (1)
 - ADT (1)
 - Allison Transmission (1)
@@ -342,12 +345,12 @@
 - Manitowoc (1)
 - Mativ (1)
 - MDA (1)
+- Medpace (1)
 - Midland States Bank (1)
 - Minitab (1)
 - National Laboratory of the Rockies (1)
 - NBCUniversal (1)
 - Netsmart (1)
-- Nintendo (1)
 - Nissan (1)
 - OCC (1)
 - OneAmerica Financial (1)

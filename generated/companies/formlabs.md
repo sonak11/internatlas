@@ -12,8 +12,6 @@
 | Formlabs | [Hardware Systems Integration Intern](https://careers.formlabs.com/job/8212683/apply/?gh_jid=8212683) | Somerville, MA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | Formlabs | [Hardware Systems Integration Intern - Winter/Spring 2027](https://careers.formlabs.com/job/8172004/apply/?gh_jid=8172004) | Somerville, MA | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | Formlabs | [Hardware Test Engineer Intern](https://careers.formlabs.com/job/8196515/apply/?gh_jid=8196515) | Somerville, MA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
-| Formlabs | [Manufacturing Test Software Intern](https://go.vansh.nyc/f2) | Somerville, MA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
-| Formlabs | [Manufacturing Test Software Intern](https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004) | Somerville, MA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Formlabs | [Manufacturing Test Software Intern - Manufacturing](https://careers.formlabs.com/job/8374598/apply/?gh_jid=8374598) | Somerville, MA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | Formlabs | [AI Software Intern](https://careers.formlabs.com/job/8067641/apply/?gh_jid=8067641) | Cambridge, MA | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
 | Formlabs | [AI Software Intern](https://careers.formlabs.com/job/8174874/apply/?gh_jid=8174874) | Somerville, MA | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
@@ -23,6 +21,8 @@
 | Formlabs | [Hardware R&D Engineering Intern](https://careers.formlabs.com/job/8097694/apply/?gh_jid=8097694) | Somerville, MA | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | Formlabs | [Hardware Systems Integration Intern](https://careers.formlabs.com/job/7927471/apply/?gh_jid=7927471) | Cambridge, MA | Onsite | 2026-05-15 | Rolling | 🔴 Closed | ❔ |
 | Formlabs | [Manufacturing Test Software Intern](https://careers.formlabs.com/job/8021679/apply/?gh_jid=8021679) | Cambridge, MA | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
+| Formlabs | [Manufacturing Test Software Intern](https://go.vansh.nyc/f2) | Somerville, MA | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
+| Formlabs | [Manufacturing Test Software Intern](https://careers.formlabs.com/job/8256004/apply/?gh_jid=8256004) | Somerville, MA | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 | Formlabs | [Print Production Intern](https://careers.formlabs.com/job/8138459/apply/?gh_jid=8138459) | Somerville, MA | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | Formlabs | [R&D Print Process Engineering Intern - Winter/Spring 2027](https://careers.formlabs.com/job/8172226/apply/?gh_jid=8172226) | Somerville, MA | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | Formlabs | [Supply Chain Operations Software Intern](https://careers.formlabs.com/job/8069676/apply/?gh_jid=8069676) | Cambridge, MA | Onsite | 2026-07-17 | Rolling | 🔴 Closed | ❔ |
