@@ -5,15 +5,15 @@
     "name": "Molina Healthcare",
     "slug": "molina-healthcare"
   },
-  "role": "Healthcare Quality & Analytics Intern",
+  "role": "Healthcare Quality Analytics Intern",
   "category": "software-engineering",
-  "apply_url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040143",
+  "apply_url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040139",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Wisconsin",
+      "city": "Kentucky",
       "country": "USA"
     }
   ],
@@ -41,9 +41,9 @@
   "dates": {
     "posted": "2026-10-30",
     "discovered": "2026-10-31",
-    "last_verified": "2026-11-05"
+    "last_verified": "2026-11-13"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

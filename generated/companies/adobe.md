@@ -11,6 +11,7 @@
 | Adobe | [Data, AI & Innovation Intern](https://go.vansh.nyc/bv) | San Jose, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Adobe | [Machine Learning Engineer Intern](https://go.vansh.nyc/BO) | San Jose, CA +6 | Onsite | 2026-10-24 | Rolling | 🟢 Open | ❔ |
 | Adobe | [Machine Learning Engineer Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) | Seattle, WA +5 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
+| Adobe | [Research Scientist Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345) | London | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | Adobe | [Security Engineer Intern](https://go.vansh.nyc/cM) | San Jose, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Adobe | [Security Engineer Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Security-Engineer_R173001) | San Jose, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Adobe | [Security Engineer Intern](https://go.vansh.nyc/bk) | Lehi, UT | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
@@ -19,4 +20,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [🧠 Machine Learning](../categories/machine-learning.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🧠 Machine Learning](../categories/machine-learning.md), [🔬 Research](../categories/research.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

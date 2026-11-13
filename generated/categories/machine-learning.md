@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**501** tracked · **343** open now
+**503** tracked · **344** open now
 
 ## Current openings
 
@@ -28,6 +28,7 @@
 | [Atlassian](generated/companies/atlassian.md) | [Machine Learning Intern](https://campus-americas.icims.com/jobs/26268/machine-learning-intern%2c-2027-summer-u.s./job) | Seattle, WA +1 | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [Atoms](generated/companies/atoms.md) | [Machine Learning PhD Software Engineer Intern](https://job-boards.greenhouse.io/cssmerge/jobs/8693034002) | Seattle, WA +3 | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | [Atoms](generated/companies/atoms.md) | [ML PhD Software Engineer Intern](https://go.vansh.nyc/7v) | Multiple Locations Available | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
+| [Bask](generated/companies/bask.md) | [Machine Learning Engineering Intern](https://go.vansh.nyc/1ys) | USA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Bask Health](generated/companies/bask-health.md) | [Machine Learning Engineer Intern](https://go.vansh.nyc/1yh) | USA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Bedrock Robotics](generated/companies/bedrock-robotics.md) | [Behavior Machine Learning Engineer Intern - World Models](https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1/application?embed=true) | SF | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Bedrock Robotics](generated/companies/bedrock-robotics.md) | [Behavior Machine Learning Engineer Intern, World Models](https://go.vansh.nyc/1eF) | San Francisco, CA | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
@@ -61,7 +62,6 @@
 | [Coinbase](generated/companies/coinbase.md) | [Machine Learning Engineer Intern](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Machine Learning Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8175441) | SF | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Constellation Space](generated/companies/constellation-space.md) | [Graduate Researcher Intern - Machine Learning](https://jobs.ashbyhq.com/constellationspace/b763d4ba-7b77-479b-89a0-f632d9d02f4a/application?embed=true) | Seattle, WA | Onsite | 2026-07-15 | Rolling | 🟢 Open | ❔ |
-| [Costco](generated/companies/costco.md) | [Costco Digital Services Intern - Infosec AI/ML](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994) | Issaquah, WA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Costco](generated/companies/costco.md) | [Digital Services Intern, Infosec AI/ML](https://go.vansh.nyc/1bA) | Issaquah, WA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [CoVar](generated/companies/covar.md) | [Machine Learning Intern](https://job-boards.greenhouse.io/covar/jobs/5240360007) | Durham, NC | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [CoVar](generated/companies/covar.md) | [Machine Learning Intern](https://go.vansh.nyc/1g3) | Durham, NC | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
@@ -312,6 +312,7 @@
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning MLOps Intern, Global SRE](https://go.vansh.nyc/17S) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Scientist Intern](https://lifeattiktok.com/search/7667934169444485429) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Scientist Intern - Content Ecology - LLM Application](https://lifeattiktok.com/search/7667933770625599749) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Scientist Intern - Local Services](https://lifeattiktok.com/search/7703925583541979445) | San Jose, CA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Scientist Intern - Recommendation](https://lifeattiktok.com/search/7662657855099357493) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [ML Infra Engineer Intern, Ads Infra](https://go.vansh.nyc/17V) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live](https://go.vansh.nyc/18h) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
@@ -400,6 +401,7 @@
 | [Corning](generated/companies/corning.md) | [Artificial Intelligence and Machine Learning Intern](https://corningjobs.corning.com/job/Wilmington-Artificial-Intelligence-and-Machine-Learning-Intern-Summer-2027-NC-28405/1425596800/?ats=successfactors) | Wilmington, NC | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Corning](generated/companies/corning.md) | [Digital & IT Intern - Analyst - Machine Learning](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Machine-Learning-Summer-2027-NC-28216/1425580100/?ats=successfactors) | Charlotte, NC | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Corning](generated/companies/corning.md) | [Digital & IT Intern - Manufacturing AI/ML](https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Manufacturing-AIML-Summer-2027-NC-28216/1425708000/?ats=successfactors) | Charlotte, NC | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
+| [Costco](generated/companies/costco.md) | [Costco Digital Services Intern - Infosec AI/ML](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994) | Issaquah, WA | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 | [Dev Technology Group](generated/companies/dev-technology-group.md) | [AI/ML Intern - Summer 2027](https://job-boards.greenhouse.io/devtechnology/jobs/8726074002) | Reston, VA | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [DRW](generated/companies/drw.md) | [AI/ML Research Intern](https://job-boards.greenhouse.io/drwfr/jobs/7991172) | Montreal | Onsite | 2026-07-13 | Rolling | 🔴 Closed | ❔ |
 | [Epic Games](generated/companies/epic-games.md) | [Machine Learning Intern](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) | Canada +2 | Onsite | 2026-08-07 | Rolling | 🔴 Closed | ❔ |
@@ -512,7 +514,7 @@
 
 ## Hiring companies
 
-- TikTok (83)
+- TikTok (84)
 - Waymo (24)
 - ByteDance (20)
 - General Motors (19)
@@ -600,6 +602,7 @@
 - ASM (1)
 - ASML (1)
 - Atlassian (1)
+- Bask (1)
 - Bask Health (1)
 - Capital de Recherche Tower (1)
 - Ciena (1)

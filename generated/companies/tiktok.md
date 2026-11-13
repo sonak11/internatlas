@@ -39,10 +39,8 @@
 | TikTok | [Backend Software Engineer Intern, Product Infrastructure](https://go.vansh.nyc/64) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Backend Software Engineer Intern, Search](https://go.vansh.nyc/6h) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❌ |
 | TikTok | [Backend Software Engineer Intern, Social Friending](https://go.vansh.nyc/6i) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
-| TikTok | [Client Solutions Intern](https://lifeattiktok.com/search/7684622182248548661) | NYC | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Client Solutions Intern](https://lifeattiktok.com/search/7677467052537776437) | San Jose, CA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Client Solutions Intern - Global Business Solutions](https://lifeattiktok.com/search/7677467375487486213) | LA | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
-| TikTok | [Client Solutions Intern - Global Business Solutions](https://lifeattiktok.com/search/7684623688945961221) | Austin, TX | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Client Solutions Intern - Global Business Solutions](https://lifeattiktok.com/search/7677467375486765317) | NYC | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Client Solutions Manager Intern - GBS-LATAM](https://lifeattiktok.com/search/7684612598114240821) | Miami, FL | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Creative Product Manager Intern - Multiple Teams](https://lifeattiktok.com/search/7693732178706974981) | San Jose, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
@@ -161,6 +159,7 @@
 | TikTok | [Machine Learning MLOps Intern, Global SRE](https://go.vansh.nyc/17S) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Scientist Intern](https://lifeattiktok.com/search/7667934169444485429) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Scientist Intern - Content Ecology - LLM Application](https://lifeattiktok.com/search/7667933770625599749) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
+| TikTok | [Machine Learning Scientist Intern - Local Services](https://lifeattiktok.com/search/7703925583541979445) | San Jose, CA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Machine Learning Scientist Intern - Recommendation](https://lifeattiktok.com/search/7662657855099357493) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | TikTok | [ML Infra Engineer Intern, Ads Infra](https://go.vansh.nyc/17V) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [POI Content Product Manager Intern](https://lifeattiktok.com/search/7696000179569854725) | San Jose, CA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
@@ -288,6 +287,8 @@
 | TikTok | [Artificial Intelligence Engineer Intern - Client Architecture](https://lifeattiktok.com/search/7667935738190465285) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | TikTok | [Backend Software Engineer Intern](https://lifeattiktok.com/search/7667935565120112949) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | TikTok | [Backend Software Engineer Intern, Social Foundation](https://go.vansh.nyc/6d) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
+| TikTok | [Client Solutions Intern](https://lifeattiktok.com/search/7684622182248548661) | NYC | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
+| TikTok | [Client Solutions Intern - Global Business Solutions](https://lifeattiktok.com/search/7684623688945961221) | Austin, TX | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | TikTok | [Copyright Solution Product Manager Intern - Tiktok-Music](https://lifeattiktok.com/search/7657541997725288757) | San Jose, CA | Onsite | 2026-07-03 | Rolling | 🔴 Closed | ❔ |
 | TikTok | [Data Analyst and Business Projects Intern](https://lifeattiktok.com/search/7676124919956867333) | London | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | TikTok | [Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency](https://lifeattiktok.com/search/7667613782697232693) | San Jose, CA | Onsite | 2026-07-29 | Rolling | 🔴 Closed | ❔ |

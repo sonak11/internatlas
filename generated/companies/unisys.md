@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Unisys | [Software Engineer Intern](https://go.vansh.nyc/1uC) | Eagan, MN | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| Unisys | [Software Engineer Intern](https://go.vansh.nyc/1uC) | Eagan, MN | Onsite | 2026-11-11 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

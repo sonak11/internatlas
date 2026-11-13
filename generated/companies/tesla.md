@@ -114,6 +114,7 @@
 | Tesla | [Software Engineer Intern - Core AI Compiler & Runtime](https://www.tesla.com/careers/search/job/281951) | Palo Alto, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Software Engineer Intern - Data Platforms](https://www.tesla.com/careers/search/job/283117) | Palo Alto, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Software Engineer Intern - Data Transformations](https://www.tesla.com/careers/search/job/284925) | Palo Alto, CA | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
+| Tesla | [Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/289796) | Palo Alto, CA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283950) | Palo Alto, CA | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Software Engineer Intern - Engineering Automation - Vehicle Engineering](https://www.tesla.com/careers/search/job/279763) | Palo Alto, CA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Software Engineer Intern - Fullstack Engineer - Infrastructure Engineering](https://www.tesla.com/careers/search/job/281462) | Fremont, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |

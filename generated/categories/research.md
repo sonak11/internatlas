@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**315** tracked · **182** open now
+**316** tracked · **183** open now
 
 ## Current openings
 
@@ -10,6 +10,7 @@
 |---|---|---|---|---|---|---|---|
 | [Abundant](generated/companies/abundant.md) | [Member of Technical Staff Intern - Research](https://jobs.ashbyhq.com/abundant/1ebf7fda-c322-404d-acc3-2757bbd79996/application?embed=true) | SF | Onsite | 2026-08-20 | Rolling | 🟢 Open | ❔ |
 | [Abundant](generated/companies/abundant.md) | [Research Intern Fellow](https://go.vansh.nyc/Iy) | San Francisco, CA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
+| [Adobe](generated/companies/adobe.md) | [Research Scientist Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345) | London | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [AfterQuery](generated/companies/afterquery.md) | [Research Scholar Intern](https://go.vansh.nyc/Iu) | San Francisco, CA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [American Bankers Association](generated/companies/american-bankers-association.md) | [Banking Policy and Economic Research Intern](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625) | Washington, DC | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [American University](generated/companies/american-university.md) | [Imagery Analysis Research Assistant Intern](https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Imagery-Analysis-Research-Assistant---Student-_R5120-1) | Washington, DC | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
@@ -371,6 +372,7 @@
 - Qorvo (2)
 - TPG (2)
 - Warner Bros. (2)
+- Adobe (1)
 - AfterQuery (1)
 - American Bankers Association (1)
 - American University (1)

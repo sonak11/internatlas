@@ -6,7 +6,6 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| GE Vernova | [AI Data Mining Agent Intern, SCS Commercial](https://go.vansh.nyc/1nE) | Atlanta, GA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | GE Vernova | [AI Post-Training and Model Alignment Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-2) | Bellevue, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | GE Vernova | [AI Post-Training and Model Alignment Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1) | Bellevue, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | GE Vernova | [AI Post-Training and Model Alignment Intern, AGI](https://go.vansh.nyc/97) | Bellevue, WA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
@@ -21,8 +20,7 @@
 | GE Vernova | [Project Engineer Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-2) | Bellevue, WA | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | GE Vernova | [Project Engineer Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050026-1) | Bellevue, WA | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | GE Vernova | [Project Engineer Intern - Summer 2027](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---Project-Engineer-Intern---Summer-2027_R5050023-1) | Bellevue, WA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
-| GE Vernova | [SCS Commercial Strategy & Growth Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-2) | Longmont, CO | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
-| GE Vernova | [SCS Commercial Strategy & Growth Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-1) | Longmont, CO | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
+| GE Vernova | [AI Data Mining Agent Intern, SCS Commercial](https://go.vansh.nyc/1nE) | Atlanta, GA | Onsite | 2026-10-07 | Rolling | 🔴 Closed | ❔ |
 | GE Vernova | [AI Evaluation & Benchmarking Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2) | Bellevue, WA | Onsite | 2026-10-14 | Rolling | 🔴 Closed | ❔ |
 | GE Vernova | [AI Evaluation & Benchmarking Intern - AGI](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-1) | Bellevue, WA | Onsite | 2026-10-14 | Rolling | 🔴 Closed | ❔ |
 | GE Vernova | [AI Evaluation & Benchmarking Intern, AGI](https://gevernova.wd5.myworkdayjobs.com/en-US/vernova_externalsite/job/Bellevue/GE-Vernova---AGI---AI-Evaluation---Benchmarking-Intern---Summer-2027_R5054821-2) | Bellevue, WA | Onsite | 2026-10-14 | Rolling | 🔴 Closed | ❔ |
@@ -50,6 +48,8 @@
 | GE Vernova | [Product Management Intern](https://go.vansh.nyc/he) | Markham | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | GE Vernova | [Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-1) | Markham | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | GE Vernova | [Product Management Intern - Controls Lifecare Services](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2) | Longmont, CO +1 | Onsite | 2026-08-30 | Rolling | 🔴 Closed | ❔ |
+| GE Vernova | [SCS Commercial Strategy & Growth Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-2) | Longmont, CO | Onsite | 2026-10-07 | Rolling | 🔴 Closed | ❔ |
+| GE Vernova | [SCS Commercial Strategy & Growth Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Longmont/SCS-Commercial-Strategy---Growth-Internship-Summer-2027_R5055048-1) | Longmont, CO | Onsite | 2026-10-07 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

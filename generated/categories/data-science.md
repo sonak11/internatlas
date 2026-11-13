@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**420** tracked · **229** open now
+**420** tracked · **226** open now
 
 ## Current openings
 
@@ -11,7 +11,6 @@
 | [AARP](generated/companies/aarp.md) | [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) | Washington, DC | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [Allstate](generated/companies/allstate.md) | [Data Science Intern - Core Telematics](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285) | Illinois | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Allstate](generated/companies/allstate.md) | [Data Science Intern, Core Telematics](https://go.vansh.nyc/ff) | USA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
-| [American Electric Power](generated/companies/american-electric-power.md) | [Data Scientist Intern](https://go.vansh.nyc/cW) | Columbus, OH | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [APEX Analytix](generated/companies/apex-analytix.md) | [Data Science Intern](https://go.vansh.nyc/1ii) | Greensboro, NC | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [APEX Analytix](generated/companies/apex-analytix.md) | [Data Science Intern](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53) | Greensboro, NC | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Applied Materials](generated/companies/applied-materials.md) | [Data Science Intern](https://go.vansh.nyc/Ya) | Santa Clara, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
@@ -112,7 +111,6 @@
 | [Invesco](generated/companies/invesco.md) | [Data Science Intern - Real Estate](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091) | Dallas, TX | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Invesco](generated/companies/invesco.md) | [Data Science Intern - Real Estate](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) | Dallas, TX | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Invesco](generated/companies/invesco.md) | [Real Estate Intern, Data Science](https://go.vansh.nyc/1ly) | Dallas, TX | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
-| [Invitation-charter](generated/companies/invitation-charter.md) | [Data Science Intern](https://go.vansh.nyc/1ku) | Greenwood Village, CO | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Itron](generated/companies/itron.md) | [Data Science Intern - Distributed Intelligence](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942) | Liberty Lake, WA | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Itron](generated/companies/itron.md) | [Data Science Intern - Distributed Intelligence](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2) | Liberty Lake, WA | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Itron](generated/companies/itron.md) | [Data Science Intern, Distributed Intelligence](https://go.vansh.nyc/JJ) | Liberty Lake, WA | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
@@ -194,7 +192,6 @@
 | [Strada Education Foundation](generated/companies/strada-education-foundation.md) | [Clear Outcomes and Data Science Intern](https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply) | Washington, DC | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [Stripe](generated/companies/stripe.md) | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285) | Toronto | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Stripe](generated/companies/stripe.md) | [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283) | New York | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
-| [Tacit](generated/companies/tacit.md) | [Data Scientist Intern](https://jobs.ashbyhq.com/tacit/561245bf-8341-45ba-802c-2fa8bb475da0/application?embed=true) | SF | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [The Federal Reserve System](generated/companies/the-federal-reserve-system.md) | [Data Science and Business Analytics Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609) | Chicago, IL | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [The Federal Reserve System](generated/companies/the-federal-reserve-system.md) | [Data Science Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Summer-2027-Graduate-Internship---Data-Science_R-0000034056-1) | Minneapolis, MN | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [The Federal Reserve System](generated/companies/the-federal-reserve-system.md) | [Data Science Intern](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern--PhD-Data-Science-or-Computer-Science_R-0000033634) | Chicago, IL | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
@@ -240,6 +237,7 @@
 | [Acxiom](generated/companies/acxiom.md) | [Data Scientist Intern](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459) | Conway, AR | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [AlixPartners](generated/companies/alixpartners.md) | [Data Scientist Intern](https://www.alixpartners.com/careers/7725335003?gh_jid=7725335003) | NYC | Onsite | 2026-07-06 | Rolling | 🔴 Closed | ❔ |
 | [Allied Solutions](generated/companies/allied-solutions.md) | [Data Science Intern - Data Intelligence](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Science-Intern_R-011077) | Carmel, IN | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
+| [American Electric Power](generated/companies/american-electric-power.md) | [Data Scientist Intern](https://go.vansh.nyc/cW) | Columbus, OH | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 | [American Express](generated/companies/american-express.md) | [Data Science Intern - Finance](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191) | NYC | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [American Express](generated/companies/american-express.md) | [Data Science Intern - Finance](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190) | NYC | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [American Express](generated/companies/american-express.md) | [Data Science Intern - Global Decision Science - Credit & Fraud Risk](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266) | NYC | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
@@ -327,6 +325,7 @@
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern](https://job-boards.greenhouse.io/integrainterns/jobs/5134593008) | Austin, TX | Onsite | 2026-04-28 | Rolling | 🔴 Closed | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | Austin, TX | Onsite | 2026-04-28 | Rolling | 🔴 Closed | ❔ |
 | [IntelliGenesis](generated/companies/intelligenesis.md) | [Applied Data Scientist Intern](http://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge) | Columbia, MD | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
+| [Invitation-charter](generated/companies/invitation-charter.md) | [Data Science Intern](https://go.vansh.nyc/1ku) | Greenwood Village, CO | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
 | [J.M. Smucker](generated/companies/j-m-smucker.md) | [Data Science Intern](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118) | Remote | Remote | 2026-11-05 | Rolling | 🔴 Closed | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Data Science & Autonomous Systems Intern - Data Science & Autonomous Systems - Critical Infrastructure Protection](https://careers.jhuapl.edu/jobs/60432?icims=1) | Laurel, MD | Onsite | 2026-10-10 | Rolling | 🔴 Closed | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Software Engineer/Data Scientist/Ontologist Intern - Threat Analytic Systems](https://careers.jhuapl.edu/jobs/59997?icims=1) | Laurel, MD | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
@@ -398,6 +397,7 @@
 | [Sun Life](generated/companies/sun-life.md) | [Data Science Intern](https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666) | Milwaukee, WI +4 | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [Sun Life](generated/companies/sun-life.md) | [Data Science Intern](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1) | Milwaukee, WI +4 | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [Syngenta Group](generated/companies/syngenta-group.md) | [Data Scientist Intern](https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415) | Raleigh, NC | Onsite | 2026-10-29 | Rolling | 🔴 Closed | ❔ |
+| [Tacit](generated/companies/tacit.md) | [Data Scientist Intern](https://jobs.ashbyhq.com/tacit/561245bf-8341-45ba-802c-2fa8bb475da0/application?embed=true) | SF | Onsite | 2026-10-09 | Rolling | 🔴 Closed | ❔ |
 | [TD Bank](generated/companies/td-bank.md) | [Data Science Intern/Co-op](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Enterprise-Real-Estate-Intern-Co-op_R_1504711) | Toronto | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [Tencent](generated/companies/tencent.md) | [Data Science Intern](https://go.vansh.nyc/8j) | Palo Alto, CA | Onsite | 2026-10-12 | Rolling | 🔴 Closed | ❔ |
 | [The Home Depot](generated/companies/the-home-depot.md) | [Data Science & Analytics Intern](https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Data-Science---Analytics_Req191968) | Atlanta, GA | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
@@ -537,7 +537,6 @@
 - Visa (2)
 - Xcel Energy (2)
 - AARP (1)
-- American Electric Power (1)
 - AspenTech (1)
 - Beli (1)
 - Blue Cross Blue Shield of Michigan (1)
@@ -560,7 +559,6 @@
 - Ingredion (1)
 - Intel (1)
 - Intuitive (1)
-- Invitation-charter (1)
 - Keysight Technologies (1)
 - Kudu Dynamics (1)
 - Lawrence Livermore National Laboratory (LLNL) (1)
@@ -584,7 +582,6 @@
 - Schonfeld (1)
 - Sierra Nevada Corporation (1)
 - Strada Education Foundation (1)
-- Tacit (1)
 - The Hartford (1)
 - Tinder (1)
 - TobogganLabs (1)
@@ -595,6 +592,7 @@
 - Acxiom (1)
 - AlixPartners (1)
 - Allied Solutions (1)
+- American Electric Power (1)
 - American Family Insurance Group (1)
 - American Institutes for Research (1)
 - Arevon (1)
@@ -623,6 +621,7 @@
 - Honeywell (1)
 - Inmar Intelligence (1)
 - IntelliGenesis (1)
+- Invitation-charter (1)
 - J.M. Smucker (1)
 - JP Morgan Chase (1)
 - KKR (1)
@@ -653,6 +652,7 @@
 - Southwest Airlines (1)
 - State of North Carolina (1)
 - Syngenta Group (1)
+- Tacit (1)
 - TD Bank (1)
 - Tencent (1)
 - U.S. Venture (1)

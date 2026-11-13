@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | The Toro Company | [Cloud Software Developer Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498) | Frederick, CO | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | The Toro Company | [Cloud Software Development Intern](https://go.vansh.nyc/bD) | Frederick, CO | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❌ |
+| The Toro Company | [CX and Customer Lifetime Value Intern - Operations Analyst](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819) | Bloomington, MN | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | The Toro Company | [Electronics Technician Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Electronics-Technician-Intern---The-Toro-Company_JR17552) | Bloomington, MN | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | The Toro Company | [Hardware and Software Engineering Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183) | Perry, OK | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | The Toro Company | [Hardware and Software Engineering Intern](https://go.vansh.nyc/MD) | Perry, OK | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |

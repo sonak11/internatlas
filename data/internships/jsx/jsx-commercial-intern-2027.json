@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "t-mobile-ai-strategist-intern-2027-d16115",
+  "id": "jsx-commercial-intern-2027",
   "company": {
-    "name": "T-Mobile",
-    "slug": "t-mobile"
+    "name": "JSX",
+    "slug": "jsx"
   },
-  "role": "AI Strategist Intern",
-  "category": "ai",
-  "apply_url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279",
+  "role": "Commercial Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jsx.wd503.myworkdayjobs.com/JSX_Careers/job/Dallas-Headquarters/Commercial-Intern_R-100729",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Bellevue",
-      "state": "WA",
+      "city": "Dallas",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-06",
-    "discovered": "2026-11-07",
+    "posted": "2026-11-02",
+    "discovered": "2026-11-13",
     "last_verified": "2026-11-13"
   },
   "status": "open",
