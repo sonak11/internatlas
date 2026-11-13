@@ -6,9 +6,10 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Stanley Black & Decker | [Data Analyst Intern](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2027_REQ-1000052481) | Towson, MD | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | Stanley Black & Decker | [Embedded Software Engineering Intern](https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019) | Towson, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Stanley Black & Decker | [Embedded Software Engineering Intern](https://go.vansh.nyc/Lv) | Towson, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
-Browse more roles in: [⚙️ Embedded](../categories/embedded.md)
+Browse more roles in: [⚙️ Embedded](../categories/embedded.md), [💻 Software Engineering](../categories/software-engineering.md)

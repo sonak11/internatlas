@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "tiktok-fullstack-software-engineer-intern-global-e-commerce-2027-ac9ee1",
+  "id": "us-internships-public-careers-site-undergraduate-software-engineering-intern-compilers-2027",
   "company": {
-    "name": "TikTok",
-    "slug": "tiktok"
+    "name": "US Internships Public Careers Site",
+    "slug": "us-internships-public-careers-site"
   },
-  "role": "Fullstack Software Engineer Intern, Global E-Commerce",
+  "role": "Undergraduate Software Engineering Intern, Compilers",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/18i",
+  "apply_url": "https://go.vansh.nyc/1xH",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
+      "city": "San Mateo",
       "state": "CA",
       "country": "USA"
     }
@@ -40,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-01",
-    "discovered": "2026-11-01",
-    "last_verified": "2026-11-12"
+    "posted": "2026-11-09",
+    "discovered": "2026-11-13",
+    "last_verified": "2026-11-13"
   },
   "status": "open",
   "tags": [

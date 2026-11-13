@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "carlisle-companies-product-management-intern-2027",
+  "company": {
+    "name": "Carlisle Companies",
+    "slug": "carlisle-companies"
+  },
+  "role": "Product Management Intern",
+  "category": "product",
+  "apply_url": "https://jobs.smartrecruiters.com/Carlisle/3743990016055226",
+  "season": "spring",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Carlisle",
+      "state": "PA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-12",
+    "discovered": "2026-11-13",
+    "last_verified": "2026-11-13"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | ISO New England | [Cyber Adversary Defense Optimization Intern](https://go.vansh.nyc/1wY) | Holyoke, MA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❌ |
+| ISO New England | [Operations Process Automation Developer Intern](https://go.vansh.nyc/1xG) | Holyoke, MA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

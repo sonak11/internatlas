@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Clay | [Software Engineering Intern](https://go.vansh.nyc/12H) | New York, NY | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
+| Clay | [Software Engineering Intern](https://go.vansh.nyc/12H) | New York, NY | Onsite | 2026-10-31 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

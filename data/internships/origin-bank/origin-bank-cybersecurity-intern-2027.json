@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "anduril-2027-business-operations-intern-2027",
+  "id": "origin-bank-cybersecurity-intern-2027",
   "company": {
-    "name": "Anduril",
-    "slug": "anduril",
-    "career_page": "https://www.anduril.com/careers"
+    "name": "Origin Bank",
+    "slug": "origin-bank"
   },
-  "role": "2027 Business Operations Intern",
-  "category": "hardware",
-  "apply_url": "https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007",
+  "role": "Cybersecurity Intern",
+  "category": "security",
+  "apply_url": "https://go.vansh.nyc/1yr",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Costa Mesa",
+      "city": "Ruston",
+      "state": "LA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-21",
-    "discovered": "2026-10-21",
-    "last_verified": "2026-11-12"
+    "posted": "2026-11-13",
+    "discovered": "2026-11-13",
+    "last_verified": "2026-11-13"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

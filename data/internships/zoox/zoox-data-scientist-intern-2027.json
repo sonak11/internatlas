@@ -7,16 +7,11 @@
   },
   "role": "Data Scientist Intern",
   "category": "data-science",
-  "apply_url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply",
+  "apply_url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db/apply",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "Boston",
-      "state": "MA",
-      "country": "USA"
-    },
     {
       "city": "Foster City",
       "state": "CA",
@@ -48,9 +43,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-07",
+    "posted": "2026-11-13",
     "discovered": "2026-11-07",
-    "last_verified": "2026-11-12"
+    "last_verified": "2026-11-13"
   },
   "status": "open",
   "tags": [

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "id": "capital-power-summer-student-intern-data-analytics-2027",
+  "company": {
+    "name": "Capital Power",
+    "slug": "capital-power"
+  },
+  "role": "Summer Student Intern - Data Analytics",
+  "category": "software-engineering",
+  "apply_url": "https://capitalpower.wd10.myworkdayjobs.com/External/job/Calgary-AB/Summer-Student---Data-Analytics_JR807222",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Calgary",
+      "country": "AB"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-12",
+    "discovered": "2026-11-13",
+    "last_verified": "2026-11-13"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

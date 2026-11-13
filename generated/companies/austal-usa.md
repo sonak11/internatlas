@@ -7,7 +7,8 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Austal USA | [Cybersecurity Intern](https://go.vansh.nyc/1vR) | Mobile, AL | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
+| Austal USA | [Information Technology Intern](https://go.vansh.nyc/1y0) | Mobile, AL | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
-Browse more roles in: [🔐 Security](../categories/security.md)
+Browse more roles in: [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)
