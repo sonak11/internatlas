@@ -7,9 +7,9 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Constellation Brands | [AI & Automation Engineering Intern](https://go.vansh.nyc/1h2) | Rochester, NY | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
-| Constellation Brands | [AI Enablement Intern](https://go.vansh.nyc/co) | Rochester, NY | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Constellation Brands | [AI Innovation Intern](https://go.vansh.nyc/1iF) | Rochester, NY +1 | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | Constellation Brands | [Full Stack Engineer Intern](https://go.vansh.nyc/1bs) | Rochester, NY | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| Constellation Brands | [AI Enablement Intern](https://go.vansh.nyc/co) | Rochester, NY | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
