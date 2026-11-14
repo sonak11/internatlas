@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "id": "amgen-ai-enabled-knowledge-graphs-for-patient-journey-analytics-in-2027",
+  "company": {
+    "name": "Amgen",
+    "slug": "amgen"
+  },
+  "role": "AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern",
+  "category": "ai",
+  "apply_url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "remote",
+  "locations": [],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-13",
+    "discovered": "2026-11-14",
+    "last_verified": "2026-11-14"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

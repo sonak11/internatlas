@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "tiktok-software-engineer-intern-trust-and-safety-engineering-2027-eacfa2",
+  "id": "envita-solutions-software-engineering-intern-applied-ai-2027",
   "company": {
-    "name": "TikTok",
-    "slug": "tiktok"
+    "name": "Envita Solutions",
+    "slug": "envita-solutions"
   },
-  "role": "Software Engineer Intern, Trust and Safety-Engineering",
-  "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/6c",
+  "role": "Software Engineering Intern, Applied AI",
+  "category": "ai",
+  "apply_url": "https://go.vansh.nyc/1z7",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Seattle",
-      "state": "WA",
+      "city": "Indianapolis",
+      "state": "IN",
       "country": "USA"
     }
   ],
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-04",
-    "discovered": "2026-10-25",
-    "last_verified": "2026-11-13"
+    "posted": "2026-11-13",
+    "discovered": "2026-11-14",
+    "last_verified": "2026-11-14"
   },
   "status": "open",
   "tags": [

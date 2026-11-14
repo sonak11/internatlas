@@ -10,6 +10,7 @@
 | Manulife Financial | [Software Engineer Intern](https://go.vansh.nyc/Ci) | Waterloo | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | Manulife Financial | [Software Engineer Intern - Software Engineering](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering--12-Months-_JR26091053-1) | Waterloo | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | Manulife Financial | [Software Engineer Intern, Software Engineering](https://go.vansh.nyc/Cj) | Waterloo | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| Manulife Financial | [Software Engineering Co-op Intern](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Spring-Co-op-2027---Software-Engineering-Intern_JR26110405) | Boston, MA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | Manulife Financial | [AI Intern](https://go.vansh.nyc/bS) | Toronto | Onsite | 2026-10-19 | Rolling | 🔴 Closed | ❔ |
 | Manulife Financial | [AI Intern - AI](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688-1) | Toronto | Onsite | 2026-10-19 | Rolling | 🔴 Closed | ❔ |
 | Manulife Financial | [Grit Intern](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---GRIT_JR26080516) | Toronto | Onsite | 2026-10-08 | Rolling | 🔴 Closed | ❔ |

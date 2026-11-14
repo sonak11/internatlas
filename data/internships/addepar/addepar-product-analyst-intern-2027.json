@@ -1,25 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-ms-phd-weather-perception-2027",
+  "id": "addepar-product-analyst-intern-2027",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "Addepar",
+    "slug": "addepar"
   },
-  "role": "2027 Summer Intern, MS/PhD, Weather Perception",
+  "role": "Product Analyst Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8335511",
+  "apply_url": "https://job-boards.greenhouse.io/addepar1/jobs/8910306002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "SF",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -31,8 +25,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -48,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-29",
-    "discovered": "2026-10-30",
-    "last_verified": "2026-11-13"
+    "posted": "2026-11-13",
+    "discovered": "2026-11-14",
+    "last_verified": "2026-11-14"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "systems-planning-and-analysis-data-engineering-analytics-tools-intern-2027-0bf49d",
+  "id": "idemia-north-america-full-stack-software-engineering-intern-2027",
   "company": {
-    "name": "Systems Planning and Analysis",
-    "slug": "systems-planning-and-analysis"
+    "name": "IDEMIA North America",
+    "slug": "idemia-north-america"
   },
-  "role": "Data Engineering & Analytics Tools Intern",
-  "category": "data-engineering",
-  "apply_url": "https://spa.jibeapply.com/jobs/23634?icims=1",
+  "role": "Full Stack Software Engineering Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1z9",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Washington",
-      "state": "DC",
+      "city": "Eden Prairie",
+      "state": "MN",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-16",
-    "discovered": "2026-11-09",
-    "last_verified": "2026-11-13"
+    "posted": "2026-11-13",
+    "discovered": "2026-11-14",
+    "last_verified": "2026-11-14"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

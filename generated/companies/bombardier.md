@@ -6,10 +6,10 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Bombardier | [Data Science and AI Intern, Connected Aircraft](https://go.vansh.nyc/So) | Dorval | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
-| Bombardier | [Developer Intern](https://go.vansh.nyc/Sn) | Mississauga | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
-| Bombardier | [Software Developer Intern](https://go.vansh.nyc/Sp) | St-Laurent | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
+| Bombardier | [Data Science and AI Intern, Connected Aircraft](https://go.vansh.nyc/So) | Dorval | Onsite | 2026-10-18 | Rolling | 🔴 Closed | ❔ |
+| Bombardier | [Developer Intern](https://go.vansh.nyc/Sn) | Mississauga | Onsite | 2026-10-18 | Rolling | 🔴 Closed | ❔ |
 | Bombardier | [Extended Reality Programmer Intern](https://go.vansh.nyc/Sm) | Dorval | Onsite | 2026-10-18 | Rolling | 🔴 Closed | ❔ |
+| Bombardier | [Software Developer Intern](https://go.vansh.nyc/Sp) | St-Laurent | Onsite | 2026-10-18 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

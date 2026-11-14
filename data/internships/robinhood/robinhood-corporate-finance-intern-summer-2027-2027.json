@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "tiktok-ai-product-manager-intern-product-social-2027-eb21ab",
+  "id": "robinhood-corporate-finance-intern-summer-2027-2027",
   "company": {
-    "name": "TikTok",
-    "slug": "tiktok"
+    "name": "Robinhood",
+    "slug": "robinhood",
+    "career_page": "https://careers.robinhood.com/"
   },
-  "role": "AI Product Manager Intern - Product Social",
-  "category": "ai",
-  "apply_url": "https://lifeattiktok.com/search/7675616554318596357",
+  "role": "Corporate Finance Intern (Summer 2027)",
+  "category": "software-engineering",
+  "apply_url": "https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src%3D&gh_jid=8357464",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -40,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-22",
-    "discovered": "2026-10-26",
-    "last_verified": "2026-11-13"
+    "posted": "2026-11-13",
+    "discovered": "2026-11-14",
+    "last_verified": "2026-11-14"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }
