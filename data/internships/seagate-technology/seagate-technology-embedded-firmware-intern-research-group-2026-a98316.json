@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "agco-embedded-software-engineer-intern-2027-765fa1",
+  "id": "seagate-technology-embedded-firmware-intern-research-group-2026-a98316",
   "company": {
-    "name": "AGCO",
-    "slug": "agco"
+    "name": "Seagate Technology",
+    "slug": "seagate-technology"
   },
-  "role": "Embedded Software Engineer Intern",
+  "role": "Embedded Firmware Intern, Research Group",
   "category": "embedded",
-  "apply_url": "https://go.vansh.nyc/b4",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://go.vansh.nyc/1zu",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Hesston",
-      "state": "KS",
-      "country": "USA"
-    },
-    {
-      "city": "Jackson",
-      "state": "MN",
+      "city": "Longmont",
+      "state": "CO",
       "country": "USA"
     }
   ],
@@ -45,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-16",
-    "discovered": "2026-10-25",
+    "posted": "2026-11-14",
+    "discovered": "2026-11-14",
     "last_verified": "2026-11-14"
   },
   "status": "open",

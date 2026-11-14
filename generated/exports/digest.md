@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-14
 
-## 🆕 New this week (694)
+## 🆕 New this week (703)
 
 - **7-Eleven** — [Data Engineer Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281) · data-engineering · —
 - **7-Eleven** — [Data Engineer Intern](https://go.vansh.nyc/1pp) · data-engineering · —
@@ -334,6 +334,9 @@
 - **Johns Hopkins Applied Physics Laboratory** — [Artificial Intelligence Intern - Information Fusion](https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us) · ai · —
 - **Johns Hopkins Applied Physics Laboratory** — [Reverse Engineer Intern, Offensive Cyber Capabilities](https://go.vansh.nyc/1xi) · software-engineering · —
 - **Johns Hopkins Applied Physics Laboratory** — [Reverse Engineer Intern, Systems Exploitation](https://go.vansh.nyc/1xg) · software-engineering · —
+- **KBR Wyle Services** — [Computer Science Intern, Defense & Intel (D&I)](https://go.vansh.nyc/1zy) · software-engineering · —
+- **KBR Wyle Services** — [Image Processing Software Engineer Intern](https://go.vansh.nyc/1zx) · software-engineering · —
+- **KBR Wyle Services** — [Software Engineering Intern, Defense & Intel (D&I)](https://go.vansh.nyc/1zz) · software-engineering · —
 - **KION Group** — [A.I. Engineering Intern](https://go.vansh.nyc/1wL) · software-engineering · —
 - **Kensington** — [BI/Data Analyst Intern](https://go.vansh.nyc/1or) · software-engineering · —
 - **Keysight Technologies** — [Embedded Software Engineer Intern](https://go.vansh.nyc/1pK) · embedded · —
@@ -414,6 +417,8 @@
 - **National Information Solutions Cooperative** — [Test Automation Intern](https://go.vansh.nyc/1sM) · software-engineering · —
 - **National Interstate Insurance** — [Data Scientist Intern](https://go.vansh.nyc/1ni) · data-science · —
 - **National Interstate Insurance** — [Telematics / Predictive Analytics Intern](https://go.vansh.nyc/1pj) · software-engineering · —
+- **NetApp** — [Software Engineer Intern, Cloud](https://go.vansh.nyc/1zr) · cloud · —
+- **NetApp** — [Software Engineer Intern, Systems](https://go.vansh.nyc/1zs) · software-engineering · —
 - **New York Life Insurance** — [IBM i Developer Intern](https://go.vansh.nyc/1v1) · software-engineering · —
 - **NextEra Energy** — [Software Engineering Intern - Technical](https://jobs.nexteraenergy.com/job/Juno-Beach-Summer-Intern-Technical-FL-33408/1450749000/?ats=successfactors) · software-engineering · —
 - **NextEra Energy** — [Software Engineering Intern, Technical](https://go.vansh.nyc/1zq) · software-engineering · —
@@ -546,6 +551,8 @@
 - **Scout Motors** — [Products Intern](https://job-boards.greenhouse.io/scoutmotors/jobs/5287127007) · software-engineering · —
 - **Scout Motors Inc.** — [Digital Products Intern](https://go.vansh.nyc/1oV) · software-engineering · —
 - **Scout Motors Inc.** — [IT Intern](https://go.vansh.nyc/1oW) · software-engineering · —
+- **Seagate Technology** — [Embedded Firmware Intern, Research Group](https://go.vansh.nyc/1zu) · embedded · —
+- **Seagate Technology** — [Embedded Firmware Intern, Research Group](https://go.vansh.nyc/1zt) · embedded · —
 - **Seaspan** — [Data Engineering Intern](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9156) · data-engineering · —
 - **Seaspan** — [Data Engineering Intern](https://go.vansh.nyc/1zc) · data-engineering · —
 - **Securitymetrics** — [Software Engineer Intern](https://go.vansh.nyc/1vg) · software-engineering · —
@@ -684,6 +691,8 @@
 - **Zoox** — [Data Scientist Intern](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply) · data-science · —
 - **Zoox** — [Data Scientist Intern](https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db/apply) · data-science · —
 - **Zoox** — [Data Scientist Intern [Summer 2027]](https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db) · data-science · —
+- **Zoox** — [Feature Integration Intern [Summer 2027]](https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f) · software-engineering · —
+- **Zoox** — [Industrial Design Intern [Summer 2027]](https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd) · design · —
 - **Zoox** — [Process Improvement Intern [ Summer 2027]](https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852) · software-engineering · —
 - **Zoox** — [Safety Reporting & Benchmarking Intern](https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db/apply) · software-engineering · —
 - **Zoox** — [Safety Reporting Intern [Summer 2027]](https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db) · software-engineering · —

@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0",
+  "id": "kbr-wyle-services-software-engineering-intern-defense-intel-d-i-2027",
+  "company": {
+    "name": "KBR Wyle Services",
+    "slug": "kbr-wyle-services"
+  },
+  "role": "Software Engineering Intern, Defense & Intel (D&I)",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1zz",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Chantilly",
+      "state": "VA",
+      "country": "USA"
+    },
+    {
+      "city": "Ann Arbor",
+      "state": "MI",
+      "country": "USA"
+    },
+    {
+      "city": "Lexington",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
+      "city": "Kihei",
+      "state": "HI",
+      "country": "USA"
+    },
+    {
+      "city": "Beavercreek",
+      "state": "OH",
+      "country": "USA"
+    },
+    {
+      "city": "Lexington Park",
+      "state": "MD",
+      "country": "USA"
+    },
+    {
+      "city": "King of Prussia",
+      "state": "PA",
+      "country": "USA"
+    },
+    {
+      "city": "Colorado Springs",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Huntsville",
+      "state": "AL",
+      "country": "USA"
+    },
+    {
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Orlando",
+      "state": "FL",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-14",
+    "discovered": "2026-11-14",
+    "last_verified": "2026-11-14"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:vanshb03"
+  ]
+}

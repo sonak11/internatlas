@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**183** tracked · **124** open now
+**184** tracked · **125** open now
 
 ## Current openings
 
@@ -79,6 +79,7 @@
 | [MITRE](generated/companies/mitre.md) | [Critical Infrastructure Protection Intern](https://go.vansh.nyc/10s) | McLean, VA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [National Interstate Insurance](generated/companies/national-interstate-insurance.md) | [DevOps Developer Intern](https://go.vansh.nyc/Zr) | Cincinnati, OH | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Nelnet](generated/companies/nelnet.md) | [Platform Engineer Intern](https://go.vansh.nyc/1iO) | Mississauga | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
+| [NetApp](generated/companies/netapp.md) | [Software Engineer Intern, Cloud](https://go.vansh.nyc/1zr) | San Jose, CA | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Software Engineer Intern, Infrastructure](https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003) | South San Francisco | Onsite | 2024-06-13 | Rolling | 🟢 Open | ❔ |
 | [Nintendo](generated/companies/nintendo.md) | [Software Engineer Intern, DevOps](https://go.vansh.nyc/12m) | Redmond, WA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Nissan](generated/companies/nissan.md) | [EA & Cloud Intern](https://go.vansh.nyc/Gn) | Franklin, TN | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
@@ -249,6 +250,7 @@
 - MITRE (1)
 - National Interstate Insurance (1)
 - Nelnet (1)
+- NetApp (1)
 - Neuralink (1)
 - Nintendo (1)
 - Nissan (1)

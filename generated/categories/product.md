@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**305** tracked · **155** open now
+**305** tracked · **150** open now
 
 ## Current openings
 
@@ -13,8 +13,6 @@
 | [ADT](generated/companies/adt.md) | [Product Management & Product Operations Intern](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393) | Boca Raton, FL | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Allied Solutions](generated/companies/allied-solutions.md) | [Product Management Intern - Risk Management](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083) | St Paul, MN | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Allstate](generated/companies/allstate.md) | [Product Management Advertising Intern](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280) | Illinois | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
-| [Altice USA](generated/companies/altice-usa.md) | [Product Management B2B Broadband Services Intern](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors) | Bethpage, NY | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
-| [Altice USA](generated/companies/altice-usa.md) | [Product Management Customer Management App Intern](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors) | Bethpage, NY | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Altice USA](generated/companies/altice-usa.md) | [Product Management Intern - Video CPE](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Video-CPE-NY-11714/1449511700/?ats=successfactors) | Bethpage, NY | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Product Manager Intern - ALA](https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship) | Seattle, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Technical Product Manager Intern](https://amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027) | Seattle, WA +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
@@ -86,14 +84,11 @@
 | [Koch Industries](generated/companies/koch-industries.md) | [Product Management Intern](https://koch.avature.net/en_US/careers/JobDetail/195099) | Eden Prairie, MN +1 | Onsite | 2026-10-03 | Rolling | 🟢 Open | ❔ |
 | [Koch Industries](generated/companies/koch-industries.md) | [Product Management Intern - Aerospace & Defense Solutions](https://koch.avature.net/en_US/careers/JobDetail/197821) | Georgetown, TX | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Legrand](generated/companies/legrand.md) | [Product Management Intern](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837) | Syracuse, NY | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
-| [LexisNexis Risk Solutions](generated/companies/lexisnexis-risk-solutions.md) | [Product Management Intern - Insurance](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879) | Alpharetta, GA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
-| [LexisNexis Risk Solutions](generated/companies/lexisnexis-risk-solutions.md) | [Product Manager Intern - Government](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611) | Alpharetta, GA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Medline](generated/companies/medline.md) | [MBA Intern - Product Management](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805) | Chicago, IL +1 | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [Medline](generated/companies/medline.md) | [Product Management Intern - Summer 2027](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983) | Chicago, IL +1 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://go.vansh.nyc/hO) | Cambridge, MA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://go.vansh.nyc/5Y) | Remote | Remote | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) | Redmond, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
-| [Mohawk](generated/companies/mohawk.md) | [Product Management Intern](https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors) | Calhoun, GA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [NJM Insurance Group](generated/companies/njm-insurance-group.md) | [Insurance Product Management Analyst Intern 3](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190) | Trenton, NJ | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Product Management MBA Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Laptop---Summer-2027_JR2025905) | Santa Clara, CA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Product Management MBA Intern - Data Center GPU](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Data-Center-GPU---Summer-2027_JR2025670-1) | Santa Clara, CA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
@@ -169,6 +164,8 @@
 | [ABC News](generated/companies/abc-news.md) | [Product Management and Engineering Intern](https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896) | New York, NY | Onsite | 2026-04-20 | Rolling | 🔴 Closed | ❔ |
 | [Acxiom](generated/companies/acxiom.md) | [Product Manager Intern - Real Identity Product Team](https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/RemoteHomebased/Intern---Product-Management_JR014473-1) | Conway, AR | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | [Altasciences](generated/companies/altasciences.md) | [Process Innovation Product Management Intern](https://altasciences.wd1.myworkdayjobs.com/Careers/job/Laval-Quebec/Process-Innovation---Product-Management-Intern_R102753) | Laval +1 | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
+| [Altice USA](generated/companies/altice-usa.md) | [Product Management B2B Broadband Services Intern](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-B2B-Broadband-Services-NY-11714/1449513100/?ats=successfactors) | Bethpage, NY | Onsite | 2026-11-10 | Rolling | 🔴 Closed | ❔ |
+| [Altice USA](generated/companies/altice-usa.md) | [Product Management Customer Management App Intern](https://www.optimumcareers.com/job/Bethpage-Intern-Product-Management-Customer-Management-App-NY-11714/1449512200/?ats=successfactors) | Bethpage, NY | Onsite | 2026-11-10 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [Product Management Intern/Co-op - Multiple Teams](https://careers.amd.com/jobs/90411?icims=1) | Calgary | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [American Express](generated/companies/american-express.md) | [Digital Product Management Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057) | NYC | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [American Express](generated/companies/american-express.md) | [Digital Product Management Intern - Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011627) | Sunrise, FL | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
@@ -233,6 +230,8 @@
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Product Manager Intern - Chase Digital Development Programme](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775305) | London | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [KnowBe4](generated/companies/knowbe4.md) | [Associate Product Manager Intern](https://job-boards.greenhouse.io/knowbe4/jobs/8919274002) | Clearwater, FL | Onsite | 2026-11-01 | Rolling | 🔴 Closed | ❔ |
 | [LabCorp](generated/companies/labcorp.md) | [IT Product Manager Intern - Payer Team](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---IT-Product-Manager_2632185) | Durham, NC | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
+| [LexisNexis Risk Solutions](generated/companies/lexisnexis-risk-solutions.md) | [Product Management Intern - Insurance](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Insurance_R118879) | Alpharetta, GA | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
+| [LexisNexis Risk Solutions](generated/companies/lexisnexis-risk-solutions.md) | [Product Manager Intern - Government](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Alpharetta-GA-Alderman/Product-Management-Intern--Government_R118611) | Alpharetta, GA | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 | [MANN+HUMMEL](generated/companies/mann-hummel.md) | [Product Management & Market Intelligence Intern](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) | Gastonia, NC | Onsite | 2026-10-30 | Rolling | 🔴 Closed | ❔ |
 | [Manulife Financial](generated/companies/manulife-financial.md) | [Product Management & Risk Technology Intern](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875) | Toronto | Onsite | 2026-10-08 | Rolling | 🔴 Closed | ❔ |
 | [Mastercard](generated/companies/mastercard.md) | [Product Management Intern](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Product-Management-Intern--Summer-2027---United-States_R-287624-1) | Harrison, NY +1 | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
@@ -242,6 +241,7 @@
 | [Mastercard](generated/companies/mastercard.md) | [Technical Product Management Intern - Switching Solutions](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Product-Management---Technical-Intern--Summer-2027---St-Louis--MO--US_R-284711) | O'Fallon, MO | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393557004836) | Mountain View, CA | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393557044772) | Cambridge, MA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
+| [Mohawk](generated/companies/mohawk.md) | [Product Management Intern](https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors) | Calhoun, GA | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | [Momentive](generated/companies/momentive.md) | [Product Management Intern - Specialty Additives](https://momentive.wd1.myworkdayjobs.com/MC/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816) | Friendly, WV | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | [Naver U.Hub INC](generated/companies/naver-u-hub-inc.md) | [Product Management Intern](https://naveruhubinc.applytojob.com/apply/snw35vU7eX/ThingsBook-Product-Management-Intern) | Redwood City, CA | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [OATEY](generated/companies/oatey.md) | [Product Management Intern](https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Headquarters/Product-Management-Intern_R7185) | Cleveland, OH | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
@@ -356,7 +356,6 @@
 - Intercontinental Exchange (2)
 - Invesco (2)
 - Koch Industries (2)
-- LexisNexis Risk Solutions (2)
 - Medline (2)
 - Oshkosh (2)
 - Rubrik (2)
@@ -369,6 +368,7 @@
 - Datadog (2)
 - Electronic Arts (2)
 - Geotab (2)
+- LexisNexis Risk Solutions (2)
 - PricewaterhouseCoopers (PwC) (2)
 - Publicis Groupe (2)
 - ROCKWOOL Group (2)
@@ -401,7 +401,6 @@
 - Honeywell (1)
 - Intuit (1)
 - Legrand (1)
-- Mohawk (1)
 - NJM Insurance Group (1)
 - OneEthos (1)
 - Parallel Systems (1)
@@ -438,6 +437,7 @@
 - LabCorp (1)
 - MANN+HUMMEL (1)
 - Manulife Financial (1)
+- Mohawk (1)
 - Momentive (1)
 - Naver U.Hub INC (1)
 - OATEY (1)

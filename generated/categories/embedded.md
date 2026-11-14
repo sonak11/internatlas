@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**320** tracked · **179** open now
+**321** tracked · **180** open now
 
 ## Current openings
 
@@ -13,7 +13,6 @@
 | [AeroVironment](generated/companies/aerovironment.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/Ly) | Dayton, OH +15 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [AeroVironment](generated/companies/aerovironment.md) | [Embedded Software Engineer Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388) | Dayton, OH +15 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [AGCO](generated/companies/agco.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/b4) | Hesston, KS +1 | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
-| [AGCO](generated/companies/agco.md) | [Embedded Software Engineer Intern](https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors) | Hesston, KS +1 | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Software Development Engineer Intern, Amazon Leo, Embedded Systems](https://go.vansh.nyc/g6) | Redmond, WA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❌ |
 | [Amazon](generated/companies/amazon.md) | [Software Development Engineer Intern, Embedded Systems](https://go.vansh.nyc/g0) | Seattle, WA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Software Engineer Intern - Embedded Systems](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) | Redmond, WA +1 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
@@ -129,6 +128,8 @@
 | [RTX](generated/companies/rtx.md) | [Electrical Engineer Intern - Firmware](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical--Firmware--Engineering-Intern--Summer-2027--Onsite-_01888316) | Fort Wayne, IN | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [RTX](generated/companies/rtx.md) | [Electrical Engineering Intern, Firmware](https://go.vansh.nyc/1vJ) | Ft Wayne, IN | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❌ |
 | [Samsung Semiconductor](generated/companies/samsung-semiconductor.md) | [SSD Firmware Development Intern](https://go.vansh.nyc/1z0) | San Jose, CA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
+| [Seagate Technology](generated/companies/seagate-technology.md) | [Embedded Firmware Intern, Research Group](https://go.vansh.nyc/1zu) | Longmont, CO | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
+| [Seagate Technology](generated/companies/seagate-technology.md) | [Embedded Firmware Intern, Research Group](https://go.vansh.nyc/1zt) | Shakopee, MN | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
 | [Seagate Technology](generated/companies/seagate-technology.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/Ss) | Longmont, CO | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Semtech](generated/companies/semtech.md) | [Firmware Intern](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Ottawa-ON/Firmware-Design-Intern_REQ3617) | Ottawa | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [Semtech](generated/companies/semtech.md) | [Firmware Intern](https://go.vansh.nyc/Jr) | Ottawa | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
@@ -359,13 +360,13 @@
 - Nokia (3)
 - Rivian (3)
 - Rockwell Automation (3)
+- Seagate Technology (3)
 - Sierra Nevada Corporation (3)
 - CoStar Group (3)
 - Etched (3)
 - Geotab (3)
 - Shield AI (3)
 - Aerospace Corporation (2)
-- AGCO (2)
 - CACI (2)
 - Castelion (2)
 - Entegris (2)
@@ -400,6 +401,7 @@
 - The Aerospace Corporation (2)
 - The Toro Company (2)
 - Ursa Major (2)
+- AGCO (1)
 - Analog Devices (1)
 - Apex (1)
 - Aptiv (1)
@@ -417,7 +419,6 @@
 - Peripheral (1)
 - REGENT (1)
 - Samsung Semiconductor (1)
-- Seagate Technology (1)
 - Shield (1)
 - SK Hynix Memory Solution (1)
 - SK hynix memory solutions America Inc. (1)

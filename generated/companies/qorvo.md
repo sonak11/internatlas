@@ -6,10 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Qorvo | [Product Engineering Intern](https://careers.qorvo.com/job/Hillsboro-Product-Engineering-Intern-OR-97124/1421976600/?ats=successfactors) | Hillsboro, OR | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Qorvo | [Software Engineer Intern](https://careers.qorvo.com/job/Richardson-Software-Engineer-Intern-TX-75080/1421457600/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
-| Qorvo | [SOI Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421670100/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
-| Qorvo | [Test Engineer Intern](https://careers.qorvo.com/job/Hillsboro-Test-Engineering-Intern-OR-97124/1421978100/?ats=successfactors) | Hillsboro, OR | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Qorvo | [Analog Design Engineer Intern](https://careers.qorvo.com/job/San-Jose-Analog-Design-Engineering-Intern-CA-95134/1424725600/?ats=successfactors) | San Jose, CA | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Analog Design Engineer Intern - High Performance Analog - Advanced Cellular](https://careers.qorvo.com/job/Richardson-Analog-Design-Engineering-Intern-TX-75081/1424728600/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Analog Design Intern](https://careers.qorvo.com/job/Chandler-Analog-Design-Intern-AZ-85226/1421977600/?ats=successfactors) | Chandler, AZ | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
@@ -28,6 +25,7 @@
 | Qorvo | [Full-Stack Web Developer Intern](https://careers.qorvo.com/job/Richardson-Full-Stack-Web-Developer-Intern-TX-75080/1424716200/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [IC Layout Engineer Intern](https://careers.qorvo.com/job/Richardson-IC-Layout-Engineering-Intern-TX-75081/1424795900/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Product Engineer Intern - Design and Applications](https://careers.qorvo.com/job/Richardson-Product-Engineer-D&A-Intern-TX-75081/1424806900/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
+| Qorvo | [Product Engineering Intern](https://careers.qorvo.com/job/Hillsboro-Product-Engineering-Intern-OR-97124/1421976600/?ats=successfactors) | Hillsboro, OR | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Product Management Engineer Intern - High Performance Analog](https://careers.qorvo.com/job/Richardson-Product-Management-Engineering-Intern-TX-75081/1424705200/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Product Management Intern](https://careers.qorvo.com/job/Greensboro-Product-Management-Intern-NC-27409/1421954200/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Product Management Intern - Advanced Cellular](https://careers.qorvo.com/job/Greensboro-Product-Management-Intern-NC-27409/1421973000/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
@@ -46,12 +44,14 @@
 | Qorvo | [Software Engineer Intern - Software R&D](https://careers.qorvo.com/job/Apopka-Software-Engineering-Intern,-SWR-FL-32703/1423577900/?ats=successfactors) | Apopka, FL | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Software Engineer Intern - SWR](https://careers.qorvo.com/job/Greensboro-Software-Engineering-Intern,-SWR-NC-27409/1421982000/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Software/Firmware Engineering Intern](https://careers.qorvo.com/job/Richardson-Software-Firmware-Engineering-Intern-TX-75081/1424727700/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
+| Qorvo | [SOI Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421670100/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [SOI Design Engineer Intern - High Performance Analog - Advanced Cellular](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421973500/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Technology Development Intern](https://careers.qorvo.com/job/Hillsboro-Technology-Development-Intern-OR-97124/1422908300/?ats=successfactors) | Hillsboro, OR | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Test Characterization Engineer Intern - RF Characterization Engineering](https://careers.qorvo.com/job/Richardson-Test-Characterization-Engineer-Intern-TX-75081/1424800700/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Test Engineer Intern](https://careers.qorvo.com/job/Richardson-Test-Engineer-D&A-CRAD-Intern-TX-75081/1424805300/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Test Engineer Intern](https://careers.qorvo.com/job/Richardson-Test-Engineering-Intern-TX-75080/1424729000/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Test Engineer Intern](https://careers.qorvo.com/job/Richardson-Test-Engineering-Intern-TX-75080/1424797000/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
+| Qorvo | [Test Engineer Intern](https://careers.qorvo.com/job/Hillsboro-Test-Engineering-Intern-OR-97124/1421978100/?ats=successfactors) | Hillsboro, OR | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Test Engineer Intern - Advanced Cellular](https://careers.qorvo.com/job/Chandler-Test-Engineering-Intern-AZ-85226/1420082600/?ats=successfactors) | Chandler, AZ | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Test Engineer Intern - RF Load Pull](https://careers.qorvo.com/job/Richardson-Test-Engineering-Intern-TX-75081/1424731100/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Qorvo | [Test Engineering Intern](https://careers.qorvo.com/job/Greensboro-Test-Engineering-Intern-NC-27409/1422393300/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |

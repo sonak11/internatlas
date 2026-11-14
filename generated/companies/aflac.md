@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Aflac | [Global Investments Legal Intern](https://careers.aflac.com/job/New-York-City-2027-Global-Investments-(NY)-Legal-Intern-NY-10005/1443294500/?ats=successfactors) | NYC | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Aflac | [Global Investments Legal Intern](https://careers.aflac.com/job/New-York-City-2027-Global-Investments-(NY)-Legal-Intern-NY-10005/1443294500/?ats=successfactors) | NYC | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

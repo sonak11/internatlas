@@ -1,24 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "edison-international-data-analytics-intern-data-science-applied-math-2027-d7e69d",
+  "id": "zoox-feature-integration-intern-summer-2027-2027",
   "company": {
-    "name": "Edison International",
-    "slug": "edison-international"
+    "name": "Zoox",
+    "slug": "zoox",
+    "career_page": "https://zoox.com/careers"
   },
-  "role": "Data Analytics Intern - Data Science - Applied Math",
-  "category": "data-science",
-  "apply_url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors",
+  "role": "Feature Integration Intern [Summer 2027]",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Pomona",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Rosemead",
+      "city": "Foster City",
       "state": "CA",
       "country": "USA"
     }
@@ -30,10 +26,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -48,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-09-01",
+    "posted": "2026-11-14",
+    "discovered": "2026-11-14",
     "last_verified": "2026-11-14"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

@@ -6,12 +6,11 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Paccar | [AI-Driven Vehicle Definition Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1453573733/?ats=successfactors) | Denton, TX | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Paccar | [Data Engineer Intern](https://go.vansh.nyc/11R) | USA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | Paccar | [Data Engineering Intern](https://go.vansh.nyc/1x9) | USA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
-| Paccar | [Product Planning Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Product-Planning-TX-76205-7864/1453917433/?ats=successfactors) | Denton, TX | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | Paccar | [Aftersales Data Analyst Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors) | Kirkland, WA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | Paccar | [Aftersales Data Analyst Intern](https://go.vansh.nyc/gB) | Kirkland, WA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
+| Paccar | [AI-Driven Vehicle Definition Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-AI-Driven-Vehicle-Definition-TX-76205-7864/1453573733/?ats=successfactors) | Denton, TX | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 | Paccar | [Application Developer Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Application-Developer-Intern-(OH)-WA-98033/1451927133/?ats=successfactors) | Chillicothe, OH | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 | Paccar | [Application Developer Intern](https://go.vansh.nyc/WV) | Chillicothe, OH | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 | Paccar | [Data Analyst Intern](https://go.vansh.nyc/1oo) | Chillicothe, OH | Onsite | 2026-11-09 | Rolling | 🔴 Closed | ❔ |
@@ -26,6 +25,7 @@
 | Paccar | [Greenhouse Gas Data Analyst Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Greenhouse-Gas-Data-Analyst-Intern-WA-98033/1455720933/?ats=successfactors) | Kirkland, WA | Onsite | 2026-11-09 | Rolling | 🔴 Closed | ❔ |
 | Paccar | [Materials Systems Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Materials-Systems-TX-76205-7864/1453566333/?ats=successfactors) | Denton, TX | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 | Paccar | [Product Planning Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-Product-Planning-Intern-WA-98033/1451437033/?ats=successfactors) | Kirkland, WA | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
+| Paccar | [Product Planning Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Product-Planning-TX-76205-7864/1453917433/?ats=successfactors) | Denton, TX | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | Paccar | [Sales Administration Data Analyst Intern - Greenhouse Gas](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Sales-Administration-Data-Analyst-Greenhouse-Gas-TX-76205-7864/1453564433/?ats=successfactors) | Denton, TX | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 | Paccar | [Software Developer Intern](https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors) | Denton, TX | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | Paccar | [Software Developer Intern](https://go.vansh.nyc/1dr) | Denton, TX | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |

@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "acuity-finance-ai-engineering-intern-2027-cc52d7",
+  "id": "zoox-industrial-design-intern-summer-2027-2027",
   "company": {
-    "name": "Acuity",
-    "slug": "acuity"
+    "name": "Zoox",
+    "slug": "zoox",
+    "career_page": "https://zoox.com/careers"
   },
-  "role": "Finance AI Engineering Intern",
-  "category": "ai",
-  "apply_url": "https://go.vansh.nyc/DX",
+  "role": "Industrial Design Intern [Summer 2027]",
+  "category": "design",
+  "apply_url": "https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Atlanta",
-      "state": "GA",
+      "city": "Foster City",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-29",
-    "discovered": "2026-10-26",
+    "posted": "2026-11-13",
+    "discovered": "2026-11-14",
     "last_verified": "2026-11-14"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:ats"
   ]
 }

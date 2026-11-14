@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**269** tracked · **140** open now
+**270** tracked · **140** open now
 
 ## Current openings
 
@@ -91,7 +91,6 @@
 | [onsemi](generated/companies/onsemi.md) | [Integrated Circuit Design Engineer Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506546) | Allen, TX | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [onsemi](generated/companies/onsemi.md) | [Integrated Circuit Design Engineer Intern](https://go.vansh.nyc/DQ) | Allen, TX | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [Product Design Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8350814) | Remote | Remote | 2026-11-09 | Rolling | 🟢 Open | ❔ |
-| [Qorvo](generated/companies/qorvo.md) | [SOI Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421670100/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Camera Design Engineering Intern](https://qualcomm.eightfold.ai/careers/job/446721829439) | Vancouver | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Camera Design Engineering Intern](https://go.vansh.nyc/Yi) | Vancouver | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Camera Design Implementation Intern](https://qualcomm.eightfold.ai/careers/job/446721678727) | Vancouver | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
@@ -148,6 +147,7 @@
 | [Vertiv](generated/companies/vertiv.md) | [UI/UX Design Intern](https://go.vansh.nyc/8S) | Delaware, OH | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [UI/UX Design Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20281371) | Delaware, OH +2 | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Virtu Financial](generated/companies/virtu-financial.md) | [2027 Internship - Frontend Engineer (UI)](https://job-boards.greenhouse.io/virtu/jobs/8657500002) | New York +1 | Onsite | 2026-07-29 | Rolling | 🟢 Open | ❔ |
+| [Zoox](generated/companies/zoox.md) | [Industrial Design Intern [Summer 2027]](https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd) | Foster City, CA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [AMD](generated/companies/amd.md) | [Analog/Mixed-Signal Design Intern/Co-op](https://careers.amd.com/jobs/92346?icims=1) | San Jose, CA +1 | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [Diagnostics Design Engineer Intern/Co-op](https://careers.amd.com/jobs/90435?icims=1) | Markham | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [Diagnostics Design Engineering Intern/Co-op](https://careers.amd.com/jobs/91308?icims=1) | Markham | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
@@ -246,6 +246,7 @@
 | [Qorvo](generated/companies/qorvo.md) | [RFIC Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-RFIC-Design-Engineering-Intern-NC-27409/1421973800/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [RFIC Design Intern](https://careers.qorvo.com/job/San-Diego-RFIC-Design-Intern-CA-92121/1424705100/?ats=successfactors) | San Diego, CA | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [RFIC Design Intern](https://careers.qorvo.com/job/Chelmsford-RFIC-Design-Intern-MA-1824/1424704100/?ats=successfactors) | Chelmsford, MA | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
+| [Qorvo](generated/companies/qorvo.md) | [SOI Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421670100/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [SOI Design Engineer Intern - High Performance Analog - Advanced Cellular](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421973500/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Quadric](generated/companies/quadric.md) | [Design Verification Intern](https://go.vansh.nyc/1n5) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Design Automation & Quality Assurance Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721349404) | Toronto | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
@@ -348,6 +349,7 @@
 - Systems Planning and Analysis (1)
 - Upscale AI (1)
 - Virtu Financial (1)
+- Zoox (1)
 - Atomic Semi (1)
 - Booz Allen Hamilton (1)
 - By Light Professional IT Services (1)

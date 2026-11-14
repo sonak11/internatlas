@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**426** tracked · **221** open now
+**425** tracked · **220** open now
 
 ## Current openings
 
@@ -76,7 +76,6 @@
 | [DriveTime](generated/companies/drivetime.md) | [Data Science Intern - Summer 2027](https://drivetime.wd1.myworkdayjobs.com/DriveTime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Science-Intern--Summer-2027-_R16301) | Dallas, TX +1 | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Duolingo](generated/companies/duolingo.md) | [Data Scientist, Intern (PhD)](https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002) | New York, NY | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [Edison International](generated/companies/edison-international.md) | [Data Analytics Intern - Data Science - Applied Math](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors) | Pomona, CA +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
-| [Edison International](generated/companies/edison-international.md) | [Data Analytics Intern - Data Science/Applied Math](https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors) | Pomona, CA +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Ekimetrics](generated/companies/ekimetrics.md) | [Data Science & Marketing Effectiveness Intern](https://jobs.lever.co/ekimetrics/8df1a768-c6b0-4082-9c41-b3171c0fb548/apply) | London | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Elas](generated/companies/elas.md) | [Data Science Intern](https://go.vansh.nyc/1qK) | Pleasanton, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Epic Games](generated/companies/epic-games.md) | [Data Science Intern](https://go.vansh.nyc/1t5) | Cary, NC | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
@@ -485,7 +484,6 @@
 - Constellation Energy (2)
 - DreamWorks Animation (2)
 - DriveTime (2)
-- Edison International (2)
 - Epic Games (2)
 - First Solar (US) (2)
 - Hadrian (2)
@@ -554,6 +552,7 @@
 - Datacor (1)
 - Dell Technologies (1)
 - Delta Dental Of Missouri (1)
+- Edison International (1)
 - Ekimetrics (1)
 - Elas (1)
 - G-Research (1)
