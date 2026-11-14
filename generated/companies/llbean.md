@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Llbean | [Software Developer Intern](https://go.vansh.nyc/1lw) | Freeport, ME | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
+| Llbean | [Software Developer Intern](https://go.vansh.nyc/1lw) | Freeport, ME | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

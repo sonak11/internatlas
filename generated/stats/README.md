@@ -33,12 +33,12 @@ _Generated 2026-11-14_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 6231 | `██████████████` |
-| ai | 968 | `██` |
-| machine-learning | 503 | `█` |
+| software-engineering | 6235 | `██████████████` |
+| ai | 969 | `██` |
+| machine-learning | 504 | `█` |
 | data-science | 426 | `█` |
 | quant | 391 | `█` |
-| hardware | 367 | `█` |
+| hardware | 366 | `█` |
 | embedded | 322 | `█` |
 | research | 318 | `█` |
 | product | 305 | `█` |
@@ -55,6 +55,8 @@ _Generated 2026-11-14_
 - 2026-11-14 — **KBR Wyle Services**: [Software Engineering Intern, Defense & Intel (D&I)](https://go.vansh.nyc/1zz)
 - 2026-11-14 — **NetApp**: [Software Engineer Intern, Cloud](https://go.vansh.nyc/1zr)
 - 2026-11-14 — **NetApp**: [Software Engineer Intern, Systems](https://go.vansh.nyc/1zs)
+- 2026-11-14 — **SAS**: [Software Developer Intern, Go/Golang](https://go.vansh.nyc/1zC)
+- 2026-11-14 — **SAS**: [Software Developer Intern - Go/Golang Experience](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false)
 - 2026-11-14 — **Seagate Technology**: [Embedded Firmware Intern, Research Group](https://go.vansh.nyc/1zu)
 - 2026-11-14 — **Seagate Technology**: [Embedded Firmware Intern, Research Group](https://go.vansh.nyc/1zt)
 - 2026-11-14 — **Tesla**: [Electrical Engineer Intern - High Speed Hardware Design](https://www.tesla.com/careers/search/job/289951)
@@ -67,8 +69,6 @@ _Generated 2026-11-14_
 - 2026-11-13 — **Amgen**: [AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625)
 - 2026-11-13 — **Anduril**: [2027 Brand Marketing Intern](https://boards.greenhouse.io/andurilindustries/jobs/5261731007?gh_jid=5261731007)
 - 2026-11-13 — **ASML**: [Data Scientist Intern](https://go.vansh.nyc/1yl)
-- 2026-11-13 — **ASML**: [EUV Data Science and Analytics Intern](https://go.vansh.nyc/1yZ)
-- 2026-11-13 — **Aurora Innovation**: [Software Engineer Intern - Vehicle Platforms](https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef/application?embed=true)
 
 ## Recently closed
 
@@ -661,6 +661,29 @@ _Generated 2026-11-14_
 - GM financial — Software Development Engineer Intern
 - Golden Analytics — Software Engineer Intern
 - Golden Analytics — Software Engineer Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gordon Food Service — Category Insights Analyst Intern
 - Gordon Food Service — Category Technology Intern - MMSC
 - Gordon Food Service — Cloud DevOps Intern
@@ -676,6 +699,9 @@ _Generated 2026-11-14_
 - GreatAmerica Financial Services — Software Engineer Intern
 - Grow Therapy — Software Engineer Intern
 - Grow Therapy — Software Engineer Intern
+- Guardian Life — AI & Machine Learning Intern, Digital & Technology
+- Guardian Life — Cloud & DevOps Intern, Digital & Technology
+- Guardian Life — Cybersecurity Intern, Digital & Technology
 - GuidePoint Security — AI & Data Science Intern, GPSU
 - GuidePoint Security — Application Security Intern
 - GuidePoint Security — Cloud Infrastructure Intern
@@ -716,6 +742,7 @@ _Generated 2026-11-14_
 - Hy-Vee — Data Integration Intern
 - Hy-Vee — Software Engineer Intern
 - Hyster-Yale Materials Handling — Business Analytics Intern
+- ICF — Data Analytics Intern
 - ICF International — AI Engineer Intern
 - ICF International — AI Engineer Intern
 - ICF International — Energy Researcher Intern
@@ -836,6 +863,7 @@ _Generated 2026-11-14_
 - LexisNexis Risk Solutions — Product Management Intern - Insurance
 - LexisNexis Risk Solutions — Product Manager Intern - Government
 - LinkedIn — Software Engineer Intern
+- Llbean — Software Developer Intern
 - Magnite — Software Engineer Intern
 - Magnite — Software Engineer Intern
 - Manulife Financial — AI Intern
@@ -918,6 +946,7 @@ _Generated 2026-11-14_
 - Netsmart — Security Analyst Intern
 - Neuralink — IT Systems Administrator Intern
 - New York ISO — IT Software Development Intern
+- NewYork-Presbyterian — Finance Intern
 - Niantic Spatial — Software Engineer Intern - Native SDK & Mobile Platforms
 - Nissan Global — Market Intelligence (Customer Insights) Intern
 - Nissan Global — Software Engineer Intern
@@ -1155,6 +1184,7 @@ _Generated 2026-11-14_
 - RTX — Digital Support & Business Intelligence Intern - Computer Science
 - RTX — Digital Technology Intern
 - RTX — Electrical Components Engineer Intern
+- RTX — Electrical Components Engineer Intern
 - RTX — Electrical Engineer Intern
 - RTX — Electrical Engineer Intern
 - RTX — Electrical Engineer Intern
@@ -1198,6 +1228,7 @@ _Generated 2026-11-14_
 - RTX — Systems Security Engineering Intern
 - RTX — Vision Systems Intern
 - Rubrik — Software Engineering Intern
+- Ryan — Software Engineer Intern
 - Ryan Companies — Business Intelligence Intern - Mission Critical
 - Ryder System — IT Intern
 - Sage — Software Engineer Intern - Edge - Summer 2027
@@ -1374,6 +1405,8 @@ _Generated 2026-11-14_
 - The Federal Reserve System — Advanced Analytics Intern
 - The Federal Reserve System — Innovation Intern
 - The Federal Reserve System — Statistics and Analysis Intern
+- The Federal Reserve System — Supervision & Regulation Intern - Business Relationship
+- The Federal Reserve System — Supervision & Regulation Intern, Cybersecurity
 - The Hartford — Data Engineer Intern - Technology, Data, AI, and Operations
 - The Hartford — Data Engineer Intern, Technology, Data, AI, and Operations
 - The Hartford — Software Engineer Intern - Tech & Data Program
@@ -1386,7 +1419,6 @@ _Generated 2026-11-14_
 - The Walt Disney Company — Content Research Insights & Analytics Intern
 - The Walt Disney Company — Content Research Insights & Analytics Intern
 - TikTok — AI Engineer Intern, TikTok-Client Arch
-- TikTok — Applied Scientist Intern - Monetization Technology - Global Frontier Tech Recruitment Program
 - TikTok — Artificial Intelligence Engineer Intern - Client Architecture
 - TikTok — Backend Software Engineer Intern
 - TikTok — Backend Software Engineer Intern, Social Foundation

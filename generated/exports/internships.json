@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-14",
-  "count": 10768,
+  "count": 10773,
   "internships": [
     {
       "schema_version": "1.0",
@@ -99353,6 +99353,280 @@
     },
     {
       "schema_version": "1.0",
+      "id": "camping-world-ai-security-intern-2027",
+      "company": {
+        "name": "Camping World",
+        "slug": "camping-world"
+      },
+      "role": "AI Security Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1zF",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-13",
+        "discovered": "2026-11-14",
+        "last_verified": "2026-11-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "camping-world-data-analyst-intern-ai-machine-learning-focus-2027",
+      "company": {
+        "name": "Camping World",
+        "slug": "camping-world"
+      },
+      "role": "Data Analyst Intern - AI & Machine Learning Focus",
+      "category": "machine-learning",
+      "apply_url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Lincolnshire",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-13",
+        "discovered": "2026-11-14",
+        "last_verified": "2026-11-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "camping-world-data-engineering-intern-2027",
+      "company": {
+        "name": "Camping World",
+        "slug": "camping-world"
+      },
+      "role": "Data Engineering Intern",
+      "category": "data-engineering",
+      "apply_url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Lincolnshire",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-13",
+        "discovered": "2026-11-14",
+        "last_verified": "2026-11-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "camping-world-software-engineer-intern-2027-ca5f85",
+      "company": {
+        "name": "Camping World",
+        "slug": "camping-world"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1zE",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-13",
+        "discovered": "2026-11-14",
+        "last_verified": "2026-11-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "camping-world-software-engineer-intern-2027",
+      "company": {
+        "name": "Camping World",
+        "slug": "camping-world"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-13",
+        "discovered": "2026-11-14",
+        "last_verified": "2026-11-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "canadian-solar-data-analysis-intern-quality-2026",
       "company": {
         "name": "Canadian Solar",
@@ -100076,6 +100350,58 @@
       "dates": {
         "posted": "2026-09-17",
         "discovered": "2026-10-29",
+        "last_verified": "2026-11-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "capital-group-global-technology-associate-intern-2027",
+      "company": {
+        "name": "Capital Group",
+        "slug": "capital-group"
+      },
+      "role": "Global Technology Associate Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1zD",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-13",
+        "discovered": "2026-11-14",
         "last_verified": "2026-11-14"
       },
       "status": "open",
@@ -111705,7 +112031,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "ciena-hardware-design-and-verification-intern-pcba-2027-41af8c",
+      "id": "ciena-hardware-design-and-verification-intern-pcba-2027",
       "company": {
         "name": "Ciena",
         "slug": "ciena"
@@ -111745,61 +112071,10 @@
       },
       "dates": {
         "posted": "2026-09-29",
-        "discovered": "2026-10-04",
-        "last_verified": "2026-10-23"
-      },
-      "status": "closed",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "ciena-hardware-design-and-verification-intern-pcba-2027",
-      "company": {
-        "name": "Ciena",
-        "slug": "ciena"
-      },
-      "role": "Hardware Design and Verification Intern - PCBA",
-      "category": "hardware",
-      "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Canada--Ottawa--383-Terry-Fox--Bldg-C/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-months-_R031752",
-      "season": "winter",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Ottawa",
-          "country": "ON"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-09-25",
         "discovered": "2026-09-26",
-        "last_verified": "2026-10-29"
+        "last_verified": "2026-11-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -112888,6 +113163,61 @@
         "last_verified": "2026-08-14"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ciena-technical-solution-engineer-intern-se-i-2027",
+      "company": {
+        "name": "Ciena",
+        "slug": "ciena"
+      },
+      "role": "Technical Solution Engineer Intern - SE&I",
+      "category": "software-engineering",
+      "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Technical-Solution-Engineer--Intern---SE-I_R032114",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Montreal",
+          "country": "QC"
+        },
+        {
+          "city": "Ottawa",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-13",
+        "discovered": "2026-11-14",
+        "last_verified": "2026-11-14"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208028,7 +208358,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208133,7 +208463,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208186,7 +208516,7 @@
         "discovered": "2026-11-10",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208239,7 +208569,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208291,7 +208621,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208343,7 +208673,7 @@
         "discovered": "2026-11-10",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208397,7 +208727,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208450,7 +208780,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208501,7 +208831,7 @@
         "discovered": "2026-11-10",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208555,7 +208885,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208606,7 +208936,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208657,7 +208987,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208708,7 +209038,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208760,7 +209090,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208811,7 +209141,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208967,7 +209297,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209020,7 +209350,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209128,7 +209458,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209181,7 +209511,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209235,7 +209565,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209337,7 +209667,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209492,7 +209822,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209545,7 +209875,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -217511,7 +217841,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -217519,7 +217849,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "guardian-life-application-development-intern-digital-technology-2027-011ab5",
+      "id": "guardian-life-application-development-intern-digital-technology-2027",
       "company": {
         "name": "Guardian Life",
         "slug": "guardian-life"
@@ -217569,75 +217899,13 @@
       },
       "dates": {
         "posted": "2026-09-14",
-        "discovered": "2026-11-03",
-        "last_verified": "2026-11-14"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "guardian-life-application-development-intern-digital-technology-2027",
-      "company": {
-        "name": "Guardian Life",
-        "slug": "guardian-life"
-      },
-      "role": "Application Development Intern, Digital & Technology",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/1cX",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
-        },
-        {
-          "city": "Bethlehem",
-          "state": "PA",
-          "country": "USA"
-        },
-        {
-          "city": "Holmdel",
-          "state": "NJ",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-11-03",
         "discovered": "2026-09-14",
         "last_verified": "2026-11-14"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -217691,7 +217959,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -217753,7 +218021,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -217761,7 +218029,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "guardian-life-data-engineering-intern-digital-technology-2027-35e897",
+      "id": "guardian-life-data-engineering-intern-digital-technology-2027",
       "company": {
         "name": "Guardian Life",
         "slug": "guardian-life"
@@ -217811,75 +218079,13 @@
       },
       "dates": {
         "posted": "2026-09-14",
-        "discovered": "2026-11-03",
-        "last_verified": "2026-11-14"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "guardian-life-data-engineering-intern-digital-technology-2027",
-      "company": {
-        "name": "Guardian Life",
-        "slug": "guardian-life"
-      },
-      "role": "Data Engineering Intern, Digital & Technology",
-      "category": "data-engineering",
-      "apply_url": "https://go.vansh.nyc/1cV",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
-        },
-        {
-          "city": "Bethlehem",
-          "state": "PA",
-          "country": "USA"
-        },
-        {
-          "city": "Holmdel",
-          "state": "NJ",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-11-03",
         "discovered": "2026-09-14",
         "last_verified": "2026-11-14"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -238028,7 +238234,7 @@
         "discovered": "2026-11-12",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03",
@@ -277243,7 +277449,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "l-l-bean-business-analyst-data-analyst-intern-2027-6a8501",
+      "id": "l-l-bean-business-analyst-data-analyst-intern-2027",
       "company": {
         "name": "L.L.Bean",
         "slug": "l-l-bean"
@@ -277284,65 +277490,13 @@
       },
       "dates": {
         "posted": "2026-11-06",
-        "discovered": "2026-11-08",
-        "last_verified": "2026-11-14"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "l-l-bean-business-analyst-data-analyst-intern-2027",
-      "company": {
-        "name": "L.L.Bean",
-        "slug": "l-l-bean"
-      },
-      "role": "Business Analyst/Data Analyst Intern",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/1mD",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Freeport",
-          "state": "ME",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-11-06",
         "discovered": "2026-11-07",
         "last_verified": "2026-11-14"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -286650,7 +286804,7 @@
         "discovered": "2026-11-07",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -335222,7 +335376,7 @@
         "discovered": "2026-10-07",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -422312,7 +422466,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -434189,7 +434343,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -438987,6 +439141,110 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sas-software-developer-intern-go-golang-2027",
+      "company": {
+        "name": "SAS",
+        "slug": "sas"
+      },
+      "role": "Software Developer Intern, Go/Golang",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1zC",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cary",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-14",
+        "discovered": "2026-11-14",
+        "last_verified": "2026-11-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sas-software-developer-intern-go-golang-experience-2027",
+      "company": {
+        "name": "SAS",
+        "slug": "sas"
+      },
+      "role": "Software Developer Intern - Go/Golang Experience",
+      "category": "software-engineering",
+      "apply_url": "https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cary",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-14",
+        "discovered": "2026-11-14",
+        "last_verified": "2026-11-14"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -502738,7 +502996,7 @@
         "discovered": "2026-11-02",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -502790,7 +503048,7 @@
         "discovered": "2026-11-02",
         "last_verified": "2026-11-14"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -510856,7 +511114,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-11-14"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

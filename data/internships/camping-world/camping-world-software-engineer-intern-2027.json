@@ -1,29 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "guardian-life-application-development-intern-digital-technology-2027-011ab5",
+  "id": "camping-world-software-engineer-intern-2027",
   "company": {
-    "name": "Guardian Life",
-    "slug": "guardian-life"
+    "name": "Camping World",
+    "slug": "camping-world"
   },
-  "role": "Application Development Intern - Digital & Technology",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209",
+  "apply_url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Holmdel",
-      "state": "NJ",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "Bethlehem",
-      "state": "PA",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -49,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-11-03",
+    "posted": "2026-11-13",
+    "discovered": "2026-11-14",
     "last_verified": "2026-11-14"
   },
   "status": "open",

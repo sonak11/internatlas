@@ -1,29 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "guardian-life-data-engineering-intern-digital-technology-2027-35e897",
+  "id": "camping-world-software-engineer-intern-2027-ca5f85",
   "company": {
-    "name": "Guardian Life",
-    "slug": "guardian-life"
+    "name": "Camping World",
+    "slug": "camping-world"
   },
-  "role": "Data Engineering Intern - Digital & Technology",
-  "category": "data-engineering",
-  "apply_url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Data-Engineering_R000110202",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1zE",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Holmdel",
-      "state": "NJ",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "Bethlehem",
-      "state": "PA",
+      "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -49,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-14",
-    "discovered": "2026-11-03",
+    "posted": "2026-11-13",
+    "discovered": "2026-11-14",
     "last_verified": "2026-11-14"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

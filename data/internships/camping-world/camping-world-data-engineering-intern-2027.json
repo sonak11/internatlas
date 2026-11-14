@@ -1,20 +1,26 @@
 {
   "schema_version": "1.0",
-  "id": "ciena-hardware-design-and-verification-intern-pcba-2027-41af8c",
+  "id": "camping-world-data-engineering-intern-2027",
   "company": {
-    "name": "Ciena",
-    "slug": "ciena"
+    "name": "Camping World",
+    "slug": "camping-world"
   },
-  "role": "Hardware Design and Verification Intern - PCBA",
-  "category": "hardware",
-  "apply_url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware--PCBA--Design-and-Verification-Intern--Winter-2027---4-Months-_R031787",
-  "season": "winter",
+  "role": "Data Engineering Intern",
+  "category": "data-engineering",
+  "apply_url": "https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Ottawa",
-      "country": "ON"
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Lincolnshire",
+      "state": "IL",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -24,7 +30,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,11 +47,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-29",
-    "discovered": "2026-10-04",
-    "last_verified": "2026-10-23"
+    "posted": "2026-11-13",
+    "discovered": "2026-11-14",
+    "last_verified": "2026-11-14"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

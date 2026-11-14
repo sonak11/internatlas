@@ -5,26 +5,25 @@
     "name": "Guardian Life",
     "slug": "guardian-life"
   },
-  "role": "Application Development Intern, Digital & Technology",
+  "role": "Application Development Intern - Digital & Technology",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1cX",
+  "apply_url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology---Application-Development_R000110209",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "state": "NY",
+      "city": "Holmdel",
+      "state": "NJ",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
       "country": "USA"
     },
     {
       "city": "Bethlehem",
       "state": "PA",
-      "country": "USA"
-    },
-    {
-      "city": "Holmdel",
-      "state": "NJ",
       "country": "USA"
     }
   ],
@@ -50,13 +49,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-03",
+    "posted": "2026-09-14",
     "discovered": "2026-09-14",
     "last_verified": "2026-11-14"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
