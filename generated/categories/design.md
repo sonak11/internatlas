@@ -91,6 +91,7 @@
 | [onsemi](generated/companies/onsemi.md) | [Integrated Circuit Design Engineer Intern](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506546) | Allen, TX | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [onsemi](generated/companies/onsemi.md) | [Integrated Circuit Design Engineer Intern](https://go.vansh.nyc/DQ) | Allen, TX | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [Product Design Intern (USA)](https://www.pinterestcareers.com/jobs/?gh_jid=8350814) | Remote | Remote | 2026-11-09 | Rolling | 🟢 Open | ❔ |
+| [Qorvo](generated/companies/qorvo.md) | [SOI Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421670100/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Camera Design Engineering Intern](https://qualcomm.eightfold.ai/careers/job/446721829439) | Vancouver | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Camera Design Engineering Intern](https://go.vansh.nyc/Yi) | Vancouver | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Camera Design Implementation Intern](https://qualcomm.eightfold.ai/careers/job/446721678727) | Vancouver | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
@@ -102,7 +103,6 @@
 | [Qualcomm](generated/companies/qualcomm.md) | [Digital Design Engineer Intern - Interim Engineering Intern - Systems](https://qualcomm.eightfold.ai/careers/job/446722005254) | Toronto | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Digital Design Engineer Intern, Interim Engineering Systems](https://go.vansh.nyc/1lI) | Toronto | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [MSIP Digital Design Verification Engineering Intern, HW](https://go.vansh.nyc/IQ) | Toronto | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
-| [Riot Games](generated/companies/riot-games.md) | [Technical Game Design Intern - League of Legends and Teamfight Tactics](https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525) | LA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Electronics Design Engineer Co-op Intern - Electronics Design](https://careers.rivian.com/jobs/34040?icims=1) | Palo Alto, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Electronics Design Engineering Intern - Low Voltage Electronics](https://careers.rivian.com/jobs/34370?icims=1) | Champaign, IL | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Engineer Intern Co-op - Design-for-Test](https://careers.rivian.com/jobs/33810?icims=1) | Palo Alto, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
@@ -246,7 +246,6 @@
 | [Qorvo](generated/companies/qorvo.md) | [RFIC Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-RFIC-Design-Engineering-Intern-NC-27409/1421973800/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [RFIC Design Intern](https://careers.qorvo.com/job/San-Diego-RFIC-Design-Intern-CA-92121/1424705100/?ats=successfactors) | San Diego, CA | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [RFIC Design Intern](https://careers.qorvo.com/job/Chelmsford-RFIC-Design-Intern-MA-1824/1424704100/?ats=successfactors) | Chelmsford, MA | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
-| [Qorvo](generated/companies/qorvo.md) | [SOI Design Engineer Intern](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421670100/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [SOI Design Engineer Intern - High Performance Analog - Advanced Cellular](https://careers.qorvo.com/job/Greensboro-SOI-Design-Intern-NC-27409/1421973500/?ats=successfactors) | Greensboro, NC | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Quadric](generated/companies/quadric.md) | [Design Verification Intern](https://go.vansh.nyc/1n5) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Design Automation & Quality Assurance Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721349404) | Toronto | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
@@ -256,6 +255,7 @@
 | [Rambus](generated/companies/rambus.md) | [Digital Design Intern](https://go.vansh.nyc/1mt) | Johns Creek, GA | Onsite | 2026-11-07 | Rolling | 🔴 Closed | ❔ |
 | [Renesas Electronics](generated/companies/renesas-electronics.md) | [Design Verification Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000153770924) | Duluth, GA | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [Renesas Electronics](generated/companies/renesas-electronics.md) | [Digital Design Engineer Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000143930119) | Duluth, GA | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
+| [Riot Games](generated/companies/riot-games.md) | [Technical Game Design Intern - League of Legends and Teamfight Tactics](https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525) | LA | Onsite | 2026-11-11 | Rolling | 🔴 Closed | ❔ |
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Electromechanical Design Engineer Intern](https://jobs.ashbyhq.com/rivianvw.tech/14734be2-9c81-4aab-bfa6-7dbbe95c94a6/application?embed=true) | Palo Alto, CA +2 | Onsite | 2026-06-11 | Rolling | 🔴 Closed | ❔ |
 | [Roblox](generated/companies/roblox.md) | [[Summer 2027] Product Design Intern](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) | San Mateo, CA | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [Roche](generated/companies/roche.md) | [Data Expert Intern - Compliance by Design - Data Capability](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student---Data-Expert--Compliance-by-Design--Data-Capability--DDC--Computational-Sciences-Center-of-Excellence_202610-127533) | Welwyn | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
@@ -341,7 +341,6 @@
 - lowRISC CIC (1)
 - Motorola (1)
 - Notion (1)
-- Riot Games (1)
 - RosaicLabs (1)
 - Samsung Semiconductor (1)
 - Silabs (1)
@@ -369,6 +368,7 @@
 - Plusgrade (1)
 - Quadric (1)
 - Rambus (1)
+- Riot Games (1)
 - Rivian and Volkswagen Group Technologies (1)
 - Roblox (1)
 - Roche (1)

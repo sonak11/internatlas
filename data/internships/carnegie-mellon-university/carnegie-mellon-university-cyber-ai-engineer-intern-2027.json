@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "paccar-software-developer-intern-2027-aba693",
+  "id": "carnegie-mellon-university-cyber-ai-engineer-intern-2027",
   "company": {
-    "name": "Paccar",
-    "slug": "paccar"
+    "name": "Carnegie Mellon University",
+    "slug": "carnegie-mellon-university"
   },
-  "role": "Software Developer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Software-Developer-TX-76205-7864/1453615433/?ats=successfactors",
-  "season": "summer",
+  "role": "Cyber AI Engineer Intern",
+  "category": "ai",
+  "apply_url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Denton",
-      "state": "TX",
+      "city": "Pittsburgh",
+      "state": "PA",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-03",
-    "discovered": "2026-11-03",
-    "last_verified": "2026-11-04"
+    "posted": "2026-11-13",
+    "discovered": "2026-11-14",
+    "last_verified": "2026-11-14"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**366** tracked · **218** open now
+**367** tracked · **219** open now
 
 ## Current openings
 
@@ -205,6 +205,7 @@
 | [SpaceX](generated/companies/spacex.md) | [Summer 2027 Silicon Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [SpaceX](generated/companies/spacex.md) | [Summer 2027 Software Engineering Internship/Co-op](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) | Flexible | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [Tacit](generated/companies/tacit.md) | [Radio Frequency Hardware Intern - Fall 2026](https://jobs.ashbyhq.com/tacit/d001e2d9-90af-4d0b-bc97-fd6fa149ad19/application?embed=true) | SF | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Electrical Engineer Intern - High Speed Hardware Design](https://www.tesla.com/careers/search/job/289951) | Palo Alto, CA | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [SI Hardware Design Verification Engineer Intern, SI Hardware](https://go.vansh.nyc/1ak) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [SI Hardware Physical Design Engineer Intern, SI Hardware](https://go.vansh.nyc/1aW) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [SI Hardware RTL Design Engineer Intern, SI Hardware](https://go.vansh.nyc/1aj) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
@@ -384,8 +385,8 @@
 - Qualcomm (14)
 - Astranis (12)
 - Marvell (12)
+- Tesla (11)
 - Hewlett Packard Enterprise (10)
-- Tesla (10)
 - Amazon (9)
 - Keysight Technologies (8)
 - NVIDIA (7)

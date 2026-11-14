@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-14
 
-## 🆕 New this week (703)
+## 🆕 New this week (707)
 
 - **7-Eleven** — [Data Engineer Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281) · data-engineering · —
 - **7-Eleven** — [Data Engineer Intern](https://go.vansh.nyc/1pp) · data-engineering · —
@@ -147,6 +147,8 @@
 - **CareSource** — [Software Engineer Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136) · software-engineering · —
 - **CareSource** — [Summer Internship Program – Provider Analytics AI Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481) · ai · —
 - **Carnegie Mellon University** — [Advanced Computing Lab Intern](https://go.vansh.nyc/1pb) · software-engineering · —
+- **Carnegie Mellon University** — [Advanced Computing Lab Intern](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336-1) · software-engineering · —
+- **Carnegie Mellon University** — [Cyber AI Engineer Intern](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2) · ai · —
 - **Carnegie Mellon University** — [Cyber AI Engineering Intern](https://go.vansh.nyc/1yV) · ai · —
 - **Carnegie Mellon University** — [Cybersecurity Engineer Intern](https://go.vansh.nyc/1yU) · security · —
 - **Category Labs** — [Research Intern](https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075/application?embed=true) · research · —
@@ -231,6 +233,7 @@
 - **EquipmentShare** — [Engineering Intern - Embedded](https://www.equipmentshare.com/careers/openings/?gh_jid=8371896) · embedded · —
 - **EquipmentShare** — [Engineering Intern - Embedded](https://www.equipmentshare.com/careers/openings/?gh_jid=8371891) · embedded · —
 - **EquipmentShare** — [Uptime Management Center Intern](https://www.equipmentshare.com/careers/openings/?gh_jid=8371863) · software-engineering · —
+- **Ericsson** — [AI Software Engineer Intern](https://go.vansh.nyc/1zB) · ai · —
 - **Eversource Energy** — [GIS Intern](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Summer--GIS-Intern--NH-_R-032537) · software-engineering · —
 - **Eversource Energy** — [GIS Intern](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--GIS-Intern--MA-_R-032519) · software-engineering · —
 - **FNBO** — [Banking Product Intern](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Intern--Banking-Product_R-20261996) · software-engineering · —
@@ -609,6 +612,7 @@
 - **TMX Group** — [AI Engineer Intern](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/AI-Engineering-Intern_R-6680) · ai · —
 - **TMX Group** — [AI Engineering Intern](https://go.vansh.nyc/1wI) · ai · —
 - **TRC Companies** — [GIS Intern](https://careers.trccompanies.com/jobs/28698?icims=1&lang=en-us) · software-engineering · —
+- **Tesla** — [Electrical Engineer Intern - High Speed Hardware Design](https://www.tesla.com/careers/search/job/289951) · hardware · —
 - **Tesla** — [Mobile Application Developer Intern](https://www.tesla.com/careers/search/job/289480) · software-engineering · —
 - **Tesla** — [Software Developer Intern - IT Apps](https://www.tesla.com/careers/search/job/289683) · software-engineering · —
 - **Tesla** — [Software Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/289796) · software-engineering · —

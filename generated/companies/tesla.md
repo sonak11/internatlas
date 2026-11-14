@@ -34,6 +34,7 @@
 | Tesla | [Distributed Systems Software Engineer Intern, Energy Engineering](https://go.vansh.nyc/1a1) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Electrical Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/279743) | Palo Alto, CA +1 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Electrical Engineer Intern - Energy Service Tooling](https://www.tesla.com/careers/search/job/281457) | Hayward, CA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
+| Tesla | [Electrical Engineer Intern - High Speed Hardware Design](https://www.tesla.com/careers/search/job/289951) | Palo Alto, CA | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Electronic Design Engineer Intern - Electronic Systems](https://www.tesla.com/careers/search/job/279760) | Palo Alto, CA | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Electronic Design Engineer Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283676) | Palo Alto, CA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Embedded Software Developer Intern - Vehicle Suspension](https://www.tesla.com/careers/search/job/285153) | Palo Alto, CA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |

@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Ericsson | [AI and Automation Engineer Intern](https://go.vansh.nyc/YK) | Plano, TX | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❌ |
+| Ericsson | [AI Software Engineer Intern](https://go.vansh.nyc/1zB) | Plano, TX | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❌ |
 | Ericsson | [Cybersecurity Analyst Intern](https://go.vansh.nyc/Vu) | Plano, TX | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
 | Ericsson | [Technology and AI Intern](https://go.vansh.nyc/1gz) | Plano, TX | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❌ |
 
