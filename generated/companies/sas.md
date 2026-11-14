@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | SAS | [Data Science Research Intern](https://go.vansh.nyc/H0) | Bloomington, MN | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | SAS | [Data Scientist Intern](https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false) | Cary, NC | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
+| SAS | [IoT Product Strategy Intern](https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false) | Cary, NC | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
 | SAS | [Software Developer Intern - Go/Golang Experience](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false) | Cary, NC | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
 | SAS | [Software Developer Intern, Go/Golang](https://go.vansh.nyc/1zC) | Cary, NC | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
 | SAS | [Software Development Intern](https://go.vansh.nyc/H3) | Bloomington, MN | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |

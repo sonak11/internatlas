@@ -33,11 +33,11 @@ _Generated 2026-11-14_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 6235 | `██████████████` |
+| software-engineering | 6239 | `██████████████` |
 | ai | 969 | `██` |
 | machine-learning | 504 | `█` |
 | data-science | 426 | `█` |
-| quant | 391 | `█` |
+| quant | 392 | `█` |
 | hardware | 366 | `█` |
 | embedded | 322 | `█` |
 | research | 318 | `█` |
@@ -55,11 +55,13 @@ _Generated 2026-11-14_
 - 2026-11-14 — **KBR Wyle Services**: [Software Engineering Intern, Defense & Intel (D&I)](https://go.vansh.nyc/1zz)
 - 2026-11-14 — **NetApp**: [Software Engineer Intern, Cloud](https://go.vansh.nyc/1zr)
 - 2026-11-14 — **NetApp**: [Software Engineer Intern, Systems](https://go.vansh.nyc/1zs)
+- 2026-11-14 — **SAS**: [IoT Product Strategy Intern](https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false)
 - 2026-11-14 — **SAS**: [Software Developer Intern, Go/Golang](https://go.vansh.nyc/1zC)
 - 2026-11-14 — **SAS**: [Software Developer Intern - Go/Golang Experience](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false)
 - 2026-11-14 — **Seagate Technology**: [Embedded Firmware Intern, Research Group](https://go.vansh.nyc/1zu)
 - 2026-11-14 — **Seagate Technology**: [Embedded Firmware Intern, Research Group](https://go.vansh.nyc/1zt)
 - 2026-11-14 — **Tesla**: [Electrical Engineer Intern - High Speed Hardware Design](https://www.tesla.com/careers/search/job/289951)
+- 2026-11-14 — **USAA**: [Technology Intern](https://go.vansh.nyc/1zL)
 - 2026-11-14 — **Zoox**: [Feature Integration Intern [Summer 2027]](https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f)
 - 2026-11-13 — **Activision Blizzard**: [Game Systems Engineering Intern](https://go.vansh.nyc/1zl)
 - 2026-11-13 — **Addepar**: [Product Analyst Intern](https://job-boards.greenhouse.io/addepar1/jobs/8910306002)
@@ -67,8 +69,6 @@ _Generated 2026-11-14_
 - 2026-11-13 — **Adobe**: [Research Scientist Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345)
 - 2026-11-13 — **Amazon**: [Robotics Applied Scientist 2 Intern - Robotics](https://amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states)
 - 2026-11-13 — **Amgen**: [AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625)
-- 2026-11-13 — **Anduril**: [2027 Brand Marketing Intern](https://boards.greenhouse.io/andurilindustries/jobs/5261731007?gh_jid=5261731007)
-- 2026-11-13 — **ASML**: [Data Scientist Intern](https://go.vansh.nyc/1yl)
 
 ## Recently closed
 
@@ -399,7 +399,6 @@ _Generated 2026-11-14_
 - Cigna — Software Engineering Intern
 - Cigna Group — Business Analytics Intern
 - Cigna Group — Data & Analytics Engineering Intern - Technology Development Program
-- Cigna Group — Healthcare Analytics Intern
 - Cincinnati Children’s Hospital and Medical Center — Data Management Engineer Intern
 - Cincinnati Children’s Hospital and Medical Center — Software Engineer Intern
 - Cincinnati Children’s Hospital and Medical Center — Software Engineering Developer Intern
@@ -661,29 +660,6 @@ _Generated 2026-11-14_
 - GM financial — Software Development Engineer Intern
 - Golden Analytics — Software Engineer Intern
 - Golden Analytics — Software Engineer Intern
-- Goldman Sachs — Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
-- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
-- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
-- Goldman Sachs — Summer Analyst Intern
-- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
-- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - Engineering
-- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
-- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
-- Goldman Sachs — Summer Associate Intern
-- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gordon Food Service — Category Insights Analyst Intern
 - Gordon Food Service — Category Technology Intern - MMSC
 - Gordon Food Service — Cloud DevOps Intern
@@ -700,8 +676,11 @@ _Generated 2026-11-14_
 - Grow Therapy — Software Engineer Intern
 - Grow Therapy — Software Engineer Intern
 - Guardian Life — AI & Machine Learning Intern, Digital & Technology
+- Guardian Life — Application Development Intern - Digital & Technology
 - Guardian Life — Cloud & DevOps Intern, Digital & Technology
 - Guardian Life — Cybersecurity Intern, Digital & Technology
+- Guardian Life — Data Engineering Intern - Digital & Technology
+- Guardian Life — Summer Intern - Digital & Technology - AI & Machine Learning
 - GuidePoint Security — AI & Data Science Intern, GPSU
 - GuidePoint Security — Application Security Intern
 - GuidePoint Security — Cloud Infrastructure Intern
@@ -745,6 +724,7 @@ _Generated 2026-11-14_
 - ICF — Data Analytics Intern
 - ICF International — AI Engineer Intern
 - ICF International — AI Engineer Intern
+- ICF International — Data Analytics Intern
 - ICF International — Energy Researcher Intern
 - ICF International — Full-Stack Developer Intern
 - ICF International — Software Engineer Intern
@@ -845,6 +825,8 @@ _Generated 2026-11-14_
 - KQED — Audience Intelligence Intern
 - Kudu Dynamics — Cybersecurity Intern
 - Kudu Dynamics — Software Engineering & AI Intern
+- L.L.Bean — Business Analyst/Data Analyst Intern
+- L.L.Bean — Software Developer Intern
 - L3Harris Technologies — Associate Software Engineering Intern
 - L3Harris Technologies — Software Engineer Intern
 - L3Harris Technologies — Software Engineer Intern
@@ -976,6 +958,7 @@ _Generated 2026-11-14_
 - Northrop Grumman — Flight Software Engineer Intern
 - Northrop Grumman — Ground Software Engineer Intern
 - Northrop Grumman — Ground Software Engineer Intern
+- Northrop Grumman — Optics/Photonic Engineering Intern
 - Northrop Grumman — S/W Embedded Engineering Intern
 - Northrop Grumman — Software Embedded Engineering Intern
 - Northrop Grumman — Software Engineer Co-op Intern
@@ -1055,6 +1038,7 @@ _Generated 2026-11-14_
 - PathAI — Machine Learning Intern, AI Product and ML Core
 - Pattern — AI Automation Engineer Intern
 - Pebl — Software Engineering Intern
+- Pentair — Product Management Internship
 - Peraton — Cyber Research Intern
 - Peraton — Cyber Research Intern
 - Peraton — Data Science Intern
@@ -1108,6 +1092,7 @@ _Generated 2026-11-14_
 - Quantinuum — Quantum Error Correction Intern - Quantum Error Correction
 - Quantum Signal AI — Software Engineer Intern - Tools and Prototypes
 - Qube Research and Technologies — Technology Intern
+- Qube Research & Technologies — Technology Intern
 - Radiance Technologies — Software Engineer Intern
 - Radiance Technologies — Software Engineer Intern
 - Radiance Technologies — Software Engineer Intern
@@ -1175,6 +1160,7 @@ _Generated 2026-11-14_
 - RR Donnelley — Software Developer Intern
 - RSM — Business Intelligence Consulting Intern
 - RSM — Business Intelligence Consulting Intern
+- RTX — Aftermarket & Sustainment Engineering Methods Engineering Intern
 - RTX — Application Portfolio Support Intern - Summer 2027
 - RTX — Business Intelligence and Governance Analyst Intern
 - RTX — Control/Diagnostic Software Intern
@@ -1199,10 +1185,12 @@ _Generated 2026-11-14_
 - RTX — FPGA Electrical Design Engineer Intern
 - RTX — FPGA Engineer Intern
 - RTX — Hardware Electrical Engineer Intern
+- RTX — Methods Engineering Intern, Aftermarket & Sustainment Engineering
 - RTX — Program Fleet Intern
 - RTX — Secure Software Intern
 - RTX — Secure Software Intern
 - RTX — Secure System Engineering Intern
+- RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
 - RTX — Software Engineer Intern
@@ -1221,6 +1209,7 @@ _Generated 2026-11-14_
 - RTX — Software Engineering Intern
 - RTX — Software Engineering Intern
 - RTX — Software Engineering Intern
+- RTX — Software Engineering Intern
 - RTX — Sustainment Data and Analytics Intern
 - RTX — Sustainment Data and Analytics Intern
 - RTX — Systems Security Engineer Intern
@@ -1228,6 +1217,10 @@ _Generated 2026-11-14_
 - RTX — Systems Security Engineering Intern
 - RTX — Vision Systems Intern
 - Rubrik — Software Engineering Intern
+- Ryan — Application Development Intern
+- Ryan — Application Development Intern - Application Development
+- Ryan — Application Engineering Intern
+- Ryan — Software Development Intern
 - Ryan — Software Engineer Intern
 - Ryan Companies — Business Intelligence Intern - Mission Critical
 - Ryder System — IT Intern

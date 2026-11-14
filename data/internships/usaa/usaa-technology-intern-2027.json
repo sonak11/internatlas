@@ -7,18 +7,18 @@
   },
   "role": "Technology Intern",
   "category": "software-engineering",
-  "apply_url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Technology-Intern_R0120133",
+  "apply_url": "https://go.vansh.nyc/1zL",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Plano",
+      "city": "San Antonio",
       "state": "TX",
       "country": "USA"
     },
     {
-      "city": "San Antonio",
+      "city": "Plano",
       "state": "TX",
       "country": "USA"
     },
@@ -52,13 +52,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-09",
+    "posted": "2026-11-14",
     "discovered": "2026-09-09",
-    "last_verified": "2026-10-04"
+    "last_verified": "2026-11-14"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
