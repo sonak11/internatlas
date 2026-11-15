@@ -11,9 +11,9 @@
 | MITRE | [Computer Science or Software Engineering Intern](https://go.vansh.nyc/1lX) | McLean, VA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | MITRE | [Critical Infrastructure Protection Intern](https://go.vansh.nyc/10s) | McLean, VA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | MITRE | [Data Science and Engineering Intern](https://go.vansh.nyc/10t) | McLean, VA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❌ |
-| MITRE | [Data Science Intern](https://go.vansh.nyc/1lR) | McLean, VA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❌ |
 | MITRE | [Trustworthy AI Intern](https://go.vansh.nyc/10r) | McLean, VA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | MITRE | [AI Engineering Intern](https://careers.mitre.org/us/en/job/R117620/AI-Engineering-Intern) | Bedford, MA | Onsite | 2026-10-19 | Rolling | 🔴 Closed | ❔ |
+| MITRE | [Data Science Intern](https://go.vansh.nyc/1lR) | McLean, VA | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❌ |
 
 ## Related
 

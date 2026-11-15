@@ -150,7 +150,7 @@
 | [Apple](../companies/apple.md) | 10/18 | ai, design, hardware, machine-learning, security, software-engineering |
 | [Apple Bank](../companies/apple-bank.md) | 2/2 | security, software-engineering |
 | [Applied Intuition](../companies/applied-intuition.md) | 2/2 | research |
-| [Applied Materials](../companies/applied-materials.md) | 11/18 | data-science, software-engineering |
+| [Applied Materials](../companies/applied-materials.md) | 12/18 | data-science, software-engineering |
 | [Apptronik](../companies/apptronik.md) | 0/1 | machine-learning |
 | [Aptiv](../companies/aptiv.md) | 21/22 | ai, cloud, embedded, software-engineering |
 | [Aptura](../companies/aptura.md) | 0/1 | ai |
@@ -604,7 +604,7 @@
 | [Edison International](../companies/edison-international.md) | 3/6 | data-engineering, data-science, software-engineering |
 | [Efficient Computer](../companies/efficient-computer.md) | 0/1 | hardware |
 | [Egra](../companies/egra.md) | 0/1 | ai |
-| [Eight Sleep](../companies/eight-sleep.md) | 1/2 | hardware, software-engineering |
+| [Eight Sleep](../companies/eight-sleep.md) | 2/3 | embedded, hardware, software-engineering |
 | [Ekimetrics](../companies/ekimetrics.md) | 1/1 | data-science |
 | [Eko Health](../companies/eko-health.md) | 0/1 | software-engineering |
 | [Elanco](../companies/elanco.md) | 0/1 | ai |
@@ -992,7 +992,7 @@
 | [J.M. Smucker](../companies/j-m-smucker.md) | 2/6 | data-science, research, software-engineering |
 | [JINGDONG](../companies/jingdong.md) | 0/1 | software-engineering |
 | [JM Family](../companies/jm-family.md) | 3/11 | ai, data-engineering, software-engineering |
-| [JM Family Enterprises](../companies/jm-family-enterprises.md) | 4/10 | ai, data-engineering, security, software-engineering |
+| [JM Family Enterprises](../companies/jm-family-enterprises.md) | 0/10 | ai, data-engineering, security, software-engineering |
 | [JMP Statistical Discovery](../companies/jmp-statistical-discovery.md) | 2/2 | software-engineering |
 | [JP Morgan Chase](../companies/jp-morgan-chase.md) | 8/20 | ai, data-science, machine-learning, product, quant, software-engineering |
 | [JPMorgan Chase](../companies/jpmorgan-chase.md) | 0/1 | quant |
@@ -1118,7 +1118,7 @@
 | [MEMX](../companies/memx.md) | 0/3 | data-engineering, security |
 | [METECS](../companies/metecs.md) | 1/1 | software-engineering |
 | [MFS](../companies/mfs.md) | 0/4 | software-engineering |
-| [MITRE](../companies/mitre.md) | 7/8 | ai, cloud, data-science, software-engineering |
+| [MITRE](../companies/mitre.md) | 6/8 | ai, cloud, data-science, software-engineering |
 | [MKS Instruments](../companies/mks-instruments.md) | 0/1 | software-engineering |
 | [MSA Safety](../companies/msa-safety.md) | 2/4 | software-engineering |
 | [MUFG](../companies/mufg.md) | 1/1 | software-engineering |
@@ -1337,7 +1337,7 @@
 | [OpenSesame](../companies/opensesame.md) | 1/2 | ai, security |
 | [Operio](../companies/operio.md) | 2/2 | software-engineering |
 | [Oppenheimer & Co. Inc.](../companies/oppenheimer-co-inc.md) | 0/1 | quant |
-| [Optimum (Altice USA)](../companies/optimum-altice-usa.md) | 2/3 | cloud, software-engineering |
+| [Optimum (Altice USA)](../companies/optimum-altice-usa.md) | 3/4 | cloud, security, software-engineering |
 | [Optiver](../companies/optiver.md) | 3/10 | hardware, quant, software-engineering |
 | [OpusClip](../companies/opusclip.md) | 2/3 | ai, software-engineering |
 | [Oracle](../companies/oracle.md) | 3/5 | ai, software-engineering |
@@ -1941,7 +1941,7 @@
 | [VSP Vision](../companies/vsp-vision.md) | 0/5 | machine-learning, software-engineering |
 | [VWH Capital Management](../companies/vwh-capital-management.md) | 0/1 | quant |
 | [Valeo](../companies/valeo.md) | 1/2 | software-engineering |
-| [Valley Children's Specialty Medical Group](../companies/valley-children-s-specialty-medical-group.md) | 1/1 | security |
+| [Valley Children's Specialty Medical Group](../companies/valley-children-s-specialty-medical-group.md) | 0/1 | security |
 | [Valmont](../companies/valmont.md) | 4/4 | ai, embedded, software-engineering |
 | [Valon](../companies/valon.md) | 1/1 | software-engineering |
 | [Valstad](../companies/valstad.md) | 2/2 | software-engineering |

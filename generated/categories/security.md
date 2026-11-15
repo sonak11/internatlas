@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**256** tracked · **176** open now
+**257** tracked · **176** open now
 
 ## Current openings
 
@@ -134,6 +134,7 @@
 | [Oceaneering](generated/companies/oceaneering.md) | [IT Security Architecture Intern](https://go.vansh.nyc/H2) | Houston, TX | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | [Oceaneering](generated/companies/oceaneering.md) | [IT/OT Cybersecurity Intern](https://go.vansh.nyc/V3) | Houston, TX | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [OneAmerica Financial](generated/companies/oneamerica-financial.md) | [Cyber Security Intern](https://go.vansh.nyc/1qx) | Indianapolis, IN | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| [Optimum (Altice USA)](generated/companies/optimum-altice-usa.md) | [Cybersecurity Operations Intern](https://go.vansh.nyc/1zM) | Bethpage, NY | Onsite | 2026-11-15 | Rolling | 🟢 Open | ❔ |
 | [Origin Bank](generated/companies/origin-bank.md) | [Cybersecurity Intern](https://go.vansh.nyc/1yr) | Ruston, LA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Oshkosh](generated/companies/oshkosh.md) | [Cyber Security Intern](https://go.vansh.nyc/Nc) | Oshkosh, WI | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Information Security Engineer Intern](https://go.vansh.nyc/OK) | New York, NY | Onsite | 2022-08-03 | Rolling | 🟢 Open | ❔ |
@@ -178,7 +179,6 @@
 | [Two Six Technologies](generated/companies/two-six-technologies.md) | [Security Operations Intern](https://go.vansh.nyc/1dI) | Arlington, VA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [UL Solutions](generated/companies/ul-solutions.md) | [Cyber Security Intern](https://go.vansh.nyc/CU) | Northbrook, IL | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [United Parcel Service (UPS)](generated/companies/united-parcel-service-ups.md) | [Information Security Intern](https://go.vansh.nyc/1g5) | USA | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❌ |
-| [Valley Children's Specialty Medical Group](generated/companies/valley-children-s-specialty-medical-group.md) | [IT Security Intern](https://go.vansh.nyc/1kN) | Madera, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Verkada](generated/companies/verkada.md) | [Security Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5213881007) | San Mateo, CA +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Wellmark](generated/companies/wellmark.md) | [Cyber Security Intern](https://go.vansh.nyc/1to) | Des Moines, IA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Wellmark](generated/companies/wellmark.md) | [Security Analyst Intern](https://go.vansh.nyc/1ty) | Des Moines, IA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
@@ -259,6 +259,7 @@
 | [The Mosaic Company](generated/companies/the-mosaic-company.md) | [Cybersecurity Co-Op/Intern](https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1) | Tampa, FL | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❌ |
 | [TikTok](generated/companies/tiktok.md) | [Software Engineer Intern, Privacy and Security](https://go.vansh.nyc/6l) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ✅ |
 | [Together AI](generated/companies/together-ai.md) | [Hardware Security Engineer Intern](https://go.vansh.nyc/bm) | San Francisco, CA | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
+| [Valley Children's Specialty Medical Group](generated/companies/valley-children-s-specialty-medical-group.md) | [IT Security Intern](https://go.vansh.nyc/1kN) | Madera, CA | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❔ |
 | [Visa](generated/companies/visa.md) | [Network and Security Engineering Intern](https://go.vansh.nyc/Xh) | Denver, CO | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❌ |
 | [Visa](generated/companies/visa.md) | [Network and Security Engineering Intern](https://go.vansh.nyc/Xg) | Ashburn, VA | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❌ |
 | [Zebra Technologies](generated/companies/zebra-technologies.md) | [Security Intern](https://go.vansh.nyc/1qC) | Lincolnshire, IL | Onsite | 2026-11-10 | Rolling | 🔴 Closed | ❔ |
@@ -376,6 +377,7 @@
 - Nissan (1)
 - OCC (1)
 - OneAmerica Financial (1)
+- Optimum (Altice USA) (1)
 - Origin Bank (1)
 - Oshkosh (1)
 - Palantir Technologies (1)
@@ -398,7 +400,6 @@
 - Two Six Technologies (1)
 - UL Solutions (1)
 - United Parcel Service (UPS) (1)
-- Valley Children's Specialty Medical Group (1)
 - Verkada (1)
 - Welltower (1)
 - Workday (1)
@@ -456,4 +457,5 @@
 - TensorWave (1)
 - The Mosaic Company (1)
 - Together AI (1)
+- Valley Children's Specialty Medical Group (1)
 - Zebra Technologies (1)

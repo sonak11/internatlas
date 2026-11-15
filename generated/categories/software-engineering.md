@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 💻 Software Engineering Internships
 
-**6239** tracked · **2936** open now
+**6239** tracked · **2934** open now
 
 ## Current openings
 
@@ -189,6 +189,7 @@
 | [Applied Materials](generated/companies/applied-materials.md) | [Electrical Engineer Intern - Controls/PCB](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658) | Gloucester, MA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Applied Materials](generated/companies/applied-materials.md) | [Industrial Engineering Intern](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710) | Santa Clara, CA | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Applied Materials](generated/companies/applied-materials.md) | [Metrology Engineer Co-op Intern](https://amat.wd1.myworkdayjobs.com/External/job/TempeAZ/Metrology-Engineer-Co-op-Intern---Undergraduate--Winter-Spring-2027-_R2632419) | Tempe, AZ | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
+| [Applied Materials](generated/companies/applied-materials.md) | [Software Engineer Intern](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003) | Santa Clara, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Applied Materials](generated/companies/applied-materials.md) | [Software Engineering Intern - Masters](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265) | Santa Clara, CA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Aptiv](generated/companies/aptiv.md) | [Compiler Intern, Compiler Team](https://go.vansh.nyc/1ny) | Walnut Creek, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Aptiv](generated/companies/aptiv.md) | [Engineer Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) | Kanata +1 | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
@@ -1334,9 +1335,6 @@
 | [Javelin Global Commodities](generated/companies/javelin-global-commodities.md) | [Software Engineering Intern](https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/apply) | London | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [JM Family](generated/companies/jm-family.md) | [Analytics Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Analytics-Intern_JR105200) | Deerfield Beach, FL | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [JM Family](generated/companies/jm-family.md) | [Software Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199) | Deerfield Beach, FL | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
-| [JM Family Enterprises](generated/companies/jm-family-enterprises.md) | [Analytics Intern](https://go.vansh.nyc/1iw) | Deerfield Beach, FL | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
-| [JM Family Enterprises](generated/companies/jm-family-enterprises.md) | [Software Analyst Intern](https://go.vansh.nyc/1iI) | Deerfield Beach, FL | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
-| [JM Family Enterprises](generated/companies/jm-family-enterprises.md) | [Software Engineer Intern](https://go.vansh.nyc/1iH) | Deerfield Beach, FL | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [JMP Statistical Discovery](generated/companies/jmp-statistical-discovery.md) | [C++ Software Development Intern](https://jmp-sas.icims.com/jobs/46960/job?mobile=true&needsRedirect=false) | Cary, NC | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [JMP Statistical Discovery](generated/companies/jmp-statistical-discovery.md) | [Software Development Intern, C++](https://go.vansh.nyc/1sw) | Cary, NC | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [John D. and Catherine T. MacArthur Foundation](generated/companies/john-d-and-catherine-t-macarthur-foundation.md) | [Evaluation & Learning Intern](https://macfound.wd1.myworkdayjobs.com/MAC_FOUND_EXT_CAREERS/job/Chicago-Office/Evaluation---Learning-Intern---Summer-2027_REQ-000362) | Chicago, IL | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
@@ -3179,7 +3177,6 @@
 | [Applied Materials](generated/companies/applied-materials.md) | [Global Product Support Intern Master's](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Global-Product-Support-Intern--Master-s--Santa-Clara--CA-_R2628947) | Santa Clara, CA | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [Applied Materials](generated/companies/applied-materials.md) | [Software Engineer Intern](https://go.vansh.nyc/d5) | Santa Clara, CA | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 | [Applied Materials](generated/companies/applied-materials.md) | [Software Engineer Intern](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern--Software-Engineer--Bachelors-Degree--Santa-Clara-_R2630672) | Santa Clara, CA | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
-| [Applied Materials](generated/companies/applied-materials.md) | [Software Engineer Intern](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003) | Santa Clara, CA | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 | [Aptiv](generated/companies/aptiv.md) | [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242) | Kanata | Onsite | 2026-07-30 | Rolling | 🔴 Closed | ❔ |
 | [AQR Capital Management](generated/companies/aqr-capital-management.md) | [Portfolio Solutions Group Summer Analyst Intern - Portfolio Solutions Group](https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362) | Greenwich, CT | Onsite | 2026-07-01 | Rolling | 🔴 Closed | ❔ |
 | [AQR Capital Management](generated/companies/aqr-capital-management.md) | [Risk Summer Analyst Intern](https://careers.aqr.com/jobs?gh_jid=7926692&gh_jid=7926692) | Greenwich, CT | Onsite | 2026-05-15 | Rolling | 🔴 Closed | ❔ |
@@ -4314,7 +4311,10 @@
 | [JM Family](generated/companies/jm-family.md) | [Customer Experience Data Analyst Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Customer-Experience-Data-Analyst-Intern_JR105125) | Deerfield Beach, FL | Onsite | 2026-10-29 | Rolling | 🔴 Closed | ❔ |
 | [JM Family](generated/companies/jm-family.md) | [Power Platform & Analytics Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Alabama---Mobile/Intern--College-NE_JR105133) | Mobile, AL | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❔ |
 | [JM Family](generated/companies/jm-family.md) | [Sales Reporting & Analysis Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Sales-Reporting---Analysis-Intern_JR105145) | Deerfield Beach, FL | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❔ |
+| [JM Family Enterprises](generated/companies/jm-family-enterprises.md) | [Analytics Intern](https://go.vansh.nyc/1iw) | Deerfield Beach, FL | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❔ |
+| [JM Family Enterprises](generated/companies/jm-family-enterprises.md) | [Software Analyst Intern](https://go.vansh.nyc/1iI) | Deerfield Beach, FL | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❔ |
 | [JM Family Enterprises](generated/companies/jm-family-enterprises.md) | [Software Engineer Intern](https://go.vansh.nyc/YU) | Deerfield Beach, FL +1 | Onsite | 2026-10-29 | Rolling | 🔴 Closed | ❔ |
+| [JM Family Enterprises](generated/companies/jm-family-enterprises.md) | [Software Engineer Intern](https://go.vansh.nyc/1iH) | Deerfield Beach, FL | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❔ |
 | [John Deere](generated/companies/john-deere.md) | [Data & Analytics Intern](https://johndeere.eightfold.ai/careers/job/137482673640) | Moline, IL | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [John Deere](generated/companies/john-deere.md) | [Information Technology Intern - Technology](https://johndeere.eightfold.ai/careers/job/137482633322) | Moline, IL | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [John Deere](generated/companies/john-deere.md) | [Product Engineering Intern](https://johndeere.eightfold.ai/careers/job/137482769212) | Fargo, ND | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
@@ -6599,7 +6599,6 @@
 - ICF International (4)
 - Intuitive Surgical (4)
 - J.M. Smucker (4)
-- JM Family Enterprises (4)
 - Kensington (4)
 - Kinder Morgan (4)
 - Marsh (4)
@@ -6650,6 +6649,7 @@
 - Entergy (4)
 - Fannie Mae (4)
 - Hy-Vee (4)
+- JM Family Enterprises (4)
 - K2 Space (4)
 - KeyBank (4)
 - Medline (4)

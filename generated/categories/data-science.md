@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**426** tracked · **221** open now
+**426** tracked · **220** open now
 
 ## Current openings
 
@@ -129,7 +129,6 @@
 | [Microsoft](generated/companies/microsoft.md) | [Data Scientist Intern - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557027390) | Redmond, WA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Data Scientist Intern, CoreAI](https://go.vansh.nyc/1wj) | Redmond, WA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [MITRE](generated/companies/mitre.md) | [Data Science and Engineering Intern](https://go.vansh.nyc/10t) | McLean, VA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❌ |
-| [MITRE](generated/companies/mitre.md) | [Data Science Intern](https://go.vansh.nyc/1lR) | McLean, VA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❌ |
 | [Momentive](generated/companies/momentive.md) | [Data Science Intern - Enterprise Reporting & Analytics](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1) | Niskayuna, NY | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Momentive](generated/companies/momentive.md) | [Data Science Intern, Enterprise Reporting & Analytics](https://go.vansh.nyc/1cF) | Niskayuna, NY | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [National Interstate Insurance](generated/companies/national-interstate-insurance.md) | [Data Scientist Intern](https://go.vansh.nyc/1ni) | Lakeland, FL | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❌ |
@@ -357,6 +356,7 @@
 | [MetOx International](generated/companies/metox-international.md) | [Data Science Intern - Spring 2027](https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008) | Houston, TX | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [Data Science Intern](https://go.vansh.nyc/XF) | San Jose, CA +1 | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [HBM Data Scientist Intern](https://go.vansh.nyc/VY) | Richardson, TX | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❔ |
+| [MITRE](generated/companies/mitre.md) | [Data Science Intern](https://go.vansh.nyc/1lR) | McLean, VA | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❌ |
 | [National Laboratory of the Rockies](generated/companies/national-laboratory-of-the-rockies.md) | [Graduate Geospatial Data Science Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate--Year-Round--Intern--Geospatial-Data-Science-Modeling-and-Analysis_R14338) | Golden, CO | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
 | [National Life](generated/companies/national-life.md) | [Data Science Intern](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4449670009) | Montpelier, VT +1 | Onsite | 2026-10-14 | Rolling | 🔴 Closed | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Data Scientist Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31873) | Pensacola, FL +1 | Onsite | 2026-08-12 | Rolling | 🔴 Closed | ❔ |

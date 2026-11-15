@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**227** tracked · **115** open now
+**227** tracked · **114** open now
 
 ## Current openings
 
@@ -52,7 +52,6 @@
 | [Jain Global](generated/companies/jain-global.md) | [Data Engineer Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1) | NYC | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Data Engineer Intern](https://go.vansh.nyc/42) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [JM Family](generated/companies/jm-family.md) | [Data Engineer Intern](https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineering-Intern_JR105086) | Deerfield Beach, FL | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
-| [JM Family Enterprises](generated/companies/jm-family-enterprises.md) | [Data Engineering Intern](https://go.vansh.nyc/1jd) | Deerfield Beach, FL | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Judi Health](generated/companies/judi-health.md) | [Data Engineer Intern](https://go.vansh.nyc/Fw) | New York, NY +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002998) | Chicago | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Kodiak Robotics](generated/companies/kodiak-robotics.md) | [Data Engineering Intern](https://job-boards.greenhouse.io/kodiak/jobs/4396622009) | Mountain View, CA | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
@@ -183,6 +182,7 @@
 | [Intelcom \| Dragonfly](generated/companies/intelcom-dragonfly.md) | [Data Engineer Intern](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Data-Engineering-Intern_JR111567) | Montreal | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Jabil](generated/companies/jabil.md) | [Data Engineer Intern](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Data-Engineering-Intern_J2465581) | Tampa, FL +1 | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | [JM Family Enterprises](generated/companies/jm-family-enterprises.md) | [Data Engineer Intern](https://go.vansh.nyc/VR) | Deerfield Beach, FL | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❔ |
+| [JM Family Enterprises](generated/companies/jm-family-enterprises.md) | [Data Engineering Intern](https://go.vansh.nyc/1jd) | Deerfield Beach, FL | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❔ |
 | [Lazard](generated/companies/lazard.md) | [Data Engineer Intern](https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605) | NYC | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Data Engineering & Analytics Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Data-Engineering---Analytics-Intern_R-00194635) | Shiloh, IL | Onsite | 2026-10-15 | Rolling | 🔴 Closed | ❔ |
 | [Live Oak Bank](generated/companies/live-oak-bank.md) | [Data Engineer Intern - Multiple Teams](https://liveoakbancshares.wd1.myworkdayjobs.com/en-US/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Engineering_R-002634) | Wilmington, NC | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
@@ -263,7 +263,6 @@
 - Entegris (2)
 - IAT Insurance Group (2)
 - ID.me (2)
-- JM Family Enterprises (2)
 - Leidos (2)
 - Lyft (2)
 - Marmon Holdings (2)
@@ -284,6 +283,7 @@
 - Clēnera (2)
 - Connor, Clark & Lunn Financial Group (2)
 - Gordon Food Service (2)
+- JM Family Enterprises (2)
 - MEMX (2)
 - Super (2)
 - TD Bank (2)
