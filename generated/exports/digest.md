@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-15
 
-## 🆕 New this week (688)
+## 🆕 New this week (690)
 
 - **7-Eleven** — [Data Engineer Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281) · data-engineering · —
 - **7-Eleven** — [Data Engineer Intern](https://go.vansh.nyc/1pp) · data-engineering · —
@@ -101,6 +101,8 @@
 - **Biodesix** — [Software Development Intern](https://www.biodesix.com/careers/current-openings?gh_jid=4485410009) · software-engineering · —
 - **Biodesix** — [Software Development Intern](https://go.vansh.nyc/1pr) · software-engineering · —
 - **Blackberry** — [Marketing Data & AI Analyst Intern](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Marketing-Data---AI-Analyst-Student--Winter-2027-_20260327) · ai · —
+- **Blizzard Entertainment** — [Animation & Cinematic Tools Engineering Intern](https://go.vansh.nyc/1zQ) · software-engineering · —
+- **Blizzard Entertainment** — [Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350) · software-engineering · —
 - **Bloom Energy** — [AI Solutions Engineer Intern](https://go.vansh.nyc/1vK) · ai · —
 - **Bloom Energy** — [Data Science Intern](https://go.vansh.nyc/1vm) · data-science · —
 - **Bloom Energy** — [RMCC Data Science Intern](https://go.vansh.nyc/1vI) · data-science · —

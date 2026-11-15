@@ -33,7 +33,7 @@ _Generated 2026-11-15_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 6239 | `██████████████` |
+| software-engineering | 6244 | `██████████████` |
 | ai | 969 | `██` |
 | machine-learning | 504 | `█` |
 | data-science | 426 | `█` |
@@ -41,7 +41,7 @@ _Generated 2026-11-15_
 | hardware | 366 | `█` |
 | embedded | 323 | `█` |
 | research | 318 | `█` |
-| product | 305 | `█` |
+| product | 306 | `█` |
 | design | 270 | `█` |
 | security | 257 | `█` |
 | data-engineering | 227 | `█` |
@@ -282,6 +282,9 @@ _Generated 2026-11-15_
 - Axon — Software Engineer Intern, R&D Program
 - Bank of Montreal — Machine Learning Developer Intern Co-op
 - Bank of Montreal — Technology Research Associate Co-op Intern
+- Bank of Montreal — UX/UI Designer Co-op Intern
+- Bank of Montreal — UX/UI Designer Co-op Intern
+- Bank of Montreal — Workforce Analyst Co-op Intern
 - Barclays — Chief Client Office Intern, Client Data & Engineering Group
 - Barclays — Client Data & Engineering Group Summer Intern - Chief Client Office
 - Baringa — Solutions AI Lab Intern
@@ -421,6 +424,7 @@ _Generated 2026-11-15_
 - Constellation Brands — AI Enablement Intern
 - Context — Intern
 - Corning — Measurements Engineering Intern - Summer 2027
+- Corning — Optical Metrology Engineer Intern
 - CoStar Group — Associate Embedded Software Engineer Intern
 - CoStar Group — Data Science Intern
 - CoStar Group — Data Science Intern
@@ -507,6 +511,7 @@ _Generated 2026-11-15_
 - Ecolab — Digital & AI Technology Intern
 - Edison International — Computer Science Intern
 - Edison International — Summer Internship - Data Analytics/Science/Applied Math
+- Eight Sleep — Firmware Intern
 - Elanco — Pet Health Sales Excellence Intern - AI Innovation & Enablement
 - Electronic Arts — AI Enablement Intern
 - Electronic Arts — Analytics Intern
@@ -627,6 +632,10 @@ _Generated 2026-11-15_
 - GM financial — Software Development Engineer Intern
 - Golden Analytics — Software Engineer Intern
 - Golden Analytics — Software Engineer Intern
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
 - Gordon Food Service — Category Insights Analyst Intern
 - Gordon Food Service — Category Technology Intern - MMSC
 - Gordon Food Service — Cloud DevOps Intern
@@ -724,11 +733,14 @@ _Generated 2026-11-15_
 - JM Family — AI Center of Excellence Delivery Team Intern
 - JM Family — AI & Decision Science Intern
 - JM Family — AI Intern
+- JM Family — Analytics Intern
 - JM Family — Automation & Analytics Intern
 - JM Family — Business Insights Intern
 - JM Family — Customer Experience Data Analyst Intern
+- JM Family — Data Engineer Intern
 - JM Family — Power Platform & Analytics Intern
 - JM Family — Sales Reporting & Analysis Intern
+- JM Family — Software Engineer Intern
 - JM Family Enterprises — AI Center of Excellence Delivery Team Intern
 - JM Family Enterprises — AI & Decision Science Intern
 - JM Family Enterprises — AI Intern
@@ -787,6 +799,7 @@ _Generated 2026-11-15_
 - KnowBe4 — Associate Product Manager Intern
 - KnowBe4 — Software Engineer Intern
 - Koch Industries — Data Science Intern
+- Kodiak Robotics — Data Engineering Intern
 - KQED — Audience Intelligence Intern
 - Kudu Dynamics — Cybersecurity Intern
 - Kudu Dynamics — Software Engineering & AI Intern
@@ -1267,6 +1280,7 @@ _Generated 2026-11-15_
 - T-Mobile — T-Ads Software Engineer Intern
 - T-Mobile — T-Ads Software Engineering Intern
 - Tacit — Data Scientist Intern
+- TC Energy — Enterprise Security Intern, Detection & Response
 - TD Bank — Graduate Leadership Program Commercial Banking Intern
 - TD Bank — Graduate Leadership Program Consumer Deposit and Payment Products Intern
 - Tenet3 — Software Developer Intern - Full Stack
@@ -1456,8 +1470,6 @@ _Generated 2026-11-15_
 - Wolters Kluwer — Front-End Developer Intern - Se
 - Workday — Analytics Engineer Intern
 - Workday — Analytics Engineer Intern
-- Workday — Machine Learning Engineer Intern
-- Workday — Software Development Engineer Intern
 - Wurl — Data Science Intern
 - Xcel Energy — Grid Data Intern
 - Xcel Energy — Grid Data Intern

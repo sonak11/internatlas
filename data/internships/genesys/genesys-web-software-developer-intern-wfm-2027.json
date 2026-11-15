@@ -5,16 +5,16 @@
     "name": "Genesys",
     "slug": "genesys"
   },
-  "role": "Web Software Developer Intern, WFM",
+  "role": "Web Software Developer Intern - WFM",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1hJ",
+  "apply_url": "https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "Toronto",
-      "country": "Canada"
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -39,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-05",
+    "posted": "2026-10-07",
     "discovered": "2026-11-05",
     "last_verified": "2026-11-15"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

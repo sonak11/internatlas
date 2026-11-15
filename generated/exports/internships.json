@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-15",
-  "count": 10780,
+  "count": 10786,
   "internships": [
     {
       "schema_version": "1.0",
@@ -66105,7 +66105,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66156,7 +66156,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -66207,7 +66207,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -72517,6 +72517,112 @@
         "auto-ingested",
         "src:vanshb03",
         "remote-available"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "blizzard-entertainment-animation-cinematic-tools-engineering-intern-2027",
+      "company": {
+        "name": "Blizzard Entertainment",
+        "slug": "blizzard-entertainment"
+      },
+      "role": "Animation & Cinematic Tools Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1zQ",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-13",
+        "discovered": "2026-11-15",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "blizzard-entertainment-animation-cinematic-tools-engineering-intern-animation-cinem-2027",
+      "company": {
+        "name": "Blizzard Entertainment",
+        "slug": "blizzard-entertainment"
+      },
+      "role": "Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-13",
+        "discovered": "2026-11-15",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -132360,7 +132466,7 @@
         "discovered": "2026-10-23",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -159786,7 +159892,7 @@
         "discovered": "2026-11-15",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -202385,7 +202491,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "genesys-web-software-developer-intern-wfm-2027",
+      "id": "genesys-web-software-developer-intern-wfm-2027-714577",
       "company": {
         "name": "Genesys",
         "slug": "genesys"
@@ -202425,13 +202531,64 @@
       },
       "dates": {
         "posted": "2026-11-05",
-        "discovered": "2026-11-05",
+        "discovered": "2026-11-15",
         "last_verified": "2026-11-15"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "genesys-web-software-developer-intern-wfm-2027",
+      "company": {
+        "name": "Genesys",
+        "slug": "genesys"
+      },
+      "role": "Web Software Developer Intern - WFM",
+      "category": "software-engineering",
+      "apply_url": "https://genesys.wd1.myworkdayjobs.com/2_genesys_jobs/job/Toronto-Flexible/Web-Software-Developer-Intern--WFM-_JR112214-3",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-07",
+        "discovered": "2026-11-05",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -208633,7 +208790,7 @@
         "discovered": "2026-11-10",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208790,7 +208947,7 @@
         "discovered": "2026-11-10",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208948,7 +209105,7 @@
         "discovered": "2026-11-10",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209207,7 +209364,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -259301,7 +259458,7 @@
         "discovered": "2026-11-05",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -259511,7 +259668,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -259671,7 +259828,7 @@
         "discovered": "2026-10-29",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -276350,7 +276507,7 @@
         "discovered": "2026-09-05",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -331553,6 +331710,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "ncr-atleos-product-management-intern-2027",
+      "company": {
+        "name": "NCR Atleos",
+        "slug": "ncr-atleos"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Product-Management-Internship_R1154941-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dundee",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-08",
+        "discovered": "2026-11-15",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "ncr-atleos-technology-intern-2027",
       "company": {
         "name": "NCR Atleos",
@@ -360817,6 +361025,111 @@
       "dates": {
         "posted": "2026-05-21",
         "discovered": "2026-09-03",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "oregon-state-university-student-developer-intern-cass-software-development-group-2026",
+      "company": {
+        "name": "Oregon State University",
+        "slug": "oregon-state-university"
+      },
+      "role": "Student Developer Intern - CASS Software Development Group",
+      "category": "software-engineering",
+      "apply_url": "https://oregonstate.wd501.myworkdayjobs.com/OSU_Careers_Site/job/Corvallis-Main-Campus/Student-Developer---CASS-Software-Development-Group_JR0001296",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Corvallis",
+          "state": "OR",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-05",
+        "discovered": "2026-11-15",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify",
+        "remote-available"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "oregon-state-university-technical-student-assistant-intern-opens-lab-2026",
+      "company": {
+        "name": "Oregon State University",
+        "slug": "oregon-state-university"
+      },
+      "role": "Technical Student Assistant Intern - OPEnS Lab",
+      "category": "software-engineering",
+      "apply_url": "https://oregonstate.wd501.myworkdayjobs.com/OSU_Careers_Site/job/Corvallis-Main-Campus/Technical-Student-Assistant---OPEnS-Lab_JR0001736",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Corvallis",
+          "state": "OR",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-27",
+        "discovered": "2026-11-15",
         "last_verified": "2026-11-15"
       },
       "status": "open",
@@ -477973,7 +478286,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -572325,9 +572638,9 @@
       "dates": {
         "posted": "2026-10-09",
         "discovered": "2026-10-26",
-        "last_verified": "2026-11-03"
+        "last_verified": "2026-11-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -572648,9 +572961,9 @@
       "dates": {
         "posted": "2026-10-09",
         "discovered": "2026-10-10",
-        "last_verified": "2026-11-08"
+        "last_verified": "2026-11-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
