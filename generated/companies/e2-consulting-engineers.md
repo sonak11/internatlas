@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| E2 Consulting Engineers | [Data Analyst Intern](https://go.vansh.nyc/1yp) | San Diego, CA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
+| E2 Consulting Engineers | [Data Analyst Intern](https://go.vansh.nyc/1yp) | San Diego, CA | Onsite | 2026-11-13 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

@@ -33,7 +33,7 @@ _Generated 2026-11-15_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 6251 | `██████████████` |
+| software-engineering | 6255 | `██████████████` |
 | ai | 970 | `██` |
 | machine-learning | 504 | `█` |
 | data-science | 427 | `█` |
@@ -43,7 +43,7 @@ _Generated 2026-11-15_
 | research | 318 | `█` |
 | product | 307 | `█` |
 | design | 270 | `█` |
-| security | 257 | `█` |
+| security | 259 | `█` |
 | data-engineering | 227 | `█` |
 | cloud | 184 | `█` |
 
@@ -57,18 +57,18 @@ _Generated 2026-11-15_
 - 2026-11-15 — **Rodriguez Services**: [Software Engineer Intern](https://go.vansh.nyc/1zS)
 - 2026-11-14 — **Eight Sleep**: [Firmware Intern](https://go.vansh.nyc/1zP)
 - 2026-11-14 — **Ericsson**: [AI Software Engineer Intern](https://go.vansh.nyc/1zB)
+- 2026-11-14 — **House of Representatives**: [HIR Cybersecurity Intern](https://go.vansh.nyc/1zW)
 - 2026-11-14 — **KBR Wyle Services**: [Computer Science Intern, Defense & Intel (D&I)](https://go.vansh.nyc/1zy)
 - 2026-11-14 — **KBR Wyle Services**: [Image Processing Software Engineer Intern](https://go.vansh.nyc/1zx)
 - 2026-11-14 — **KBR Wyle Services**: [Software Engineering Intern, Defense & Intel (D&I)](https://go.vansh.nyc/1zz)
+- 2026-11-14 — **Midrex Technologies**: [IT Cyber Security Intern](https://go.vansh.nyc/1zU)
+- 2026-11-14 — **NetApp**: [Data Analyst Intern](https://go.vansh.nyc/1zX)
 - 2026-11-14 — **NetApp**: [Software Engineer Intern, Cloud](https://go.vansh.nyc/1zr)
 - 2026-11-14 — **NetApp**: [Software Engineer Intern, Systems](https://go.vansh.nyc/1zs)
+- 2026-11-14 — **Paccar**: [Software Developer Intern](https://go.vansh.nyc/1zV)
+- 2026-11-14 — **Pason & IWS Career**: [Software Developer Intern, Datahub](https://go.vansh.nyc/1zT)
 - 2026-11-14 — **SAS**: [IoT Product Strategy Intern](https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false)
 - 2026-11-14 — **SAS**: [Software Developer Intern, Go/Golang](https://go.vansh.nyc/1zC)
-- 2026-11-14 — **SAS**: [Software Developer Intern - Go/Golang Experience](https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false)
-- 2026-11-14 — **Seagate Technology**: [Embedded Firmware Intern, Research Group](https://go.vansh.nyc/1zu)
-- 2026-11-14 — **Seagate Technology**: [Embedded Firmware Intern, Research Group](https://go.vansh.nyc/1zt)
-- 2026-11-14 — **Tesla**: [Electrical Engineer Intern - High Speed Hardware Design](https://www.tesla.com/careers/search/job/289951)
-- 2026-11-14 — **USAA**: [Technology Intern](https://go.vansh.nyc/1zL)
 
 ## Recently closed
 
@@ -504,6 +504,7 @@ _Generated 2026-11-15_
 - Duolingo — Data Scientist, Intern
 - Duolingo — Illustrator, Intern
 - DwyerOmega — Electrical Engineer Intern
+- E2 Consulting Engineers — Data Analyst Intern
 - Echelon Insights — Fellow Intern
 - Echo — Software Engineering Intern
 - Echo Global Logistics — Software Engineer Intern
@@ -731,6 +732,8 @@ _Generated 2026-11-15_
 - incident.io — Product Engineer Intern
 - incident.io — Product Engineer Placement Intern
 - InfiniteQuant — Quantitative Developer Intern
+- Ingredion — Digital Innovation Intern
+- Ingredion — Digital Innovation Intern
 - Insomniac Games — Engine and Tools Programming Intern
 - Intel — Platform Hardware and Systems Engineering Intern
 - Intel — Platform Hardware and Systems Engineering Intern - Bachelor's

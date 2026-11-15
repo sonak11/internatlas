@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**257** tracked · **175** open now
+**259** tracked · **177** open now
 
 ## Current openings
 
@@ -71,6 +71,7 @@
 | [Graco](generated/companies/graco.md) | [Cybersecurity Intern](https://go.vansh.nyc/1cy) | Dayton, MN | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Green Bay Packaging](generated/companies/green-bay-packaging.md) | [Cybersecurity Intern](https://go.vansh.nyc/1xs) | Green Bay, WI | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [HCSC](generated/companies/hcsc.md) | [Cybersecurity Operations Intern](https://go.vansh.nyc/11Z) | Chicago, IL | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| [House of Representatives](generated/companies/house-of-representatives.md) | [HIR Cybersecurity Intern](https://go.vansh.nyc/1zW) | Washington, DC | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
 | [Howmet Aerospace](generated/companies/howmet-aerospace.md) | [Cybersecurity Intern](https://go.vansh.nyc/1h7) | Pittsburgh, PA | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [HP Inc.](generated/companies/hp-inc.md) | [Software Product Security Intern, HP IQ](https://go.vansh.nyc/YE) | San Francisco, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [HUB International](generated/companies/hub-international.md) | [Security Architect Intern](https://go.vansh.nyc/1vD) | Chicago, IL | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
@@ -114,6 +115,7 @@
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/5J) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [Midland States Bank](generated/companies/midland-states-bank.md) | [Security Analyst Intern](https://go.vansh.nyc/13d) | St. Louis, MO | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
+| [Midrex Technologies](generated/companies/midrex-technologies.md) | [IT Cyber Security Intern](https://go.vansh.nyc/1zU) | Charlotte, NC | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
 | [Minitab](generated/companies/minitab.md) | [Cybersecurity Intern](https://go.vansh.nyc/1sN) | State College, PA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Muon Space](generated/companies/muon-space.md) | [Security Engineering Intern](https://go.vansh.nyc/1xZ) | Mountain View, CA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [National Information Solutions Cooperative](generated/companies/national-information-solutions-cooperative.md) | [Information Security (Cybersecurity) Intern](https://go.vansh.nyc/Nb) | Mandan, ND | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
@@ -346,6 +348,7 @@
 - Global Payments (1)
 - Graco (1)
 - Green Bay Packaging (1)
+- House of Representatives (1)
 - Howmet Aerospace (1)
 - HP Inc. (1)
 - HUB International (1)
@@ -370,6 +373,7 @@
 - MDA (1)
 - Medpace (1)
 - Midland States Bank (1)
+- Midrex Technologies (1)
 - Minitab (1)
 - Muon Space (1)
 - National Laboratory of the Rockies (1)

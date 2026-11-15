@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-15",
-  "count": 10797,
+  "count": 10803,
   "internships": [
     {
       "schema_version": "1.0",
@@ -158316,7 +158316,7 @@
         "discovered": "2026-11-13",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -233854,6 +233854,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "house-of-representatives-hir-cybersecurity-intern-2027",
+      "company": {
+        "name": "House of Representatives",
+        "slug": "house-of-representatives"
+      },
+      "role": "HIR Cybersecurity Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/1zW",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Washington",
+          "state": "DC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-14",
+        "discovered": "2026-11-15",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "howden-analytics-intern-2027",
       "company": {
         "name": "Howden",
@@ -245185,7 +245237,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -245239,7 +245291,7 @@
         "discovered": "2026-09-02",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -317002,6 +317054,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "midrex-technologies-it-cyber-security-intern-2027",
+      "company": {
+        "name": "Midrex Technologies",
+        "slug": "midrex-technologies"
+      },
+      "role": "IT Cyber Security Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/1zU",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Charlotte",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-14",
+        "discovered": "2026-11-15",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "mill-computer-vision-intern-multiple-teams-2027",
       "company": {
         "name": "Mill",
@@ -333122,6 +333226,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "netapp-data-analyst-intern-2027",
+      "company": {
+        "name": "NetApp",
+        "slug": "netapp"
+      },
+      "role": "Data Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1zX",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Research Triangle Park",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-14",
+        "discovered": "2026-11-15",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -361711,6 +361867,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "origin-bank-salesforce-systems-development-intern-2027",
+      "company": {
+        "name": "Origin Bank",
+        "slug": "origin-bank"
+      },
+      "role": "Salesforce Systems Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1zY",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ruston",
+          "state": "LA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-12",
+        "discovered": "2026-11-15",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "oshkosh-advanced-analytics-intern-2027",
       "company": {
         "name": "Oshkosh",
@@ -364402,7 +364610,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "paccar-software-developer-intern-2027",
+      "id": "paccar-software-developer-intern-2027-aba693",
       "company": {
         "name": "Paccar",
         "slug": "paccar"
@@ -364417,6 +364625,56 @@
         {
           "city": "Denton",
           "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-03",
+        "discovered": "2026-11-15",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "paccar-software-developer-intern-2027",
+      "company": {
+        "name": "Paccar",
+        "slug": "paccar"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1zV",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
           "country": "USA"
         }
       ],
@@ -364444,14 +364702,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-11-03",
+        "posted": "2026-11-14",
         "discovered": "2026-09-10",
         "last_verified": "2026-11-15"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -369482,6 +369740,57 @@
       "dates": {
         "posted": "2026-11-06",
         "discovered": "2026-11-07",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "pason-iws-career-software-developer-intern-datahub-2027",
+      "company": {
+        "name": "Pason & IWS Career",
+        "slug": "pason-iws-career"
+      },
+      "role": "Software Developer Intern, Datahub",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1zT",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Calgary",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-14",
+        "discovered": "2026-11-15",
         "last_verified": "2026-11-15"
       },
       "status": "open",

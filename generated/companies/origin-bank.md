@@ -7,7 +7,8 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Origin Bank | [Cybersecurity Intern](https://go.vansh.nyc/1yr) | Ruston, LA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
+| Origin Bank | [Salesforce Systems Development Intern](https://go.vansh.nyc/1zY) | Ruston, LA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
-Browse more roles in: [🔐 Security](../categories/security.md)
+Browse more roles in: [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)
