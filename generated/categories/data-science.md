@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**426** tracked · **220** open now
+**427** tracked · **221** open now
 
 ## Current openings
 
@@ -174,6 +174,7 @@
 | [SageSure](generated/companies/sagesure.md) | [Data Science Intern](https://go.vansh.nyc/1oi) | Jersey City, NJ | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [SageSure](generated/companies/sagesure.md) | [Data Science Product Analyst Intern](https://go.vansh.nyc/1oj) | Fairfield, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Sallie Mae](generated/companies/sallie-mae.md) | [Data Science and Engineering Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659) | Newark, DE +1 | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| [Sallie Mae](generated/companies/sallie-mae.md) | [Data Science and Engineering Intern](https://go.vansh.nyc/1zR) | Newark, DE +1 | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [SAS](generated/companies/sas.md) | [Data Science Research Intern](https://go.vansh.nyc/H0) | Bloomington, MN | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | [SAS](generated/companies/sas.md) | [Data Scientist Intern](https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false) | Cary, NC | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Schonfeld](generated/companies/schonfeld.md) | [Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) | NYC | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
@@ -506,6 +507,7 @@
 - Procter & Gamble (2)
 - Red Ventures (2)
 - SageSure (2)
+- Sallie Mae (2)
 - SAS (2)
 - SharkNinja (2)
 - Simbe Robotics (2)
@@ -585,7 +587,6 @@
 - QuantCo (1)
 - Robert Bosch Venture Capital (1)
 - Roblox (1)
-- Sallie Mae (1)
 - Schonfeld (1)
 - Sierra Nevada Corporation (1)
 - Strada Education Foundation (1)

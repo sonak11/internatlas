@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-15",
-  "count": 10786,
+  "count": 10797,
   "internships": [
     {
       "schema_version": "1.0",
@@ -104140,7 +104140,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "carnegie-mellon-university-advanced-computing-lab-intern-2027",
+      "id": "carnegie-mellon-university-advanced-computing-lab-intern-2027-c411d0",
       "company": {
         "name": "Carnegie Mellon University",
         "slug": "carnegie-mellon-university"
@@ -104148,6 +104148,58 @@
       "role": "Advanced Computing Lab Intern",
       "category": "software-engineering",
       "apply_url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-09",
+        "discovered": "2026-11-15",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "carnegie-mellon-university-advanced-computing-lab-intern-2027",
+      "company": {
+        "name": "Carnegie Mellon University",
+        "slug": "carnegie-mellon-university"
+      },
+      "role": "Advanced Computing Lab Intern",
+      "category": "software-engineering",
+      "apply_url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -104182,6 +104234,58 @@
       "dates": {
         "posted": "2026-11-09",
         "discovered": "2026-11-09",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "carnegie-mellon-university-agentic-development-intern-2026-9823ed",
+      "company": {
+        "name": "Carnegie Mellon University",
+        "slug": "carnegie-mellon-university"
+      },
+      "role": "Agentic Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Agentic-Development-Intern_2025292-1",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-30",
+        "discovered": "2026-11-15",
         "last_verified": "2026-11-15"
       },
       "status": "open",
@@ -104251,7 +104355,7 @@
       },
       "role": "Agentic Development Intern",
       "category": "software-engineering",
-      "apply_url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Agentic-Development-Intern_2025292-1",
+      "apply_url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Agentic-Development-Intern_2025292",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -104348,7 +104452,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "carnegie-mellon-university-cyber-ai-engineering-intern-2027",
+      "id": "carnegie-mellon-university-cyber-ai-engineering-intern-2027-c9bd66",
       "company": {
         "name": "Carnegie Mellon University",
         "slug": "carnegie-mellon-university"
@@ -104389,13 +104493,65 @@
       },
       "dates": {
         "posted": "2026-11-13",
-        "discovered": "2026-11-13",
+        "discovered": "2026-11-15",
         "last_verified": "2026-11-15"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "carnegie-mellon-university-cyber-ai-engineering-intern-2027",
+      "company": {
+        "name": "Carnegie Mellon University",
+        "slug": "carnegie-mellon-university"
+      },
+      "role": "Cyber AI Engineering Intern",
+      "category": "ai",
+      "apply_url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-13",
+        "discovered": "2026-11-13",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -104556,7 +104712,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "carnegie-mellon-university-enabling-mission-capability-at-scale-intern-2027",
+      "id": "carnegie-mellon-university-enabling-mission-capability-at-scale-intern-2027-17e626",
       "company": {
         "name": "Carnegie Mellon University",
         "slug": "carnegie-mellon-university"
@@ -104564,6 +104720,58 @@
       "role": "Enabling Mission Capability at Scale Intern",
       "category": "software-engineering",
       "apply_url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-30",
+        "discovered": "2026-11-15",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "carnegie-mellon-university-enabling-mission-capability-at-scale-intern-2027",
+      "company": {
+        "name": "Carnegie Mellon University",
+        "slug": "carnegie-mellon-university"
+      },
+      "role": "Enabling Mission Capability at Scale Intern",
+      "category": "software-engineering",
+      "apply_url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -104598,6 +104806,58 @@
       "dates": {
         "posted": "2026-10-30",
         "discovered": "2026-10-30",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "carnegie-mellon-university-full-stack-software-development-intern-2026-009e9c",
+      "company": {
+        "name": "Carnegie Mellon University",
+        "slug": "carnegie-mellon-university"
+      },
+      "role": "Full-Stack Software Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-30",
+        "discovered": "2026-11-15",
         "last_verified": "2026-11-15"
       },
       "status": "open",
@@ -104667,7 +104927,7 @@
       },
       "role": "Full-Stack Software Development Intern",
       "category": "software-engineering",
-      "apply_url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2",
+      "apply_url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-1",
       "season": "fall",
       "year": 2026,
       "work_mode": "onsite",
@@ -176373,6 +176633,214 @@
     },
     {
       "schema_version": "1.0",
+      "id": "fanatics-people-intelligence-intern-2027",
+      "company": {
+        "name": "Fanatics",
+        "slug": "fanatics"
+      },
+      "role": "People Intelligence Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4505998009",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-15",
+        "discovered": "2026-11-15",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "fanatics-product-intern-2027",
+      "company": {
+        "name": "Fanatics",
+        "slug": "fanatics"
+      },
+      "role": "Product Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-15",
+        "discovered": "2026-11-15",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "fanatics-product-intern-physical-trading-cards-2027",
+      "company": {
+        "name": "Fanatics",
+        "slug": "fanatics"
+      },
+      "role": "Product Intern - Physical Trading Cards",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Coppell",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-15",
+        "discovered": "2026-11-15",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "fanatics-product-management-intern-2027",
+      "company": {
+        "name": "Fanatics",
+        "slug": "fanatics"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-15",
+        "discovered": "2026-11-15",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "fanduel-sports-trader-intern-2027",
       "company": {
         "name": "FanDuel",
@@ -208632,7 +209100,7 @@
         "discovered": "2026-08-27",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208737,7 +209205,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208843,7 +209311,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -208895,7 +209363,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209001,7 +209469,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209054,7 +209522,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209159,7 +209627,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209210,7 +209678,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209261,7 +209729,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209312,7 +209780,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209415,7 +209883,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209571,7 +210039,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209624,7 +210092,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209732,7 +210200,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209785,7 +210253,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209839,7 +210307,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209941,7 +210409,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -210096,7 +210564,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -210149,7 +210617,7 @@
         "discovered": "2026-08-15",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -413926,7 +414394,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-11-15"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -415107,6 +415575,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rodriguez-services-software-engineer-intern-2027",
+      "company": {
+        "name": "Rodriguez Services",
+        "slug": "rodriguez-services"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1zS",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-15",
+        "discovered": "2026-11-15",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -437349,7 +437869,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "sallie-mae-data-science-and-engineering-intern-2027",
+      "id": "sallie-mae-data-science-and-engineering-intern-2027-ec0d19",
       "company": {
         "name": "Sallie Mae",
         "slug": "sallie-mae"
@@ -437394,13 +437914,70 @@
       },
       "dates": {
         "posted": "2026-10-29",
-        "discovered": "2026-10-29",
+        "discovered": "2026-11-15",
         "last_verified": "2026-11-15"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sallie-mae-data-science-and-engineering-intern-2027",
+      "company": {
+        "name": "Sallie Mae",
+        "slug": "sallie-mae"
+      },
+      "role": "Data Science and Engineering Intern",
+      "category": "data-science",
+      "apply_url": "https://go.vansh.nyc/1zR",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Newark",
+          "state": "DE",
+          "country": "USA"
+        },
+        {
+          "city": "Arlington",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-29",
+        "discovered": "2026-10-29",
+        "last_verified": "2026-11-15"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -538530,9 +539107,9 @@
       "dates": {
         "posted": "2026-09-21",
         "discovered": "2026-09-22",
-        "last_verified": "2026-11-13"
+        "last_verified": "2026-11-15"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

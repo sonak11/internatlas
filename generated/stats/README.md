@@ -33,15 +33,15 @@ _Generated 2026-11-15_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 6244 | `██████████████` |
-| ai | 969 | `██` |
+| software-engineering | 6251 | `██████████████` |
+| ai | 970 | `██` |
 | machine-learning | 504 | `█` |
-| data-science | 426 | `█` |
-| quant | 392 | `█` |
+| data-science | 427 | `█` |
+| quant | 393 | `█` |
 | hardware | 366 | `█` |
 | embedded | 323 | `█` |
 | research | 318 | `█` |
-| product | 306 | `█` |
+| product | 307 | `█` |
 | design | 270 | `█` |
 | security | 257 | `█` |
 | data-engineering | 227 | `█` |
@@ -49,7 +49,12 @@ _Generated 2026-11-15_
 
 ## Newest listings
 
+- 2026-11-15 — **Fanatics**: [People Intelligence Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4505998009)
+- 2026-11-15 — **Fanatics**: [Product Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009)
+- 2026-11-15 — **Fanatics**: [Product Intern - Physical Trading Cards](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009)
+- 2026-11-15 — **Fanatics**: [Product Management Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009)
 - 2026-11-15 — **Optimum (Altice USA)**: [Cybersecurity Operations Intern](https://go.vansh.nyc/1zM)
+- 2026-11-15 — **Rodriguez Services**: [Software Engineer Intern](https://go.vansh.nyc/1zS)
 - 2026-11-14 — **Eight Sleep**: [Firmware Intern](https://go.vansh.nyc/1zP)
 - 2026-11-14 — **Ericsson**: [AI Software Engineer Intern](https://go.vansh.nyc/1zB)
 - 2026-11-14 — **KBR Wyle Services**: [Computer Science Intern, Defense & Intel (D&I)](https://go.vansh.nyc/1zy)
@@ -64,11 +69,6 @@ _Generated 2026-11-15_
 - 2026-11-14 — **Seagate Technology**: [Embedded Firmware Intern, Research Group](https://go.vansh.nyc/1zt)
 - 2026-11-14 — **Tesla**: [Electrical Engineer Intern - High Speed Hardware Design](https://www.tesla.com/careers/search/job/289951)
 - 2026-11-14 — **USAA**: [Technology Intern](https://go.vansh.nyc/1zL)
-- 2026-11-14 — **Zoox**: [Feature Integration Intern [Summer 2027]](https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f)
-- 2026-11-13 — **Activision Blizzard**: [Game Systems Engineering Intern](https://go.vansh.nyc/1zl)
-- 2026-11-13 — **Addepar**: [Product Analyst Intern](https://job-boards.greenhouse.io/addepar1/jobs/8910306002)
-- 2026-11-13 — **Addepar**: [Product Analyst Intern, Navigator](https://go.vansh.nyc/1zh)
-- 2026-11-13 — **Adobe**: [Research Scientist Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345)
 
 ## Recently closed
 
@@ -632,10 +632,29 @@ _Generated 2026-11-15_
 - GM financial — Software Development Engineer Intern
 - Golden Analytics — Software Engineer Intern
 - Golden Analytics — Software Engineer Intern
+- Goldman Sachs — Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management
 - Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats
 - Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats
+- Goldman Sachs — Quantitative Strategist Intern - Investment Banking
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
+- Goldman Sachs — Quantitative Strategist Intern - Multiple Teams
 - Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking
+- Goldman Sachs — Summer Analyst Intern
+- Goldman Sachs — Summer Analyst Intern - Americas - Engineering
+- Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - Engineering
+- Goldman Sachs — Summer Analyst Intern - FICC and Equities - Sales and Trading
+- Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats
+- Goldman Sachs — Summer Associate Intern
+- Goldman Sachs — Summer Associate Intern - Multiple Teams
 - Gordon Food Service — Category Insights Analyst Intern
 - Gordon Food Service — Category Technology Intern - MMSC
 - Gordon Food Service — Cloud DevOps Intern
@@ -1106,6 +1125,7 @@ _Generated 2026-11-15_
 - Roche — Data Expert Intern - Compliance by Design - Data Capability
 - Roche — Data Science Intern - Multiple Teams
 - Rocket Companies — Marketing, Accounting, or IT Intern
+- Rocket Lab USA — Flight Software Intern
 - Rockwell Automation — Cybersecurity Intern
 - Rothesay — Quantitative Strategist Intern
 - Royal Bank of Canada — Capital Markets Intern - Quantitative Technology Services
@@ -1379,7 +1399,6 @@ _Generated 2026-11-15_
 - Trimble — Product Management Intern
 - Tyler Technologies — Software Development Intern
 - Tyler Technologies — Software Development Intern
-- Tyler Technologies — Software Development Intern - Summer 2027
 - Tyler Technologies — Software Development Intern - Summer 2027
 - UiPath — AI Engineer Intern
 - Uline — Executive Operations Analyst Intern

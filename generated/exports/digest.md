@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-15
 
-## 🆕 New this week (690)
+## 🆕 New this week (697)
 
 - **7-Eleven** — [Data Engineer Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281) · data-engineering · —
 - **7-Eleven** — [Data Engineer Intern](https://go.vansh.nyc/1pp) · data-engineering · —
@@ -153,8 +153,10 @@
 - **CareSource** — [Summer Internship Program – Provider Analytics AI Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481) · ai · —
 - **Carnegie Mellon University** — [Advanced Computing Lab Intern](https://go.vansh.nyc/1pb) · software-engineering · —
 - **Carnegie Mellon University** — [Advanced Computing Lab Intern](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336-1) · software-engineering · —
+- **Carnegie Mellon University** — [Advanced Computing Lab Intern](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336) · software-engineering · —
 - **Carnegie Mellon University** — [Cyber AI Engineer Intern](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2) · ai · —
 - **Carnegie Mellon University** — [Cyber AI Engineering Intern](https://go.vansh.nyc/1yV) · ai · —
+- **Carnegie Mellon University** — [Cyber AI Engineering Intern](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1) · ai · —
 - **Carnegie Mellon University** — [Cybersecurity Engineer Intern](https://go.vansh.nyc/1yU) · security · —
 - **Cboe Global Markets** — [DevOps Intern](https://go.vansh.nyc/1xz) · cloud · —
 - **Celestica** — [IT Business Application Development Intern](https://go.vansh.nyc/1pV) · software-engineering · —
@@ -242,6 +244,10 @@
 - **Eversource Energy** — [GIS Intern](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Manchester-NH/XMLNAME-2027-Summer--GIS-Intern--NH-_R-032537) · software-engineering · —
 - **Eversource Energy** — [GIS Intern](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Dorchester-MA/XMLNAME-2027-Summer--GIS-Intern--MA-_R-032519) · software-engineering · —
 - **FNBO** — [Banking Product Intern](https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Intern--Banking-Product_R-20261996) · software-engineering · —
+- **Fanatics** — [People Intelligence Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4505998009) · software-engineering · —
+- **Fanatics** — [Product Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009) · software-engineering · —
+- **Fanatics** — [Product Intern - Physical Trading Cards](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009) · quant · —
+- **Fanatics** — [Product Management Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009) · product · —
 - **Farmers Mutual Hail** — [AI Intern](https://go.vansh.nyc/1vq) · ai · —
 - **FieldPulse** — [AI Intern](https://go.vansh.nyc/1zj) · ai · —
 - **Firefly Aerospace** — [Software Engineering Intern](https://go.vansh.nyc/1x0) · software-engineering · —
@@ -530,6 +536,7 @@
 - **Rocket Mortgage** — [Customer Correspondence Analyst Intern](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Customer-Correspondence-Analyst---Summer-2027_R-085167-1) · software-engineering · —
 - **Rocket Mortgage** — [Data Analyst Intern](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832) · software-engineering · —
 - **Rockwell Automation** — [Software Developer/Engineering Intern](https://go.vansh.nyc/1uD) · software-engineering · —
+- **Rodriguez Services** — [Software Engineer Intern](https://go.vansh.nyc/1zS) · software-engineering · —
 - **Royal Bank of Canada** — [Capital Markets Quant Summer Associate Intern - Quantitative Technology Services](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729-3) · quant · —
 - **Royal Bank of Canada** — [Global Investment Banking Intern](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/BROOKFIELD-PLACE-FKA-3-WORLD-FINANCIAL-CENTER-200-VESEY-STREETNEW-YORK/XMLNAME-2027-Global-Investment-Banking--AidenEdge-Program-Winter-Analyst--4-Months-_R-0000186588-1) · software-engineering · —
 - **Rubrik** — [Product Management Intern](https://www.rubrik.com/company/careers/departments/job.8350601?gh_jid=8350601) · product · —
