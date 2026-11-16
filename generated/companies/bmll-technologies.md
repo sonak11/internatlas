@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| BMLL Technologies | [Junior Quantitative Analyst Intern](https://apply.workable.com/bmlltech/j/685458148E/apply) | London | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
+| BMLL Technologies | [Junior Quantitative Analyst Intern](https://apply.workable.com/bmlltech/j/685458148E/apply) | London | Onsite | 2026-11-13 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-16",
-  "count": 10807,
+  "count": 10813,
   "internships": [
     {
       "schema_version": "1.0",
@@ -2324,7 +2324,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -2536,7 +2536,7 @@
         "discovered": "2026-10-23",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -5373,7 +5373,7 @@
         "discovered": "2026-11-11",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -5529,6 +5529,58 @@
       "dates": {
         "posted": "2026-11-10",
         "discovered": "2026-11-10",
+        "last_verified": "2026-11-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "addepar-technical-product-management-intern-adx-2027",
+      "company": {
+        "name": "Addepar",
+        "slug": "addepar"
+      },
+      "role": "Technical Product Management Intern, ADX",
+      "category": "product",
+      "apply_url": "https://go.vansh.nyc/1A9",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-16",
+        "discovered": "2026-11-16",
         "last_verified": "2026-11-16"
       },
       "status": "open",
@@ -74136,7 +74188,7 @@
         "discovered": "2026-11-14",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -82953,6 +83005,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "boston-scientific-ai-engineering-intern-generative-and-agentic-ai-2027",
+      "company": {
+        "name": "Boston Scientific",
+        "slug": "boston-scientific"
+      },
+      "role": "AI Engineering Intern, Generative and Agentic AI",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1A8",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Marlborough",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-16",
+        "discovered": "2026-11-16",
+        "last_verified": "2026-11-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "boston-scientific-ai-solutions-engineering-intern-2027",
       "company": {
         "name": "Boston Scientific",
@@ -83427,7 +83531,7 @@
         "discovered": "2026-11-05",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -108502,7 +108606,7 @@
         "discovered": "2026-11-11",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03",
@@ -108549,7 +108653,7 @@
         "discovered": "2026-11-11",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -108595,7 +108699,7 @@
         "discovered": "2026-11-11",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -108687,7 +108791,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -111971,7 +112075,7 @@
         "discovered": "2026-11-09",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -189478,7 +189582,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -189530,7 +189634,7 @@
         "discovered": "2026-10-08",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -211433,7 +211537,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "google-forward-deployed-engineer-intern-2027-a4a830",
+      "id": "google-forward-deployed-engineer-intern-2027",
       "company": {
         "name": "Google",
         "slug": "google"
@@ -211480,59 +211584,6 @@
       },
       "dates": {
         "posted": "2026-10-12",
-        "discovered": "2026-10-12",
-        "last_verified": "2026-11-16"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "google-forward-deployed-engineer-intern-2027",
-      "company": {
-        "name": "Google",
-        "slug": "google"
-      },
-      "role": "Forward Deployed Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://www.google.com/about/careers/applications/jobs/results/135156989620560582",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "London",
-          "country": "UK"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-02",
         "discovered": "2026-10-02",
         "last_verified": "2026-11-16"
       },
@@ -236187,6 +236238,65 @@
     },
     {
       "schema_version": "1.0",
+      "id": "hudson-river-trading-data-scientist-intern-2027-02048a",
+      "company": {
+        "name": "Hudson River Trading",
+        "slug": "hudson-river-trading"
+      },
+      "role": "Data Scientist Intern",
+      "category": "data-science",
+      "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        },
+        {
+          "city": "NYC",
+          "country": "USA"
+        },
+        {
+          "city": "London",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-05",
+        "discovered": "2026-11-16",
+        "last_verified": "2026-11-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "hudson-river-trading-data-scientist-intern-2027-2027-dcf268",
       "company": {
         "name": "Hudson River Trading",
@@ -236247,21 +236357,14 @@
       },
       "role": "Data Scientist Intern",
       "category": "data-science",
-      "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369",
+      "apply_url": "https://go.vansh.nyc/1A5",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
-          "country": "UK"
-        },
-        {
-          "city": "NYC",
-          "country": "USA"
-        },
-        {
-          "city": "London",
+          "city": "New York",
+          "state": "NY",
           "country": "USA"
         }
       ],
@@ -236294,7 +236397,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -240447,7 +240550,7 @@
         "discovered": "2026-11-01",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -246396,6 +246499,57 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "instil-software-ltd-software-engineer-placement-intern-2027",
+      "company": {
+        "name": "Instil Software Ltd",
+        "slug": "instil-software-ltd"
+      },
+      "role": "Software Engineer Placement Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/instil/b1be07e8-60de-432c-82ff-6ffb220ce563/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Belfast",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-16",
+        "discovered": "2026-11-16",
+        "last_verified": "2026-11-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -285285,7 +285439,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -315322,7 +315476,7 @@
         "discovered": "2026-10-15",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -357058,6 +357212,109 @@
     },
     {
       "schema_version": "1.0",
+      "id": "octaura-data-engineer-intern-2027-925d2c",
+      "company": {
+        "name": "Octaura",
+        "slug": "octaura"
+      },
+      "role": "Data Engineer Intern",
+      "category": "data-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/octaura/jobs/4662934007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-16",
+        "discovered": "2026-11-16",
+        "last_verified": "2026-11-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "octaura-data-engineer-intern-2027",
+      "company": {
+        "name": "Octaura",
+        "slug": "octaura"
+      },
+      "role": "Data Engineer Intern",
+      "category": "data-engineering",
+      "apply_url": "https://go.vansh.nyc/1A6",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-16",
+        "discovered": "2026-11-16",
+        "last_verified": "2026-11-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "odin-dynamics-inc-engineering-intern-2026",
       "company": {
         "name": "Odin Dynamics, Inc",
@@ -360834,6 +361091,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "optimum-altice-usa-software-developer-intern-2027",
+      "company": {
+        "name": "Optimum (Altice USA)",
+        "slug": "optimum-altice-usa"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1A7",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bethpage",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-16",
+        "discovered": "2026-11-16",
+        "last_verified": "2026-11-16"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "optiver-fpga-engineer-intern-2027-8e401c",
       "company": {
         "name": "Optiver",
@@ -363569,7 +363878,7 @@
         "discovered": "2026-10-15",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -375474,7 +375783,7 @@
         "discovered": "2026-11-07",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -375525,7 +375834,7 @@
         "discovered": "2026-11-07",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -375576,7 +375885,7 @@
         "discovered": "2026-11-07",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -402926,7 +403235,7 @@
         "discovered": "2026-09-21",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -415184,7 +415493,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -418378,7 +418687,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -418432,7 +418741,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -418588,7 +418897,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -418690,7 +418999,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -418795,7 +419104,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -418900,7 +419209,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -419410,7 +419719,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -419563,7 +419872,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -419614,7 +419923,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -419716,7 +420025,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -419818,7 +420127,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -419974,7 +420283,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -420076,7 +420385,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -420178,7 +420487,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -433271,6 +433580,58 @@
         "last_verified": "2026-11-13"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rtx-software-engineering-intern-2027-2f7303",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1A3",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "El Segundo",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-16",
+        "discovered": "2026-11-16",
+        "last_verified": "2026-11-16"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -447876,7 +448237,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -447930,7 +448291,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -457184,7 +457545,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -457339,7 +457700,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -506679,7 +507040,7 @@
         "discovered": "2026-11-07",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -506739,7 +507100,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "the-new-york-times-data-analyst-intern-2027-73c228",
+      "id": "the-new-york-times-data-analyst-intern-2027",
       "company": {
         "name": "The New York Times",
         "slug": "the-new-york-times"
@@ -506786,58 +507147,6 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "the-new-york-times-data-analyst-intern-2027",
-      "company": {
-        "name": "The New York Times",
-        "slug": "the-new-york-times"
-      },
-      "role": "Data Analyst Intern",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/1pm",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "New York",
-          "state": "NY",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-11-09",
-        "discovered": "2026-11-10",
-        "last_verified": "2026-11-16"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
       ]
     },
     {
@@ -506937,7 +507246,7 @@
         "discovered": "2026-11-06",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -507040,7 +507349,7 @@
         "discovered": "2026-11-06",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -507349,7 +507658,7 @@
         "discovered": "2026-11-10",
         "last_verified": "2026-11-16"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"

@@ -7,21 +7,14 @@
   },
   "role": "Data Scientist Intern",
   "category": "data-science",
-  "apply_url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369",
+  "apply_url": "https://go.vansh.nyc/1A5",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "city": "NYC",
-      "country": "USA"
-    },
-    {
-      "city": "London",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -54,6 +47,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

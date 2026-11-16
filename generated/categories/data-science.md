@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**427** tracked · **221** open now
+**428** tracked · **222** open now
 
 ## Current openings
 
@@ -96,6 +96,7 @@
 | [Hadrian](generated/companies/hadrian.md) | [Data Science/Data Engineer Intern](https://go.vansh.nyc/1en) | Los Angeles, CA | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❌ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Data Science Intern](https://go.vansh.nyc/OD) | Andover, MA +9 | Onsite | 2026-08-30 | Rolling | 🟢 Open | ❔ |
 | [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Data Scientist Intern](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369) | London +2 | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
+| [Hudson River Trading](generated/companies/hudson-river-trading.md) | [Data Scientist Intern](https://go.vansh.nyc/1A5) | New York, NY | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Ingredion](generated/companies/ingredion.md) | [Global Supply Chain Data Science Intern](https://go.vansh.nyc/1do) | Westchester, IL | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integrainterns/jobs/5406093008) | Austin, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Intel](generated/companies/intel.md) | [Data Science / Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138) | Santa Clara, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
@@ -456,6 +457,7 @@
 - ASML (3)
 - CVS Health (3)
 - Figma (3)
+- Hudson River Trading (3)
 - Integra FEC (3)
 - Intercontinental Exchange (3)
 - Invesco (3)
@@ -490,7 +492,6 @@
 - Epic Games (2)
 - First Solar (US) (2)
 - Hadrian (2)
-- Hudson River Trading (2)
 - Ketjen (2)
 - LexisNexis Risk Solutions (2)
 - Meta (2)

@@ -9,8 +9,6 @@
 | Garmin | [Cyber Security Engineer Intern](https://go.vansh.nyc/R5) | Olathe, KS | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Data Scientist Intern](https://go.vansh.nyc/1nn) | Louisville, CO | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Electrical Design Engineer Intern](https://careers.garmin.com/jobs/19896?icims=1) | Tulsa, OK | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
-| Garmin | [FPGA Engineer Intern](https://go.vansh.nyc/FV) | Olathe, KS | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
-| Garmin | [FPGA Engineer Intern](https://careers.garmin.com/jobs/19836?icims=1) | Olathe, KS | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | Garmin | [IT DevOps Administrator Intern](https://go.vansh.nyc/1jp) | Olathe, KS | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/20131?icims=1) | Cary, NC | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern](https://go.vansh.nyc/1nr) | Brea, CA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
@@ -23,6 +21,8 @@
 | Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/19858?icims=1) | Chandler, AZ | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern](https://go.vansh.nyc/Fz) | Tucson, AZ | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/19693?icims=1) | Olathe, KS | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
+| Garmin | [FPGA Engineer Intern](https://go.vansh.nyc/FV) | Olathe, KS | Onsite | 2026-10-07 | Rolling | 🔴 Closed | ❔ |
+| Garmin | [FPGA Engineer Intern](https://careers.garmin.com/jobs/19836?icims=1) | Olathe, KS | Onsite | 2026-10-07 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**184** tracked · **124** open now
+**184** tracked · **123** open now
 
 ## Current openings
 
@@ -90,7 +90,6 @@
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Software Engineer Intern, Production Infrastructure](https://go.vansh.nyc/4s) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Software Engineer Intern, Production Infrastructure](https://go.vansh.nyc/4t) | Seattle, WA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Peripheral](generated/companies/peripheral.md) | [Software Engineer Intern, Infrastructure](https://go.vansh.nyc/1ri) | Toronto | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
-| [PETRONAS Canada](generated/companies/petronas-canada.md) | [Student Intern, Infrastructure Automation and Innovation](https://go.vansh.nyc/1lK) | Calgary | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Punch Through Design](generated/companies/punch-through-design.md) | [Cloud Software Engineer Intern](https://go.vansh.nyc/1yY) | Minneapolis, MN | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [IT Infrastructure & Cloud Engineering Intern](https://go.vansh.nyc/Rv) | San Diego, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Raft Company Website](generated/companies/raft-company-website.md) | [DevOps Engineering Intern](https://go.vansh.nyc/1jT) | McLean, VA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❌ |
@@ -173,6 +172,7 @@
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) | Palo Alto, CA | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ✅ |
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Forward Deployed Infrastructure Engineer Intern](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) | Washington | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❌ |
 | [Panasonic Holdings](generated/companies/panasonic-holdings.md) | [Back-End Cloud Developer Intern](https://careers.na.panasonic.com/jobs/50754?icims=1) | Bridgeton, MO | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
+| [PETRONAS Canada](generated/companies/petronas-canada.md) | [Student Intern, Infrastructure Automation and Innovation](https://go.vansh.nyc/1lK) | Calgary | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
 | [Phlair](generated/companies/phlair.md) | [Working Student Intern - Control Team - Systems & Data Infrastructure](https://jobs.ashbyhq.com/phlair/8021960b-1e19-406b-99c2-bac26fbe2c86/application?embed=true) | Edmonton +1 | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Pilot Company](generated/companies/pilot-company.md) | [Program Intern, Cloud Operations](https://go.vansh.nyc/V0) | Knoxville, TN | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Poshmark](generated/companies/poshmark.md) | [Cloud Platform Engineer Intern, Growth](https://jobs.ashbyhq.com/poshmark/062b84e6-1633-43ae-870b-83cb62893caa) | Redwood City, CA | Onsite | 2026-04-20 | Rolling | 🔴 Closed | ❌ |
@@ -256,7 +256,6 @@
 - Nissan Global (1)
 - Oceaneering (1)
 - Peripheral (1)
-- PETRONAS Canada (1)
 - Punch Through Design (1)
 - Qualcomm (1)
 - Raft Company Website (1)
@@ -290,6 +289,7 @@
 - Northrop Grumman (1)
 - Palantir (1)
 - Panasonic Holdings (1)
+- PETRONAS Canada (1)
 - Phlair (1)
 - Pilot Company (1)
 - Poshmark (1)

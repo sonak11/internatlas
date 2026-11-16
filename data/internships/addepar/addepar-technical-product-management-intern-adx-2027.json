@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "the-new-york-times-data-analyst-intern-2027-73c228",
+  "id": "addepar-technical-product-management-intern-adx-2027",
   "company": {
-    "name": "The New York Times",
-    "slug": "the-new-york-times"
+    "name": "Addepar",
+    "slug": "addepar"
   },
-  "role": "Data Analyst Intern",
-  "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005",
+  "role": "Technical Product Management Intern, ADX",
+  "category": "product",
+  "apply_url": "https://go.vansh.nyc/1A9",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "New York",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-09",
-    "discovered": "2026-11-10",
+    "posted": "2026-11-16",
+    "discovered": "2026-11-16",
     "last_verified": "2026-11-16"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

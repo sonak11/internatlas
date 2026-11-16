@@ -9,6 +9,7 @@
 | Optimum (Altice USA) | [Cloud Platform Engineering Intern](https://go.vansh.nyc/1sG) | Bethpage, NY | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | Optimum (Altice USA) | [Cybersecurity Operations Intern](https://go.vansh.nyc/1zM) | Bethpage, NY | Onsite | 2026-11-15 | Rolling | 🟢 Open | ❔ |
 | Optimum (Altice USA) | [QA Automation Engineering Intern](https://go.vansh.nyc/1sH) | Bethpage, NY | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| Optimum (Altice USA) | [Software Developer Intern](https://go.vansh.nyc/1A7) | Bethpage, NY | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | Optimum (Altice USA) | [DevOps Toolchain Intern](https://go.vansh.nyc/1sF) | Bethpage, NY | Onsite | 2026-11-11 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

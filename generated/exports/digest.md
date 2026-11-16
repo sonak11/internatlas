@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-16
 
-## 🆕 New this week (704)
+## 🆕 New this week (710)
 
 - **7-Eleven** — [Data Engineer Intern](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Data-Engineer-Intern_R26_6281) · data-engineering · —
 - **7-Eleven** — [Data Engineer Intern](https://go.vansh.nyc/1pp) · data-engineering · —
@@ -23,6 +23,7 @@
 - **Addepar** — [Software Engineer Intern](https://job-boards.greenhouse.io/addepar1/jobs/8927531002) · software-engineering · —
 - **Addepar** — [Software Engineer Intern](https://job-boards.greenhouse.io/addepar1/jobs/8927507002) · software-engineering · —
 - **Addepar** — [Software Engineering Intern](https://go.vansh.nyc/1rW) · software-engineering · —
+- **Addepar** — [Technical Product Management Intern, ADX](https://go.vansh.nyc/1A9) · product · —
 - **Adobe** — [Research Scientist Intern](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345) · research · —
 - **AeroVironment** — [Software Engineering Intern](https://go.vansh.nyc/1vd) · software-engineering · —
 - **Aerospace Corporation** — [Defensive Cyber Operations Grad Intern](https://go.vansh.nyc/1pU) · software-engineering · —
@@ -112,6 +113,7 @@
 - **Booz Allen** — [Data Scientist Intern](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Data-Scientist_R0253332) · data-science · —
 - **Booz Allen Hamilton** — [Data Scientist Intern](https://go.vansh.nyc/1sy) · data-science · —
 - **Booz Allen Hamilton** — [Quantum Computing Research Intern](https://go.vansh.nyc/1qt) · quant · —
+- **Boston Scientific** — [AI Engineering Intern, Generative and Agentic AI](https://go.vansh.nyc/1A8) · ai · —
 - **Brex** — [Operations Intern](https://www.brex.com/careers/8936631002?gh_jid=8936631002) · software-engineering · —
 - **Brex** — [Software Engineer Intern](https://www.brex.com/careers/8936403002?gh_jid=8936403002) · software-engineering · —
 - **Brex** — [Software Engineer Intern](https://go.vansh.nyc/1uO) · software-engineering · —
@@ -319,6 +321,7 @@
 - **Illumio** — [Engineering Intern, SRE](https://go.vansh.nyc/1pl) · cloud · —
 - **Ingersoll Rand** — [AI Engineer Intern](https://go.vansh.nyc/1x4) · ai · —
 - **Ingersoll Rand** — [Cybersecurity Intern](https://go.vansh.nyc/1x6) · security · —
+- **Instil Software Ltd** — [Software Engineer Placement Intern](https://jobs.ashbyhq.com/instil/b1be07e8-60de-432c-82ff-6ffb220ce563/application?embed=true) · software-engineering · —
 - **Integration Innovation (i3)** — [Data Management Intern](https://i3-corps.jibeapply.com/jobs/5490?icims=1&lang=en-us) · software-engineering · —
 - **Integration Innovation (i3)** — [Data Management Intern](https://go.vansh.nyc/1pu) · software-engineering · —
 - **Intermountain Healthcare** — [AI/ML Engineer Intern](https://go.vansh.nyc/1xt) · machine-learning · —
@@ -440,6 +443,8 @@
 - **Notion** — [Product Design Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9) · design · —
 - **Octant Bio** — [Software Engineering Intern](https://www.octant.bio/jobs?gh_jid=6260895004) · software-engineering · —
 - **Octant Bio** — [Software Engineering Intern](https://go.vansh.nyc/1yg) · software-engineering · —
+- **Octaura** — [Data Engineer Intern](https://job-boards.greenhouse.io/octaura/jobs/4662934007) · data-engineering · —
+- **Octaura** — [Data Engineer Intern](https://go.vansh.nyc/1A6) · data-engineering · —
 - **OneAmerica Financial** — [Cyber Security Intern](https://go.vansh.nyc/1qx) · security · —
 - **Operio** — [Software Engineering Intern](https://go.vansh.nyc/1rg) · software-engineering · —
 - **Operio** — [Software Engineering Intern](https://go.vansh.nyc/1rf) · software-engineering · —
@@ -447,6 +452,7 @@
 - **Optimum (Altice USA)** — [Cybersecurity Operations Intern](https://go.vansh.nyc/1zM) · security · —
 - **Optimum (Altice USA)** — [DevOps Toolchain Intern](https://go.vansh.nyc/1sF) · cloud · —
 - **Optimum (Altice USA)** — [QA Automation Engineering Intern](https://go.vansh.nyc/1sH) · software-engineering · —
+- **Optimum (Altice USA)** — [Software Developer Intern](https://go.vansh.nyc/1A7) · software-engineering · —
 - **Origin Bank** — [Cybersecurity Intern](https://go.vansh.nyc/1yr) · security · —
 - **Origin Bank** — [Salesforce Systems Development Intern](https://go.vansh.nyc/1zY) · software-engineering · —
 - **Owl Cyber Defense** — [Software Engineering Intern](https://go.vansh.nyc/1zK) · software-engineering · —
@@ -502,6 +508,7 @@
 - **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055) · software-engineering · —
 - **RTX** — [Software Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01885543) · software-engineering · —
 - **RTX** — [Software Engineering Intern](https://go.vansh.nyc/1sg) · software-engineering · —
+- **RTX** — [Software Engineering Intern](https://go.vansh.nyc/1A3) · software-engineering · —
 - **RTX** — [Software Engineering Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01887806) · software-engineering · —
 - **RTX** — [Software Engineering Intern](https://go.vansh.nyc/1v6) · software-engineering · —
 - **RTX** — [Software Engineering Intern](https://go.vansh.nyc/1ss) · software-engineering · —
@@ -631,7 +638,6 @@
 - **The Marzetti Company** — [AI Solutions Intern - Human Resources](https://careers.marzetticompany.com/jobs/8128?icims=1&lang=en-us) · ai · —
 - **The Marzetti Company** — [IT Analytics Intern](https://go.vansh.nyc/1xl) · software-engineering · —
 - **The New York Times** — [Data Analyst Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752930005) · software-engineering · —
-- **The New York Times** — [Data Analyst Intern](https://go.vansh.nyc/1pm) · software-engineering · —
 - **The New York Times** — [Machine Learning Scientist Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4752926005) · machine-learning · —
 - **The New York Times** — [ML Scientist Intern](https://go.vansh.nyc/1pn) · machine-learning · —
 - **The Toro Company** — [CX and Customer Lifetime Value Intern - Operations Analyst](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/CX-and-Customer-Lifetime-Value---Operations-Analyst---The-Toro-Company_JR17819) · software-engineering · —
