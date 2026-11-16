@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "smith-nephew-data-science-intern-ai-center-of-excellence-2027-60174a",
+  "id": "milliman-ai-product-engineer-intern-cmh-health-2027",
   "company": {
-    "name": "Smith+Nephew",
-    "slug": "smith-nephew"
+    "name": "Milliman",
+    "slug": "milliman"
   },
-  "role": "Data Science Intern - AI Center of Excellence",
+  "role": "AI Product Engineer Intern, CMH Health",
   "category": "ai",
-  "apply_url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1",
-  "season": "summer",
+  "apply_url": "https://go.vansh.nyc/1A1",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Pittsburgh",
-      "state": "PA",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Brookfield",
+      "state": "WI",
       "country": "USA"
     }
   ],
@@ -25,10 +30,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,13 +45,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-17",
-    "discovered": "2026-11-05",
-    "last_verified": "2026-11-15"
+    "posted": "2026-11-16",
+    "discovered": "2026-11-16",
+    "last_verified": "2026-11-16"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

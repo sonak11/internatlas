@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**270** tracked · **138** open now
+**270** tracked · **132** open now
 
 ## Current openings
 
@@ -131,12 +131,6 @@
 | [Texas Instruments](generated/companies/texas-instruments.md) | [Digital Design Verification Engineer Intern](https://go.vansh.nyc/1hB) | Santa Clara, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Texas Instruments](generated/companies/texas-instruments.md) | [Digital Design Verification Engineering Intern](https://go.vansh.nyc/hS) | Santa Clara, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❌ |
 | [Upscale AI](generated/companies/upscale-ai.md) | [Advanced SerDes & Analog/Mixed-Signal IC Design Intern](https://jobs.lever.co/upscale-ai/2bad3e47-6c00-4ec2-94b5-feb4009619c9/apply) | USA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
-| [Versant](generated/companies/versant.md) | [Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango](https://go.vansh.nyc/1jF) | Carlsbad, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
-| [Versant](generated/companies/versant.md) | [Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango](https://go.vansh.nyc/1jG) | Orlando, FL | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
-| [Versant](generated/companies/versant.md) | [Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango](https://go.vansh.nyc/1jE) | North Hollywood, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
-| [Versant3](generated/companies/versant3.md) | [Technology, Product, Design & Engineering Intern](https://go.vansh.nyc/1tC) | North Hollywood, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❌ |
-| [Versant3](generated/companies/versant3.md) | [Technology, Product, Design & Engineering Intern](https://go.vansh.nyc/1tz) | Orlando, FL | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❌ |
-| [Versant3](generated/companies/versant3.md) | [Technology, Product, Design & Engineering Intern](https://go.vansh.nyc/1tA) | USA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❌ |
 | [Vertiv](generated/companies/vertiv.md) | [Design Engineer Intern - Graduate-Level - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279217) | Delaware, OH +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Design Engineering Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279257) | Delaware, OH +1 | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Design Engineering Intern](https://go.vansh.nyc/Et) | Delaware, OH +1 | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
@@ -277,6 +271,12 @@
 | [Tesla](generated/companies/tesla.md) | [Inline Metrology Systems Design/Engineer Intern - Cell Engineering](https://www.tesla.com/careers/search/job/275335) | Fremont, CA | Onsite | 2026-06-29 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern, Vehicle UI Development](https://go.vansh.nyc/2l) | Palo Alto, CA | Onsite | 2026-05-09 | Rolling | 🔴 Closed | ❔ |
 | [Texas Instruments](generated/companies/texas-instruments.md) | [Layout Design Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017338) | USA | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
+| [Versant](generated/companies/versant.md) | [Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango](https://go.vansh.nyc/1jF) | Carlsbad, CA | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❌ |
+| [Versant](generated/companies/versant.md) | [Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango](https://go.vansh.nyc/1jG) | Orlando, FL | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❌ |
+| [Versant](generated/companies/versant.md) | [Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango](https://go.vansh.nyc/1jE) | North Hollywood, CA | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❌ |
+| [Versant3](generated/companies/versant3.md) | [Technology, Product, Design & Engineering Intern](https://go.vansh.nyc/1tC) | North Hollywood, CA | Onsite | 2026-10-12 | Rolling | 🔴 Closed | ❌ |
+| [Versant3](generated/companies/versant3.md) | [Technology, Product, Design & Engineering Intern](https://go.vansh.nyc/1tz) | Orlando, FL | Onsite | 2026-10-07 | Rolling | 🔴 Closed | ❌ |
+| [Versant3](generated/companies/versant3.md) | [Technology, Product, Design & Engineering Intern](https://go.vansh.nyc/1tA) | USA | Onsite | 2026-10-07 | Rolling | 🔴 Closed | ❌ |
 | [Xcel Energy](generated/companies/xcel-energy.md) | [Gas & Electric Design Analytics and Process Improvement Intern - MN](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Gas---Electric-Design-Analytics-and-Process-Improvement-Intern---MN_JR115641) | Minneapolis, MN | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 
 ## Hiring companies
@@ -302,9 +302,9 @@
 - Neuralink (3)
 - Tenstorrent (3)
 - Texas Instruments (3)
+- Interstates (3)
 - Versant (3)
 - Versant3 (3)
-- Interstates (3)
 - Analog Devices (2)
 - Boston Scientific (2)
 - DoorDash (2)
