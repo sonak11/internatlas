@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "l3harris-technologies-software-engineering-intern-2027-594253",
+  "id": "sas-optimization-intern-2027",
   "company": {
-    "name": "L3Harris Technologies",
-    "slug": "l3harris-technologies"
+    "name": "SAS",
+    "slug": "sas"
   },
-  "role": "Software Engineering Intern",
+  "role": "Optimization Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1pY",
+  "apply_url": "https://careers-sas.icims.com/jobs/42754/job?mobile=true&needsRedirect=false",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Rochester",
-      "state": "NY",
+      "city": "Cary",
+      "state": "NC",
       "country": "USA"
     }
   ],
@@ -25,10 +25,12 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
-    "citizenship_required": true,
+    "degree_levels": [
+      "masters"
+    ],
+    "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-10",
-    "discovered": "2026-11-10",
-    "last_verified": "2026-11-16"
+    "posted": "2026-11-16",
+    "discovered": "2026-11-17",
+    "last_verified": "2026-11-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

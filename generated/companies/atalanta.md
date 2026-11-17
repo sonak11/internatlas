@@ -6,8 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Atalanta | [Forward Deployed Engineer Intern](https://go.vansh.nyc/1yf) | Washington, DC | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | Atalanta | [Software Engineer Intern](https://go.vansh.nyc/1ye) | Washington, DC | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
+| Atalanta | [Forward Deployed Engineer Intern](https://go.vansh.nyc/1yf) | Washington, DC | Onsite | 2026-11-12 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "zoox-program-manager-intern-summer-2027-2027",
+  "id": "quest-analytics-software-engineer-intern-c-asp-net-2027-df2d37",
   "company": {
-    "name": "Zoox",
-    "slug": "zoox",
-    "career_page": "https://zoox.com/careers"
+    "name": "Quest Analytics",
+    "slug": "quest-analytics"
   },
-  "role": "Program Manager Intern [Summer 2027]",
+  "role": "Software Engineer Intern - C# - ASP.NET",
   "category": "software-engineering",
-  "apply_url": "https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8",
+  "apply_url": "https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f/apply",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Foster City",
-      "state": "CA",
+      "city": "Overland Park",
+      "state": "KS",
       "country": "USA"
     }
   ],
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-06",
-    "discovered": "2026-11-09",
-    "last_verified": "2026-11-16"
+    "posted": "2026-11-16",
+    "discovered": "2026-11-17",
+    "last_verified": "2026-11-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

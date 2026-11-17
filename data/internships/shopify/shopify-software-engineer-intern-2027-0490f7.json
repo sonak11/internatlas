@@ -1,21 +1,28 @@
 {
   "schema_version": "1.0",
-  "id": "gm-financial-software-development-engineer-intern-2027-3eadac",
+  "id": "shopify-software-engineer-intern-2027-0490f7",
   "company": {
-    "name": "GM Financial",
-    "slug": "gm-financial"
+    "name": "Shopify",
+    "slug": "shopify"
   },
-  "role": "Software Development Engineer Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1kZ",
+  "apply_url": "https://www.shopify.com/careers/can-software-engineering-internships-summer-2027_7ebb28da-0f4a-40ae-b41f-f5de60f3ca2a",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Arlington",
-      "state": "TX",
-      "country": "USA"
+      "city": "Montreal",
+      "country": "QC"
+    },
+    {
+      "city": "Toronto",
+      "country": "ON"
+    },
+    {
+      "city": "Ottawa",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -40,13 +47,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-06",
-    "discovered": "2026-11-06",
-    "last_verified": "2026-11-16"
+    "posted": "2026-11-16",
+    "discovered": "2026-11-17",
+    "last_verified": "2026-11-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

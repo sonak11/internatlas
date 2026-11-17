@@ -1,26 +1,28 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-ms-phd-software-engineer-2027-40626b",
+  "id": "shopify-software-engineer-intern-2027",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "Shopify",
+    "slug": "shopify"
   },
-  "role": "2027 Summer Intern, MS, PhD, Software Engineer",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8250220",
+  "apply_url": "https://go.vansh.nyc/1Ac",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mountain View",
-      "country": "USA"
+      "city": "Montreal",
+      "country": "Canada"
     },
     {
-      "city": "Mountain View",
-      "state": "CA",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    {
+      "city": "Ottawa",
+      "country": "Canada"
     }
   ],
   "compensation": {
@@ -30,10 +32,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -48,13 +47,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-06",
-    "discovered": "2026-10-06",
-    "last_verified": "2026-11-16"
+    "posted": "2026-11-16",
+    "discovered": "2026-11-17",
+    "last_verified": "2026-11-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

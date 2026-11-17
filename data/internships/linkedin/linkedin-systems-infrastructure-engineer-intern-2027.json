@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "stand-together-data-analyst-intern-open-the-books-2027-55c901",
+  "id": "linkedin-systems-infrastructure-engineer-intern-2027",
   "company": {
-    "name": "Stand Together",
-    "slug": "stand-together"
+    "name": "LinkedIn",
+    "slug": "linkedin"
   },
-  "role": "Data Analyst Intern - Open the Books",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.lever.co/standtogether/f379a7ee-c2b6-47db-b1de-08283462ea6c/apply",
-  "season": "spring",
+  "role": "Systems & Infrastructure Engineer Intern",
+  "category": "cloud",
+  "apply_url": "https://jobs.smartrecruiters.com/LinkedIn3/744000161930950",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Florida",
+      "city": "Mountain View",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -24,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -39,9 +42,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-22",
-    "discovered": "2026-10-25",
-    "last_verified": "2026-11-16"
+    "posted": "2026-11-16",
+    "discovered": "2026-11-17",
+    "last_verified": "2026-11-17"
   },
   "status": "open",
   "tags": [

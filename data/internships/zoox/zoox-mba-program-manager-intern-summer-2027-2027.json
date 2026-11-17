@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "camping-world-software-engineer-intern-2027-ca5f85",
+  "id": "zoox-mba-program-manager-intern-summer-2027-2027",
   "company": {
-    "name": "Camping World",
-    "slug": "camping-world"
+    "name": "Zoox",
+    "slug": "zoox",
+    "career_page": "https://zoox.com/careers"
   },
-  "role": "Software Engineer Intern",
+  "role": "MBA Program Manager Intern [Summer 2027]",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1zE",
+  "apply_url": "https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "Foster City",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,13 +41,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-13",
-    "discovered": "2026-11-14",
-    "last_verified": "2026-11-16"
+    "posted": "2026-11-06",
+    "discovered": "2026-11-17",
+    "last_verified": "2026-11-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:ats"
   ]
 }

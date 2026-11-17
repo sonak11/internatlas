@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "toshiba-global-commerce-solutions-ai-automation-revenue-ops-intern-2027-9daa00",
+  "id": "bound-product-management-intern-2027",
   "company": {
-    "name": "Toshiba Global Commerce Solutions",
-    "slug": "toshiba-global-commerce-solutions"
+    "name": "Bound",
+    "slug": "bound"
   },
-  "role": "AI Automation & Revenue Ops Intern",
-  "category": "ai",
-  "apply_url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5270466007",
-  "season": "spring",
+  "role": "Product Management Intern",
+  "category": "product",
+  "apply_url": "https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Durham",
-      "state": "NC",
+      "city": "Ames",
+      "state": "IA",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-02",
-    "discovered": "2026-11-03",
-    "last_verified": "2026-11-16"
+    "posted": "2026-11-16",
+    "discovered": "2026-11-17",
+    "last_verified": "2026-11-17"
   },
   "status": "open",
   "tags": [

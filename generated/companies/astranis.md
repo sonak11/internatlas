@@ -8,7 +8,6 @@
 |---|---|---|---|---|---|---|---|
 | Astranis | [Backend Software Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4705214006) | SF | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | Astranis | [Electrical Engineer Intern](https://job-boards.greenhouse.io/astranis/jobs/4704784006) | SF | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
-| Astranis | [Electrical Reliability Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4704788006) | SF | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | Astranis | [Embedded Software Developer Intern, Network/Payload](https://go.vansh.nyc/1sT) | San Francisco, CA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❌ |
 | Astranis | [Embedded Software Developer Intern, Network/Payload](https://go.vansh.nyc/1lz) | San Francisco, CA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❌ |
 | Astranis | [Embedded Software Developer – Network/Payload Intern](https://job-boards.greenhouse.io/astranis/jobs/4704569006) | SF | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
@@ -28,6 +27,7 @@
 | Astranis | [Software Developer – Network Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4705599006) | SF | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Astranis | [Software Engineer Enterprise Systems Intern - Summer 2027](https://job-boards.greenhouse.io/astranis/jobs/4705610006) | SF | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | Astranis | [Assembly and Test Intern - Integration](https://job-boards.greenhouse.io/astranis/jobs/4679080006) | SF | Onsite | 2026-05-12 | Rolling | 🔴 Closed | ❔ |
+| Astranis | [Electrical Reliability Associate Intern](https://job-boards.greenhouse.io/astranis/jobs/4704788006) | SF | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | Astranis | [Electrical Reliability Intern](https://job-boards.greenhouse.io/astranis/jobs/4704782006) | SF | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | Astranis | [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | SF | Onsite | 2025-12-31 | Rolling | 🔴 Closed | ❔ |
 | Astranis | [Flight Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4619283006) | SF | Onsite | 2026-04-29 | Rolling | 🔴 Closed | ❔ |

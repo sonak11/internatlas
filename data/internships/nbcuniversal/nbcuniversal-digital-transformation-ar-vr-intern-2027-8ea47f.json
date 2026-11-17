@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "american-bankers-association-quantitative-research-intern-2027-651444",
+  "id": "nbcuniversal-digital-transformation-ar-vr-intern-2027-8ea47f",
   "company": {
-    "name": "American Bankers Association",
-    "slug": "american-bankers-association"
+    "name": "NBCUniversal",
+    "slug": "nbcuniversal"
   },
-  "role": "Quantitative Research Intern",
-  "category": "quant",
-  "apply_url": "https://go.vansh.nyc/PV",
+  "role": "Digital Transformation AR/VR Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1pO",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Washington",
-      "state": "DC",
+      "city": "North Hollywood",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-02",
-    "discovered": "2026-10-26",
-    "last_verified": "2026-11-16"
+    "posted": "2026-11-10",
+    "discovered": "2026-11-17",
+    "last_verified": "2026-11-17"
   },
   "status": "open",
   "tags": [

@@ -10,7 +10,6 @@
 | Camping World | [Data Analyst Intern - AI & Machine Learning Focus](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Analyst-Intern_26_09300) | Chicago, IL +1 | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | Camping World | [Data Engineering Intern](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297) | Chicago, IL +1 | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | Camping World | [Software Engineer Intern](https://go.vansh.nyc/1zE) | Chicago, IL | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
-| Camping World | [Software Engineer Intern](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Lincolnshire-IL/Software-Engineering-Intern_26_09080) | Chicago, IL | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

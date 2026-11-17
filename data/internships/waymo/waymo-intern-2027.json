@@ -1,23 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "brex-software-engineer-intern-2027-0842a6",
+  "id": "waymo-intern-2027",
   "company": {
-    "name": "Brex",
-    "slug": "brex"
+    "name": "Waymo",
+    "slug": "waymo"
   },
-  "role": "Software Engineer Intern",
+  "role": "Intern",
   "category": "software-engineering",
-  "apply_url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8250220",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
-      "country": "USA"
-    },
-    {
-      "city": "San Francisco",
+      "city": "Mountain View",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -28,7 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,11 +43,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-11",
-    "discovered": "2026-11-12",
-    "last_verified": "2026-11-12"
+    "posted": "2026-10-06",
+    "discovered": "2026-11-17",
+    "last_verified": "2026-11-17"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

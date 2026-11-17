@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Lyte AI | [Software Engineering Intern](https://go.vansh.nyc/1in) | Sunnyvale, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
+| Lyte AI | [Software Engineering Intern](https://go.vansh.nyc/1in) | Sunnyvale, CA | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

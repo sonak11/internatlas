@@ -8,7 +8,6 @@
 |---|---|---|---|---|---|---|---|
 | American Bankers Association | [Banking Policy and Economic Research Intern](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625) | Washington, DC | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | American Bankers Association | [Quantitative Research Intern](https://go.vansh.nyc/PV) | Washington, DC | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
-| American Bankers Association | [Quantitative Research Intern](https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Quantitative-Research_R614) | Washington, DC | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

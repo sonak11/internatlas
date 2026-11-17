@@ -9,6 +9,7 @@
 | SharkNinja | [Data Science Intern](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4727539006) | Needham, MA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | SharkNinja | [Data Science Intern](https://go.vansh.nyc/1wu) | Needham, MA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | SharkNinja | [Digital & Website Technology Intern](https://go.vansh.nyc/1wJ) | Needham, MA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
+| SharkNinja | [Electrical Engineer Intern](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4726669006) | London | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

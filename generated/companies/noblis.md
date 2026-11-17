@@ -9,6 +9,7 @@
 | Noblis | [Applied Research Intern](https://careers.noblis.org/jobs/28089?icims=1&lang=en-us) | USA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | Noblis | [Data Science and Innovation Intern](https://go.vansh.nyc/1i2) | Springfield, VA +1 | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Noblis | [Data Science and Innovation Intern](https://careers.noblis.org/jobs/28097?icims=1&lang=en-us) | Springfield, VA +1 | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| Noblis | [Environmental Analyst Intern](https://careers.noblis.org/jobs/28139?icims=1&lang=en-us) | USA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | Noblis | [Machinery Silencing Technician Intern](https://careers.noblis.org/jobs/27606?icims=1) | Philadelphia, PA | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
