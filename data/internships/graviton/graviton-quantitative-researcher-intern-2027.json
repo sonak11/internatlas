@@ -7,7 +7,7 @@
   },
   "role": "Quantitative Researcher Intern",
   "category": "quant",
-  "apply_url": "https://go.vansh.nyc/bc",
+  "apply_url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899671002",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -19,10 +19,6 @@
     {
       "city": "Amsterdam",
       "country": "Netherlands"
-    },
-    {
-      "city": "NYC",
-      "country": "USA"
     },
     {
       "city": "Singapore",
@@ -60,6 +56,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

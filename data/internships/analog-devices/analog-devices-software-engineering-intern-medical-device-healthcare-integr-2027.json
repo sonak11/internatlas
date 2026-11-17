@@ -1,27 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "graviton-quantitative-researcher-intern-2027-544239",
+  "id": "analog-devices-software-engineering-intern-medical-device-healthcare-integr-2027",
   "company": {
-    "name": "Graviton",
-    "slug": "graviton"
+    "name": "Analog Devices",
+    "slug": "analog-devices"
   },
-  "role": "Quantitative Researcher Intern",
-  "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899671002",
+  "role": "Software Engineering Intern, Medical Device & Healthcare Integration",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1AV",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "city": "Amsterdam",
-      "country": "Netherlands"
-    },
-    {
-      "city": "Singapore",
+      "city": "Wilmington",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -32,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -49,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-19",
-    "discovered": "2026-10-25",
+    "posted": "2026-11-17",
+    "discovered": "2026-11-17",
     "last_verified": "2026-11-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
