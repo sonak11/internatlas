@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-17",
-  "count": 10879,
+  "count": 10899,
   "internships": [
     {
       "schema_version": "1.0",
@@ -11582,7 +11582,7 @@
         "discovered": "2026-08-17",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -11635,7 +11635,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -11750,7 +11750,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "akuna-capital-quantitative-development-strategy-intern-2027-3fce3b",
+      "id": "akuna-capital-quantitative-development-strategy-intern-2027",
       "company": {
         "name": "Akuna Capital",
         "slug": "akuna-capital"
@@ -11765,60 +11765,6 @@
         {
           "city": "Chicago",
           "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-15",
-        "discovered": "2026-10-29",
-        "last_verified": "2026-11-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "akuna-capital-quantitative-development-strategy-intern-2027",
-      "company": {
-        "name": "Akuna Capital",
-        "slug": "akuna-capital"
-      },
-      "role": "Quantitative Development & Strategy Intern",
-      "category": "quant",
-      "apply_url": "https://go.vansh.nyc/4y",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
           "country": "USA"
         }
       ],
@@ -11844,70 +11790,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-07-24",
+        "posted": "2026-07-15",
         "discovered": "2026-08-17",
         "last_verified": "2026-11-17"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "akuna-capital-quantitative-development-strategy-intern-summer-2027-2027",
-      "company": {
-        "name": "Akuna Capital",
-        "slug": "akuna-capital",
-        "career_page": "https://akunacapital.com/careers"
-      },
-      "role": "Quantitative Development & Strategy Intern, Summer 2027",
-      "category": "quant",
-      "apply_url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Chicago",
-          "state": "IL",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters",
-          "phd"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-07-13",
-        "discovered": "2026-10-25",
-        "last_verified": "2026-11-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:ats"
+        "src:simplify"
       ]
     },
     {
@@ -12507,6 +12397,61 @@
       "tags": [
         "auto-ingested",
         "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "akuna-capital-university-quantitative-development-strategy-intern-2027",
+      "company": {
+        "name": "Akuna Capital University",
+        "slug": "akuna-capital-university"
+      },
+      "role": "Quantitative Development & Strategy Intern",
+      "category": "quant",
+      "apply_url": "https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-07-13",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -62371,7 +62316,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -62586,7 +62531,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "axiom-space-enterprise-data-analyst-intern-power-bi-data-quality-2027-cc7f68",
+      "id": "axiom-space-enterprise-data-analyst-intern-power-bi-data-quality-2027",
       "company": {
         "name": "Axiom Space",
         "slug": "axiom-space"
@@ -62634,58 +62579,6 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "axiom-space-enterprise-data-analyst-intern-power-bi-data-quality-2027",
-      "company": {
-        "name": "Axiom Space",
-        "slug": "axiom-space"
-      },
-      "role": "Enterprise Data Analyst Intern - Power BI & Data Quality",
-      "category": "software-engineering",
-      "apply_url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Enterprise-Data-Analyst-Intern--Power-BI---Data-Quality--Summer-2027-_JR100823",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Houston",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-29",
-        "discovered": "2026-10-30",
-        "last_verified": "2026-11-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
       ]
     },
     {
@@ -71109,6 +71002,263 @@
     },
     {
       "schema_version": "1.0",
+      "id": "birdseye-security-solutions-ai-systems-intern-2027-fca7d4",
+      "company": {
+        "name": "Birdseye Security Solutions",
+        "slug": "birdseye-security-solutions"
+      },
+      "role": "AI Systems Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1B7",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "birdseye-security-solutions-ai-systems-intern-2027",
+      "company": {
+        "name": "Birdseye Security Solutions",
+        "slug": "birdseye-security-solutions"
+      },
+      "role": "AI Systems Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1AX",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mississauga",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "birdseye-security-solutions-computer-vision-intern-2027-752649",
+      "company": {
+        "name": "Birdseye Security Solutions",
+        "slug": "birdseye-security-solutions"
+      },
+      "role": "Computer Vision Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1B8",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dallas",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "birdseye-security-solutions-computer-vision-intern-2027",
+      "company": {
+        "name": "Birdseye Security Solutions",
+        "slug": "birdseye-security-solutions"
+      },
+      "role": "Computer Vision Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1AY",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mississauga",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "birdseye-security-solutions-software-developer-intern-2027",
+      "company": {
+        "name": "Birdseye Security Solutions",
+        "slug": "birdseye-security-solutions"
+      },
+      "role": "Software Developer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1AZ",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Mississauga",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bitgo-product-management-intern-2027",
       "company": {
         "name": "BitGo",
@@ -77943,58 +78093,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "booz-allen-software-developer-intern-summer-games-2027-2a9444",
-      "company": {
-        "name": "Booz Allen",
-        "slug": "booz-allen"
-      },
-      "role": "Software Developer Intern - Summer Games",
-      "category": "software-engineering",
-      "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Rome",
-          "state": "NY",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-28",
-        "discovered": "2026-08-29",
-        "last_verified": "2026-11-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "booz-allen-software-developer-intern-summer-games-2027-52ed12",
       "company": {
         "name": "Booz Allen",
@@ -78054,14 +78152,14 @@
       },
       "role": "Software Developer Intern - Summer Games",
       "category": "software-engineering",
-      "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "El Segundo",
-          "state": "CA",
+          "city": "Rome",
+          "state": "NY",
           "country": "USA"
         }
       ],
@@ -78087,7 +78185,7 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-27",
+        "posted": "2026-08-28",
         "discovered": "2026-08-27",
         "last_verified": "2026-11-17"
       },
@@ -104198,7 +104296,7 @@
         "discovered": "2026-11-13",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -104458,7 +104556,7 @@
         "discovered": "2026-11-13",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -104770,7 +104868,7 @@
         "discovered": "2026-11-14",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -104874,7 +104972,7 @@
         "discovered": "2026-11-09",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -115160,7 +115258,7 @@
         "discovered": "2026-10-16",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -121981,6 +122079,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cloudflare-people-team-intern-emea-employment-compliance-manager-enable-2027",
+      "company": {
+        "name": "Cloudflare",
+        "slug": "cloudflare",
+        "career_page": "https://www.cloudflare.com/careers"
+      },
+      "role": "People Team Intern, EMEA Employment Compliance & Manager Enablement (Spring 2027)",
+      "category": "software-engineering",
+      "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8383449?gh_jid=8383449",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "In-Office",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "cloudflare-people-team-intern-hr-transformation-winter-2027-2027",
       "company": {
         "name": "Cloudflare",
@@ -126373,7 +126523,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -133362,7 +133512,7 @@
         "discovered": "2026-11-07",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -161771,7 +161921,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -162292,9 +162442,9 @@
       "dates": {
         "posted": "2026-10-06",
         "discovered": "2026-10-07",
-        "last_verified": "2026-11-10"
+        "last_verified": "2026-11-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -162759,7 +162909,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -163788,7 +163938,7 @@
         "discovered": "2026-11-11",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify",
@@ -163847,7 +163997,7 @@
         "discovered": "2026-09-16",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03",
@@ -166553,7 +166703,7 @@
         "discovered": "2026-09-17",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -191320,6 +191470,59 @@
     },
     {
       "schema_version": "1.0",
+      "id": "garner-health-associate-software-engineer-intern-2026",
+      "company": {
+        "name": "Garner Health",
+        "slug": "garner-health"
+      },
+      "role": "Associate Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004",
+      "season": "fall",
+      "year": 2026,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-04",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "gartner-data-analyst-intern-2026",
       "company": {
         "name": "Gartner",
@@ -192625,7 +192828,7 @@
         "discovered": "2026-07-20",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -199461,7 +199664,7 @@
         "discovered": "2026-11-05",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -199565,7 +199768,7 @@
         "discovered": "2026-11-08",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -208391,7 +208594,7 @@
         "discovered": "2026-10-23",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -209104,6 +209307,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "globalfoundries-tapeout-engineering-business-products-engineering-intern-2027",
+      "company": {
+        "name": "GlobalFoundries",
+        "slug": "globalfoundries"
+      },
+      "role": "Tapeout Engineering Business Products & Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1Bc",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Austin",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -215619,7 +215874,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -218841,7 +219096,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "greystone-full-stack-engineer-intern-2027-c7b059",
+      "id": "greystone-full-stack-engineer-intern-2027",
       "company": {
         "name": "Greystone",
         "slug": "greystone"
@@ -218889,58 +219144,6 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "greystone-full-stack-engineer-intern-2027",
-      "company": {
-        "name": "Greystone",
-        "slug": "greystone"
-      },
-      "role": "Full Stack Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/1ww",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Warrenton",
-          "state": "VA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-27",
-        "discovered": "2026-11-12",
-        "last_verified": "2026-11-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
       ]
     },
     {
@@ -232883,7 +233086,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -238433,7 +238636,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -241329,6 +241532,58 @@
       "dates": {
         "posted": "2026-11-12",
         "discovered": "2026-11-13",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "idaho-national-laboratory-electric-vehicle-charging-data-analysis-intern-2027",
+      "company": {
+        "name": "Idaho National Laboratory",
+        "slug": "idaho-national-laboratory"
+      },
+      "role": "Electric Vehicle Charging Data Analysis Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1B6",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Idaho Falls",
+          "state": "ID",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
         "last_verified": "2026-11-17"
       },
       "status": "open",
@@ -267337,6 +267592,57 @@
       "dates": {
         "posted": "2026-10-20",
         "discovered": "2026-10-23",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "jp-morgan-chase-payments-intern-2027",
+      "company": {
+        "name": "JP Morgan Chase",
+        "slug": "jp-morgan-chase"
+      },
+      "role": "Payments Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808799",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
         "last_verified": "2026-11-17"
       },
       "status": "open",
@@ -298317,7 +298623,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -317117,52 +317423,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "microsoft-product-manager-intern-2027-70f4e7",
-      "company": {
-        "name": "Microsoft",
-        "slug": "microsoft"
-      },
-      "role": "Product Manager Intern",
-      "category": "product",
-      "apply_url": "https://go.vansh.nyc/5Y",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "remote",
-      "locations": [],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-08-04",
-        "discovered": "2026-11-12",
-        "last_verified": "2026-11-17"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "microsoft-product-manager-intern-2027-7ea818",
       "company": {
         "name": "Microsoft",
@@ -317277,17 +317537,11 @@
       },
       "role": "Product Manager Intern",
       "category": "product",
-      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+      "apply_url": "https://go.vansh.nyc/5Y",
       "season": "summer",
       "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Redmond",
-          "state": "WA",
-          "country": "USA"
-        }
-      ],
+      "work_mode": "remote",
+      "locations": [],
       "compensation": {
         "currency": "USD",
         "housing_stipend": false,
@@ -317313,14 +317567,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-08-03",
+        "posted": "2026-08-04",
         "discovered": "2026-08-03",
         "last_verified": "2026-11-17"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -318706,7 +318960,7 @@
         "discovered": "2026-08-04",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -327601,7 +327855,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -327653,7 +327907,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -344935,7 +345189,7 @@
         "discovered": "2026-11-06",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -349602,7 +349856,7 @@
         "discovered": "2026-08-29",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -364075,7 +364329,7 @@
         "discovered": "2026-09-04",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -364299,7 +364553,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -366886,7 +367140,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -376033,9 +376287,9 @@
       "dates": {
         "posted": "2026-11-05",
         "discovered": "2026-11-05",
-        "last_verified": "2026-11-07"
+        "last_verified": "2026-11-17"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -378325,7 +378579,7 @@
         "discovered": "2026-10-29",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -382652,7 +382906,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -387871,6 +388125,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "prometheus-group-web-development-intern-2027",
+      "company": {
+        "name": "Prometheus Group",
+        "slug": "prometheus-group"
+      },
+      "role": "Web Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1Bh",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Raleigh",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "pronexus-software-engineer-intern-2026",
       "company": {
         "name": "ProNexus",
@@ -390059,6 +390365,57 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "q-block-computing-embedded-systems-developer-intern-2027",
+      "company": {
+        "name": "Q-Block Computing",
+        "slug": "q-block-computing"
+      },
+      "role": "Embedded Systems Developer Intern",
+      "category": "embedded",
+      "apply_url": "https://go.vansh.nyc/1Bd",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Ottawa",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-04",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -410495,7 +410852,7 @@
         "discovered": "2026-11-06",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -410652,6 +411009,61 @@
         "last_verified": "2026-09-23"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "rivian-adas-hw-systems-validation-intern-adas-hw-systems-validation-2027",
+      "company": {
+        "name": "Rivian",
+        "slug": "rivian"
+      },
+      "role": "ADAS HW Systems Validation Intern - ADAS HW Systems Validation",
+      "category": "software-engineering",
+      "apply_url": "https://careers.rivian.com/jobs/36514?icims=1&lang=en-us",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Champaign",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -414067,6 +414479,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "road-commission-for-oakland-county-geographic-information-systems-intern-2027",
+      "company": {
+        "name": "Road Commission for Oakland County",
+        "slug": "road-commission-for-oakland-county"
+      },
+      "role": "Geographic Information Systems Intern",
+      "category": "software-engineering",
+      "apply_url": "https://rcoc.bamboohr.com/careers/314/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Michigan",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "roam-engineer-intern-2026",
       "company": {
         "name": "Roam",
@@ -414114,6 +414577,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robert-bosch-llc-ai-application-intern-2027",
+      "company": {
+        "name": "Robert Bosch LLC",
+        "slug": "robert-bosch-llc"
+      },
+      "role": "AI Application Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1Bg",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Farmington Hills",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -414166,6 +414681,60 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "robert-bosch-venture-capital-ai-application-intern-2027",
+      "company": {
+        "name": "Robert Bosch Venture Capital",
+        "slug": "robert-bosch-venture-capital"
+      },
+      "role": "AI Application Intern",
+      "category": "ai",
+      "apply_url": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Farmington Hills",
+          "state": "MI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -422259,7 +422828,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -434201,7 +434770,7 @@
         "discovered": "2026-11-13",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -443578,6 +444147,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "sas-econometrics-intern-2027",
+      "company": {
+        "name": "SAS",
+        "slug": "sas"
+      },
+      "role": "Econometrics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers-sas.icims.com/jobs/42755/job?mobile=true&needsRedirect=false",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cary",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "sas-iot-product-strategy-intern-2027",
       "company": {
         "name": "SAS",
@@ -448134,6 +448757,162 @@
       "dates": {
         "posted": "2026-11-11",
         "discovered": "2026-11-12",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sedaro-compiler-intern-simulator-2027",
+      "company": {
+        "name": "Sedaro",
+        "slug": "sedaro"
+      },
+      "role": "Compiler Intern, Simulator",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1Ba",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Arlington",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sedaro-devops-intern-2027",
+      "company": {
+        "name": "Sedaro",
+        "slug": "sedaro"
+      },
+      "role": "DevOps Intern",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/1Be",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Arlington",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sedaro-software-engineer-intern-2027",
+      "company": {
+        "name": "Sedaro",
+        "slug": "sedaro"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1Bb",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Arlington",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
         "last_verified": "2026-11-17"
       },
       "status": "open",
@@ -455283,7 +456062,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -463554,6 +464333,109 @@
       "dates": {
         "posted": "2026-10-30",
         "discovered": "2026-10-31",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "soros-fund-management-quantitative-strategist-intern-2027-cea2ef",
+      "company": {
+        "name": "Soros Fund Management",
+        "slug": "soros-fund-management"
+      },
+      "role": "Quantitative Strategist Intern",
+      "category": "quant",
+      "apply_url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202834003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "soros-fund-management-quantitative-strategist-intern-2027",
+      "company": {
+        "name": "Soros Fund Management",
+        "slug": "soros-fund-management"
+      },
+      "role": "Quantitative Strategist Intern",
+      "category": "quant",
+      "apply_url": "https://go.vansh.nyc/1Bj",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
         "last_verified": "2026-11-17"
       },
       "status": "open",
@@ -476465,6 +477347,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "surepoint-ag-systems-drone-imaging-agronomy-intern-2027",
+      "company": {
+        "name": "SurePoint Ag Systems",
+        "slug": "surepoint-ag-systems"
+      },
+      "role": "Drone Imaging Agronomy Intern",
+      "category": "software-engineering",
+      "apply_url": "https://surepoint.bamboohr.com/careers/109/",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Manhattan",
+          "state": "KS",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "susquehanna-trading-system-engineering-intern-2027",
       "company": {
         "name": "Susquehanna",
@@ -479169,6 +480103,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "syntax-index-analyst-intern-2027",
+      "company": {
+        "name": "Syntax",
+        "slug": "syntax"
+      },
+      "role": "Index Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/syntax/75c16db8-4cfd-4d7c-98b0-c9153e2034fe/apply",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-14",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "synthesis-quantitative-research-intern-2027",
       "company": {
         "name": "Synthesis",
@@ -480321,7 +481306,7 @@
         "discovered": "2026-11-10",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -481243,7 +482228,7 @@
         "discovered": "2026-11-10",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -481565,7 +482550,7 @@
         "discovered": "2026-11-10",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -504761,7 +505746,7 @@
         "discovered": "2026-10-24",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -533300,7 +534285,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -533461,7 +534446,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -541387,7 +542372,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -550387,7 +551372,7 @@
         "discovered": "2026-11-11",
         "last_verified": "2026-11-17"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -584914,6 +585899,57 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "zipline-zip-motion-planning-intern-2027",
+      "company": {
+        "name": "Zipline",
+        "slug": "zipline"
+      },
+      "role": "Zip Motion Planning Intern",
+      "category": "software-engineering",
+      "apply_url": "https://www.zipline.com/open-roles/7992001003?gh_jid=7992001003",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "South SF",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-17"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {

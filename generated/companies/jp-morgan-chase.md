@@ -12,6 +12,7 @@
 | JP Morgan Chase | [Machine Learning Center of Excellence Summer Associate Intern - Time Series and Reinforcement Learning - Tsrl](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803983) | NYC | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | JP Morgan Chase | [Machine Learning Intern - NLP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793) | London | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | JP Morgan Chase | [Machine Learning Summer Associate Intern - NLP](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790) | Palo Alto, CA +2 | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| JP Morgan Chase | [Payments Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808799) | London | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | JP Morgan Chase | [Quant AI Associate Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936) | Palo Alto, CA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | JP Morgan Chase | [Quantitative Research Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061) | NYC | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | JP Morgan Chase | [Quantitative Research Summer Analyst Internship - Asset Management](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010) | London | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |

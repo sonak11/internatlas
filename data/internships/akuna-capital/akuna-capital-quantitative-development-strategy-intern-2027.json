@@ -7,13 +7,14 @@
   },
   "role": "Quantitative Development & Strategy Intern",
   "category": "quant",
-  "apply_url": "https://go.vansh.nyc/4y",
+  "apply_url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066880",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "Chicago",
+      "state": "IL",
       "country": "USA"
     }
   ],
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-24",
+    "posted": "2026-07-15",
     "discovered": "2026-08-17",
     "last_verified": "2026-11-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

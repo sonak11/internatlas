@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**507** tracked · **343** open now
+**507** tracked · **342** open now
 
 ## Current openings
 
@@ -72,7 +72,6 @@
 | [DreamWorks Animation](generated/companies/dreamworks-animation.md) | [Media Tech: Data – AI & Machine Learning Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000160649935) | Universal City, LA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [Droyd Robotics](generated/companies/droyd-robotics.md) | [Machine Learning Intern](https://jobs.ashbyhq.com/droyd/fd533fd8-65a7-41eb-bdf0-e75f02e739e9/application) | SF | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [DRW](generated/companies/drw.md) | [AI/ML Research Intern](https://go.vansh.nyc/5o) | Montréal | Onsite | 2026-07-31 | Rolling | 🟢 Open | ❔ |
-| [Electronic Arts](generated/companies/electronic-arts.md) | [AI/ML Software Engineer Co-op Intern](https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234) | Vancouver | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Elucid](generated/companies/elucid.md) | [Machine Learning PhD Intern](https://elucid.applytojob.com/apply/A4aXsoyfPV/Machine-Learning-PhD-Intern-Spring-2027) | Boston, MA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Enovation Controls](generated/companies/enovation-controls.md) | [Embedded Machine Learning Engineer Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4646257) | Tulsa, OK | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Enovation Controls](generated/companies/enovation-controls.md) | [Embedded Machine Learning Engineer Intern](https://go.vansh.nyc/1lN) | Tulsa, OK | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
@@ -403,6 +402,7 @@
 | [Costco](generated/companies/costco.md) | [Costco Digital Services Intern - Infosec AI/ML](https://phf.tbe.taleo.net/phf02/ats/careers/v2/viewRequisition?org=COSTCO&cws=41&rid=10994) | Issaquah, WA | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 | [Dev Technology Group](generated/companies/dev-technology-group.md) | [AI/ML Intern - Summer 2027](https://job-boards.greenhouse.io/devtechnology/jobs/8726074002) | Reston, VA | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [DRW](generated/companies/drw.md) | [AI/ML Research Intern](https://job-boards.greenhouse.io/drwfr/jobs/7991172) | Montreal | Onsite | 2026-07-13 | Rolling | 🔴 Closed | ❔ |
+| [Electronic Arts](generated/companies/electronic-arts.md) | [AI/ML Software Engineer Co-op Intern](https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234) | Vancouver | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
 | [Epic Games](generated/companies/epic-games.md) | [Machine Learning Intern](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) | Canada +2 | Onsite | 2026-08-07 | Rolling | 🔴 Closed | ❔ |
 | [First National Bank](generated/companies/first-national-bank.md) | [AI/Machine Learning Modeler Intern](https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-ML-Modeler-Intern_2026-01851) | Pittsburgh, PA | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Gallup](generated/companies/gallup.md) | [Artificial Intelligence/Machine Learning Research Intern](https://job-boards.greenhouse.io/gallup/jobs/4395921009) | SF | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
@@ -615,7 +615,6 @@
 - Cohere (1)
 - Constellation Space (1)
 - Droyd Robotics (1)
-- Electronic Arts (1)
 - Elucid (1)
 - Expedia Group (1)
 - Faire (1)
@@ -673,6 +672,7 @@
 - Citadel (1)
 - Core & Main (1)
 - Dev Technology Group (1)
+- Electronic Arts (1)
 - First National Bank (1)
 - Gallup (1)
 - Geico (1)

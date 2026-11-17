@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Rivian | [ADAS HW Systems Validation Intern - ADAS HW Systems Validation](https://careers.rivian.com/jobs/36514?icims=1&lang=en-us) | Champaign, IL | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | Rivian | [Artificial Intelligence, Machine Learning, & Data Intern](https://go.vansh.nyc/Hj) | Palo Alto, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❌ |
 | Rivian | [Audio Hardware Engineer Intern Co-op - Audio Hardware and DSP](https://careers.rivian.com/jobs/33874?icims=1) | Palo Alto, CA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | Rivian | [Computer Vision Software Intern](https://go.vansh.nyc/RL) | Palo Alto, CA +4 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |

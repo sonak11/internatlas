@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**431** tracked · **218** open now
+**431** tracked · **217** open now
 
 ## Current openings
 
@@ -156,7 +156,6 @@
 | [PayPal](generated/companies/paypal.md) | [Data Scientist Intern](https://go.vansh.nyc/1hy) | San Jose, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [Data Science Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8140169) | Palo Alto, CA +4 | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [Data Science Intern](https://www.pinterestcareers.com/jobs/?gh_jid=8138097) | Palo Alto, CA +4 | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
-| [Plusgrade](generated/companies/plusgrade.md) | [Data Science Intern](https://go.vansh.nyc/1gR) | Toronto | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [PODS](generated/companies/pods.md) | [Operations Data Science Intern](https://go.vansh.nyc/1yX) | Clearwater, FL | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Point72](generated/companies/point72.md) | [Data Scientist Intern](https://boards.greenhouse.io/point72/jobs/8885299002) | NYC | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Procter & Gamble](generated/companies/procter-gamble.md) | [Data Scientist Intern](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Data-Scientist--Master-s-Degree--Internship_R000157504) | Cincinnati, OH | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
@@ -379,6 +378,7 @@
 | [Peraton](generated/companies/peraton.md) | [Data Science Intern](https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false) | Blacksburg, VA +1 | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Perpay](generated/companies/perpay.md) | [Data Science Intern](https://job-boards.greenhouse.io/perpay/jobs/4076978007) | Philadelphia, PA | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | [Phoenix Contact](generated/companies/phoenix-contact.md) | [Data Science & Analytics Intern](https://job-boards.greenhouse.io/phoenixcontact/jobs/7964865003) | Middletown, PA | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
+| [Plusgrade](generated/companies/plusgrade.md) | [Data Science Intern](https://go.vansh.nyc/1gR) | Toronto | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❔ |
 | [Polaris](generated/companies/polaris.md) | [Predictive Data Science Intern - Digital & IT](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525) | Medina, MN +1 | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [Post Holdings](generated/companies/post-holdings.md) | [Data Science Intern - Summer 2027](https://jobs.postholdings.com/jobs/31961?icims=1) | Lakeville, MN | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Procter & Gamble](generated/companies/procter-gamble.md) | [Research and Development PhD Intern - Life Cycle Assessment - Data Science](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--Life-Cycle-Assessment--LCA--Data-Science_R000158787) | Mason, OH | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
@@ -586,7 +586,6 @@
 - Northwaysports (1)
 - OneMain Financial (1)
 - Pattern (1)
-- Plusgrade (1)
 - PODS (1)
 - Point72 (1)
 - QuantCo (1)
@@ -658,6 +657,7 @@
 - NXP Semiconductors (1)
 - Perpay (1)
 - Phoenix Contact (1)
+- Plusgrade (1)
 - Polaris (1)
 - Post Holdings (1)
 - Red Bull (1)

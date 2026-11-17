@@ -10,7 +10,8 @@
 | Idaho National Laboratory | [Cyber Security Research Intern](https://go.vansh.nyc/1jY) | Idaho Falls, ID | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | Idaho National Laboratory | [Cybersecurity Operations Intern](https://go.vansh.nyc/1Am) | Idaho Falls, ID | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | Idaho National Laboratory | [Cybersecurity Vulnerability Assessment Intern](https://go.vansh.nyc/1xM) | Idaho Falls, ID | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
+| Idaho National Laboratory | [Electric Vehicle Charging Data Analysis Intern](https://go.vansh.nyc/1B6) | Idaho Falls, ID | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
-Browse more roles in: [🔐 Security](../categories/security.md)
+Browse more roles in: [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

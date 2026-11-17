@@ -1,17 +1,22 @@
 {
   "schema_version": "1.0",
-  "id": "microsoft-product-manager-intern-2027-70f4e7",
+  "id": "road-commission-for-oakland-county-geographic-information-systems-intern-2027",
   "company": {
-    "name": "Microsoft",
-    "slug": "microsoft"
+    "name": "Road Commission for Oakland County",
+    "slug": "road-commission-for-oakland-county"
   },
-  "role": "Product Manager Intern",
-  "category": "product",
-  "apply_url": "https://go.vansh.nyc/5Y",
+  "role": "Geographic Information Systems Intern",
+  "category": "software-engineering",
+  "apply_url": "https://rcoc.bamboohr.com/careers/314/",
   "season": "summer",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Michigan",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -34,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-04",
-    "discovered": "2026-11-12",
+    "posted": "2026-11-17",
+    "discovered": "2026-11-17",
     "last_verified": "2026-11-17"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

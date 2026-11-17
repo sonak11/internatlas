@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**312** tracked · **154** open now
+**311** tracked · **154** open now
 
 ## Current openings
 
@@ -63,6 +63,7 @@
 | [DTCC](generated/companies/dtcc.md) | [Product Management Intern - 2027 Internship Program](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214410) | Tampa, FL +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Duolingo](generated/companies/duolingo.md) | [Product Manager, MBA Intern](https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002) | Pittsburgh, PA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [DwyerOmega](generated/companies/dwyeromega.md) | [Product Management Intern - Pressure & Force](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4645741) | Michigan City, IN +1 | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
+| [Electronic Arts](generated/companies/electronic-arts.md) | [Product Management Intern](https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182) | Austin, TX | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Entegris](generated/companies/entegris.md) | [Associate Product Manager Intern](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Associate-Product-Manager-Intern_REQ-15844) | Chaska, MN | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Entegris](generated/companies/entegris.md) | [Product Management Intern](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838) | Colorado Springs, CO | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Epic Games](generated/companies/epic-games.md) | [Product Management Intern](https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004) | Cary, NC | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
@@ -91,7 +92,6 @@
 | [Medline](generated/companies/medline.md) | [Product Management Intern - Summer 2027](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983) | Chicago, IL +1 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://go.vansh.nyc/hO) | Cambridge, MA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://go.vansh.nyc/5Y) | Remote | Remote | 2026-08-04 | Rolling | 🟢 Open | ❔ |
-| [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) | Redmond, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [Mohawk](generated/companies/mohawk.md) | [Product Management Intern](https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Intern-Summer-2027-Geor-30701/1436568500/?ats=successfactors) | Calhoun, GA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [NCR Atleos](generated/companies/ncr-atleos.md) | [Product Management Intern](https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Product-Management-Internship_R1154941-1) | Dundee | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [NJM Insurance Group](generated/companies/njm-insurance-group.md) | [Insurance Product Management Analyst Intern 3](https://njm.wd1.myworkdayjobs.com/njm/job/NJM---Trenton/Insurance-Product-Management-Analyst-Intern-3_R2008190) | Trenton, NJ | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -208,7 +208,6 @@
 | [DTCC](generated/companies/dtcc.md) | [Product Management Intern](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214160) | Tampa, FL +1 | Onsite | 2026-07-08 | Rolling | 🔴 Closed | ❔ |
 | [Duolingo](generated/companies/duolingo.md) | [Associate Product Manager Intern](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002) | Pittsburgh, PA | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | [Duolingo](generated/companies/duolingo.md) | [Associate Product Manager, Intern](https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002) | Pittsburgh, PA | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
-| [Electronic Arts](generated/companies/electronic-arts.md) | [Product Management Intern](https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182) | Austin, TX | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [Electronic Arts](generated/companies/electronic-arts.md) | [Product Manager Intern](https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272) | LA | Onsite | 2026-10-03 | Rolling | 🔴 Closed | ❔ |
 | [Fidelity National Information Services](generated/companies/fidelity-national-information-services.md) | [Product Management Intern - FIS University Program](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Intern--Product-Management--FIS-University-Program_JR0309691) | Milwaukee, WI +2 | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | [First Citizens BancShares](generated/companies/first-citizens-bancshares.md) | [Summer Intern - Card Product Management - Business to Business Payments](https://firstcitizens.jibeapply.com/jobs/35886?icims=1) | NYC | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
@@ -332,13 +331,13 @@
 - BNY (5)
 - Cloudflare (5)
 - Databricks (5)
-- Microsoft (5)
 - Autodesk (5)
 - Cox (5)
 - Mastercard (5)
 - T-Mobile (5)
 - Blackhawk Network Holdings (4)
 - Coinbase (4)
+- Microsoft (4)
 - Salesforce (4)
 - USAA (4)
 - Altice USA (3)
@@ -357,6 +356,7 @@
 - Appian (2)
 - Brunswick (2)
 - DTCC (2)
+- Electronic Arts (2)
 - Entegris (2)
 - Gemini (2)
 - General Motors (2)
@@ -374,7 +374,6 @@
 - 1Password (2)
 - Cadence Solutions (2)
 - Datadog (2)
-- Electronic Arts (2)
 - Geotab (2)
 - Google (2)
 - LexisNexis Risk Solutions (2)

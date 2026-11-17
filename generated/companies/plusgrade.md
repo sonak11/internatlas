@@ -8,7 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | Plusgrade | [Applied AI Engineer Intern](https://go.vansh.nyc/1gq) | Toronto | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | Plusgrade | [Applied AI Test Engineer Intern](https://go.vansh.nyc/1gu) | Toronto | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
-| Plusgrade | [Data Science Intern](https://go.vansh.nyc/1gR) | Toronto | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
+| Plusgrade | [Data Science Intern](https://go.vansh.nyc/1gR) | Toronto | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❔ |
 | Plusgrade | [UI/UX Design and Frontend Engineer Intern](https://go.vansh.nyc/1gp) | Toronto | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**272** tracked · **132** open now
+**272** tracked · **131** open now
 
 ## Current openings
 
@@ -127,7 +127,6 @@
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Vehicle UI Development](https://www.tesla.com/careers/search/job/282242) | Palo Alto, CA | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern, Vehicle UI Development](https://go.vansh.nyc/1b6) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Texas Instruments](generated/companies/texas-instruments.md) | [Digital Design Verification Engineer Intern](https://go.vansh.nyc/1hB) | Santa Clara, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
-| [Texas Instruments](generated/companies/texas-instruments.md) | [Digital Design Verification Engineering Intern](https://go.vansh.nyc/hS) | Santa Clara, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❌ |
 | [Upscale AI](generated/companies/upscale-ai.md) | [Advanced SerDes & Analog/Mixed-Signal IC Design Intern](https://jobs.lever.co/upscale-ai/2bad3e47-6c00-4ec2-94b5-feb4009619c9/apply) | USA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Design Engineer Intern - Graduate-Level - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279217) | Delaware, OH +2 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Design Engineering Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279257) | Delaware, OH +1 | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
@@ -272,6 +271,7 @@
 | [Tesla](generated/companies/tesla.md) | [Electronics Design Engineer Intern - Reliability Electronics Design Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/272601) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Inline Metrology Systems Design/Engineer Intern - Cell Engineering](https://www.tesla.com/careers/search/job/275335) | Fremont, CA | Onsite | 2026-06-29 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern, Vehicle UI Development](https://go.vansh.nyc/2l) | Palo Alto, CA | Onsite | 2026-05-09 | Rolling | 🔴 Closed | ❔ |
+| [Texas Instruments](generated/companies/texas-instruments.md) | [Digital Design Verification Engineering Intern](https://go.vansh.nyc/hS) | Santa Clara, CA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❌ |
 | [Texas Instruments](generated/companies/texas-instruments.md) | [Layout Design Intern](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017338) | USA | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | [Versant](generated/companies/versant.md) | [Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango](https://go.vansh.nyc/1jF) | Carlsbad, CA | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❌ |
 | [Versant](generated/companies/versant.md) | [Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango](https://go.vansh.nyc/1jG) | Orlando, FL | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❌ |

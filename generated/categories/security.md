@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**264** tracked · **179** open now
+**264** tracked · **176** open now
 
 ## Current openings
 
@@ -114,13 +114,10 @@
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/e6) | Cambridge, MA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/hN) | USA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/5J) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
-| [Microsoft](generated/companies/microsoft.md) | [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [Midland States Bank](generated/companies/midland-states-bank.md) | [Security Analyst Intern](https://go.vansh.nyc/13d) | St. Louis, MO | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Midrex Technologies](generated/companies/midrex-technologies.md) | [IT Cyber Security Intern](https://go.vansh.nyc/1zU) | Charlotte, NC | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
 | [Minitab](generated/companies/minitab.md) | [Cybersecurity Intern](https://go.vansh.nyc/1sN) | State College, PA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Muon Space](generated/companies/muon-space.md) | [Security Engineering Intern](https://go.vansh.nyc/1xZ) | Mountain View, CA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
-| [National Information Solutions Cooperative](generated/companies/national-information-solutions-cooperative.md) | [Information Security (Cybersecurity) Intern](https://go.vansh.nyc/Nb) | Mandan, ND | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
-| [National Information Solutions Cooperative](generated/companies/national-information-solutions-cooperative.md) | [Information Security (Cybersecurity) Intern](https://go.vansh.nyc/Na) | Lake St. Louis, MO | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [National Laboratory of the Rockies](generated/companies/national-laboratory-of-the-rockies.md) | [Undergraduate/Graduate Cyber Security Research Intern, 5G](https://go.vansh.nyc/1nS) | Golden, CO | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Associate Information Security Analyst Intern](https://go.vansh.nyc/1us) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Associate Intern, Security Automation](https://go.vansh.nyc/N7) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
@@ -237,9 +234,12 @@
 | [MEMX](generated/companies/memx.md) | [Information Security Intern](https://go.vansh.nyc/Hc) | New York, NY | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://apply.careers.microsoft.com/careers/job/1970393557044771) | USA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern, Security & Identity](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
+| [Microsoft](generated/companies/microsoft.md) | [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Molina Healthcare](generated/companies/molina-healthcare.md) | [Cybersecurity Internship (Remote) –(Undergraduate)](https://go.vansh.nyc/11K) | USA | Onsite | 2026-10-30 | Rolling | 🔴 Closed | ❔ |
 | [Motorola Solutions](generated/companies/motorola-solutions.md) | [Software Engineer Cybersecurity Services Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250) | Salt Lake City, UT +4 | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 | [Motorola Solutions](generated/companies/motorola-solutions.md) | [Software Engineer Intern, Cybersecurity Services](https://go.vansh.nyc/19M) | USA +5 | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❌ |
+| [National Information Solutions Cooperative](generated/companies/national-information-solutions-cooperative.md) | [Information Security (Cybersecurity) Intern](https://go.vansh.nyc/Nb) | Mandan, ND | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
+| [National Information Solutions Cooperative](generated/companies/national-information-solutions-cooperative.md) | [Information Security (Cybersecurity) Intern](https://go.vansh.nyc/Na) | Lake St. Louis, MO | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | [Netsmart](generated/companies/netsmart.md) | [Security Analyst Intern](https://go.vansh.nyc/SN) | Overland Park, KS | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
 | [Northrop Grumman](generated/companies/northrop-grumman.md) | [Cybersecurity Software Engineering Intern](https://go.vansh.nyc/1gl) | Clearfield, UT | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❌ |
 | [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - Security and Privacy](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | Santa Clara, CA | Onsite | 2026-05-14 | Rolling | 🔴 Closed | ❔ |
@@ -298,7 +298,6 @@
 - Leidos (2)
 - LLNL (2)
 - Marvell (2)
-- National Information Solutions Cooperative (2)
 - Nintendo (2)
 - ServiceNow (2)
 - The Federal Reserve System (2)
@@ -308,6 +307,7 @@
 - 1Password (2)
 - GuidePoint Security (2)
 - Motorola Solutions (2)
+- National Information Solutions Cooperative (2)
 - Robinhood (2)
 - Visa (2)
 - Zoetis (2)

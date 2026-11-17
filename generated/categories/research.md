@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**318** tracked · **176** open now
+**318** tracked · **175** open now
 
 ## Current openings
 
@@ -114,6 +114,7 @@
 | [PennState University](generated/companies/pennstate-university.md) | [Research and Development Engineering Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineering-Intern_REQ_0000076214-1) | State College, PA | Onsite | 2026-03-03 | Rolling | 🟢 Open | ❔ |
 | [Pennsylvania State University](generated/companies/pennsylvania-state-university.md) | [Electoral Reform Research Assistant Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Electoral-Reform-Research-Assistant-Part-Time_REQ_0000083798-1) | University Park | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Pennsylvania State University](generated/companies/pennsylvania-state-university.md) | [Research and Development Engineer Intern](https://go.vansh.nyc/Yd) | State College, PA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
+| [Peraton](generated/companies/peraton.md) | [Cyber Research Intern](https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false) | West Lafayette, IN +3 | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Pika](generated/companies/pika.md) | [Research Intern - BS/MS/PhD](https://jobs.ashbyhq.com/pika/e135acb1-2a0b-47b4-81b2-3cb0f787657a/application) | Palo Alto, CA | Onsite | 2026-07-10 | Rolling | 🟢 Open | ❔ |
 | [Point72](generated/companies/point72.md) | [Fundamental Researcher Intern, Canvas](https://go.vansh.nyc/9l) | New York, NY | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Procter & Gamble](generated/companies/procter-gamble.md) | [Research & Development Intern](https://pg.wd5.myworkdayjobs.com/1000/job/READING-TECH-CENTER/Research---Development-Summer-Internship-2027_R000161362) | Reading | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
@@ -155,10 +156,8 @@
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern - Trust and Safety](https://lifeattiktok.com/search/7662672903447988485) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Scientist Intern, Monetization Technology - Business Integrity](https://go.vansh.nyc/185) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Research Intern](https://job-boards.greenhouse.io/togetherai/jobs/5267198007) | SF | Onsite | 2026-10-17 | Rolling | 🟢 Open | ❔ |
-| [Together AI](generated/companies/together-ai.md) | [Research Intern - Frontier Agents](https://job-boards.greenhouse.io/togetherai/jobs/5238468007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Research Intern - Inference](https://job-boards.greenhouse.io/togetherai/jobs/5238462007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Research Intern - Model Shaping](https://job-boards.greenhouse.io/togetherai/jobs/5238466007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
-| [Together AI](generated/companies/together-ai.md) | [Research Intern, Frontier Speculative Decoding](https://go.vansh.nyc/aA) | San Francisco, CA | Onsite | 2026-10-17 | Rolling | 🟢 Open | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Systems Research Engineer Intern - GPU Programming](https://job-boards.greenhouse.io/togetherai/jobs/5238460007) | SF | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Tokyo Electron](generated/companies/tokyo-electron.md) | [Research Scientist Intern - Summer 2027](https://tel.wd3.myworkdayjobs.com/tel-careers/job/Austin-RiverSouth/Research-Scientist---ATG-Optical-Sensor-Development-Intern--Summer-2027-_R26-02311) | Austin, TX | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Toyota Research Institute](generated/companies/toyota-research-institute.md) | [Human Interactive Driving Research Intern - Perception for Driving at the Limits](https://jobs.lever.co/tri/33c33641-756d-4cd1-8238-0100af2224b8/apply) | Los Altos, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
@@ -285,7 +284,6 @@
 | [Pennsylvania State University](generated/companies/pennsylvania-state-university.md) | [Research Engineering Intern](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000080335-1) | State College, PA | Onsite | 2026-07-22 | Rolling | 🔴 Closed | ❔ |
 | [Pennsylvania State University](generated/companies/pennsylvania-state-university.md) | [Research Engineering Intern - Strategic Systems Operations Division - Applied Research Laboratory](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Engineering-Interns_REQ_0000076869) | State College, PA +1 | Onsite | 2026-06-20 | Rolling | 🔴 Closed | ❔ |
 | [Peraton](generated/companies/peraton.md) | [Cyber Research Intern](https://go.vansh.nyc/1hZ) | West Lafayette, IN +3 | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❔ |
-| [Peraton](generated/companies/peraton.md) | [Cyber Research Intern](https://careers-peraton.icims.com/jobs/170120/job?mobile=true&needsRedirect=false) | West Lafayette, IN +3 | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❔ |
 | [Procter & Gamble](generated/companies/procter-gamble.md) | [Research & Development Scientist/Engineer Intern - Freshmen, Sophomores, And Juniors](https://pg.wd5.myworkdayjobs.com/1000/job/Mason/Research---Development-Scientist-Engineer-Intern-Summer-2027---Freshmen--Sophomores--and-Juniors_R000157846) | St Bernard, OH +3 | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Research Engineer Intern - High Performance Analog](https://careers.qorvo.com/job/Richardson-Research-Engineering-Intern-TX-75080/1424726900/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Research Scientist Intern](https://careers.qorvo.com/job/Richardson-Research-Scientist-Intern-TX-75080/1424705400/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
@@ -307,10 +305,12 @@
 | [The Walt Disney Company](generated/companies/the-walt-disney-company.md) | [Content Research Insights & Analytics Intern](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-2) | Burbank, CA | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❔ |
 | [The Walt Disney Company](generated/companies/the-walt-disney-company.md) | [Content Research Insights & Analytics Intern](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Content-Research-Insights---Analytics-Intern--Spring-2027_10164072-1) | Burbank, CA | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❔ |
 | [Thomson Reuters](generated/companies/thomson-reuters.md) | [Research Scientist Intern](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Research-Scientist-Intern_JREQ198484) | London | Onsite | 2026-02-18 | Rolling | 🔴 Closed | ❔ |
+| [Together AI](generated/companies/together-ai.md) | [Research Intern - Frontier Agents](https://job-boards.greenhouse.io/togetherai/jobs/5238468007) | SF | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Research Intern - Frontier Speculative Decoding](https://job-boards.greenhouse.io/togetherai/jobs/5267197007) | SF | Onsite | 2026-10-17 | Rolling | 🔴 Closed | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Research Intern - Inference](https://job-boards.greenhouse.io/togetherai/jobs/5157759007) | SF | Onsite | 2026-06-12 | Rolling | 🔴 Closed | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Research Intern - Model Shaping](https://job-boards.greenhouse.io/togetherai/jobs/5157661007) | SF | Onsite | 2026-06-16 | Rolling | 🔴 Closed | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Research Intern, Frontier Speculative Decoding](https://go.vansh.nyc/aB) | San Francisco, CA | Onsite | 2026-10-17 | Rolling | 🔴 Closed | ❔ |
+| [Together AI](generated/companies/together-ai.md) | [Research Intern, Frontier Speculative Decoding](https://go.vansh.nyc/aA) | San Francisco, CA | Onsite | 2026-10-17 | Rolling | 🔴 Closed | ❔ |
 | [Together AI](generated/companies/together-ai.md) | [Systems Research Engineer Intern - GPU Programming](https://job-boards.greenhouse.io/togetherai/jobs/5157559007) | SF | Onsite | 2026-06-12 | Rolling | 🔴 Closed | ❔ |
 | [Toyota Research Institute](generated/companies/toyota-research-institute.md) | [Human Interactive Driving Research Intern, Learning-Based Control for Safe Autonomous Driving](https://go.vansh.nyc/Zo) | Los Altos, CA | Onsite | 2026-10-29 | Rolling | 🔴 Closed | ❔ |
 | [Toyota Research Institute](generated/companies/toyota-research-institute.md) | [Robotics Intern, Human-Machine Interaction Research](https://go.vansh.nyc/Zx) | Los Altos, CA | Onsite | 2026-10-29 | Rolling | 🔴 Closed | ❔ |
@@ -363,6 +363,7 @@
 - Mercor (2)
 - Mistral AI (2)
 - OneEthos (2)
+- Peraton (2)
 - Riverlane (2)
 - Salesforce (2)
 - Shure (2)
@@ -371,7 +372,6 @@
 - AMD (2)
 - Autodesk (2)
 - Nationwide Children's Hospital (2)
-- Peraton (2)
 - Qorvo (2)
 - TPG (2)
 - Warner Bros. (2)

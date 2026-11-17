@@ -6,9 +6,9 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Gordon Food Service | [Category Support Intern](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Intern--NA-Category-Support_R-57473) | Wyoming, MI | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | Gordon Food Service | [Digital Product Management Intern](https://go.vansh.nyc/1vB) | Wyoming, MI | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | Gordon Food Service | [Category Insights Analyst Intern](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/NA-Category-Insights-Analyst-Intern_R-57366-1) | Wyoming, MI | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
+| Gordon Food Service | [Category Support Intern](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Intern--NA-Category-Support_R-57473) | Wyoming, MI | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | Gordon Food Service | [Category Technology Intern](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/MMSC-Category-Technology-Intern_R-57362) | Wyoming, MI | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
 | Gordon Food Service | [Category Technology Intern - MMSC](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/MMSC-Category-Technology-Internship_R-57187) | Wyoming, MI | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | Gordon Food Service | [Cloud DevOps Intern](https://go.vansh.nyc/1cv) | Atlanta, GA | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |

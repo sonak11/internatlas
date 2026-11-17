@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**395** tracked · **218** open now
+**396** tracked · **219** open now
 
 ## Current openings
 
@@ -10,14 +10,13 @@
 |---|---|---|---|---|---|---|---|
 | [Acadian Asset Management](generated/companies/acadian-asset-management.md) | [Quantitative Investment Intern](https://www.acadian-asset.com/careers/open-positions?gh_jid=4720681006) | Boston, MA | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Development & Strategy Intern](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066884) | Chicago, IL | Onsite | 2026-07-15 | Rolling | 🟢 Open | ❔ |
-| [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Development & Strategy Intern](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066880) | Chicago, IL | Onsite | 2026-07-15 | Rolling | 🟢 Open | ❔ |
-| [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Development & Strategy Intern](https://go.vansh.nyc/4y) | Chicago | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❌ |
-| [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Development & Strategy Intern, Summer 2027](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) | Chicago, IL | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
+| [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Development & Strategy Intern](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066880) | Chicago, IL | Onsite | 2026-07-15 | Rolling | 🟢 Open | ❌ |
 | [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Research Intern](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065680) | Chicago, IL | Onsite | 2026-07-15 | Rolling | 🟢 Open | ❔ |
 | [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Research Intern](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065656) | Chicago, IL | Onsite | 2026-07-15 | Rolling | 🟢 Open | ❔ |
 | [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Research Intern](https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065670) | Chicago, IL | Onsite | 2026-07-15 | Rolling | 🟢 Open | ❔ |
 | [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Research Intern](https://go.vansh.nyc/4z) | Chicago | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❌ |
 | [Akuna Capital](generated/companies/akuna-capital.md) | [Quantitative Research Intern, Summer 2027](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) | Chicago, IL | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
+| [Akuna Capital University](generated/companies/akuna-capital-university.md) | [Quantitative Development & Strategy Intern](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) | Chicago, IL | Onsite | 2026-07-13 | Rolling | 🟢 Open | ❔ |
 | [All Options](generated/companies/all-options.md) | [Graduate Quantitative Trader Intern](https://alloptions.bamboohr.com/careers/85/) | Austin, TX | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | [American Bankers Association](generated/companies/american-bankers-association.md) | [Quantitative Research Intern](https://go.vansh.nyc/PV) | Washington, DC | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Anthelion Capital](generated/companies/anthelion-capital.md) | [Quant Developer / Quant Research Intern](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96/application?embed=true) | NYC | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
@@ -177,6 +176,8 @@
 | [SCM](generated/companies/scm.md) | [Quantitative Research Analyst Intern](https://go.vansh.nyc/17s) | Radnor, PA | Onsite | 2026-05-24 | Rolling | 🟢 Open | ❔ |
 | [SESCO](generated/companies/sesco.md) | [Quantitative Research and Trading Intern](https://go.vansh.nyc/1gg) | Pittsburgh, PA | Onsite | 2026-09-12 | Rolling | 🟢 Open | ❔ |
 | [Seven Research](generated/companies/seven-research.md) | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008) | NYC | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
+| [Soros Fund Management](generated/companies/soros-fund-management.md) | [Quantitative Strategist Intern](https://job-boards.greenhouse.io/familyoffice/jobs/8202834003) | NYC | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
+| [Soros Fund Management](generated/companies/soros-fund-management.md) | [Quantitative Strategist Intern](https://go.vansh.nyc/1Bj) | New York, NY | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | [Soros Fund Management](generated/companies/soros-fund-management.md) | [Trading Intern - Middle and Back Office Dev](https://job-boards.greenhouse.io/familyoffice/jobs/8202862003) | NYC | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Soros Fund Management](generated/companies/soros-fund-management.md) | [Trading Intern, Middle and Back Office Dev](https://go.vansh.nyc/1AR) | New York, NY | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [SouthState Bank](generated/companies/southstate-bank.md) | [Quantitative Intern](https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Summer-2027-Quantitative-Intern--Remote-_R-06264) | Texas +7 | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
@@ -410,8 +411,8 @@
 - Goldman Sachs (19)
 - Susquehanna International Group (SIG) (18)
 - IMC Trading (16)
-- Akuna Capital (13)
 - Virtu Financial (13)
+- Akuna Capital (11)
 - BlackRock (9)
 - Intercontinental Exchange (9)
 - BP (9)
@@ -435,6 +436,7 @@
 - Jane Street (4)
 - Keyrock (4)
 - Quantbot Technologies (4)
+- Soros Fund Management (4)
 - Tower Research Capital (4)
 - Optiver (4)
 - Belvedere Trading (3)
@@ -452,7 +454,6 @@
 - LSEG (2)
 - Man Group (2)
 - Qube Research & Technologies (2)
-- Soros Fund Management (2)
 - SouthState Bank (2)
 - Susquehanna International Group (2)
 - Talos (2)
@@ -472,6 +473,7 @@
 - WallStreetQuants (2)
 - Waymo (2)
 - Acadian Asset Management (1)
+- Akuna Capital University (1)
 - All Options (1)
 - American Bankers Association (1)
 - Aquatic Capital Management (1)

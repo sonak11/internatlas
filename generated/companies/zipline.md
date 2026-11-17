@@ -18,6 +18,7 @@
 | Zipline | [Maps Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7980866003) | South SF | Onsite | 2026-08-29 | Rolling | 🟢 Open | ❔ |
 | Zipline | [Software Systems Validation Intern](https://go.vansh.nyc/Sl) | South San Francisco, CA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | Zipline | [System Test Automation Intern](https://go.vansh.nyc/Su) | South San Francisco, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| Zipline | [Zip Motion Planning Intern](https://www.zipline.com/open-roles/7992001003?gh_jid=7992001003) | South SF | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | Zipline | [Applications Engineer Intern](https://www.zipline.com/open-roles?gh_jid=7765099003) | San Bruno, CA | Onsite | 2026-06-08 | Rolling | 🔴 Closed | ❔ |
 | Zipline | [Applications Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7908677003) | South SF | Onsite | 2026-08-20 | Rolling | 🔴 Closed | ❔ |
 | Zipline | [Change Management Intern - Spring 2027](https://www.zipline.com/open-roles/7990677003?gh_jid=7990677003) | South SF | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |

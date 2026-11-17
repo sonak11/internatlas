@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "axiom-space-enterprise-data-analyst-intern-power-bi-data-quality-2027-cc7f68",
+  "id": "sedaro-software-engineer-intern-2027",
   "company": {
-    "name": "Axiom Space",
-    "slug": "axiom-space"
+    "name": "Sedaro",
+    "slug": "sedaro"
   },
-  "role": "Enterprise Data Analyst Intern, Power BI & Data Quality",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/103",
+  "apply_url": "https://go.vansh.nyc/1Bb",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "Arlington",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-29",
-    "discovered": "2026-10-30",
+    "posted": "2026-11-17",
+    "discovered": "2026-11-17",
     "last_verified": "2026-11-17"
   },
   "status": "open",

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**327** tracked · **181** open now
+**328** tracked · **181** open now
 
 ## Current openings
 
@@ -69,7 +69,6 @@
 | [Honeywell](generated/companies/honeywell.md) | [Embedded Engineer Intern](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155561) | USA | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Honeywell](generated/companies/honeywell.md) | [Embedded Engineer Intern](https://go.vansh.nyc/Ou) | USA | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [Honeywell Aerospace](generated/companies/honeywell-aerospace.md) | [Embedded Engineering Intern](https://go.vansh.nyc/1ws) | USA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❌ |
-| [Humble Robotics](generated/companies/humble-robotics.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/cV) | San Francisco, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [i3](generated/companies/i3.md) | [Embedded Systems Reverse Engineer Intern](https://go.vansh.nyc/1Af) | Washington, DC | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❌ |
 | [Integration Innovation (i3)](generated/companies/integration-innovation-i3.md) | [Embedded Systems Reverse Engineer Intern](https://i3-corps.jibeapply.com/jobs/5588?icims=1&lang=en-us) | Washington, DC | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | [Integration Innovation (i3)](generated/companies/integration-innovation-i3.md) | [Embedded Systems Reverse Engineer Intern](https://go.vansh.nyc/1AB) | Washington, DC | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
@@ -109,6 +108,7 @@
 | [Odys Aviation](generated/companies/odys-aviation.md) | [Robotics & Embedded Systems Intern](https://go.vansh.nyc/1ev) | Long Beach, CA | Onsite | 2026-03-26 | Rolling | 🟢 Open | ❔ |
 | [OTTO Engineering](generated/companies/otto-engineering.md) | [Embedded Software Intern, Communications](https://go.vansh.nyc/122) | Carpentersville, IL | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [Peripheral](generated/companies/peripheral.md) | [Embedded Systems Engineering Intern, Capture Systems](https://go.vansh.nyc/1rk) | Toronto | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| [Q-Block Computing](generated/companies/q-block-computing.md) | [Embedded Systems Developer Intern](https://go.vansh.nyc/1Bd) | Ottawa | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Driver and Tools Developer Intern - Telemetry Firmware](https://qualcomm.eightfold.ai/careers/job/446721989047) | Markham | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Embedded Engineering Intern](https://go.vansh.nyc/Rq) | San Diego, CA +2 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Firmware Development Intern - PAL](https://qualcomm.eightfold.ai/careers/job/446721229661) | Markham | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
@@ -242,6 +242,7 @@
 | [Geotab](generated/companies/geotab.md) | [Embedded Developer Intern, Engine Data Reliability](https://go.vansh.nyc/MF) | Oakville | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [ASIC Firmware and Diagnostic Intern](https://go.vansh.nyc/M3) | Bloomington, MN +1 | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Firmware Engineer Intern](https://go.vansh.nyc/GU) | Sunnyvale, CA | Onsite | 2026-10-12 | Rolling | 🔴 Closed | ❔ |
+| [Humble Robotics](generated/companies/humble-robotics.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/cV) | San Francisco, CA | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 | [Inogen](generated/companies/inogen.md) | [Firmware Engineer Intern](https://jobs.jobvite.com/inogen/job/om2zAfwh?nl=1&nl=1&fr=false) | Plano, TX | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [Itron](generated/companies/itron.md) | [Firmware Engineer Intern](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920-1) | West Union, SC | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
 | [Itron](generated/companies/itron.md) | [Firmware Engineer Intern](https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern----Firmware-Engineer--Spring-2027-_JR102920) | West Union, SC | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
@@ -418,13 +419,13 @@
 - General Matter (1)
 - Heron Power (1)
 - Honeywell Aerospace (1)
-- Humble Robotics (1)
 - i3 (1)
 - KLA (1)
 - Legrand (1)
 - Life Fitness (1)
 - OTTO Engineering (1)
 - Peripheral (1)
+- Q-Block Computing (1)
 - REGENT (1)
 - Samsung Semiconductor (1)
 - Shield (1)
@@ -447,6 +448,7 @@
 - Eight Sleep (1)
 - Formlabs (1)
 - Generac (1)
+- Humble Robotics (1)
 - Inogen (1)
 - Kepler Communications (1)
 - Lexington Medical (1)

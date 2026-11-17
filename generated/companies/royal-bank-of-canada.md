@@ -7,7 +7,6 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Royal Bank of Canada | [Data Engineer Intern](https://go.vansh.nyc/OF) | Vancouver | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
-| Royal Bank of Canada | [Developer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1) | Calgary | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Royal Bank of Canada | [Developer Intern](https://go.vansh.nyc/OH) | Vancouver | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Royal Bank of Canada | [AI & Stress Testing Analytics Intern](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-3) | Toronto | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
 | Royal Bank of Canada | [AI & Stress Testing Analytics Intern - Group Risk Management](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790) | Toronto | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
@@ -58,6 +57,7 @@
 | Royal Bank of Canada | [Data Traceability & Controls Intern](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2027-Winter---CDO--Data-Traceability---Controls-Intern--4-Months---Bedford--NS-_R-0000186553) | Halifax Regional Municipality | Onsite | 2026-09-24 | Rolling | 🔴 Closed | ❔ |
 | Royal Bank of Canada | [Data Traceability & Controls Intern - CDO](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2027-Winter---CDO--Data-Traceability---Controls-Intern--4-Months-_R-0000186553) | Halifax Regional Municipality | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | Royal Bank of Canada | [Developer Intern](https://go.vansh.nyc/Qe) | Calgary | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
+| Royal Bank of Canada | [Developer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202-1) | Calgary | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
 | Royal Bank of Canada | [Developer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Developer--RBC-Amplify-2027--Halifax_R-0000191196) | Halifax Regional Municipality | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
 | Royal Bank of Canada | [Developer Intern](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202) | Calgary | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
 | Royal Bank of Canada | [Developer Intern](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193-1) | Toronto | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |

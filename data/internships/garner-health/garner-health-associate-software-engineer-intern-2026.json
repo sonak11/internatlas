@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "akuna-capital-quantitative-development-strategy-intern-2027-3fce3b",
+  "id": "garner-health-associate-software-engineer-intern-2026",
   "company": {
-    "name": "Akuna Capital",
-    "slug": "akuna-capital"
+    "name": "Garner Health",
+    "slug": "garner-health"
   },
-  "role": "Quantitative Development & Strategy Intern",
-  "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/akunacapitaloci/jobs/8066880",
-  "season": "summer",
-  "year": 2027,
+  "role": "Associate Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -26,8 +25,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [
-      "masters",
-      "phd"
+      "masters"
     ],
     "citizenship_required": false,
     "security_clearance_required": false,
@@ -43,8 +41,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-15",
-    "discovered": "2026-10-29",
+    "posted": "2026-09-04",
+    "discovered": "2026-11-17",
     "last_verified": "2026-11-17"
   },
   "status": "open",

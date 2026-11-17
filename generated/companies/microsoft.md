@@ -13,7 +13,6 @@
 | Microsoft | [First-Year Explore Program Engineering Intern](https://go.vansh.nyc/199) | Redmond, WA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Product Manager Intern](https://go.vansh.nyc/hO) | Cambridge, MA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Product Manager Intern](https://go.vansh.nyc/5Y) | Remote | Remote | 2026-08-04 | Rolling | 🟢 Open | ❔ |
-| Microsoft | [Product Manager Intern](https://apply.careers.microsoft.com/careers/job/1970393556953113) | Redmond, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Security Assurance Intern](https://go.vansh.nyc/15H) | Redmond, WA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Security Research Intern](https://go.vansh.nyc/eB) | Redmond, WA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Software Engineer Intern](https://go.vansh.nyc/19z) | Aliso Viejo, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
@@ -28,7 +27,6 @@
 | Microsoft | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/hN) | USA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Software Engineer Intern, Security & Identity](https://go.vansh.nyc/5J) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Software Engineer Intern, Teamwork Experiences](https://go.vansh.nyc/1dY) | Redmond, WA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
-| Microsoft | [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Software Engineering Intern](https://go.vansh.nyc/17y) | Reston, VA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Software Engineering Intern](https://go.vansh.nyc/17x) | Redmond, WA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [AI Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891) | Redmond, WA +1 | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
@@ -50,6 +48,7 @@
 | Microsoft | [Software Engineer Intern - Gears of War](https://apply.careers.microsoft.com/careers/job/1970393556956276) | Vancouver | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | Microsoft | [Software Engineer Intern, Security & Identity](https://apply.careers.microsoft.com/careers/job/1970393557044771) | USA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | Microsoft | [Software Engineer Intern, Security & Identity](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
+| Microsoft | [Software Engineer Security & Identity Intern](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | Microsoft | [Software Engineer: AI/ML & LLM Intern](https://apply.careers.microsoft.com/careers/job/1970393556922929) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

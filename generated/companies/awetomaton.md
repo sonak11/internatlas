@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Awetomaton | [Platform Engineering Intern](https://go.vansh.nyc/QC) | Beavercreek, OH | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❌ |
+| Awetomaton | [Platform Engineering Intern](https://go.vansh.nyc/QC) | Beavercreek, OH | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❌ |
 
 ## Related
 
