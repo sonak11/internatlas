@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**516** tracked · **351** open now
+**516** tracked · **352** open now
 
 ## Current openings
 
@@ -214,6 +214,7 @@
 | [Rivian](generated/companies/rivian.md) | [ML AI Motor Controls Algorithm Intern](https://go.vansh.nyc/1kS) | Champaign, IL | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Software Engineer Intern Co-op - Machine Learning Research - Perception](https://careers.rivian.com/jobs/33801?icims=1) | Palo Alto, CA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [RoboForce](generated/companies/roboforce.md) | [Machine Learning Engineer Intern - AI & Robotics](https://job-boards.greenhouse.io/roboforce/jobs/5470001008) | Milpitas, CA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
+| [S&P Global](generated/companies/s-p-global.md) | [Machine Learning Engineer Intern](https://go.vansh.nyc/1C7) | Cambridge, MA +1 | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | [Scale AI](generated/companies/scale-ai.md) | [Machine Learning Research Intern](https://job-boards.greenhouse.io/scaleai/jobs/4735665005) | SF +2 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Scale AI](generated/companies/scale-ai.md) | [Machine Learning Research Intern](https://go.vansh.nyc/br) | New York, NY +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Seagate Technology](generated/companies/seagate-technology.md) | [Machine Learning for Corporate Strategy Intern](https://go.vansh.nyc/Sr) | Bloomington, MN | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
@@ -490,7 +491,6 @@
 | [RTX](generated/companies/rtx.md) | [Artificial Intelligence / Machine Learning Methods Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Artificial-Intelligence---Machine-Learning-Methods-Intern--Summer-2027---Onsite-_01869917) | East Hartford, CT | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Machine Learning Researcher Intern/Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-RTRC-K--411-Silver-Ln--RTRC-K/Fall-2026--Intern-Coop--Machine-Learning-Researcher_01864471) | East Hartford, CT | Onsite | 2026-08-05 | Rolling | 🔴 Closed | ❔ |
 | [RTX](generated/companies/rtx.md) | [Technical Publications Technical Developer Intern - Artificial Intelligence/Machine Learning](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027) | East Hartford, CT | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
-| [S&P Global](generated/companies/s-p-global.md) | [Machine Learning Engineer Intern](https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1) | Cambridge, MA +1 | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | [Samsung Research America](generated/companies/samsung-research-america.md) | [ML/NLP Research Intern](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8541339002) | Mountain View, CA | Onsite | 2026-05-08 | Rolling | 🔴 Closed | ❔ |
 | [Space Dynamics Laboratory](generated/companies/space-dynamics-laboratory.md) | [Software Engineer Intern - Software, AI, & Machine Learning](https://spacedynamicslaboratory.applytojob.com/apply/3M8cZAl86l/Software-Engineer-Intern-Software-AI-Machine-Learning) | North Logan, UT | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [SpreeAI](generated/companies/spreeai.md) | [Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI](https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97) | SF | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
@@ -655,6 +655,7 @@
 - Quadric (1)
 - Riot Games (1)
 - RoboForce (1)
+- S&P Global (1)
 - Seagate Technology (1)
 - Seven Research (1)
 - SigIQ.ai (1)
@@ -705,7 +706,6 @@
 - Procter & Gamble (1)
 - Quantbot Technologies (1)
 - Relay (1)
-- S&P Global (1)
 - Samsung Research America (1)
 - Space Dynamics Laboratory (1)
 - SpreeAI (1)

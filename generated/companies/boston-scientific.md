@@ -12,7 +12,6 @@
 | Boston Scientific | [AI Solutions Engineering Intern](https://go.vansh.nyc/YR) | Arden Hills, MN | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | Boston Scientific | [AI/Data Science Intern](https://go.vansh.nyc/b2) | Maple Grove, MN | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | Boston Scientific | [R&D Software Design Intern](https://go.vansh.nyc/YD) | Arden Hills, MN | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
-| Boston Scientific | [R&D Software Design Intern](https://bostonscientific.eightfold.ai/careers/job/563602813862687) | Arden Hills, MN | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | Boston Scientific | [R&D Software Engineer Intern](https://go.vansh.nyc/cr) | Arden Hills, MN | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Boston Scientific | [Software & Systems Testing Engineering Intern](https://go.vansh.nyc/YX) | Arden Hills, MN | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❌ |
 | Boston Scientific | [Software Test Engineer Intern](https://go.vansh.nyc/11g) | Waltham, MA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❌ |

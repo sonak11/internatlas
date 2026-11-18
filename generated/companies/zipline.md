@@ -12,8 +12,6 @@
 | Zipline | [Data Analytics Intern - Spring 2027](https://www.zipline.com/open-roles/7990420003?gh_jid=7990420003) | South SF | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | Zipline | [Firmware Engineer Intern](https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003) | South SF | Onsite | 2026-10-10 | Rolling | 🟢 Open | ❔ |
 | Zipline | [Firmware Engineer Intern](https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003) | South SF | Onsite | 2026-10-10 | Rolling | 🟢 Open | ❔ |
-| Zipline | [Hardware Test Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7894349003) | South SF | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
-| Zipline | [Hardware Test Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7903483003) | South SF | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | Zipline | [Maps Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7929354003) | South SF | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | Zipline | [Maps Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7980866003) | South SF | Onsite | 2026-08-29 | Rolling | 🟢 Open | ❔ |
 | Zipline | [Software Systems Validation Intern](https://go.vansh.nyc/Sl) | South San Francisco, CA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
@@ -34,6 +32,8 @@
 | Zipline | [Enterprise Systems Software Engineer Intern](https://www.zipline.com/careers?gh_jid=7767667003) | San Bruno, CA | Onsite | 2026-06-10 | Rolling | 🔴 Closed | ❔ |
 | Zipline | [Enterprise Systems Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7893926003) | South SF | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 | Zipline | [Enterprise Systems Software Engineer Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7886501003) | South SF | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
+| Zipline | [Hardware Test Intern - Spring 2027](https://www.zipline.com/open-roles?gh_jid=7894349003) | South SF | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
+| Zipline | [Hardware Test Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7903483003) | South SF | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | Zipline | [Long Range Platform Embedded Firmware Intern - Summer 2027](https://www.zipline.com/open-roles?gh_jid=7891459003) | South SF | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 | Zipline | [Long Range Platform Hardware Engineering Intern](https://www.zipline.com/open-roles?gh_jid=7891460003) | South SF | Onsite | 2026-08-18 | Rolling | 🔴 Closed | ❔ |
 | Zipline | [Maps Intern](https://www.zipline.com/open-roles?gh_jid=7787868003) | San Bruno, CA | Onsite | 2026-06-27 | Rolling | 🔴 Closed | ❔ |

@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Ixian Robotics | [Software Intern](https://go.vansh.nyc/138) | San Francisco, CA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
+| Ixian Robotics | [Software Intern](https://go.vansh.nyc/138) | San Francisco, CA | Onsite | 2026-10-31 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

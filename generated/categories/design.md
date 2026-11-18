@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**272** tracked · **130** open now
+**271** tracked · **129** open now
 
 ## Current openings
 
@@ -26,7 +26,6 @@
 | [Astera Labs](generated/companies/astera-labs.md) | [Physical Design Engineer Intern](https://go.vansh.nyc/Fq) | Toronto | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Astera Labs](generated/companies/astera-labs.md) | [Physical Design Engineer Intern](https://go.vansh.nyc/Fp) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Boston Scientific](generated/companies/boston-scientific.md) | [R&D Software Design Intern](https://go.vansh.nyc/YD) | Arden Hills, MN | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
-| [Boston Scientific](generated/companies/boston-scientific.md) | [R&D Software Design Intern](https://bostonscientific.eightfold.ai/careers/job/563602813862687) | Arden Hills, MN | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Analog Design Engineer Intern](https://jobs.eu.lever.co/cirrus/df033a94-155f-427f-a178-88bd18c3d5ec/apply) | Austin, TX | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Design Verification Engineer Intern](https://jobs.eu.lever.co/cirrus/c71a6365-31c7-4ba1-bdc4-9f2df1fc483e/apply) | Austin, TX | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Cirrus Logic](generated/companies/cirrus-logic.md) | [Digital Design Engineer Intern](https://jobs.eu.lever.co/cirrus/0310fbd1-a2a8-4c0f-a842-86e05ae7d98e/apply) | Austin, TX | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
@@ -309,7 +308,6 @@
 - Versant (3)
 - Versant3 (3)
 - Analog Devices (2)
-- Boston Scientific (2)
 - DoorDash (2)
 - Electronic Arts (2)
 - fab2 (2)
@@ -330,6 +328,7 @@
 - Altera (1)
 - Ambarella (1)
 - Anduril (1)
+- Boston Scientific (1)
 - Coinbase (1)
 - Databricks (1)
 - Duolingo (1)

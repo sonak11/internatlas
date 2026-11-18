@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-18
 
-## 🆕 New this week (543)
+## 🆕 New this week (554)
 
 - **APEX Analytix** — [Product Management Intern](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) · product · —
 - **APEX Analytix** — [Product Management Intern - DevOps](https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164) · cloud · —
@@ -22,6 +22,8 @@
 - **Airbnb** — [Sales Development Intern, Services, France](https://careers.airbnb.com/positions/8372325?gh_jid=8372325) · software-engineering · —
 - **Airbnb** — [Sales Development Intern, Services, Italy](https://careers.airbnb.com/positions/8372095?gh_jid=8372095) · software-engineering · —
 - **Airbnb** — [Sales Development Intern, Services, Spain](https://careers.airbnb.com/positions/8372424?gh_jid=8372424) · software-engineering · —
+- **Airbnb** — [Software Engineer Intern](https://careers.airbnb.com/positions/8360478?gh_jid=8360478) · software-engineering · —
+- **Airbnb** — [Software Engineering Intern](https://go.vansh.nyc/1C6) · software-engineering · —
 - **All Options** — [Graduate Quantitative Trader Intern](https://alloptions.bamboohr.com/careers/85/) · quant · —
 - **Altera** — [FPGA IP Design Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----PEY-Intern_R03443) · hardware · —
 - **Altera** — [FPGA IP Design Engineer Intern, PEY](https://go.vansh.nyc/1wy) · hardware · —
@@ -201,6 +203,7 @@
 - **GIRO** — [Software Development Intern, Algorithms and Operations Research](https://go.vansh.nyc/1wg) · research · —
 - **GIRO** — [Software Development, Quality Assurance and AI Intern](https://go.vansh.nyc/1wi) · ai · —
 - **GM Financial** — [Product Owner Intern](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261247) · software-engineering · —
+- **GM Financial** — [Software Development Engineer Intern](https://go.vansh.nyc/1BZ) · software-engineering · —
 - **Garmin** — [Software Engineer Intern, Real Time Aviation Data](https://go.vansh.nyc/1Bs) · software-engineering · —
 - **Garmin International** — [IT DevOps Administrator Intern](https://go.vansh.nyc/1xf) · cloud · —
 - **Genentech** — [Summer Intern - Digital, AI, and Clinical Outcome Assessments](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Digital--AI--and-Clinical-Outcome-Assessments_202611-128790) · ai · —
@@ -407,6 +410,7 @@
 - **Rockwell Automation** — [Software Developer/Engineering Intern](https://go.vansh.nyc/1uD) · software-engineering · —
 - **Rodriguez Services** — [Software Engineer Intern](https://go.vansh.nyc/1zS) · software-engineering · —
 - **Rubrik** — [Product Manager Intern - Managed Service Provider](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) · product · —
+- **S&P Global** — [Machine Learning Engineer Intern](https://go.vansh.nyc/1C7) · machine-learning · —
 - **SAS** — [Econometrics Intern](https://careers-sas.icims.com/jobs/42755/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **SAS** — [IoT Analytics Intern](https://careers-sas.icims.com/jobs/42750/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **SAS** — [IoT Product Strategy Intern](https://careers-sas.icims.com/jobs/43309/job?mobile=true&needsRedirect=false) · software-engineering · —
@@ -416,6 +420,9 @@
 - **SAS** — [Time Series Foundation Model Intern](https://careers-sas.icims.com/jobs/42753/job?mobile=true&needsRedirect=false) · software-engineering · —
 - **SK hynix** — [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009) · embedded · —
 - **SK hynix memory solutions America Inc.** — [Embedded Software Engineer Intern](https://go.vansh.nyc/1vW) · embedded · —
+- **Sallie Mae** — [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633) · software-engineering · —
+- **Sallie Mae** — [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623) · software-engineering · —
+- **Sallie Mae** — [Software Engineer Intern](https://go.vansh.nyc/1C4) · software-engineering · —
 - **Samsung Semiconductor** — [Compiler Engineer Intern](https://go.vansh.nyc/1yw) · software-engineering · —
 - **Samsung Semiconductor** — [SSD Firmware Development Intern](https://go.vansh.nyc/1z0) · embedded · —
 - **Schonfeld** — [Cybersecurity Operations Intern](https://go.vansh.nyc/1Aj) · security · —
@@ -455,6 +462,8 @@
 - **Shopify** — [Software Engineer Intern](https://go.vansh.nyc/1Ac) · software-engineering · —
 - **SimVentions** — [Cybersecurity Intern](https://go.vansh.nyc/1uu) · security · —
 - **SimVentions** — [Software Development Intern](https://go.vansh.nyc/1uv) · software-engineering · —
+- **Smarty** — [Data Acquisition & Quality Specialist Intern](https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6) · software-engineering · —
+- **Smarty** — [Product Management Intern](https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749) · product · —
 - **Soros Fund Management** — [Quantitative Strategist Intern](https://job-boards.greenhouse.io/familyoffice/jobs/8202834003) · quant · —
 - **Soros Fund Management** — [Quantitative Strategist Intern](https://go.vansh.nyc/1Bj) · quant · —
 - **Soros Fund Management** — [Trading Intern - Middle and Back Office Dev](https://job-boards.greenhouse.io/familyoffice/jobs/8202862003) · quant · —
@@ -466,7 +475,9 @@
 - **Starwood Capital Group** — [Data Intern](https://go.vansh.nyc/1BK) · software-engineering · —
 - **State Farm** — [Property and Casualty Underwriting Intern - Knowledge Management](https://jobs.statefarm.com/jobs/46442?icims=1&lang=en-us) · software-engineering · —
 - **State Street** — [Cyber Security Operations Center Analyst Intern](https://go.vansh.nyc/1yy) · security · —
+- **State Street** — [Data Scientist Intern](https://go.vansh.nyc/1C1) · data-science · —
 - **State Street** — [Full Stack Development Intern](https://go.vansh.nyc/1Bu) · software-engineering · —
+- **State Street** — [Software Engineering Intern](https://go.vansh.nyc/1C0) · software-engineering · —
 - **State of Maryland** — [Quantitative Analyst Intern](https://go.vansh.nyc/1zI) · quant · —
 - **State of Wisconsin Investment Board** — [Data Analytics Engineering Intern](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330) · data-engineering · —
 - **State of Wisconsin Investment Board** — [Data Analytics Engineering Intern](https://go.vansh.nyc/1uG) · data-engineering · —

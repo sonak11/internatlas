@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-18",
-  "count": 10947,
+  "count": 10957,
   "internships": [
     {
       "schema_version": "1.0",
@@ -10648,7 +10648,7 @@
         "discovered": "2026-11-12",
         "last_verified": "2026-11-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -11068,6 +11068,113 @@
       "tags": [
         "auto-ingested",
         "src:ats"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "airbnb-software-engineer-intern-2027",
+      "company": {
+        "name": "Airbnb",
+        "slug": "airbnb"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "SF",
+          "country": "USA"
+        },
+        {
+          "city": "San Francisco",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-18",
+        "discovered": "2026-11-18",
+        "last_verified": "2026-11-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "airbnb-software-engineering-intern-2027",
+      "company": {
+        "name": "Airbnb",
+        "slug": "airbnb"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1C6",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-18",
+        "discovered": "2026-11-18",
+        "last_verified": "2026-11-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -54250,7 +54357,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-11-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -84652,58 +84759,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "boston-scientific-r-d-software-design-intern-2027-51164a",
-      "company": {
-        "name": "Boston Scientific",
-        "slug": "boston-scientific"
-      },
-      "role": "R&D Software Design Intern",
-      "category": "design",
-      "apply_url": "https://go.vansh.nyc/YD",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Arden Hills",
-          "state": "MN",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-29",
-        "discovered": "2026-11-11",
-        "last_verified": "2026-11-18"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "boston-scientific-r-d-software-design-intern-2027",
       "company": {
         "name": "Boston Scientific",
@@ -84711,7 +84766,7 @@
       },
       "role": "R&D Software Design Intern",
       "category": "design",
-      "apply_url": "https://bostonscientific.eightfold.ai/careers/job/563602813862687",
+      "apply_url": "https://go.vansh.nyc/YD",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -84753,7 +84808,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -183521,7 +183576,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-11-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -184054,7 +184109,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "firefly-aerospace-software-engineering-intern-2027",
+      "id": "firefly-aerospace-software-engineering-intern-2027-4b6ca5",
       "company": {
         "name": "Firefly Aerospace",
         "slug": "firefly-aerospace"
@@ -184095,13 +184150,65 @@
       },
       "dates": {
         "posted": "2026-11-11",
-        "discovered": "2026-11-12",
+        "discovered": "2026-11-18",
         "last_verified": "2026-11-18"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "firefly-aerospace-software-engineering-intern-2027",
+      "company": {
+        "name": "Firefly Aerospace",
+        "slug": "firefly-aerospace"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fireflyspace.wd115.myworkdayjobs.com/firefly/job/Cedar-Park-TX/Internship---Software-Engineering---Spring-2027_JR100188",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Leander",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -210205,7 +210312,7 @@
         "discovered": "2026-10-23",
         "last_verified": "2026-11-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -211324,6 +211431,58 @@
       },
       "dates": {
         "posted": "2026-11-06",
+        "discovered": "2026-11-18",
+        "last_verified": "2026-11-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "gm-financial-software-development-engineer-intern-2027-69ef19",
+      "company": {
+        "name": "GM Financial",
+        "slug": "gm-financial"
+      },
+      "role": "Software Development Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1BZ",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Arlington",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
         "discovered": "2026-11-18",
         "last_verified": "2026-11-18"
       },
@@ -218775,7 +218934,7 @@
         "discovered": "2026-10-29",
         "last_verified": "2026-11-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -219639,7 +219798,7 @@
         "discovered": "2026-10-30",
         "last_verified": "2026-11-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -260825,7 +260984,7 @@
         "discovered": "2026-11-01",
         "last_verified": "2026-11-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -294585,7 +294744,7 @@
         "discovered": "2026-10-30",
         "last_verified": "2026-11-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -410452,7 +410611,7 @@
         "discovered": "2026-09-08",
         "last_verified": "2026-11-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -442196,7 +442355,7 @@
       },
       "role": "Machine Learning Engineer Intern",
       "category": "machine-learning",
-      "apply_url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1",
+      "apply_url": "https://go.vansh.nyc/1C7",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -442207,7 +442366,8 @@
           "country": "USA"
         },
         {
-          "city": "NYC",
+          "city": "New York",
+          "state": "NY",
           "country": "USA"
         }
       ],
@@ -442233,14 +442393,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-09",
+        "posted": "2026-11-18",
         "discovered": "2026-09-09",
-        "last_verified": "2026-10-23"
+        "last_verified": "2026-11-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -443417,7 +443577,7 @@
         "discovered": "2026-11-07",
         "last_verified": "2026-11-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -444093,6 +444253,162 @@
       "dates": {
         "posted": "2026-10-29",
         "discovered": "2026-10-29",
+        "last_verified": "2026-11-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sallie-mae-software-engineer-intern-2027-4f420c",
+      "company": {
+        "name": "Sallie Mae",
+        "slug": "sallie-mae"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineer-Intern_R26_000633",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Indianapolis",
+          "state": "IN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-18",
+        "last_verified": "2026-11-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sallie-mae-software-engineer-intern-2027-d0853c",
+      "company": {
+        "name": "Sallie Mae",
+        "slug": "sallie-mae"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000623",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Indianapolis",
+          "state": "IN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-18",
+        "last_verified": "2026-11-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "sallie-mae-software-engineer-intern-2027",
+      "company": {
+        "name": "Sallie Mae",
+        "slug": "sallie-mae"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1C4",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Indianapolis",
+          "state": "IN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-17",
+        "discovered": "2026-11-18",
         "last_verified": "2026-11-18"
       },
       "status": "open",
@@ -463698,6 +464014,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "smarty-data-acquisition-quality-specialist-intern-2027",
+      "company": {
+        "name": "Smarty",
+        "slug": "smarty"
+      },
+      "role": "Data Acquisition & Quality Specialist Intern",
+      "category": "software-engineering",
+      "apply_url": "https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Orem",
+          "state": "UT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-18",
+        "discovered": "2026-11-18",
+        "last_verified": "2026-11-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "smarty-product-management-intern-2027",
+      "company": {
+        "name": "Smarty",
+        "slug": "smarty"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Orem",
+          "state": "UT",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-18",
+        "discovered": "2026-11-18",
+        "last_verified": "2026-11-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "smith-nephew-agentic-ai-software-engineering-intern-2027",
       "company": {
         "name": "Smith+Nephew",
@@ -466056,7 +466476,7 @@
         "discovered": "2026-10-29",
         "last_verified": "2026-11-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -475212,6 +475632,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "state-street-data-scientist-intern-2027",
+      "company": {
+        "name": "State Street",
+        "slug": "state-street"
+      },
+      "role": "Data Scientist Intern",
+      "category": "data-science",
+      "apply_url": "https://go.vansh.nyc/1C1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-18",
+        "discovered": "2026-11-18",
+        "last_verified": "2026-11-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "state-street-full-stack-development-intern-2027",
       "company": {
         "name": "State Street",
@@ -475253,6 +475725,58 @@
       },
       "dates": {
         "posted": "2026-11-17",
+        "discovered": "2026-11-18",
+        "last_verified": "2026-11-18"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "state-street-software-engineering-intern-2027",
+      "company": {
+        "name": "State Street",
+        "slug": "state-street"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1C0",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Quincy",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-18",
         "discovered": "2026-11-18",
         "last_verified": "2026-11-18"
       },
@@ -536213,7 +536737,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -571400,7 +571924,7 @@
         "discovered": "2026-09-25",
         "last_verified": "2026-11-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -574315,9 +574839,9 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-11-05",
-        "last_verified": "2026-11-05"
+        "last_verified": "2026-11-18"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -587717,7 +588241,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-11-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -587768,7 +588292,7 @@
         "discovered": "2026-08-19",
         "last_verified": "2026-11-18"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

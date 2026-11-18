@@ -33,22 +33,29 @@ _Generated 2026-11-18_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 6317 | `██████████████` |
+| software-engineering | 6326 | `██████████████` |
 | ai | 991 | `██` |
 | machine-learning | 516 | `█` |
-| data-science | 435 | `█` |
+| data-science | 436 | `█` |
 | quant | 398 | `█` |
 | hardware | 372 | `█` |
 | embedded | 329 | `█` |
 | research | 320 | `█` |
-| product | 312 | `█` |
-| design | 272 | `█` |
+| product | 313 | `█` |
+| design | 271 | `█` |
 | security | 265 | `█` |
 | data-engineering | 230 | `█` |
 | cloud | 190 | `█` |
 
 ## Newest listings
 
+- 2026-11-18 — **Airbnb**: [Software Engineer Intern](https://careers.airbnb.com/positions/8360478?gh_jid=8360478)
+- 2026-11-18 — **Airbnb**: [Software Engineering Intern](https://go.vansh.nyc/1C6)
+- 2026-11-18 — **S&P Global**: [Machine Learning Engineer Intern](https://go.vansh.nyc/1C7)
+- 2026-11-18 — **Smarty**: [Data Acquisition & Quality Specialist Intern](https://ats.rippling.com/smarty/jobs/9bdebab0-e5e9-49d3-b995-cdaa62796be6)
+- 2026-11-18 — **Smarty**: [Product Management Intern](https://ats.rippling.com/smarty/jobs/e47afb29-f488-466b-ad29-11280c68f749)
+- 2026-11-18 — **State Street**: [Data Scientist Intern](https://go.vansh.nyc/1C1)
+- 2026-11-18 — **State Street**: [Software Engineering Intern](https://go.vansh.nyc/1C0)
 - 2026-11-17 — **All Options**: [Graduate Quantitative Trader Intern](https://alloptions.bamboohr.com/careers/85/)
 - 2026-11-17 — **Analog Devices**: [Software Engineering Intern, Medical Device & Healthcare Integration](https://go.vansh.nyc/1AV)
 - 2026-11-17 — **Anduril**: [2027 Machine Learning Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007)
@@ -62,13 +69,6 @@ _Generated 2026-11-18_
 - 2026-11-17 — **Birdseye Security Solutions**: [AI Systems Intern](https://go.vansh.nyc/1AX)
 - 2026-11-17 — **Birdseye Security Solutions**: [Computer Vision Intern](https://go.vansh.nyc/1B8)
 - 2026-11-17 — **Birdseye Security Solutions**: [Computer Vision Intern](https://go.vansh.nyc/1AY)
-- 2026-11-17 — **Birdseye Security Solutions**: [Software Developer Intern](https://go.vansh.nyc/1AZ)
-- 2026-11-17 — **Bissell**: [AI & Automation Intern](https://go.vansh.nyc/1BJ)
-- 2026-11-17 — **Bissell**: [AI & Automation Intern](https://careers.bissell.com/jobs/9995?icims=1&lang=en-us)
-- 2026-11-17 — **Clera**: [Full-Stack Software Engineering Intern](https://go.vansh.nyc/1AN)
-- 2026-11-17 — **Cloudflare**: [AI & Automation Intern, Communications](https://go.vansh.nyc/1By)
-- 2026-11-17 — **Cloudflare**: [AI & Automation Intern, Communications (Winter 2027)](https://boards.greenhouse.io/cloudflare/jobs/8394342?gh_jid=8394342)
-- 2026-11-17 — **Cloudflare**: [People Team Intern, EMEA Employment Compliance & Manager Enablement (Spring 2027)](https://boards.greenhouse.io/cloudflare/jobs/8383449?gh_jid=8383449)
 
 ## Recently closed
 
@@ -94,6 +94,7 @@ _Generated 2026-11-18_
 - AES — Performance and Reliability Engineering Intern - Summer 2027
 - Affirm — Software Engineer Intern - Machine Learning
 - Affirm — Software Engineer Intern, Machine Learning
+- Airbnb — Advanced Analytics Intern
 - Airbnb — Communications Intern, Italy & SEE
 - Airbnb — Market Associate Intern, Experiences
 - Akuna Capital — Accounting Intern (Term-Time, Part-Time)
@@ -231,6 +232,7 @@ _Generated 2026-11-18_
 - Astranis — Electrical Reliability Intern
 - Astranis — Network Software Intern
 - Astranis — Radio Frequency Hardware Intern
+- Astranis — RF Validation Intern - Summer 2027
 - Astranis — Software Defined Radio Hardware Associate Intern
 - Astranis — Software Defined Radio Hardware Intern - Summer 2027
 - Astronics — Electrical Engineer Intern
@@ -546,6 +548,7 @@ _Generated 2026-11-18_
 - Fidelity Investments — Quantitative Analyst Intern - Fixed Income Team
 - Fidelity Investments — Quantitative Research Analyst Intern - Equity Quantitative Research Team
 - FieldPulse — AI Intern
+- Figure — Hardware Reliability Intern
 - First Citizens BancShares — AI Innovation Intern
 - First Citizens BancShares — Applied AI Intern
 - First Citizens BancShares — Applied AI Intern
@@ -615,6 +618,7 @@ _Generated 2026-11-18_
 - GlobalFoundries — PDK Design Engineering Intern - Silicon Photonics
 - GlobalFoundries — Reliability Test Engineer Intern
 - GlobalFoundries — Silicon Photonics Advanced Packaging Intern
+- GlobalFoundries — Silicon Photonics Reliability Engineering Intern
 - GlobalFoundries — Software Engineer Intern
 - GlobalFoundries — Software Engineer Intern
 - GlobalFoundries — Software Engineer Intern - Cloud Platform
@@ -627,8 +631,10 @@ _Generated 2026-11-18_
 - Gordon Food Service — Category Support Intern
 - Gordon Food Service — Cloud DevOps Intern
 - Gordon Food Service — Digital Product Management Intern
+- Graphcore — Software Engineer Intern - AI Compute Libraries & Performance
 - Graviton — Quantitative Researcher Intern
 - Great American Insurance Company — Claims Technical Intern
+- Great American Insurance Company — Content Publishing Developer Intern
 - Great American Insurance Company — Telematics / Predictive Analytics Intern
 - GreatAmerica Financial Services — Platform Engineering Intern
 - GreatAmerica Financial Services — Software Engineer Intern
@@ -720,6 +726,7 @@ _Generated 2026-11-18_
 - Invitation-charter — Software Engineer Intern
 - Iridium Communications — Software Engineering Intern
 - Itron — Artificial Intelligence Intern
+- Ixian Robotics — Software Intern
 - J.M. Smucker — Data Science Intern
 - J.M. Smucker — Finance Technology Intern
 - Jabil — AI Agent Developer Intern - Supply Chain IT - AI & Enablement
@@ -808,6 +815,7 @@ _Generated 2026-11-18_
 - LexisNexis Risk Solutions — Product Manager Intern - Government
 - LinkedIn — Software Engineer Intern
 - Llbean — Software Developer Intern
+- Lunar Energy — Hardware Test Engineer Intern
 - Lyte AI — Software Engineering Intern
 - Manulife Financial — AI Intern
 - Manulife Financial — AI Intern - AI
@@ -1064,6 +1072,7 @@ _Generated 2026-11-18_
 - Resideo — Firmware Engineer Intern
 - Resideo — Mobile Software Engineer Intern
 - Resideo — Mobile Software Engineer Intern
+- Revel — Full Stack Software Engineer Intern
 - Revvity — Full-Stack AI Developer Intern
 - RGA Reinsurance Company — Data Analyst Intern
 - Riot Games — Software Engineer Intern
@@ -1164,6 +1173,7 @@ _Generated 2026-11-18_
 - Sage — Software Engineer Intern - Full Stack
 - SailPoint — Software Engineer Intern - Platform Engines
 - Salesforce — Product Management Intern - Product Management
+- Salesforce — Product Management Intern - Product Management
 - Samsara — Software Engineering Intern
 - Samsara — Software Engineering Internship - London
 - Samsung Research America Internship — Agentic AI Solutions Intern
@@ -1216,6 +1226,7 @@ _Generated 2026-11-18_
 - Sonos — Software Engineering Intern
 - Sonos — Software Partner Engineering Intern
 - Sonos — Software Product Management Intern
+- Sonos — Software Product Manager Intern
 - Soros Fund Management — Quantitative Strategist Intern
 - Soros Fund Management — Quantitative Strategist Intern
 - Soros Fund Management — Trading Intern - Middle and Back Office Dev
@@ -1335,6 +1346,7 @@ _Generated 2026-11-18_
 - TikTok — Software Engineer Intern, Privacy and Security
 - TikTok — Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure
 - TikTok — Software Engineer Project Intern, Recommendation Infrastructure, Video Social
+- TMX Group — Analyst Model Validation Intern
 - Together AI — Hardware Security Engineer Intern
 - Together AI — Research Intern
 - Together AI — Research Intern - Frontier Agents
@@ -1423,13 +1435,13 @@ _Generated 2026-11-18_
 - Wawa — Information Technology Development Intern
 - Waymo — 2027 Summer Intern, BS/MS/PhD, AI-driven ML Performance Engineering Intern
 - Waymo — 2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation
+- Waymo — 2027 Summer Intern, MS/PhD, Product Data Science
 - Waymo — 2027 Summer Intern, MS/PhD, Quantitative Software Engineer
 - Waymo — 2027 Summer Intern, MS/PhD, Software Engineer, Multiverse
 - Waymo — 2027 Summer Intern, MS, Software Engineering, Behavior Test
 - Waymo — 2027 Summer Intern, PhD, Research, Perception Foundation Models
 - Waymo — Intern
 - Waymo — MS/PhD Intern - Weather Perception
-- Waymo — Software Engineering Intern - Commercialization
 - Waymo — Software Engineering Intern, Maneuvering Tech
 - Waymo — Software Engineering Intern - Maneuvering Tech
 - WebFX — Web Developer Intern
@@ -1474,6 +1486,8 @@ _Generated 2026-11-18_
 - Zillow — Data Science Intern
 - Zipline — Change Management Intern - Spring 2027
 - Zipline — Change Management Intern - Summer 2027
+- Zipline — Hardware Test Intern - Spring 2027
+- Zipline — Hardware Test Intern - Summer 2027
 - Zipline — Software Engineer Intern - Spring 2027
 - Zipline — System Test Automation Intern
 - Zoetis — AI Architecture, Enablement & Tools Intern, AI Capabilities

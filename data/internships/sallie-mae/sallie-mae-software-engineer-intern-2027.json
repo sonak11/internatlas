@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "boston-scientific-r-d-software-design-intern-2027-51164a",
+  "id": "sallie-mae-software-engineer-intern-2027",
   "company": {
-    "name": "Boston Scientific",
-    "slug": "boston-scientific"
+    "name": "Sallie Mae",
+    "slug": "sallie-mae"
   },
-  "role": "R&D Software Design Intern",
-  "category": "design",
-  "apply_url": "https://go.vansh.nyc/YD",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1C4",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Arden Hills",
-      "state": "MN",
+      "city": "Indianapolis",
+      "state": "IN",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-29",
-    "discovered": "2026-11-11",
+    "posted": "2026-11-17",
+    "discovered": "2026-11-18",
     "last_verified": "2026-11-18"
   },
   "status": "open",
