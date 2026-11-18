@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**372** tracked · **217** open now
+**372** tracked · **216** open now
 
 ## Current openings
 
@@ -114,7 +114,6 @@
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Hardware Engineering Intern](https://go.vansh.nyc/1ed) | Westford, MA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Pre-Silicon Diagnostics Intern](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Pre-Silicon-Diagnostics-Intern_1213394) | Fort Collins, CO | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Pre-Silicon Diagnostics Intern](https://go.vansh.nyc/M4) | Fort Collins, CO | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
-| [Hitachi Energy](generated/companies/hitachi-energy.md) | [Hardware Test Engineering Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) | Toronto | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [HP IQ](generated/companies/hp-iq.md) | [Electrical Engineer Intern - Hardware](https://job-boards.greenhouse.io/hpiq/jobs/6116396004) | SF | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [HPR](generated/companies/hpr.md) | [FPGA Engineering Intern](https://go.vansh.nyc/6R) | Needham, MA | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
 | [HPR (Hyannis Port Research)](generated/companies/hpr-hyannis-port-research.md) | [FPGA Engineer Intern](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822801003) | Needham, MA | Onsite | 2026-08-01 | Rolling | 🟢 Open | ❔ |
@@ -300,6 +299,7 @@
 | [Hermeus](generated/companies/hermeus.md) | [Hardware-In-the-Loop Software Engineering Intern - Fall 2026](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf/apply) | Atlanta, GA | Onsite | 2026-04-17 | Rolling | 🔴 Closed | ❔ |
 | [Hermeus](generated/companies/hermeus.md) | [Software Engineer Intern - Hardware in the Loop](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b/apply) | Atlanta, GA | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Hexagon AB](generated/companies/hexagon-ab.md) | [Digital Hardware Engineer Intern - GNSS Positioning Digital Team](https://careers-hexagonpositioning.icims.com/jobs/3090/job?mobile=true&needsRedirect=false) | Calgary | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
+| [Hitachi Energy](generated/companies/hitachi-energy.md) | [Hardware Test Engineering Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Hardware-Test-Engineering-Intern--Summer-2027--16months-_R0142476) | Toronto | Onsite | 2026-10-02 | Rolling | 🔴 Closed | ❔ |
 | [IMC](generated/companies/imc.md) | [Hardware Engineer Intern](https://www.imc.com/us/careers/jobs/4823945101) | Chicago, IL | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ✅ |
 | [IMC Trading](generated/companies/imc-trading.md) | [2027 - FPGA Intern - IIT Bombay](https://job-boards.eu.greenhouse.io/imc/jobs/4860306101) | Amsterdam | Onsite | 2026-07-03 | Rolling | 🔴 Closed | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Hardware Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) | Amsterdam | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
@@ -454,7 +454,6 @@
 - DRW (1)
 - Eight Sleep (1)
 - Emerson Electric (1)
-- Hitachi Energy (1)
 - HP IQ (1)
 - HPR (1)
 - HPR (Hyannis Port Research) (1)
@@ -481,6 +480,7 @@
 - GE Healthcare (1)
 - Geotab (1)
 - Hexagon AB (1)
+- Hitachi Energy (1)
 - IMC (1)
 - Kepler Communications (1)
 - L3Harris Technologies (1)

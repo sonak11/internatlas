@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "id": "google-people-analytics-intern-2027",
+  "company": {
+    "name": "Google",
+    "slug": "google"
+  },
+  "role": "People Analytics Intern",
+  "category": "software-engineering",
+  "apply_url": "https://www.google.com/about/careers/applications/jobs/results/81809776362562246",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "SF",
+      "country": "USA"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "NYC",
+      "country": "USA"
+    },
+    {
+      "city": "Mountain View",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "phd"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-10-12",
+    "discovered": "2026-11-18",
+    "last_verified": "2026-11-18"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

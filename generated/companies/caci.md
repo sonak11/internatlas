@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | CACI | [AI Prompt Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1) | Ashburn, VA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+| CACI | [Cybersecurity Intern](https://go.vansh.nyc/1Cd) | USA +1 | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | CACI | [Embedded Software Development Intern](https://go.vansh.nyc/1xA) | Denver, CO | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | CACI | [Embedded Software Development Intern](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147) | Westminster, CO | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | CACI | [Software Development Intern](https://go.vansh.nyc/1nN) | Ashburn, VA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |

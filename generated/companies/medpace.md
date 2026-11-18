@@ -11,14 +11,15 @@
 | Medpace | [Clinical Informatics Intern](https://careers.medpace.com/jobs/12801?icims=1) | Cincinnati, OH | Onsite | 2026-06-03 | Rolling | 🟢 Open | ❔ |
 | Medpace | [Data Engineer Intern](https://go.vansh.nyc/1wk) | Cincinnati, OH | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | Medpace | [Data Engineer Intern - Spring 2027](https://careers.medpace.com/jobs/12921?icims=1) | Cincinnati, OH | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
+| Medpace | [Informatics Intern](https://careers.medpace.com/jobs/13079?icims=1&lang=en-us) | London | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | Medpace | [Information Security Intern](https://go.vansh.nyc/1wn) | Cincinnati, OH | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
-| Medpace | [Python Developer Intern](https://go.vansh.nyc/Ca) | Cincinnati, OH | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
-| Medpace | [Python Developer Intern](https://careers.medpace.com/jobs/13059?icims=1) | Cincinnati, OH | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
-| Medpace | [Python Intern](https://go.vansh.nyc/Q8) | Cincinnati, OH | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
-| Medpace | [Python Intern - Summer 2027](https://careers.medpace.com/jobs/12962?icims=1) | Cincinnati, OH | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | Medpace | [Software QA Test Engineer Intern](https://go.vansh.nyc/1wm) | Cincinnati, OH | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | Medpace | [Feasibility Informatics Intern/Co-op](https://careers.medpace.com/jobs/12987?icims=1) | Cincinnati, OH | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
 | Medpace | [Feasibility Informatics Internship/Co-op](https://careers.medpace.com/jobs/12803?lang=en-us&icims=1) | Cincinnati, OH | Onsite | 2026-06-03 | Rolling | 🔴 Closed | ❔ |
+| Medpace | [Python Developer Intern](https://go.vansh.nyc/Ca) | Cincinnati, OH | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
+| Medpace | [Python Developer Intern](https://careers.medpace.com/jobs/13059?icims=1) | Cincinnati, OH | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
+| Medpace | [Python Intern](https://go.vansh.nyc/Q8) | Cincinnati, OH | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
+| Medpace | [Python Intern - Summer 2027](https://careers.medpace.com/jobs/12962?icims=1) | Cincinnati, OH | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

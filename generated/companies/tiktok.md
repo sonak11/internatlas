@@ -264,7 +264,6 @@
 | TikTok | [Software Engineer Intern, Recommendation Infra, Performance Efficiency](https://go.vansh.nyc/18v) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Recommendation Performance Efficiency](https://go.vansh.nyc/aQ) | San Jose, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Search Architecture](https://go.vansh.nyc/18q) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
-| TikTok | [Software Engineer Intern, Search Data Infra](https://go.vansh.nyc/18n) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, Shoot Experience Optimization](https://go.vansh.nyc/69) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, TikTok AI Search & Visual Search Infra Team](https://go.vansh.nyc/183) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | TikTok | [Software Engineer Intern, TikTok Search Data Infra](https://go.vansh.nyc/18e) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
@@ -310,6 +309,7 @@
 | TikTok | [Software Engineer Intern, Privacy and Security](https://go.vansh.nyc/6l) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ✅ |
 | TikTok | [Software Engineer Intern, Recommendation Architecture, Feeds Infrastructure](https://go.vansh.nyc/18u) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🔴 Closed | ❔ |
 | TikTok | [Software Engineer Intern, Recommendation Infrastructure](https://lifeattiktok.com/referral/tiktok/campus/position/7537493362585979154/detail?token=MzsxNzU3OTM3MTgyMDE1OzczNzM0OTcwMTcxNzQxMzIyNDA7MDsy) | Seattle, WA | Onsite | 2026-04-20 | Rolling | 🔴 Closed | ❔ |
+| TikTok | [Software Engineer Intern, Search Data Infra](https://go.vansh.nyc/18n) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🔴 Closed | ❔ |
 | TikTok | [Software Engineer Project Intern, Recommendation Infrastructure, Video Social](https://go.vansh.nyc/18F) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

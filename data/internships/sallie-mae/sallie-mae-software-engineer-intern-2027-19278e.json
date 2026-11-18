@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "axiom-space-software-engineer-intern-2027-a1abab",
+  "id": "sallie-mae-software-engineer-intern-2027-19278e",
   "company": {
-    "name": "Axiom Space",
-    "slug": "axiom-space"
+    "name": "Sallie Mae",
+    "slug": "sallie-mae"
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/CF",
+  "apply_url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Software-Engineering-Intern_R26_000625",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Houston",
-      "state": "TX",
+      "city": "Indianapolis",
+      "state": "IN",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-15",
-    "discovered": "2026-10-26",
+    "posted": "2026-11-17",
+    "discovered": "2026-11-18",
     "last_verified": "2026-11-18"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

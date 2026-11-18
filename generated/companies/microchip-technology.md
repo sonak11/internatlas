@@ -6,9 +6,9 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Microchip Technology | [Data Analyst Intern](https://go.vansh.nyc/1gQ) | Gresham, OR | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | Microchip Technology | [Electronics Technician Intern - Electronics](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26) | Mt Holly Springs, PA | Onsite | 2026-05-16 | Rolling | 🟢 Open | ❔ |
 | Microchip Technology | [Applications Engineering Intern](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Roseville/Intern---Applications-Engineering_R2542-26) | Roseville, CA | Onsite | 2026-07-09 | Rolling | 🔴 Closed | ❔ |
+| Microchip Technology | [Data Analyst Intern](https://go.vansh.nyc/1gQ) | Gresham, OR | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❔ |
 | Microchip Technology | [Design Intern - Design](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Intern--Engineering--Design-_R3695-26) | Chandler, AZ | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
 | Microchip Technology | [Engineering Intern - Applications](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MA---Lawrence/Intern---Engineering--Applications-_R3569-26) | Lawrence, MA | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | Microchip Technology | [Engineering Intern - Firmware Development](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26) | Houston, TX | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |

@@ -12,6 +12,7 @@
 | Google | [Forward Deployed Engineer Intern](https://www.google.com/about/careers/applications/jobs/results/75665705386549958) | NYC +1 | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | Google | [Forward Deployed Engineering Intern](https://go.vansh.nyc/8e) | Sunnyvale, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | Google | [Hardware Engineer Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/97352132356645574) | Palo Alto, CA +30 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
+| Google | [People Analytics Intern](https://www.google.com/about/careers/applications/jobs/results/81809776362562246) | SF +4 | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | Google | [Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/86701057991680710) | Palo Alto, CA +27 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | Google | [Silicon Engineering Intern](https://www.google.com/about/careers/applications/jobs/results/136529930677560006) | Madison, WI +2 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | Google | [Software Developer Intern](https://www.google.com/about/careers/applications/jobs/results/112518690523488966) | Montreal +2 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**991** tracked · **478** open now
+**993** tracked · **478** open now
 
 ## Current openings
 
@@ -73,7 +73,6 @@
 | [Bosch](generated/companies/bosch.md) | [AI Research Intern - Wireless Perception](https://jobs.smartrecruiters.com/BoschGroup/c4621e0f-5c1e-4a67-adc4-0671cbcaf28c) | Pittsburgh, PA | Onsite | 2025-12-16 | Rolling | 🟢 Open | ❌ |
 | [Bosch](generated/companies/bosch.md) | [AI Research Intern, Wireless Foundation Models](https://go.vansh.nyc/be) | Pittsburgh, PA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Bosch](generated/companies/bosch.md) | [LLM & Agentic AI R&D Intern](https://jobs.bosch.com/en/job/REF273459Q-llm-agentic-ai-r-d-intern) | Sunnyvale, CA | Onsite | 2025-12-10 | Rolling | 🟢 Open | ✅ |
-| [Boston Consulting Group](generated/companies/boston-consulting-group.md) | [Forward Deployed AI Engineer Intern](https://careers.bcg.com/global/en/job/59702) | Boston, MA +3 | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Boston Scientific](generated/companies/boston-scientific.md) | [AI Acceleration Intern](https://go.vansh.nyc/1Aa) | Marlborough, MA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | [Boston Scientific](generated/companies/boston-scientific.md) | [AI Engineer Intern - Generative & Agentic AI](https://bostonscientific.eightfold.ai/careers/job/563602813827837) | Marlborough, MA +2 | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | [Boston Scientific](generated/companies/boston-scientific.md) | [AI Engineering Intern, Generative and Agentic AI](https://go.vansh.nyc/1A8) | Marlborough, MA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❌ |
@@ -139,6 +138,7 @@
 | [DP World](generated/companies/dp-world.md) | [AI & Analytics Intern - Talent Management](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27855) | Charlotte, NC | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [DriveWealth](generated/companies/drivewealth.md) | [AI Consulting Associate Program Brokerage Intern](https://jobs.ashbyhq.com/drivewealth/b11409e6-a86d-4504-b4da-36636f888c16/application?embed=true) | Chicago, IL | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [DriveWealth](generated/companies/drivewealth.md) | [AI Consulting Associate Program Brokerage Intern](https://boards.greenhouse.io/drivewealth/jobs/8039368003) | Chicago, IL | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [DriveWealth](generated/companies/drivewealth.md) | [AI Consulting Associate Program People Analytics Intern](https://jobs.ashbyhq.com/drivewealth/85147395-3dfa-4c16-880f-8c7522a538ec/application?embed=true) | Chicago, IL +1 | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | [DriveWealth](generated/companies/drivewealth.md) | [AI Consulting Associate Program Product Owner Intern](https://jobs.ashbyhq.com/drivewealth/ec17ef99-dea9-4150-b935-5f74750d7b87/application?embed=true) | Chicago, IL | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [DriveWealth](generated/companies/drivewealth.md) | [AI Consulting Associate Program Product Owner Intern](https://boards.greenhouse.io/drivewealth/jobs/8038087003) | Chicago, IL +1 | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [DriveWealth](generated/companies/drivewealth.md) | [AI Consulting Associate Program – AI Engineer Intern](https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a/application?embed=true) | Chicago, IL | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
@@ -196,6 +196,7 @@
 | [General Motors](generated/companies/general-motors.md) | [Summer Intern - AI & Hardware Analytics - Adpt](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756) | Milford, MI +1 | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Summer Intern - Onboard Autonomy - Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135) | Sunnyvale, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [GenMD](generated/companies/genmd.md) | [Member of Technical Staff Intern, Applied AI](https://go.vansh.nyc/1bK) | Palo Alto, CA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
+| [GIRO](generated/companies/giro.md) | [Software Development and Artificial Intelligence Intern](https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel-et-intelligence-artificielle_R-100000321) | Montreal | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [GIRO](generated/companies/giro.md) | [Software Development, Quality Assurance and AI Intern](https://go.vansh.nyc/1wi) | Montreal | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [AI Processor Hardware/Software Integration Engineer Intern](https://go.vansh.nyc/1uH) | Richardson, TX | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [AI Processor Hardware/Software Integration Engineer Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer-Intern--Summer-2027-_JR-2604028) | Richardson, TX | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
@@ -268,7 +269,6 @@
 | [Metova Federal](generated/companies/metova-federal.md) | [AI Intern](https://go.vansh.nyc/ZU) | Orlando, FL | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [AI Engineer Platform Intern](https://go.vansh.nyc/1z5) | Boise, ID | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [SMAI Probe AI Engineer Intern](https://go.vansh.nyc/cE) | Boise, ID | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
-| [Midland States Bank](generated/companies/midland-states-bank.md) | [AI Solutions Engineer Intern](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---AI-Solutions-Engineer_JR1461) | Rockford, IL +2 | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Midland States Bank](generated/companies/midland-states-bank.md) | [AI Solutions Engineer Intern](https://go.vansh.nyc/EC) | Rockford, IL +2 | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Millennium](generated/companies/millennium.md) | [Applied AI Engineer Intern](https://go.vansh.nyc/7h) | New York, NY | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
 | [Millennium](generated/companies/millennium.md) | [Applied AI Engineer Intern](https://go.vansh.nyc/7f) | Miami, FL | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
@@ -569,6 +569,7 @@
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [AI Business Solutions Intern](https://jobs.smartrecruiters.com/BoschGroup/744000154992819) | Coventry | Onsite | 2026-10-12 | Rolling | 🔴 Closed | ❔ |
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [AI Security Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000145507908) | Pittsburgh, PA | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [Artificial Intelligence and Software Development Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000141302469) | Plymouth, MI | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
+| [Boston Consulting Group](generated/companies/boston-consulting-group.md) | [Forward Deployed AI Engineer Intern](https://careers.bcg.com/global/en/job/59702) | Boston, MA +3 | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
 | [Boston Scientific](generated/companies/boston-scientific.md) | [Equipment Engineering AI Vision Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813584308) | Maple Grove, MN | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [Bot Auto](generated/companies/bot-auto.md) | [Software Engineer Intern - AI Agents](https://job-boards.greenhouse.io/botauto/jobs/5429357008) | Houston, TX | Onsite | 2026-09-19 | Rolling | 🔴 Closed | ❔ |
 | [BP](generated/companies/bp.md) | [Digital, Data, AI & Engineering Intern](https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/GB-London---25-North-Colonnade/Summer-Internship---Digital---Data--AI---Engineering---UK_RQ117081) | London | Onsite | 2026-10-14 | Rolling | 🔴 Closed | ❔ |
@@ -799,6 +800,7 @@
 | [Micron Technology](generated/companies/micron-technology.md) | [Technical Customer Management Intern - AI](https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Technical-Customer-Management--AI_JR109454) | Longmont, CO | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [AI Software Engineer Intern](https://apply.careers.microsoft.com/careers/job/1970393556962891) | Redmond, WA +1 | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [AI Software Engineer Intern - Edge](https://apply.careers.microsoft.com/careers/job/1970393556979054) | Redmond, WA +1 | Onsite | 2026-08-22 | Rolling | 🔴 Closed | ❔ |
+| [Midland States Bank](generated/companies/midland-states-bank.md) | [AI Solutions Engineer Intern](https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---AI-Solutions-Engineer_JR1461) | Rockford, IL +2 | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | [Mistral AI](generated/companies/mistral-ai.md) | [AI Data Solutions Intern - Data Partnerships](https://jobs.ashbyhq.com/mistral.ai/60fcc44d-4d96-469d-a96c-d6a9bbfe8edd/application?embed=true) | Palo Alto, CA | Onsite | 2026-07-24 | Rolling | 🔴 Closed | ❔ |
 | [MITRE](generated/companies/mitre.md) | [AI Engineering Intern](https://careers.mitre.org/us/en/job/R117620/AI-Engineering-Intern) | Bedford, MA | Onsite | 2026-10-19 | Rolling | 🔴 Closed | ❔ |
 | [Montenson](generated/companies/montenson.md) | [Artificial Intelligence Intern](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339) | Minnesota | Onsite | 2026-08-10 | Rolling | 🔴 Closed | ❔ |
@@ -1009,9 +1011,9 @@
 - NVIDIA (14)
 - Qualcomm (14)
 - Royal Bank of Canada (14)
+- DriveWealth (11)
 - General Motors (11)
 - AMD (11)
-- DriveWealth (10)
 - onsemi (9)
 - T-Mobile (9)
 - Tenstorrent (9)
@@ -1125,6 +1127,7 @@
 - FHLBank Chicago (2)
 - Figma (2)
 - GenMD (2)
+- GIRO (2)
 - Graphcore (2)
 - HNTB (2)
 - Inversion Space (2)
@@ -1222,7 +1225,6 @@
 - Bask Health (1)
 - Bild AI (1)
 - Bloom Energy (1)
-- Boston Consulting Group (1)
 - Brevan Howard (1)
 - Cambridge Consultants (1)
 - Campbell Soup Company (1)
@@ -1247,7 +1249,6 @@
 - FormFactor (1)
 - Framatome (1)
 - Genentech (1)
-- GIRO (1)
 - Graco (1)
 - GrayMatter Robotics (1)
 - Helsing (1)
@@ -1326,6 +1327,7 @@
 - Blockhouse (1)
 - Boeing (1)
 - Bombardier (1)
+- Boston Consulting Group (1)
 - Bot Auto (1)
 - BP (1)
 - Brio Water Technology (1)

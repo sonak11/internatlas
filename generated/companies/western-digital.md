@@ -9,6 +9,7 @@
 | Western Digital | [Development Engineer Co-op Intern](https://jobs.smartrecruiters.com/WesternDigital/744000152261929) | Rochester, MN | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | Western Digital | [Hardware Engineering Intern](https://go.vansh.nyc/1sa) | San Jose, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Western Digital | [Software Engineering Intern](https://go.vansh.nyc/1s8) | San Jose, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| Western Digital | [Software Engineering Intern](https://go.vansh.nyc/1Cg) | Irvine, CA | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | Western Digital | [Failure Analysis Automation Engineer Intern - Failure Analysis Automation Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000139338269) | San Jose, CA | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 | Western Digital | [Fall 2026 PhD Intern - Hardware Development Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000138191379) | Fremont, CA | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
 | Western Digital | [Software Engineer Intern](https://jobs.smartrecruiters.com/WesternDigital/744000138727213) | Fremont, CA +5 | Onsite | 2026-07-20 | Rolling | 🔴 Closed | ❔ |

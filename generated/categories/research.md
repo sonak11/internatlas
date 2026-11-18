@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**320** tracked · **173** open now
+**322** tracked · **173** open now
 
 ## Current openings
 
@@ -54,14 +54,13 @@
 | [Deutsche Bank](generated/companies/deutsche-bank.md) | [PhD Research Intern](https://db.recsolu.com/external/requisitions/xWQKe37zpsstpmjqs1whHw) | London | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Dexmate](generated/companies/dexmate.md) | [Research Intern](https://jobs.ashbyhq.com/dexmate/9361af41-d1e4-4b27-be37-683685bf48dc/application?embed=true) | Fremont, CA | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [DoorDash](generated/companies/doordash.md) | [Operations Research Intern](https://job-boards.greenhouse.io/doordashusa/jobs/8273965) | Sunnyvale, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
-| [East Penn Manufacturing](generated/companies/east-penn-manufacturing.md) | [Research & Development Intern](https://careerseast-eastpennmanufacturing.icims.com/jobs/30850/job?mobile=true&needsRedirect=false) | Kutztown, PA | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
-| [East Penn Manufacturing](generated/companies/east-penn-manufacturing.md) | [Research & Development Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30850/job?mobile=true&needsRedirect=false) | Kutztown, PA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Eaton](generated/companies/eaton.md) | [C++ Developer Intern, Research & Development Engineering](https://go.vansh.nyc/b1) | Brossard | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Etched](generated/companies/etched.md) | [IA Research Engineer Intern, Kernels](https://go.vansh.nyc/1fS) | San Jose, CA | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Field AI](generated/companies/field-ai.md) | [Research Scientist Intern - Robot Learning & Manipulation](https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e/apply) | Irvine, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Field AI](generated/companies/field-ai.md) | [Robotics Research – Humanoid Manipulation Intern](https://jobs.lever.co/field-ai/ada8184d-153b-4172-8f55-2b0ae74c6820/apply) | Boston, MA | Onsite | 2026-09-27 | Rolling | 🟢 Open | ❔ |
 | [Field AI](generated/companies/field-ai.md) | [Robotics Research – Humanoid Manipulation Intern](https://jobs.lever.co/field-ai/40a22216-c73b-4ec1-bfc1-dc0e1938eaba/apply) | Boston, MA | Onsite | 2026-09-27 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Research and Development Intern - Vehicle Health Management](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Health-Management_JR-202622258) | Warren, MI | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
+| [GIRO](generated/companies/giro.md) | [Software Developer Intern - Algorithms and Operations Research](https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-logiciel--Algorithmes-et-recherche-oprationnelle-_R-100000314) | Montreal | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [GIRO](generated/companies/giro.md) | [Software Development Intern, Algorithms and Operations Research](https://go.vansh.nyc/1wg) | Montreal | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [GlobalFoundries](generated/companies/globalfoundries.md) | [Research Account Management & Field Application Engineering Support Intern](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/GF-Labs-Research-AM-and-FAE-support-Intern--Summer-2027--_JR-2604431) | Essex Junction, VT | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Google](generated/companies/google.md) | [Research Intern - PhD](https://www.google.com/about/careers/applications/jobs/results/86701057991680710) | Palo Alto, CA +27 | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
@@ -95,6 +94,7 @@
 | [Nasdaq](generated/companies/nasdaq.md) | [Technical Research Intern](https://go.vansh.nyc/1p2) | Richmond, VA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [National Life](generated/companies/national-life.md) | [Market Research Intern](https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009) | Montpelier, VT +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [NeoCognition](generated/companies/neocognition.md) | [Research Intern](https://jobs.ashbyhq.com/neocognition/f6b58e72-94eb-4090-a84e-d96197ffeb76/application?embed=true) | Palo Alto, CA | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
+| [Nightwing](generated/companies/nightwing.md) | [Vulnerability Researcher Intern](https://go.vansh.nyc/1C8) | Palm Bay, FL | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❌ |
 | [Nissan Global](generated/companies/nissan-global.md) | [Research Application Intern](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Research-Application-Intern---Summer-2027---Santa-Clara--CA_R00214271) | Santa Clara, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Noblis](generated/companies/noblis.md) | [Applied Research Intern](https://careers.noblis.org/jobs/28089?icims=1&lang=en-us) | USA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Architecture Research Intern - Architecture - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395) | Seattle, WA +2 | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
@@ -223,6 +223,8 @@
 | [Dow Jones](generated/companies/dow-jones.md) | [Research Analyst Intern](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55873) | Houston, TX | Onsite | 2026-10-07 | Rolling | 🔴 Closed | ❔ |
 | [Dow Jones](generated/companies/dow-jones.md) | [Research Analyst Intern](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55872) | Houston, TX | Onsite | 2026-10-07 | Rolling | 🔴 Closed | ❔ |
 | [Dow Jones](generated/companies/dow-jones.md) | [Research Analyst Intern - Summer Internship Program](https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/Houston-TX---OPIS/Summer-2027-Internship-Program---Research-Analyst-Intern_Job_Req_55298) | Houston, TX | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
+| [East Penn Manufacturing](generated/companies/east-penn-manufacturing.md) | [Research & Development Intern](https://careerseast-eastpennmanufacturing.icims.com/jobs/30850/job?mobile=true&needsRedirect=false) | Kutztown, PA | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
+| [East Penn Manufacturing](generated/companies/east-penn-manufacturing.md) | [Research & Development Intern](https://careers-eastpennmanufacturing.icims.com/jobs/30850/job?mobile=true&needsRedirect=false) | Kutztown, PA | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❔ |
 | [Eaton](generated/companies/eaton.md) | [Electrical Engineer Intern/Co-op - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687238596674) | Moon Twp, PA | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Eaton](generated/companies/eaton.md) | [R&D Engineer Intern - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687239185039) | Cleveland, TN | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
 | [Ecolab](generated/companies/ecolab.md) | [Research and Development Intern](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Eagan/Research-and-Development-Intern_R00304540) | Naperville, IL +1 | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
@@ -357,7 +359,7 @@
 - Aramco Americas (2)
 - Architect Labs (2)
 - Block (2)
-- East Penn Manufacturing (2)
+- GIRO (2)
 - Horizon3.ai (2)
 - Intel (2)
 - Jane Street (2)
@@ -374,6 +376,7 @@
 - Two Six Technologies (2)
 - AMD (2)
 - Autodesk (2)
+- East Penn Manufacturing (2)
 - Nationwide Children's Hospital (2)
 - Qorvo (2)
 - TPG (2)
@@ -400,7 +403,6 @@
 - Dexmate (1)
 - DoorDash (1)
 - Etched (1)
-- GIRO (1)
 - GlobalFoundries (1)
 - Hewlett Packard Enterprise (1)
 - Huck Adventures (1)
@@ -413,6 +415,7 @@
 - Nasdaq (1)
 - National Life (1)
 - NeoCognition (1)
+- Nightwing (1)
 - Nissan Global (1)
 - Noblis (1)
 - PennState University (1)
