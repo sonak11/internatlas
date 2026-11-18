@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "gm-financial-software-development-engineer-intern-2027-c34c0d",
+  "id": "cloudflare-ai-automation-intern-communications-winter-2027-2027",
   "company": {
-    "name": "GM financial",
-    "slug": "gm-financial"
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "career_page": "https://www.cloudflare.com/careers"
   },
-  "role": "Software Development Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943",
+  "role": "AI & Automation Intern, Communications (Winter 2027)",
+  "category": "ai",
+  "apply_url": "https://boards.greenhouse.io/cloudflare/jobs/8394342?gh_jid=8394342",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Arlington",
-      "state": "TX",
+      "city": "In-Office",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-23",
-    "discovered": "2026-10-21",
-    "last_verified": "2026-10-23"
+    "posted": "2026-11-17",
+    "discovered": "2026-11-18",
+    "last_verified": "2026-11-18"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:ats"
   ]
 }

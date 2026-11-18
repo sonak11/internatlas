@@ -7,19 +7,17 @@
   },
   "role": "Full Stack Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1eU",
+  "apply_url": "https://jobs.ashbyhq.com/revel/29968ce1-8838-44e8-ac4e-6b1c87ce5314/application?embed=true",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Los Angeles",
-      "state": "CA",
+      "city": "SF",
       "country": "USA"
     },
     {
-      "city": "San Francisco",
-      "state": "CA",
+      "state": "LA",
       "country": "USA"
     }
   ],
@@ -45,13 +43,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-06",
+    "posted": "2026-09-08",
     "discovered": "2026-09-08",
-    "last_verified": "2026-11-17"
+    "last_verified": "2026-11-18"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

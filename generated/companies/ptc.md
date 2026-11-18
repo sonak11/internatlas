@@ -12,6 +12,7 @@
 | PTC | [Creo Core Geometry Intern](https://go.vansh.nyc/1v9) | Boston, MA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | PTC | [Creo Graphics Engineering Intern](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Graphics-Engineering-Intern--Summer-2027-_JR112970) | Boston, MA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | PTC | [Creo Graphics Engineering Intern](https://go.vansh.nyc/1ve) | Boston, MA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| PTC | [Onshape Performance Engineering Intern](https://go.vansh.nyc/1Bl) | Boston, MA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | PTC | [Onshape QA Intern](https://go.vansh.nyc/Vf) | Boston, MA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | PTC | [Onshape SysOps Intern](https://go.vansh.nyc/Vg) | Boston, MA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | PTC | [Site Reliability Engineering Intern, Onshape](https://go.vansh.nyc/1wK) | Boston, MA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |

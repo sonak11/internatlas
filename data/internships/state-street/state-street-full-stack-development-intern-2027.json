@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "boston-scientific-ai-acceleration-intern-2027-c2f0cd",
+  "id": "state-street-full-stack-development-intern-2027",
   "company": {
-    "name": "Boston Scientific",
-    "slug": "boston-scientific"
+    "name": "State Street",
+    "slug": "state-street"
   },
-  "role": "AI Acceleration Intern",
-  "category": "ai",
-  "apply_url": "https://go.vansh.nyc/1Aa",
-  "season": "summer",
+  "role": "Full Stack Development Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1Bu",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Marlborough",
+      "city": "Quincy",
       "state": "MA",
       "country": "USA"
     }
@@ -28,7 +28,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-16",
-    "discovered": "2026-11-17",
-    "last_verified": "2026-11-17"
+    "posted": "2026-11-17",
+    "discovered": "2026-11-18",
+    "last_verified": "2026-11-18"
   },
   "status": "open",
   "tags": [

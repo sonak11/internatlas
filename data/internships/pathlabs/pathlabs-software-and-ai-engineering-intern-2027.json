@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "marvell-architecture-intern-2027-156c16",
+  "id": "pathlabs-software-and-ai-engineering-intern-2027",
   "company": {
-    "name": "Marvell",
-    "slug": "marvell"
+    "name": "Pathlabs",
+    "slug": "pathlabs"
   },
-  "role": "Architecture Intern",
-  "category": "software-engineering",
-  "apply_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/Architecture-Intern--MS---Summer-2027_2604613",
+  "role": "Software and AI Engineering Intern",
+  "category": "ai",
+  "apply_url": "https://go.vansh.nyc/1BC",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Burlington",
-      "state": "VT",
+      "city": "Missoula",
+      "state": "MT",
       "country": "USA"
     }
   ],
@@ -25,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-28",
-    "discovered": "2026-10-23",
-    "last_verified": "2026-11-17"
+    "posted": "2026-11-17",
+    "discovered": "2026-11-18",
+    "last_verified": "2026-11-18"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

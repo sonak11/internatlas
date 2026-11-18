@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "akuna-capital-python-software-engineer-intern-2027",
+  "id": "falcomm-ai-ml-software-engineer-graduate-intern-ai-cad-integration-2027",
   "company": {
-    "name": "Akuna Capital",
-    "slug": "akuna-capital"
+    "name": "Falcomm",
+    "slug": "falcomm"
   },
-  "role": "Python Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://akunacapital.com/careers/job/8018853/?gh_jid=8018853",
-  "season": "summer",
+  "role": "AI/ML Software Engineer Graduate Intern - AI/CAD Integration",
+  "category": "machine-learning",
+  "apply_url": "https://apply.workable.com/falcomm/j/41F139E6F7/apply",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "state": "IL",
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -26,9 +26,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": true,
+    "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-24",
-    "discovered": "2026-08-17",
-    "last_verified": "2026-10-25"
+    "posted": "2026-11-17",
+    "discovered": "2026-11-18",
+    "last_verified": "2026-11-18"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

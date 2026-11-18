@@ -1,25 +1,40 @@
 {
   "schema_version": "1.0",
-  "id": "l3harris-technologies-software-engineer-intern-2027-1f2fa4",
+  "id": "publicis-groupe-phd-data-visualization-intern-2027-007298",
   "company": {
-    "name": "L3Harris Technologies",
-    "slug": "l3harris-technologies"
+    "name": "Publicis Groupe",
+    "slug": "publicis-groupe"
   },
-  "role": "Software Engineer Intern",
+  "role": "PhD Data Visualization Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/DP",
+  "apply_url": "https://publicisgroupe.jibeapply.com/jobs/182963?icims=1&lang=en-us",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Clinton",
-      "state": "MD",
+      "city": "Boston",
+      "state": "MA",
       "country": "USA"
     },
     {
-      "city": "Clifton",
-      "state": "NJ",
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Westminster",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Irving",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -30,7 +45,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -45,13 +62,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-28",
-    "discovered": "2026-11-04",
-    "last_verified": "2026-11-17"
+    "posted": "2026-11-17",
+    "discovered": "2026-11-18",
+    "last_verified": "2026-11-18"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
