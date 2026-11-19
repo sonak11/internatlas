@@ -6,8 +6,9 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Bread Financial | [Cybersecurity Intern](https://go.vansh.nyc/1CF) | Columbus, OH | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Bread Financial | [Software Engineering Intern](https://go.vansh.nyc/1Bz) | Columbus, OH +4 | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
-Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-19
 
-## 🆕 New this week (465)
+## 🆕 New this week (472)
 
 - **APEX Analytix** — [Product Management Intern - DevOps](https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164) · cloud · —
 - **ASML** — [Data Scientist Intern](https://go.vansh.nyc/1yl) · data-science · —
@@ -75,6 +75,7 @@
 - **Boston Scientific** — [AI Engineering Intern, Generative and Agentic AI](https://go.vansh.nyc/1A8) · ai · —
 - **Bound** — [Engineering Intern](https://ats.rippling.com/bound/jobs/f489575d-5484-4c43-9b6d-a9dce9b29bcd) · software-engineering · —
 - **Bound** — [Product Management Intern](https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316) · product · —
+- **Bread Financial** — [Cybersecurity Intern](https://go.vansh.nyc/1CF) · security · —
 - **Bread Financial** — [Software Engineering Intern](https://go.vansh.nyc/1Bz) · software-engineering · —
 - **Bristol Myers Squibb** — [Undergrad Data Science Intern](https://go.vansh.nyc/1Ck) · data-science · —
 - **CACI** — [Cybersecurity Intern](https://go.vansh.nyc/1Cd) · security · —
@@ -102,6 +103,7 @@
 - **CareSource** — [Software Engineer Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Software-Engineer_R14136) · software-engineering · —
 - **CareSource** — [Summer Internship Program – Provider Analytics AI Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program----Provider-Analytics-AI-Intern_R14481) · ai · —
 - **Carnegie Mellon University** — [AI Engineer Intern, Mission Innovation Lab](https://go.vansh.nyc/1Az) · ai · —
+- **Carnegie Mellon University** — [AI Engineer Intern - Mission Innovation Lab](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1) · ai · —
 - **Carnegie Mellon University** — [Cyber AI Engineer Intern](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2) · ai · —
 - **Carnegie Mellon University** — [Cyber AI Engineering Intern](https://go.vansh.nyc/1yV) · ai · —
 - **Carnegie Mellon University** — [Cyber AI Engineering Intern](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1) · ai · —
@@ -123,7 +125,6 @@
 - **Clyde Companies** — [Cyber Security Intern](https://go.vansh.nyc/1xY) · security · —
 - **Clyde Companies** — [Cybersecurity Intern](https://go.vansh.nyc/1xX) · security · —
 - **CoStar Group** — [Vision & Learning Intern](https://go.vansh.nyc/1yq) · software-engineering · —
-- **CoStar Group** — [Vision & Learning Intern](https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196) · software-engineering · —
 - **Compassion International** — [Creation Care GIS Analyst Intern](https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/GIS-Geospatial-Analyst-Intern_R8713-2) · software-engineering · —
 - **Constellation Brands** — [Data and AI Enablement Intern](https://go.vansh.nyc/1Bp) · ai · —
 - **Constellation Energy** — [IT Software Developer Intern](https://jobs.constellationenergy.com/jobs/143150?icims=1&lang=en-us) · software-engineering · —
@@ -185,6 +186,8 @@
 - **General Dynamics Mission Systems, Inc.** — [Software/Systems Engineering Intern](https://go.vansh.nyc/1xR) · software-engineering · —
 - **GlobalFoundries** — [Tapeout Engineering Business Products & Engineering Intern](https://go.vansh.nyc/1Bc) · software-engineering · —
 - **Goldman Sachs** — [Summer Analyst Intern - Multiple Teams](https://higher.gs.com/roles/189373?type=students) · software-engineering · —
+- **HERE Technologies** — [Data Science Intern](https://go.vansh.nyc/1CB) · data-science · —
+- **HERE Technologies** — [Software Engineer Intern](https://go.vansh.nyc/1CC) · software-engineering · —
 - **Hewlett Packard Enterprise** — [Research Associate Intern, Systems Architecture Lab](https://go.vansh.nyc/1w1) · research · —
 - **HexArmor** — [Software Engineer Intern](https://go.vansh.nyc/1AQ) · software-engineering · —
 - **Highmark Health** — [Technical Analyst Intern, enGen Undergraduate](https://go.vansh.nyc/1AK) · software-engineering · —
@@ -233,6 +236,7 @@
 - **Lightmatter** — [Product & Test Engineering Intern](https://boards.greenhouse.io/lightmatter/jobs/5474690008) · software-engineering · —
 - **Lightmatter** — [Quality & Reliability Intern](https://boards.greenhouse.io/lightmatter/jobs/5474812008) · software-engineering · —
 - **LinkedIn** — [Systems & Infrastructure Engineer Intern](https://jobs.smartrecruiters.com/LinkedIn3/744000161930950) · cloud · —
+- **Lockheed Martin** — [Software Engineer Intern](https://go.vansh.nyc/1CG) · software-engineering · —
 - **Lucid** — [Product Management Intern](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) · product · —
 - **Lucid** — [Product Management Intern](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) · product · —
 - **Lumentum** — [Data Science & Analytics Intern](https://go.vansh.nyc/1AP) · data-science · —
@@ -304,6 +308,7 @@
 - **Publicis Groupe** — [PhD Data Visualization Intern](https://publicisgroupe.jibeapply.com/jobs/182963?icims=1&lang=en-us) · software-engineering · —
 - **Publicis Groupe** — [PhD Data Visualization Intern](https://careers.publicisgroupe.com/jobs/182963?icims=1&lang=en-us) · software-engineering · —
 - **Punch Through Design** — [Cloud Software Engineer Intern](https://go.vansh.nyc/1yY) · cloud · —
+- **Pyrotek** — [Product Management Intern](https://jobs.smartrecruiters.com/Pyrotek3/744000162385949) · product · —
 - **Qualcomm** — [AI/Machine Learning Intern](https://go.vansh.nyc/1Bt) · machine-learning · —
 - **Qualcomm** — [AI/Machine Learning Intern - Interim Engineering Intern - SW](https://qualcomm.eightfold.ai/careers/job/446722176432) · machine-learning · —
 - **Qualcomm** — [GPU Compiler Development Intern, HW](https://go.vansh.nyc/1Cy) · software-engineering · —
@@ -428,6 +433,7 @@
 - **TikTok** — [Machine Learning Scientist Intern - Local Services](https://lifeattiktok.com/search/7703925583541979445) · machine-learning · —
 - **TikTok** — [Software Engineer Intern - TikTok Search](https://lifeattiktok.com/search/7704696088079010053) · software-engineering · —
 - **Toyota Research Institute** — [Robotics Intern, Agentic Robotics](https://go.vansh.nyc/1Bk) · software-engineering · —
+- **Toyota Research Institute** — [Robotics Intern - Generalist Robot Learning](https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply) · software-engineering · —
 - **Toyota Research Institute** — [Robotics Intern, World Models, Multimodal Sensing](https://go.vansh.nyc/1Au) · software-engineering · —
 - **Trace3** — [Security Intern](https://go.vansh.nyc/1yN) · security · —
 - **Trainline** — [Engineer Intern](https://jobs.ashbyhq.com/trainline/b0174860-8a94-4bd3-a307-373eeab586dd/application?embed=true) · software-engineering · —
@@ -458,6 +464,7 @@
 - **Western Digital** — [Software Engineering Intern](https://jobs.smartrecruiters.com/WesternDigital/744000162353069) · software-engineering · —
 - **Western Digital** — [Software Engineering Intern](https://go.vansh.nyc/1Cg) · software-engineering · —
 - **Wolters Kluwer** — [Product Software Engineer Intern](https://go.vansh.nyc/1y3) · software-engineering · —
+- **Workstream** — [Full Stack Engineer Intern](https://go.vansh.nyc/1CE) · software-engineering · —
 - **Zoox** — [Data Scientist Intern](https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db/apply) · data-science · —
 - **Zoox** — [Data Scientist Intern [Summer 2027]](https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db) · data-science · —
 - **Zoox** — [Feature Integration Intern [Summer 2027]](https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f) · software-engineering · —

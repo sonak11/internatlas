@@ -11,6 +11,7 @@
 | Lockheed Martin | [Software Engineer Intern](https://go.vansh.nyc/Xr) | Sunnyvale, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❌ |
 | Lockheed Martin | [Software Engineer Intern](https://go.vansh.nyc/UC) | Huntsville, AL | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | Lockheed Martin | [Software Engineer Intern](https://go.vansh.nyc/1q0) | Mt Laurel Township, NJ | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❌ |
+| Lockheed Martin | [Software Engineer Intern](https://go.vansh.nyc/1CG) | Owego, NY | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❌ |
 
 ## Related
 

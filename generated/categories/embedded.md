@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**330** tracked · **180** open now
+**330** tracked · **179** open now
 
 ## Current openings
 
@@ -48,7 +48,6 @@
 | [CesiumAstro](generated/companies/cesiumastro.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/1ov) | Melbourne, FL | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [Cisco](generated/companies/cisco.md) | [Software Engineer Embedded Systems I Intern](https://go.vansh.nyc/1sE) | San Jose, CA +2 | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Cisco](generated/companies/cisco.md) | [Software Engineer Intern, Embedded Systems I](https://go.vansh.nyc/1uy) | San Jose, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
-| [Entegris](generated/companies/entegris.md) | [Embedded Software Engineer Intern](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870) | Bloomington, MN | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Entegris](generated/companies/entegris.md) | [Embedded Software Engineering Intern](https://go.vansh.nyc/1wx) | Bloomington, MN | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [EquipmentShare](generated/companies/equipmentshare.md) | [Engineering Intern, Embedded](https://go.vansh.nyc/1q3) | Columbia, MO | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [fab2](generated/companies/fab2.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/OC) | San Francisco, CA +1 | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
@@ -224,6 +223,7 @@
 | [Eaton](generated/companies/eaton.md) | [Firmware Engineer Intern/Co-op - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687238596754) | Moon Twp, PA | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 | [Eaton](generated/companies/eaton.md) | [Firmware Engineer Intern/Co-op - Research & Development Engineering](https://eaton.eightfold.ai/careers/job/687238593356) | Moon Twp, PA | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [Eight Sleep](generated/companies/eight-sleep.md) | [Firmware Intern](https://go.vansh.nyc/1zP) | San Francisco, CA +3 | Onsite | 2026-11-14 | Rolling | 🔴 Closed | ❔ |
+| [Entegris](generated/companies/entegris.md) | [Embedded Software Engineer Intern](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870) | Bloomington, MN | Onsite | 2026-11-12 | Rolling | 🔴 Closed | ❔ |
 | [EquipmentShare](generated/companies/equipmentshare.md) | [Electrical Engineering Intern - Embedded](https://www.equipmentshare.com/careers/openings/?gh_jid=8142763) | Columbia, MO | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | [EquipmentShare](generated/companies/equipmentshare.md) | [Engineering Intern - Embedded](https://www.equipmentshare.com/careers/openings/?gh_jid=8371896) | Columbia, MO | Onsite | 2026-11-10 | Rolling | 🔴 Closed | ❔ |
 | [EquipmentShare](generated/companies/equipmentshare.md) | [Engineering Intern - Embedded](https://www.equipmentshare.com/careers/openings/?gh_jid=8371891) | Columbia, MO | Onsite | 2026-11-10 | Rolling | 🔴 Closed | ❔ |

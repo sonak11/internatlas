@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "costar-group-vision-learning-intern-2027-b0572d",
+  "id": "lockheed-martin-software-engineer-intern-2027-ea8df2",
   "company": {
-    "name": "CoStar Group",
-    "slug": "costar-group"
+    "name": "Lockheed Martin",
+    "slug": "lockheed-martin"
   },
-  "role": "Vision & Learning Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1yq",
+  "apply_url": "https://go.vansh.nyc/1q0",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Sunnyvale",
-      "state": "CA",
+      "city": "Mt Laurel Township",
+      "state": "NJ",
       "country": "USA"
     }
   ],
@@ -26,9 +26,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": false,
+    "citizenship_required": true,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-13",
-    "discovered": "2026-11-13",
+    "posted": "2026-11-10",
+    "discovered": "2026-11-19",
     "last_verified": "2026-11-19"
   },
   "status": "open",

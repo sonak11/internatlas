@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**267** tracked · **177** open now
+**268** tracked · **176** open now
 
 ## Current openings
 
@@ -32,6 +32,7 @@
 | [Booz Allen Hamilton](generated/companies/booz-allen-hamilton.md) | [Cyber Security Intern](https://go.vansh.nyc/1bV) | Colorado Springs, CO | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❌ |
 | [Bosch](generated/companies/bosch.md) | [Information Security and Privacy Intern](https://go.vansh.nyc/8w) | Farmington Hills, MI | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Bracco](generated/companies/bracco.md) | [Product Security Engineering Intern](https://go.vansh.nyc/VO) | Eden Prairie, MN | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| [Bread Financial](generated/companies/bread-financial.md) | [Cybersecurity Intern](https://go.vansh.nyc/1CF) | Columbus, OH | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Network Security Software Engineer Intern, Security Engineering](https://go.vansh.nyc/14v) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Security Engineering Project Intern, Watermark](https://go.vansh.nyc/15F) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Security Software Engineer Project Intern, Network Security](https://go.vansh.nyc/14B) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
@@ -82,8 +83,6 @@
 | [ID.me](generated/companies/id-me.md) | [Product Security Engineering Intern](https://go.vansh.nyc/1bM) | Mountain View, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Idaho National Laboratory](generated/companies/idaho-national-laboratory.md) | [Computer Security Research Intern](https://go.vansh.nyc/1jX) | Idaho Falls, ID | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [Idaho National Laboratory](generated/companies/idaho-national-laboratory.md) | [Cyber Security Research Intern](https://go.vansh.nyc/1jY) | Idaho Falls, ID | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
-| [Idaho National Laboratory](generated/companies/idaho-national-laboratory.md) | [Cybersecurity Operations Intern](https://go.vansh.nyc/1Am) | Idaho Falls, ID | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
-| [Idaho National Laboratory](generated/companies/idaho-national-laboratory.md) | [Cybersecurity Vulnerability Assessment Intern](https://go.vansh.nyc/1xM) | Idaho Falls, ID | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [IDEMIA](generated/companies/idemia.md) | [Cybersecurity Intern](https://go.vansh.nyc/12V) | USA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Illumio](generated/companies/illumio.md) | [Security Research Intern](https://go.vansh.nyc/cQ) | Sunnyvale, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Ingersoll Rand](generated/companies/ingersoll-rand.md) | [Cybersecurity Intern](https://go.vansh.nyc/1x6) | USA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
@@ -222,6 +221,8 @@
 | [HCSC](generated/companies/hcsc.md) | [Security Data Classification Intern](https://go.vansh.nyc/G6) | Richardson, TX | Onsite | 2026-10-08 | Rolling | 🔴 Closed | ❔ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Cybersecurity Engineering Intern](https://go.vansh.nyc/hW) | Spring, TX | Onsite | 2026-10-24 | Rolling | 🔴 Closed | ❔ |
 | [HP IQ](generated/companies/hp-iq.md) | [Software Engineer Intern - Product Security](https://job-boards.greenhouse.io/hpiq/jobs/6116398004) | SF | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
+| [Idaho National Laboratory](generated/companies/idaho-national-laboratory.md) | [Cybersecurity Operations Intern](https://go.vansh.nyc/1Am) | Idaho Falls, ID | Onsite | 2026-11-16 | Rolling | 🔴 Closed | ❔ |
+| [Idaho National Laboratory](generated/companies/idaho-national-laboratory.md) | [Cybersecurity Vulnerability Assessment Intern](https://go.vansh.nyc/1xM) | Idaho Falls, ID | Onsite | 2026-11-12 | Rolling | 🔴 Closed | ❔ |
 | [Illumio](generated/companies/illumio.md) | [Engineering Intern, Product Security](https://go.vansh.nyc/cO) | Sunnyvale, CA | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 | [Intel](generated/companies/intel.md) | [Information Security Engineer Intern](https://go.vansh.nyc/e1) | Folsom, CA | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 | [JM Family Enterprises](generated/companies/jm-family-enterprises.md) | [Offensive Security Intern](https://go.vansh.nyc/19y) | Deerfield Beach, FL | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
@@ -329,6 +330,7 @@
 - Barnes & Thornburg (1)
 - Bosch (1)
 - Bracco (1)
+- Bread Financial (1)
 - C.H. Robinson (1)
 - CAE (1)
 - Carnegie Mellon University (1)

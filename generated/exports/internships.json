@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-19",
-  "count": 10998,
+  "count": 11003,
   "internships": [
     {
       "schema_version": "1.0",
@@ -15872,7 +15872,7 @@
         "discovered": "2026-10-30",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -36210,7 +36210,7 @@
         "discovered": "2026-08-22",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -87674,6 +87674,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bread-financial-cybersecurity-intern-2027",
+      "company": {
+        "name": "Bread Financial",
+        "slug": "bread-financial"
+      },
+      "role": "Cybersecurity Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/1CF",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Columbus",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
+        "discovered": "2026-11-19",
+        "last_verified": "2026-11-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bread-financial-software-engineering-intern-2027",
       "company": {
         "name": "Bread Financial",
@@ -106056,7 +106108,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "carnegie-mellon-university-ai-engineer-intern-mission-innovation-lab-2027",
+      "id": "carnegie-mellon-university-ai-engineer-intern-mission-innovation-lab-2027-73217e",
       "company": {
         "name": "Carnegie Mellon University",
         "slug": "carnegie-mellon-university"
@@ -106097,13 +106149,65 @@
       },
       "dates": {
         "posted": "2026-11-16",
-        "discovered": "2026-11-17",
+        "discovered": "2026-11-19",
         "last_verified": "2026-11-19"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "carnegie-mellon-university-ai-engineer-intern-mission-innovation-lab-2027",
+      "company": {
+        "name": "Carnegie Mellon University",
+        "slug": "carnegie-mellon-university"
+      },
+      "role": "AI Engineer Intern - Mission Innovation Lab",
+      "category": "ai",
+      "apply_url": "https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-16",
+        "discovered": "2026-11-17",
+        "last_verified": "2026-11-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -109387,7 +109491,7 @@
         "discovered": "2026-09-19",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -129575,7 +129679,7 @@
         "discovered": "2026-10-19",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -135071,7 +135175,7 @@
         "discovered": "2026-11-13",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -135861,58 +135965,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "costar-group-vision-learning-intern-2027-b0572d",
-      "company": {
-        "name": "CoStar Group",
-        "slug": "costar-group"
-      },
-      "role": "Vision & Learning Intern",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/1yq",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Sunnyvale",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-11-13",
-        "discovered": "2026-11-13",
-        "last_verified": "2026-11-19"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "costar-group-vision-learning-intern-2027",
       "company": {
         "name": "CoStar Group",
@@ -135920,7 +135972,7 @@
       },
       "role": "Vision & Learning Intern",
       "category": "software-engineering",
-      "apply_url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Vision---Learning-Intern_R40196",
+      "apply_url": "https://go.vansh.nyc/1yq",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -135956,14 +136008,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-11-12",
+        "posted": "2026-11-13",
         "discovered": "2026-11-13",
         "last_verified": "2026-11-19"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -138886,7 +138938,7 @@
         "discovered": "2026-10-28",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -159126,7 +159178,7 @@
         "discovered": "2026-10-15",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -168267,7 +168319,7 @@
         "discovered": "2026-11-12",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -199460,7 +199512,7 @@
         "discovered": "2026-11-18",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -212026,58 +212078,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "gm-financial-software-development-engineer-intern-2027-3eadac",
-      "company": {
-        "name": "GM Financial",
-        "slug": "gm-financial"
-      },
-      "role": "Software Development Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/1kZ",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Arlington",
-          "state": "TX",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-11-06",
-        "discovered": "2026-11-18",
-        "last_verified": "2026-11-19"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "gm-financial-software-development-engineer-intern-2027-69ef19",
       "company": {
         "name": "GM Financial",
@@ -212122,7 +212122,7 @@
         "discovered": "2026-11-18",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -212184,12 +212184,12 @@
       "schema_version": "1.0",
       "id": "gm-financial-software-development-engineer-intern-2027",
       "company": {
-        "name": "GM financial",
+        "name": "GM Financial",
         "slug": "gm-financial"
       },
       "role": "Software Development Engineer Intern",
       "category": "software-engineering",
-      "apply_url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943",
+      "apply_url": "https://go.vansh.nyc/1kZ",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -212225,14 +212225,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-09-23",
+        "posted": "2026-11-06",
         "discovered": "2026-09-18",
         "last_verified": "2026-11-19"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -222690,7 +222690,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -226182,6 +226182,110 @@
         "last_verified": "2026-10-25"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "here-technologies-data-science-intern-2027",
+      "company": {
+        "name": "HERE Technologies",
+        "slug": "here-technologies"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://go.vansh.nyc/1CB",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
+        "discovered": "2026-11-19",
+        "last_verified": "2026-11-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "here-technologies-software-engineer-intern-2027",
+      "company": {
+        "name": "HERE Technologies",
+        "slug": "here-technologies"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1CC",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
+        "discovered": "2026-11-19",
+        "last_verified": "2026-11-19"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -243738,7 +243842,7 @@
         "discovered": "2026-11-17",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -243790,7 +243894,7 @@
         "discovered": "2026-11-13",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -281167,7 +281271,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -287897,7 +288001,7 @@
         "discovered": "2026-10-28",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -291587,7 +291691,7 @@
         "discovered": "2026-10-28",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -291639,7 +291743,7 @@
         "discovered": "2026-10-28",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -292904,7 +293008,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "lockheed-martin-software-engineer-intern-2027",
+      "id": "lockheed-martin-software-engineer-intern-2027-ea8df2",
       "company": {
         "name": "Lockheed Martin",
         "slug": "lockheed-martin"
@@ -292945,6 +293049,58 @@
       },
       "dates": {
         "posted": "2026-11-10",
+        "discovered": "2026-11-19",
+        "last_verified": "2026-11-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "lockheed-martin-software-engineer-intern-2027",
+      "company": {
+        "name": "Lockheed Martin",
+        "slug": "lockheed-martin"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1CG",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Owego",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
         "discovered": "2026-10-27",
         "last_verified": "2026-11-19"
       },
@@ -302428,7 +302584,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -302536,7 +302692,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -302589,7 +302745,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -302643,7 +302799,7 @@
         "discovered": "2026-07-21",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -306319,7 +306475,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -318788,7 +318944,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -352655,7 +352811,7 @@
         "discovered": "2026-09-03",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -380527,7 +380683,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -393855,7 +394011,7 @@
       },
       "role": "Product Management Intern",
       "category": "product",
-      "apply_url": "https://jobs.smartrecruiters.com/Pyrotek3/744000160635163",
+      "apply_url": "https://jobs.smartrecruiters.com/Pyrotek3/744000162385949",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -393888,11 +394044,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-11-09",
+        "posted": "2026-11-18",
         "discovered": "2026-10-31",
-        "last_verified": "2026-11-17"
+        "last_verified": "2026-11-19"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -440947,7 +441103,7 @@
         "discovered": "2026-11-13",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -460426,7 +460582,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -530187,7 +530343,7 @@
         "discovered": "2026-07-29",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -542314,6 +542470,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "toyota-research-institute-robotics-intern-generalist-robot-learning-2027",
+      "company": {
+        "name": "Toyota Research Institute",
+        "slug": "toyota-research-institute"
+      },
+      "role": "Robotics Intern - Generalist Robot Learning",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Los Altos",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
+        "discovered": "2026-11-19",
+        "last_verified": "2026-11-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "toyota-research-institute-robotics-intern-human-machine-interaction-research-2027",
       "company": {
         "name": "Toyota Research Institute",
@@ -553495,7 +553705,7 @@
         "discovered": "2026-08-01",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -576477,7 +576687,7 @@
         "discovered": "2026-11-19",
         "last_verified": "2026-11-19"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -584417,6 +584627,57 @@
       "dates": {
         "posted": "2026-10-29",
         "discovered": "2026-09-15",
+        "last_verified": "2026-11-19"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "workstream-full-stack-engineer-intern-2027",
+      "company": {
+        "name": "Workstream",
+        "slug": "workstream"
+      },
+      "role": "Full Stack Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1CE",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Vancouver",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
+        "discovered": "2026-11-19",
         "last_verified": "2026-11-19"
       },
       "status": "open",
