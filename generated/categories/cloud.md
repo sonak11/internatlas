@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**190** tracked · **125** open now
+**189** tracked · **124** open now
 
 ## Current openings
 
@@ -44,7 +44,6 @@
 | [Dynamic Catholic](generated/companies/dynamic-catholic.md) | [Software Developer Intern, Commerce Cloud](https://go.vansh.nyc/1eB) | Erlanger, KY | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Election Systems & Software](generated/companies/election-systems-software.md) | [DevOps Intern](https://go.vansh.nyc/fY) | Omaha, NE | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [fab2](generated/companies/fab2.md) | [Infrastructure Software Engineering Intern](https://go.vansh.nyc/1lp) | Austin, TX +1 | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
-| [fab2](generated/companies/fab2.md) | [Infrastructure Software Engineering Intern](https://go.vansh.nyc/1ll) | Austin, TX +1 | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | [GardaWorld](generated/companies/gardaworld.md) | [Infrastructure Engineer Intern](https://go.vansh.nyc/10Z) | Wayzata, MN | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [Garmin](generated/companies/garmin.md) | [IT DevOps Administrator Intern](https://go.vansh.nyc/1jp) | Olathe, KS | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Garmin International](generated/companies/garmin-international.md) | [IT DevOps Administrator Intern](https://go.vansh.nyc/1xf) | Olathe, KS | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
@@ -211,7 +210,6 @@
 - Lawrence Livermore National Laboratory (LLNL) (3)
 - Shure (3)
 - Etched (3)
-- fab2 (2)
 - Great American Insurance Company (2)
 - Juniper Networks (2)
 - Keysight Technologies (2)
@@ -235,6 +233,7 @@
 - DRW (1)
 - Dynamic Catholic (1)
 - Election Systems & Software (1)
+- fab2 (1)
 - GardaWorld (1)
 - Garmin (1)
 - Garmin International (1)

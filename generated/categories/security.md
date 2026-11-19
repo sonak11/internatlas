@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**267** tracked · **178** open now
+**267** tracked · **177** open now
 
 ## Current openings
 
@@ -49,7 +49,6 @@
 | [Costco](generated/companies/costco.md) | [CDS Intern, OT/IoT Security Engineering](https://go.vansh.nyc/1gX) | Wa, WA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Crowe](generated/companies/crowe.md) | [Cybersecurity Intern](https://go.vansh.nyc/SD) | Chicago, IL +3 | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Cyberix](generated/companies/cyberix.md) | [Cybersecurity Intern](https://go.vansh.nyc/1uZ) | Aurora, CO | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
-| [Daimler Truck](generated/companies/daimler-truck.md) | [Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity](https://go.vansh.nyc/1uo) | Detroit, MI | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Danaher Corporation](generated/companies/danaher-corporation.md) | [IT Security Intern](https://go.vansh.nyc/N9) | Coralville, IA | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [DocuSign](generated/companies/docusign.md) | [Security Intern](https://go.vansh.nyc/D2) | San Francisco, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❌ |
 | [DP World](generated/companies/dp-world.md) | [Information Security Intern](https://go.vansh.nyc/ef) | Charlotte, NC | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❌ |
@@ -208,6 +207,7 @@
 | [CNO Financial Group](generated/companies/cno-financial-group.md) | [Cyber Security IT Intern](https://cnoinc.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419?jr_id=6a70f504e2b7476e7b20bfd4) | Carmel, IN | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | [Cohen & Steers](generated/companies/cohen-steers.md) | [Associate Intern, Information Security](https://go.vansh.nyc/12I) | New York, NY | Onsite | 2026-10-31 | Rolling | 🔴 Closed | ❔ |
 | [CoStar Group](generated/companies/costar-group.md) | [Security Engineer Intern](https://go.vansh.nyc/cL) | Arlington, VA | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
+| [Daimler Truck](generated/companies/daimler-truck.md) | [Governance, Risk, and Compliance (GRC) Analyst Intern, Cybersecurity](https://go.vansh.nyc/1uo) | Detroit, MI | Onsite | 2026-11-11 | Rolling | 🔴 Closed | ❔ |
 | [Draper](generated/companies/draper.md) | [Classified Cybersecurity/IT Intern](https://go.vansh.nyc/8B) | Cambridge, MA | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❌ |
 | [DuCharme, McMillen & Associates](generated/companies/ducharme-mcmillen-associates.md) | [Cybersecurity Intern](https://go.vansh.nyc/1f4) | Fort Wayne, IN | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | [Duke Energy Corporation](generated/companies/duke-energy-corporation.md) | [Nuclear Cybersecurity Intern](https://go.vansh.nyc/em) | Hartsville, SC | Onsite | 2026-10-21 | Rolling | 🔴 Closed | ❔ |
@@ -337,7 +337,6 @@
 - Costco (1)
 - Crowe (1)
 - Cyberix (1)
-- Daimler Truck (1)
 - Danaher Corporation (1)
 - DocuSign (1)
 - DP World (1)
@@ -436,6 +435,7 @@
 - CNO Financial Group (1)
 - Cohen & Steers (1)
 - CoStar Group (1)
+- Daimler Truck (1)
 - Draper (1)
 - DuCharme, McMillen & Associates (1)
 - Duke Energy Corporation (1)

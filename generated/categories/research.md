@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**322** tracked · **173** open now
+**323** tracked · **172** open now
 
 ## Current openings
 
@@ -18,7 +18,6 @@
 | [Applied Intuition](generated/companies/applied-intuition.md) | [Research Intern - World-Action Foundation Model - Robotics](https://jobs.ashbyhq.com/applied/edc2528d-6e6c-4a67-b871-bfe7d9c890b4/application?embed=true) | Sunnyvale, CA | Onsite | 2026-06-27 | Rolling | 🟢 Open | ❔ |
 | [AQR Capital Management](generated/companies/aqr-capital-management.md) | [Arbitrage Research Analyst Intern, Arbitrage](https://go.vansh.nyc/Qr) | Greenwich, CT | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
 | [AQR Capital Management](generated/companies/aqr-capital-management.md) | [Arbitrage Research Summer Analyst Intern - AQR Arbitrage](https://careers.aqr.com/jobs?gh_jid=8156993&gh_jid=8156993) | Greenwich, CT | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
-| [AQR Capital Management](generated/companies/aqr-capital-management.md) | [Research Summer Analyst Intern](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | Greenwich, CT | Onsite | 2026-05-15 | Rolling | 🟢 Open | ❔ |
 | [Aramco Americas](generated/companies/aramco-americas.md) | [Research and Development Intern](https://go.vansh.nyc/Mp) | Cambridge, MA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Aramco Americas](generated/companies/aramco-americas.md) | [Research and Development Intern - Boston Research Center - 2027 Summer Student Program](https://aramcoservices.applytojob.com/apply/rnpFdnTdYb/Research-And-Development-Boston-Research-Center-2027-Summer-Student-Program) | Cambridge, MA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [Architect Labs](generated/companies/architect-labs.md) | [Member of Technical Staff Intern, Research](https://go.vansh.nyc/12A) | Palo Alto, CA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
@@ -123,11 +122,11 @@
 | [Procter & Gamble](generated/companies/procter-gamble.md) | [Research and Development PhD Intern](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--AI-Agents-for-Automated-Machine-Learning-Research_R000158985) | Mason, OH | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [Quadrillion](generated/companies/quadrillion.md) | [Research Intern](https://jobs.ashbyhq.com/quadrillion-labs/579cef88-1dbf-45b5-a938-7ddc23505765/application?embed=true) | NYC | Onsite | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Rhoda AI](generated/companies/rhoda-ai.md) | [Research Intern](https://go.vansh.nyc/1vV) | Mountain View, CA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
-| [Riverlane](generated/companies/riverlane.md) | [PhD Research Intern](https://www.riverlane.com/jobs?gh_jid=5009045101) | Cambridge, MA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [Riverside Research](generated/companies/riverside-research.md) | [Formal Methods Research Intern](https://go.vansh.nyc/1mh) | Lexington, MA | Onsite | 2026-11-07 | Rolling | 🟢 Open | ❌ |
 | [RTX](generated/companies/rtx.md) | [Cyber Research Intern](https://go.vansh.nyc/1cR) | Cedar Rapids, IA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❌ |
 | [Salesforce](generated/companies/salesforce.md) | [Tableau Research Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252) | Palo Alto, CA +1 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | [Salesforce](generated/companies/salesforce.md) | [Tableau Research Intern](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---Tableau-Research_JR363252-1) | Palo Alto, CA +1 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
+| [Samsung Semiconductor](generated/companies/samsung-semiconductor.md) | [Architecture Research Engineer Intern, MoE Placement for Serving at Scale](https://go.vansh.nyc/1Cm) | San Jose, CA | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | [Saviynt](generated/companies/saviynt.md) | [Research Scientist Intern](https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7/apply) | Milpitas, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Shure](generated/companies/shure.md) | [Applied Research Science Intern](https://careersus-shure.icims.com/jobs/4967/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Shure](generated/companies/shure.md) | [Audio Applied Research Science Intern](https://careersus-shure.icims.com/jobs/4968/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
@@ -195,6 +194,7 @@
 | [Analysis Group](generated/companies/analysis-group.md) | [Research Professional Intern - Generalist](https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false) | Montreal +1 | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [Analytical Mechanics Associates](generated/companies/analytical-mechanics-associates.md) | [Research Scientist Intern](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1) | New Jersey | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | [AQR Capital Management](generated/companies/aqr-capital-management.md) | [Research and Portfolio Management Engineering Summer Analyst Intern](https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728) | Greenwich, CT | Onsite | 2026-05-26 | Rolling | 🔴 Closed | ❔ |
+| [AQR Capital Management](generated/companies/aqr-capital-management.md) | [Research Summer Analyst Intern](https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583) | Greenwich, CT | Onsite | 2026-05-15 | Rolling | 🔴 Closed | ❔ |
 | [Atlassian](generated/companies/atlassian.md) | [Research Intern](https://campus-americas.icims.com/jobs/26270/research-intern%2c-2027-summer-u.s./job) | Seattle, WA | Onsite | 2026-09-26 | Rolling | 🔴 Closed | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments](https://autodesk.wd1.myworkdayjobs.com/uni/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374) | Boston, MA +1 | Onsite | 2026-10-15 | Rolling | 🔴 Closed | ❔ |
 | [Autodesk](generated/companies/autodesk.md) | [PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments](https://autodesk.wd1.myworkdayjobs.com/Ext/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374-1) | Boston, MA +1 | Onsite | 2026-10-15 | Rolling | 🔴 Closed | ❔ |
@@ -287,6 +287,7 @@
 | [Procter & Gamble](generated/companies/procter-gamble.md) | [Research & Development Scientist/Engineer Intern - Freshmen, Sophomores, And Juniors](https://pg.wd5.myworkdayjobs.com/1000/job/Mason/Research---Development-Scientist-Engineer-Intern-Summer-2027---Freshmen--Sophomores--and-Juniors_R000157846) | St Bernard, OH +3 | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Research Engineer Intern - High Performance Analog](https://careers.qorvo.com/job/Richardson-Research-Engineering-Intern-TX-75080/1424726900/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | [Qorvo](generated/companies/qorvo.md) | [Research Scientist Intern](https://careers.qorvo.com/job/Richardson-Research-Scientist-Intern-TX-75080/1424705400/?ats=successfactors) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
+| [Riverlane](generated/companies/riverlane.md) | [PhD Research Intern](https://www.riverlane.com/jobs?gh_jid=5009045101) | Cambridge, MA | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
 | [Riverlane](generated/companies/riverlane.md) | [Research Intern](https://www.riverlane.com/jobs?gh_jid=5001380101) | Cambridge | Onsite | 2026-10-09 | Rolling | 🔴 Closed | ❔ |
 | [Rivian](generated/companies/rivian.md) | [UIUC Research Park Intern - Computational Methods Development](https://careers.rivian.com/jobs/32340?icims=1) | Urbana, IL | Onsite | 2026-07-22 | Rolling | 🔴 Closed | ❔ |
 | [Robinhood](generated/companies/robinhood.md) | [Market Research Strategy Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8103727?t=gh_src%3D&gh_jid=8103727) | Singapore | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
@@ -369,7 +370,6 @@
 - Mistral AI (2)
 - OneEthos (2)
 - Peraton (2)
-- Riverlane (2)
 - Salesforce (2)
 - Shure (2)
 - The Allen Institute for AI (2)
@@ -379,6 +379,7 @@
 - East Penn Manufacturing (2)
 - Nationwide Children's Hospital (2)
 - Qorvo (2)
+- Riverlane (2)
 - TPG (2)
 - Warner Bros. (2)
 - Adobe (1)
@@ -425,6 +426,7 @@
 - Rhoda AI (1)
 - Riverside Research (1)
 - RTX (1)
+- Samsung Semiconductor (1)
 - Saviynt (1)
 - StackAV (1)
 - Stand Together (1)

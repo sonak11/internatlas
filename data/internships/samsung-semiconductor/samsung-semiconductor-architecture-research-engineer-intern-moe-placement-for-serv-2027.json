@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "citi-technology-analyst-intern-application-development-2027-e1c6ce",
+  "id": "samsung-semiconductor-architecture-research-engineer-intern-moe-placement-for-serv-2027",
   "company": {
-    "name": "Citi",
-    "slug": "citi"
+    "name": "Samsung Semiconductor",
+    "slug": "samsung-semiconductor"
   },
-  "role": "Technology Analyst Intern, Application Development",
-  "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/hq",
+  "role": "Architecture Research Engineer Intern, MoE Placement for Serving at Scale",
+  "category": "research",
+  "apply_url": "https://go.vansh.nyc/1Cm",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Tampa",
-      "state": "FL",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-23",
-    "discovered": "2026-10-25",
-    "last_verified": "2026-11-18"
+    "posted": "2026-11-18",
+    "discovered": "2026-11-19",
+    "last_verified": "2026-11-19"
   },
   "status": "open",
   "tags": [

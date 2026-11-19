@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**329** tracked · **181** open now
+**330** tracked · **180** open now
 
 ## Current openings
 
@@ -119,8 +119,6 @@
 | [Qualcomm](generated/companies/qualcomm.md) | [Firmware Engineering Intern](https://go.vansh.nyc/1pw) | Toronto | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Telemetry Firmware, Driver and Tools Developer Intern](https://go.vansh.nyc/1jr) | Markham | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [REGENT](generated/companies/regent.md) | [Embedded Software Engineering Intern](https://go.vansh.nyc/1sb) | North Kingstown, RI | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
-| [Revel](generated/companies/revel.md) | [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889/application?embed=true) | SF +1 | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
-| [Revel](generated/companies/revel.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/1eS) | Los Angeles, CA +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Controls, Automation & Embedded Software Intern](https://go.vansh.nyc/Hh) | Palo Alto, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❌ |
 | [Rivian](generated/companies/rivian.md) | [Software Engineer Intern Co-op - Embedded Software](https://careers.rivian.com/jobs/33832?icims=1) | Palo Alto, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Embedded Systems Software Engineering Intern - January - August 2027](https://jobs.ashbyhq.com/rivianvw.tech/f421a524-72da-4dd6-a549-bbee9e98622e/application?embed=true) | Champaign, IL | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
@@ -129,6 +127,7 @@
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Software Engineering Intern, Embedded Platforms](https://go.vansh.nyc/fF) | Palo Alto, CA +2 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Rockwell Automation](generated/companies/rockwell-automation.md) | [Firmware Engineer Intern](https://go.vansh.nyc/gA) | Mequon, WI +1 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Samsung Semiconductor](generated/companies/samsung-semiconductor.md) | [SSD Firmware Development Intern](https://go.vansh.nyc/1z0) | San Jose, CA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
+| [Samsung Semiconductor](generated/companies/samsung-semiconductor.md) | [SSD Firmware Engineer Intern](https://go.vansh.nyc/1Cu) | San Jose, CA | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | [Seagate Technology](generated/companies/seagate-technology.md) | [Embedded Firmware Intern, Research Group](https://go.vansh.nyc/1zu) | Longmont, CO | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
 | [Seagate Technology](generated/companies/seagate-technology.md) | [Embedded Firmware Intern, Research Group](https://go.vansh.nyc/1zt) | Shakopee, MN | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
 | [Seagate Technology](generated/companies/seagate-technology.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/Ss) | Longmont, CO | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
@@ -285,6 +284,8 @@
 | [Resideo](generated/companies/resideo.md) | [Firmware Engineer Intern](https://go.vansh.nyc/1bz) | Golden Valley, MN | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 | [Resideo](generated/companies/resideo.md) | [Firmware Engineer Intern](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19814) | Golden Valley, MN | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 | [Resideo](generated/companies/resideo.md) | [Firmware Engineer Intern](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19813) | Aurora, IL | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
+| [Revel](generated/companies/revel.md) | [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/revel/f8eec1fd-da28-47ce-bca4-2fbe9c48a889/application?embed=true) | SF +1 | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
+| [Revel](generated/companies/revel.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/1eS) | Los Angeles, CA +1 | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Research Park Intern - Embedded Software](https://careers.rivian.com/jobs/32354?icims=1) | Urbana, IL | Onsite | 2026-07-22 | Rolling | 🔴 Closed | ❔ |
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Engineering Intern, Embedded Hardware, Vehicle Networking & Audio](https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27276/job) | Palo Alto, CA | Onsite | 2025-11-01 | Rolling | 🔴 Closed | ❔ |
 | [Rivian and Volkswagen Group Technologies](generated/companies/rivian-and-volkswagen-group-technologies.md) | [Software Engineer Intern - Embedded Platforms](https://jobs.ashbyhq.com/rivianvw.tech/4dfbf1e6-3778-4101-8ac7-cd4015d47eff/application) | Palo Alto, CA +1 | Onsite | 2026-06-11 | Rolling | 🔴 Closed | ❔ |
@@ -395,7 +396,7 @@
 - Motorola Solutions (2)
 - North Atlantic Industries (2)
 - Odys Aviation (2)
-- Revel (2)
+- Samsung Semiconductor (2)
 - Semtech (2)
 - Shure (2)
 - SK hynix (2)
@@ -409,6 +410,7 @@
 - Itron (2)
 - Johns Hopkins Applied Physics Laboratory (2)
 - Mettler Toledo (2)
+- Revel (2)
 - The Aerospace Corporation (2)
 - The Toro Company (2)
 - Ursa Major (2)
@@ -427,7 +429,6 @@
 - Peripheral (1)
 - Q-Block Computing (1)
 - REGENT (1)
-- Samsung Semiconductor (1)
 - Shield (1)
 - SK Hynix Memory Solution (1)
 - SK hynix memory solutions America Inc. (1)

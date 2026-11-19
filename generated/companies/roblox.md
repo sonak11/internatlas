@@ -12,6 +12,8 @@
 | Roblox | [[2027] Data Scientist - PhD Intern](https://careers.roblox.com/jobs/8242619?gh_jid=8242619) | San Mateo, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | Roblox | [Software Engineer Intern](https://go.vansh.nyc/6z) | San Mateo, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❌ |
 | Roblox | [Software Engineer Intern](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | San Mateo, CA | Onsite | 2026-08-05 | Rolling | 🟢 Open | ❌ |
+| Roblox | [Software Engineer Intern - Engine](https://careers.roblox.com/jobs/8386080?gh_jid=8386080) | Vancouver +1 | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
+| Roblox | [Software Engineer Intern, Engine](https://go.vansh.nyc/1Cn) | Vancouver | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | Roblox | [[Summer 2027] Product Design Intern](https://careers.roblox.com/jobs/8143984?gh_jid=8143984) | San Mateo, CA | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | Roblox | [Product Management Intern](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) | San Mateo, CA | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 

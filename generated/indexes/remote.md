@@ -13,6 +13,7 @@
 | [Amplify](generated/companies/amplify.md) | [Product Management Intern](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) | Remote | Remote | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Amplify](generated/companies/amplify.md) | [Software Engineer Intern](https://jobs.ashbyhq.com/amplify/855d22a3-f15e-49f6-854c-29e505653efa/application?embed=true) | Remote | Remote | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Amplify](generated/companies/amplify.md) | [Software Engineer Intern](https://go.vansh.nyc/c6) | Remote | Remote | 2026-10-19 | Rolling | 🟢 Open | ❔ |
+| [Andersen](generated/companies/andersen.md) | [PhD Summer Intern](https://careers.andersen.com/jobs/8348?icims=1&lang=en-us) | Remote | Remote | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | [Astreya](generated/companies/astreya.md) | [AI Infrastructure DC Design Intern](https://go.vansh.nyc/91) | Remote | Remote | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Astreya](generated/companies/astreya.md) | [AI Infrastructure DC Design Intern](https://go.vansh.nyc/90) | Remote | Remote | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Astreya](generated/companies/astreya.md) | [AI Infrastructure DC Design Intern](https://go.vansh.nyc/8Z) | Remote | Remote | 2026-10-14 | Rolling | 🟢 Open | ❔ |
@@ -27,7 +28,6 @@
 | [DwyerOmega](generated/companies/dwyeromega.md) | [Applied AI Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4647822) | Remote | Remote | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Hubs.is](generated/companies/hubs-is.md) | [Product Intern](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) | Remote | Remote | 2026-07-21 | Rolling | 🟢 Open | ❔ |
 | [Kinaxis](generated/companies/kinaxis.md) | [AI/ML Researcher Intern](https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false) | Remote | Remote | 2026-10-02 | Rolling | 🟢 Open | ❔ |
-| [Kinaxis](generated/companies/kinaxis.md) | [Developer Intern Co-op - Machine Learning](https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false) | Remote | Remote | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Network Site Design Intern](https://go.vansh.nyc/ea) | Remote | Remote | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Product Manager Intern](https://go.vansh.nyc/5Y) | Remote | Remote | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [Molina Healthcare](generated/companies/molina-healthcare.md) | [Customer Experience & Analytics Intern - Undergraduate](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169) | Remote | Remote | 2026-10-30 | Rolling | 🟢 Open | ❔ |
@@ -143,6 +143,7 @@
 | [Intel](generated/companies/intel.md) | [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) | Remote | Remote | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [J.M. Smucker](generated/companies/j-m-smucker.md) | [Data Science Intern](https://smucker.wd5.myworkdayjobs.com/US_External_Careers/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118) | Remote | Remote | 2026-11-05 | Rolling | 🔴 Closed | ❔ |
 | [Khan Academy](generated/companies/khan-academy.md) | [Software Engineer Intern](https://job-boards.greenhouse.io/khanacademy/jobs/8250259) | Remote | Remote | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
+| [Kinaxis](generated/companies/kinaxis.md) | [Developer Intern Co-op - Machine Learning](https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false) | Remote | Remote | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Kodak](generated/companies/kodak.md) | [Marketing Analytics Intern](https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1412894200/?ats=successfactors) | Remote | Remote | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
 | [LabCorp](generated/companies/labcorp.md) | [Financial Analytics & Technology Intern - Financial Analytics Team](https://labcorp.wd1.myworkdayjobs.com/external/job/Remote_United-States/Intern---Financial-Analytics---Technology_2630761) | Remote | Remote | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Cloud Engineering Intern](https://go.vansh.nyc/bl) | Remote | Remote | 2026-10-16 | Rolling | 🔴 Closed | ❌ |

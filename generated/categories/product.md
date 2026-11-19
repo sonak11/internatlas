@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**313** tracked · **149** open now
+**315** tracked · **151** open now
 
 ## Current openings
 
@@ -83,6 +83,8 @@
 | [Koch Industries](generated/companies/koch-industries.md) | [Product Management Intern](https://koch.avature.net/en_US/careers/JobDetail/195099) | Eden Prairie, MN +1 | Onsite | 2026-10-03 | Rolling | 🟢 Open | ❔ |
 | [Koch Industries](generated/companies/koch-industries.md) | [Product Management Intern - Aerospace & Defense Solutions](https://koch.avature.net/en_US/careers/JobDetail/197821) | Georgetown, TX | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Legrand](generated/companies/legrand.md) | [Product Management Intern](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837) | Syracuse, NY | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| [Lucid](generated/companies/lucid.md) | [Product Management Intern](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) | Raleigh, NC | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
+| [Lucid](generated/companies/lucid.md) | [Product Management Intern](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004) | Salt Lake City, UT | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | [MANN+HUMMEL](generated/companies/mann-hummel.md) | [Product Management & Market Intelligence Intern](https://careers.mann-hummel.com/job/Gastonia-Product-Management-&-Market-Intelligence-Intern-NC-28054/1453138533/?ats=successfactors) | Gastonia, NC | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [Medline](generated/companies/medline.md) | [MBA Intern - Product Management](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/MBA-Intern--Product-Management---Summer-2027_R2615805) | Chicago, IL +1 | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [Medline](generated/companies/medline.md) | [Product Management Intern - Summer 2027](https://medline.wd5.myworkdayjobs.com/en-US/Medline/job/Northfield-Illinois/Product-Management-Intern---Summer-2027_R2616983) | Chicago, IL +1 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -363,6 +365,7 @@
 - General Motors (2)
 - Invesco (2)
 - Koch Industries (2)
+- Lucid (2)
 - Medline (2)
 - Oshkosh (2)
 - Philips (2)

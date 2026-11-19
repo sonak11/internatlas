@@ -14,6 +14,7 @@
 | Microsoft | [Product Manager Intern](https://go.vansh.nyc/hO) | Cambridge, MA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Product Manager Intern](https://go.vansh.nyc/5Y) | Remote | Remote | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Research Intern - Frontier Tuning](https://apply.careers.microsoft.com/careers/job/1970393557075074) | Boston, MA +6 | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
+| Microsoft | [Research Intern, Computer Vision and Deep Learning](https://go.vansh.nyc/1Cv) | Redmond, WA | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Research Intern, Firmware Security](https://go.vansh.nyc/1BR) | Redmond, WA | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Security Assurance Intern](https://go.vansh.nyc/15H) | Redmond, WA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Security Research Intern](https://go.vansh.nyc/eB) | Redmond, WA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |

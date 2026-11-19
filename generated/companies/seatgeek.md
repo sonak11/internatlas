@@ -6,9 +6,9 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| SeatGeek | [Data Analyst - Internship](https://go.vansh.nyc/1tO) | New York, NY | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
-| SeatGeek | [Data Analyst Intern](https://seatgeek.com/jobs/8247554?gh_jid=8247554) | NYC | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | SeatGeek | [Software Engineer Intern](https://go.vansh.nyc/1p0) | New York, NY | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
+| SeatGeek | [Data Analyst - Internship](https://go.vansh.nyc/1tO) | New York, NY | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
+| SeatGeek | [Data Analyst Intern](https://seatgeek.com/jobs/8247554?gh_jid=8247554) | NYC | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
 | SeatGeek | [Security Engineer Intern](https://go.vansh.nyc/1oZ) | New York, NY | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

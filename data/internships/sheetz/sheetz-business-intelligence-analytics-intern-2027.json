@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "rtx-software-engineering-intern-2027-2f7303",
+  "id": "sheetz-business-intelligence-analytics-intern-2027",
   "company": {
-    "name": "RTX",
-    "slug": "rtx"
+    "name": "Sheetz",
+    "slug": "sheetz"
   },
-  "role": "Software Engineering Intern",
+  "role": "Business Intelligence Analytics Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1A3",
+  "apply_url": "https://jobs.sheetz.com/jobs/86015?icims=1&lang=en-us",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "El Segundo",
-      "state": "CA",
+      "city": "Pittsburgh",
+      "state": "PA",
       "country": "USA"
     }
   ],
@@ -26,9 +26,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": true,
+    "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-16",
-    "discovered": "2026-11-16",
-    "last_verified": "2026-11-18"
+    "posted": "2026-11-18",
+    "discovered": "2026-11-19",
+    "last_verified": "2026-11-19"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

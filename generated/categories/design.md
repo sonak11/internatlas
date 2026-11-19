@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**271** tracked · **129** open now
+**272** tracked · **130** open now
 
 ## Current openings
 
@@ -75,6 +75,7 @@
 | [Micron Technology](generated/companies/micron-technology.md) | [HBM Design Engineer Intern - HBM](https://go.vansh.nyc/bW) | Richardson, TX | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [HBM Memory Design Engineer Intern](https://go.vansh.nyc/Ev) | Richardson, TX | Onsite | 2026-10-04 | Rolling | 🟢 Open | ❔ |
 | [Motorola](generated/companies/motorola.md) | [Electrical Engineer / PCB Designer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer---PCB-Designer-Intern---Summer-2027_R69679) | Plantation, FL | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
+| [Motorola Solutions](generated/companies/motorola-solutions.md) | [RFIC Design Engineer Intern](https://go.vansh.nyc/1Cl) | Plantation, FL +1 | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❌ |
 | [Neuralink](generated/companies/neuralink.md) | [Analog and Mixed-Signal IC Design Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003) | South San Francisco | Onsite | 2026-02-18 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Digital IC Design Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/7090489003?gh_jid=7090489003) | South San Francisco | Onsite | 2025-10-27 | Rolling | 🟢 Open | ❔ |
 | [Notion](generated/companies/notion.md) | [Product Design Intern (Summer 2027)](https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9) | Remote | Remote | 2026-11-10 | Rolling | 🟢 Open | ❔ |
@@ -342,6 +343,7 @@
 - Lightmatter (1)
 - lowRISC CIC (1)
 - Motorola (1)
+- Motorola Solutions (1)
 - Notion (1)
 - RosaicLabs (1)
 - Samsung Semiconductor (1)

@@ -6,7 +6,6 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Electronic Arts | [AI Engineer Intern, Creative Innovations, Character Pipelines](https://go.vansh.nyc/Jf) | Vancouver | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | Electronic Arts | [Analytics Intern](https://go.vansh.nyc/aR) | Vancouver | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | Electronic Arts | [Anticheat Engineer Intern](https://go.vansh.nyc/1fN) | Austin, TX | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | Electronic Arts | [C++ Software Engineer Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Summer-2027-8-months-UFC/216226) | Vancouver | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
@@ -21,6 +20,7 @@
 | Electronic Arts | [Software Engineer Intern, C++](https://go.vansh.nyc/Gy) | Vancouver | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | Electronic Arts | [Software Engineer Tools Intern](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Tools/216192) | Birmingham | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | Electronic Arts | [AI Enablement Intern](https://jobs.ea.com/en_US/careers/JobDetail/AI-Enablement-Intern-Summer-2027/216185) | Austin, TX | Onsite | 2026-09-30 | Rolling | 🔴 Closed | ❔ |
+| Electronic Arts | [AI Engineer Intern, Creative Innovations, Character Pipelines](https://go.vansh.nyc/Jf) | Vancouver | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | Electronic Arts | [AI/ML Software Engineer Co-op Intern](https://jobs.ea.com/en_US/careers/JobDetail/AI-ML-Software-Engineer-Intern-Summer-2027-8-Months-Masters-QVS/216234) | Vancouver | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
 | Electronic Arts | [Analytics Intern](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216232) | Vancouver | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
 | Electronic Arts | [Analytics Intern](https://jobs.ea.com/en_US/careers/JobDetail/Analytics-Intern/216252) | Orlando, FL | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |

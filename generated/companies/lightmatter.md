@@ -12,6 +12,7 @@
 | Lightmatter | [Laser Firmware Intern](https://boards.greenhouse.io/lightmatter/jobs/5479596008) | Boston, MA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | Lightmatter | [Optical Packaging Integration Intern](https://boards.greenhouse.io/lightmatter/jobs/5478834008) | Mountain View, CA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | Lightmatter | [Package Layout Automation Intern](https://boards.greenhouse.io/lightmatter/jobs/5473740008) | Mountain View, CA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
+| Lightmatter | [Photonics Circuit Simulation Intern](https://boards.greenhouse.io/lightmatter/jobs/5479849008) | Mountain View, CA | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | Lightmatter | [Photonics Layout Intern](https://boards.greenhouse.io/lightmatter/jobs/5479611008) | Boston, MA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | Lightmatter | [Physical Design Intern](https://boards.greenhouse.io/lightmatter/jobs/5481668008) | Boston, MA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | Lightmatter | [Product & Test Engineering Intern](https://boards.greenhouse.io/lightmatter/jobs/5474690008) | Mountain View, CA | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**230** tracked · **105** open now
+**230** tracked · **103** open now
 
 ## Current openings
 
@@ -23,8 +23,6 @@
 | [Auto-Owners Insurance](generated/companies/auto-owners-insurance.md) | [Data Engineering Intern - Summer 2027](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318) | Lansing, MI | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Cambridge Investment Research](generated/companies/cambridge-investment-research.md) | [Data Engineering Intern](https://go.vansh.nyc/1cj) | Phoenix, AZ +1 | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Camping World](generated/companies/camping-world.md) | [Data Engineering Intern](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297) | Chicago, IL +1 | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
-| [CapTech Consulting](generated/companies/captech-consulting.md) | [Data Analysis/Data Engineering Intern](https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169) | Richmond, VA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
-| [CapTech Consulting](generated/companies/captech-consulting.md) | [Data Analysis/Data Engineering Intern](https://go.vansh.nyc/BY) | Richmond, VA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [CarGurus](generated/companies/cargurus.md) | [Data Analytics Engineer Intern](https://go.vansh.nyc/1xc) | Boston, MA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Citizens Financial Group](generated/companies/citizens-financial-group.md) | [Data Engineer Intern - Enterprise Technology & Security](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) | Plano, TX +2 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Analytics Engineer Intern](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
@@ -135,6 +133,8 @@
 | [Brookhaven Lab](generated/companies/brookhaven-lab.md) | [Data Engineering Student Assistant Intern](https://go.vansh.nyc/fb) | Upton, NY | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 | [CAI](generated/companies/cai.md) | [Data Engineer Intern](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Data-Engineering-Intern_R8481) | Pennsylvania | Onsite | 2026-09-15 | Rolling | 🔴 Closed | ❔ |
 | [Capital One](generated/companies/capital-one.md) | [Data Analytics Engineering Intern](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Analytics-Engineering---Winter-2027_R999617-1) | Toronto | Onsite | 2026-09-08 | Rolling | 🔴 Closed | ❔ |
+| [CapTech Consulting](generated/companies/captech-consulting.md) | [Data Analysis/Data Engineering Intern](https://jobs.smartrecruiters.com/CapTechConsulting/744000155023169) | Richmond, VA | Onsite | 2026-10-12 | Rolling | 🔴 Closed | ❔ |
+| [CapTech Consulting](generated/companies/captech-consulting.md) | [Data Analysis/Data Engineering Intern](https://go.vansh.nyc/BY) | Richmond, VA | Onsite | 2026-10-12 | Rolling | 🔴 Closed | ❔ |
 | [Castleton Commodities International](generated/companies/castleton-commodities-international.md) | [Data Engineering Intern](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Stamford-CT/Data-Engineering-Internship--Summer-2027-_R1346) | Stamford, CT +2 | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
 | [Charles Schwab](generated/companies/charles-schwab.md) | [Data Engineering Intern - Data Engineering](https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsRedirect=false) | Austin, TX +2 | Onsite | 2026-08-29 | Rolling | 🔴 Closed | ❔ |
 | [CHS](generated/companies/chs.md) | [Data Engineer Intern](https://careers.chsinc.com/job/Inver-Grove-Heights-Data-Engineer-Intern-MN-55077-1721/1443601900/?ats=successfactors) | Inver Grove Heights, MN | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
@@ -262,7 +262,6 @@
 - Astera Labs (2)
 - Atlassian (2)
 - Auto-Owners Insurance (2)
-- CapTech Consulting (2)
 - Entegris (2)
 - IAT Insurance Group (2)
 - ID.me (2)
@@ -283,6 +282,7 @@
 - Alstom (2)
 - American Family Insurance Group (2)
 - Amgen (2)
+- CapTech Consulting (2)
 - Cloudflare (2)
 - Clēnera (2)
 - Connor, Clark & Lunn Financial Group (2)

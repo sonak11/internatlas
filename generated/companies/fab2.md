@@ -16,7 +16,6 @@
 | fab2 | [Fab Software Engineering Intern](https://go.vansh.nyc/1lq) | Austin, TX +1 | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
 | fab2 | [Fab Software Engineering Intern](https://go.vansh.nyc/1lm) | Austin, TX +1 | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | fab2 | [Infrastructure Software Engineering Intern](https://go.vansh.nyc/1lp) | Austin, TX +1 | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
-| fab2 | [Infrastructure Software Engineering Intern](https://go.vansh.nyc/1ll) | Austin, TX +1 | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | fab2 | [Rust Software Engineering Intern, Chip Design Tools](https://go.vansh.nyc/1lo) | Austin, TX +1 | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
 | fab2 | [Rust Software Engineering Intern, Chip Design Tools](https://go.vansh.nyc/1lk) | Austin, TX +1 | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | Fab2 | [Automation Software Engineer Intern](https://jobs.ashbyhq.com/fab2/615feebf-d9e3-4583-9c85-ba16af44e65c/application?embed=true) | SF +1 | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |

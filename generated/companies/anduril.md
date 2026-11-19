@@ -11,6 +11,7 @@
 | Anduril | [2027 Brand Marketing Intern](https://boards.greenhouse.io/andurilindustries/jobs/5261731007?gh_jid=5261731007) | Costa Mesa | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2027 Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) | Ashville | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2027 Business Operations Intern - Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5271826007?gh_jid=5271826007) | Costa Mesa | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| Anduril | [2027 Business Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007) | Costa Mesa | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2027 Deployment Logistics Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255866007?gh_jid=5255866007) | London | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2027 Deployment Operations Intern](https://boards.greenhouse.io/andurilindustries/jobs/5296825007?gh_jid=5296825007) | Quincy | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2027 Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148101007?gh_jid=5148101007) | Atlanta | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
@@ -40,6 +41,7 @@
 | Anduril | [2027 Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) | Boston | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2027 Technical Program Manager Intern](https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007) | Costa Mesa | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Anduril | [Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007) | Ashville, OH +1 | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| Anduril | [Business Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5300647007) | Costa Mesa, CA | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | Anduril | [Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148101007) | Boston, MA +8 | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
 | Anduril | [Firmware Engineer Intern](https://go.vansh.nyc/Cl) | Costa Mesa, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | Anduril | [Firmware Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5265158007) | Costa Mesa, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
