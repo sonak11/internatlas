@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | Leidos | [Cybersecurity Intern](https://go.vansh.nyc/1AO) | Fort Belvoir, VA | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❌ |
 | Leidos | [Network Site Design Intern](https://go.vansh.nyc/ea) | Remote | Remote | 2026-10-21 | Rolling | 🟢 Open | ❔ |
+| Leidos | [Software Developer Intern, AI Project](https://go.vansh.nyc/1CT) | Colorado Springs, CO | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❌ |
 | Leidos | [Systems Integration and Software Engineer Intern](https://go.vansh.nyc/1ns) | Atlantic City, NJ | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | Leidos | [AI/ML Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168) | Huntsville, AL | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 | Leidos | [AI/ML Intern](https://go.vansh.nyc/eQ) | Huntsville, AL | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |

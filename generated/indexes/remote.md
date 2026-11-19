@@ -21,6 +21,7 @@
 | [Brave](generated/companies/brave.md) | [Software Engineer Intern](https://job-boards.greenhouse.io/brave/jobs/8360001) | Remote | Remote | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Clerkie](generated/companies/clerkie.md) | [Software Engineer Intern](http://getfiber.ai/careers?gh_jid=5225258007) | Remote | Remote | 2026-08-29 | Rolling | 🟢 Open | ❔ |
 | [Cotiviti](generated/companies/cotiviti.md) | [Generative AI Research Engineer Intern](https://careers-cotiviti.icims.com/jobs/20183/job?mobile=true&needsRedirect=false) | Remote | Remote | 2026-09-18 | Rolling | 🟢 Open | ❔ |
+| [Crystal Dynamics](generated/companies/crystal-dynamics.md) | [Game Design Intern](https://job-boards.greenhouse.io/crystaldynamics/jobs/4747682005) | Remote | Remote | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Crystal Dynamics](generated/companies/crystal-dynamics.md) | [Gameplay Engineer Intern](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005) | Remote | Remote | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Datacor](generated/companies/datacor.md) | [Data Science Intern - Summer 2027 - Program](https://job-boards.greenhouse.io/datacor/jobs/5242412007) | Remote | Remote | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [DataVisor](generated/companies/datavisor.md) | [Software Engineer Intern](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply) | Remote | Remote | 2026-11-05 | Rolling | 🟢 Open | ❔ |

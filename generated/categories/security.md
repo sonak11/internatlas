@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**268** tracked · **176** open now
+**269** tracked · **176** open now
 
 ## Current openings
 
@@ -140,12 +140,12 @@
 | [Papa John's](generated/companies/papa-john-s.md) | [Cyber Security Intern](https://go.vansh.nyc/W8) | Atlanta, GA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [PayPal](generated/companies/paypal.md) | [Cybersecurity Intern](https://go.vansh.nyc/1iu) | San Jose, CA +3 | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
 | [PennState University](generated/companies/pennstate-university.md) | [Cyber Security Engineer Intern](https://go.vansh.nyc/ON) | University Park, PA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❌ |
-| [Procter & Gamble (P&G)](generated/companies/procter-gamble-p-g.md) | [IT Security Intern](https://go.vansh.nyc/OT) | Cincinnati, OH | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Security Engineering Intern, Product, Systems, Cyber](https://go.vansh.nyc/Rt) | San Diego, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Qube Research and Technologies](generated/companies/qube-research-and-technologies.md) | [Security Engineer Intern](https://go.vansh.nyc/QJ) | New York, NY | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [RegScale](generated/companies/regscale.md) | [Cyber Security Intern](https://go.vansh.nyc/1yP) | USA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Cybersecurity Intern](https://go.vansh.nyc/Hk) | Palo Alto, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❌ |
 | [Rockefeller Capital Management](generated/companies/rockefeller-capital-management.md) | [Analyst Intern, Information Security](https://go.vansh.nyc/1mv) | New York, NY | Onsite | 2026-11-07 | Rolling | 🟢 Open | ❔ |
+| [RTX](generated/companies/rtx.md) | [Software Security Intern](https://go.vansh.nyc/1CS) | Cedar Rapids, IA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❌ |
 | [Salesforce](generated/companies/salesforce.md) | [Software Engineer Intern, Security/Government](https://go.vansh.nyc/bA) | San Francisco, CA +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❌ |
 | [Schonfeld](generated/companies/schonfeld.md) | [Cybersecurity Operations Intern](https://go.vansh.nyc/1Aj) | New York, NY | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | [ServiceNow](generated/companies/servicenow.md) | [Associate Information Security Engineer Intern](https://go.vansh.nyc/1vY) | San Diego, CA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
@@ -248,6 +248,7 @@
 | [Northrop Grumman](generated/companies/northrop-grumman.md) | [Cybersecurity Software Engineering Intern](https://go.vansh.nyc/1gl) | Clearfield, UT | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❌ |
 | [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern - Security and Privacy](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Security-and-Privacy---Fall-2026_JR2010492-1) | Santa Clara, CA | Onsite | 2026-05-14 | Rolling | 🔴 Closed | ❔ |
 | [OpenSesame](generated/companies/opensesame.md) | [Security Analyst Intern](https://go.vansh.nyc/CY) | USA | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
+| [Procter & Gamble (P&G)](generated/companies/procter-gamble-p-g.md) | [IT Security Intern](https://go.vansh.nyc/OT) | Cincinnati, OH | Onsite | 2026-09-30 | Rolling | 🔴 Closed | ❔ |
 | [QTS](generated/companies/qts.md) | [Information Security Operations Analyst Intern](https://go.vansh.nyc/9n) | US GA Atlanta Suwanee 1 DC1 | Onsite | 2026-10-14 | Rolling | 🔴 Closed | ❌ |
 | [Regeneron Pharmaceuticals](generated/companies/regeneron-pharmaceuticals.md) | [IT, Digital Enablement & Information Security Intern](https://go.vansh.nyc/Zk) | Tarrytown, NY +1 | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 | [Robinhood](generated/companies/robinhood.md) | [Offensive Security Intern (Summer 2027)](https://boards.greenhouse.io/robinhood/jobs/8214142?t=gh_src%3D&gh_jid=8214142) | Bellevue, WA | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
@@ -285,10 +286,10 @@
 - Johns Hopkins Applied Physics Laboratory (5)
 - ByteDance (4)
 - Idaho National Laboratory (4)
+- RTX (4)
 - Tesla (4)
 - Adobe (3)
 - Oceaneering (3)
-- RTX (3)
 - Aerospace Corporation (2)
 - American Equity Investment Life Insurance Company (2)
 - Booz Allen (2)
@@ -399,7 +400,6 @@
 - Papa John's (1)
 - PayPal (1)
 - PennState University (1)
-- Procter & Gamble (P&G) (1)
 - Qualcomm (1)
 - Qube Research and Technologies (1)
 - RegScale (1)
@@ -460,6 +460,7 @@
 - Northrop Grumman (1)
 - NVIDIA (1)
 - OpenSesame (1)
+- Procter & Gamble (P&G) (1)
 - QTS (1)
 - Regeneron Pharmaceuticals (1)
 - Rockwell Automation (1)

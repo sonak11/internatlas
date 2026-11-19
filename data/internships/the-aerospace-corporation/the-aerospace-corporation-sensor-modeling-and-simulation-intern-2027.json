@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "entegris-data-engineering-intern-2027-062296",
+  "id": "the-aerospace-corporation-sensor-modeling-and-simulation-intern-2027",
   "company": {
-    "name": "Entegris",
-    "slug": "entegris"
+    "name": "The Aerospace Corporation",
+    "slug": "the-aerospace-corporation"
   },
-  "role": "Data Engineering Intern",
-  "category": "data-engineering",
-  "apply_url": "https://go.vansh.nyc/1xB",
+  "role": "Sensor Modeling and Simulation Intern",
+  "category": "software-engineering",
+  "apply_url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Sensor-Modeling-and-Simulation-Undergrad-Intern_R016876",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Aurora",
-      "state": "IL",
+      "city": "Chantilly",
+      "state": "VA",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-12",
-    "discovered": "2026-11-13",
+    "posted": "2026-10-14",
+    "discovered": "2026-11-19",
     "last_verified": "2026-11-19"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
