@@ -7,14 +7,13 @@
   },
   "role": "Quantitative Strategist Intern",
   "category": "quant",
-  "apply_url": "https://go.vansh.nyc/1Bj",
+  "apply_url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202834003",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "New York",
-      "state": "NY",
+      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -42,11 +41,11 @@
   "dates": {
     "posted": "2026-11-17",
     "discovered": "2026-11-17",
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-20"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

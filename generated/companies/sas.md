@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| SAS | [Cybersecurity Compliance and AI Automation Intern](https://go.vansh.nyc/1Dy) | Cary, NC | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | SAS | [Data Science Research Intern](https://go.vansh.nyc/H0) | Bloomington, MN | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | SAS | [Data Scientist Intern](https://careers-sas.icims.com/jobs/42786/job?mobile=true&needsRedirect=false) | Cary, NC | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | SAS | [Econometrics Intern](https://careers-sas.icims.com/jobs/42755/job?mobile=true&needsRedirect=false) | Cary, NC | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
@@ -21,4 +22,4 @@
 
 ## Related
 
-Browse more roles in: [📊 Data Science](../categories/data-science.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [📊 Data Science](../categories/data-science.md), [💻 Software Engineering](../categories/software-engineering.md)

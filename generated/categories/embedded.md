@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**330** tracked · **179** open now
+**338** tracked · **187** open now
 
 ## Current openings
 
@@ -38,6 +38,7 @@
 | [Aurora Innovation](generated/companies/aurora-innovation.md) | [Embedded Software Engineer Intern, Lidar](https://go.vansh.nyc/1zg) | Bozeman, MT | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Badger Meter](generated/companies/badger-meter.md) | [Firmware Test Engineer Intern](https://go.vansh.nyc/1hi) | Milwaukee, WI | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Base Power](generated/companies/base-power.md) | [Firmware Engineer Intern](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application?embed=true) | Austin, TX | Onsite | 2026-05-27 | Rolling | 🟢 Open | ❔ |
+| [Boston Scientific](generated/companies/boston-scientific.md) | [R&D Firmware Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813547669) | Arden Hills, MN | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [CACI](generated/companies/caci.md) | [Embedded Software Development Intern](https://go.vansh.nyc/1xA) | Denver, CO | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [CACI](generated/companies/caci.md) | [Embedded Software Development Intern](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147) | Westminster, CO | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Castelion](generated/companies/castelion.md) | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/castelioncorporation/jobs/4386047009) | Torrance, CA | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
@@ -81,8 +82,14 @@
 | [Life Fitness](generated/companies/life-fitness.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/GL) | Schaumburg, IL | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Lightmatter](generated/companies/lightmatter.md) | [Laser Firmware Intern](https://go.vansh.nyc/1vf) | Boston, MA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Lightmatter](generated/companies/lightmatter.md) | [Laser Firmware Intern](https://boards.greenhouse.io/lightmatter/jobs/5479596008) | Boston, MA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| [Lucid Motors](generated/companies/lucid-motors.md) | [Embedded Software Intern](https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007) | Newark, CA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
+| [Lucid Motors](generated/companies/lucid-motors.md) | [Embedded Software Intern](https://go.vansh.nyc/1Dv) | Newark, CA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [Lunar Outpost](generated/companies/lunar-outpost.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/Iv) | Golden, CO | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Lunar Outpost](generated/companies/lunar-outpost.md) | [Embedded Software Engineer Intern - Summer 2027](https://lunaroutpost.bamboohr.com/careers/392/) | Golden, CO | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
+| [Lutron](generated/companies/lutron.md) | [Embedded Firmware Engineering Intern](https://go.vansh.nyc/1Dc) | Austin, TX | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
+| [Lutron](generated/companies/lutron.md) | [Embedded Firmware Engineering Intern](https://go.vansh.nyc/1Dd) | Boynton Beach, FL | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
+| [Lutron](generated/companies/lutron.md) | [Embedded Firmware Engineering Intern](https://go.vansh.nyc/1Db) | Boston, MA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
+| [Lutron](generated/companies/lutron.md) | [Embedded Software Engineering Intern](https://go.vansh.nyc/1De) | Cincinnati, OH | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Ottawa-Canada/Firmware-Engineer-Intern---Winter-2027_2604738) | Ottawa | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461) | Santa Clara, CA +1 | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern](https://go.vansh.nyc/Ej) | Ottawa | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
@@ -92,7 +99,6 @@
 | [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern - MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1) | Santa Clara, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [Embedded Software Engineering Intern](https://go.vansh.nyc/XX) | Boise, ID | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [SSD Firmware Intern, CICD](https://go.vansh.nyc/1d7) | Longmont, CO | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
-| [Motorola Solutions](generated/companies/motorola-solutions.md) | [Embedded Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2027-Summer-Embedded-SW-Engineering-Intern_R67741-1) | Schaumburg, IL | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Motorola Solutions](generated/companies/motorola-solutions.md) | [Embedded SW Engineering Intern](https://go.vansh.nyc/1vC) | Schaumburg, IL | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❌ |
 | [Neuralink](generated/companies/neuralink.md) | [Electrical Engineer Intern - Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/7702527003) | Austin, TX +1 | Onsite | 2026-04-16 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Electrical Engineer Intern, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003) | Austin | Onsite | 2026-04-15 | Rolling | 🟢 Open | ❔ |
@@ -127,6 +133,8 @@
 | [Rockwell Automation](generated/companies/rockwell-automation.md) | [Firmware Engineer Intern](https://go.vansh.nyc/gA) | Mequon, WI +1 | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Samsung Semiconductor](generated/companies/samsung-semiconductor.md) | [SSD Firmware Development Intern](https://go.vansh.nyc/1z0) | San Jose, CA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Samsung Semiconductor](generated/companies/samsung-semiconductor.md) | [SSD Firmware Engineer Intern](https://go.vansh.nyc/1Cu) | San Jose, CA | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
+| [Scout Space](generated/companies/scout-space.md) | [Embedded Firmware Engineer Intern](https://job-boards.greenhouse.io/scoutspace/jobs/5489232008) | Reston, VA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
+| [Scout Space](generated/companies/scout-space.md) | [Embedded Firmware Engineering Intern](https://go.vansh.nyc/1CU) | Reston, VA +1 | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❌ |
 | [Seagate Technology](generated/companies/seagate-technology.md) | [Embedded Firmware Intern, Research Group](https://go.vansh.nyc/1zu) | Longmont, CO | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
 | [Seagate Technology](generated/companies/seagate-technology.md) | [Embedded Firmware Intern, Research Group](https://go.vansh.nyc/1zt) | Shakopee, MN | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
 | [Seagate Technology](generated/companies/seagate-technology.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/Ss) | Longmont, CO | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
@@ -206,7 +214,6 @@
 | [Astranis](generated/companies/astranis.md) | [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4601135006) | SF | Onsite | 2025-12-31 | Rolling | 🔴 Closed | ❔ |
 | [Atomic Semi](generated/companies/atomic-semi.md) | [Embedded Software Engineering Intern](https://jobs.ashbyhq.com/AtomicSemi/13e95284-dbcf-4cf2-8151-c9687dfc1889) | San Francisco, CA | Onsite | 2025-08-15 | Rolling | 🔴 Closed | ✅ |
 | [Axon](generated/companies/axon.md) | [Embedded Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003) | Boston, MA +1 | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
-| [Boston Scientific](generated/companies/boston-scientific.md) | [R&D Firmware Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813547667) | Arden Hills, MN | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Embedded Software Developer Intern](https://go.vansh.nyc/CD) | Ottawa | Onsite | 2026-10-15 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Embedded Software Developer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890) | Ottawa | Onsite | 2026-10-15 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Embedded Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232) | Ottawa | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
@@ -263,6 +270,7 @@
 | [Midmark](generated/companies/midmark.md) | [Firmware Engineering Intern/Co-op](https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4333) | Vandalia, OH | Onsite | 2026-02-05 | Rolling | 🔴 Closed | ❔ |
 | [Moog](generated/companies/moog.md) | [Embedded Design Engineering Intern](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053) | Blacksburg, VA | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | [Motorola](generated/companies/motorola.md) | [Embedded Software Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372) | Irvine, CA | Onsite | 2026-07-04 | Rolling | 🔴 Closed | ❔ |
+| [Motorola Solutions](generated/companies/motorola-solutions.md) | [Embedded Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2027-Summer-Embedded-SW-Engineering-Intern_R67741-1) | Schaumburg, IL | Onsite | 2026-11-11 | Rolling | 🔴 Closed | ❔ |
 | [Nokia](generated/companies/nokia.md) | [DSP Firmware Engineer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39237) | Ottawa | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | [Nokia](generated/companies/nokia.md) | [Embedded C/C++ Software Developer Co-op/Intern](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/35268) | Ottawa | Onsite | 2026-05-20 | Rolling | 🔴 Closed | ❔ |
 | [Northrop Grumman](generated/companies/northrop-grumman.md) | [Embedded Software Engineer Intern](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464) | Baltimore, MD | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
@@ -357,6 +365,7 @@
 - Northrop Grumman (5)
 - RTX (5)
 - CesiumAstro (4)
+- Lutron (4)
 - Skydio (4)
 - Zurn Elkay Water Solutions (4)
 - Ciena (4)
@@ -392,11 +401,13 @@
 - Ixana (2)
 - Keysight Technologies (2)
 - Lightmatter (2)
+- Lucid Motors (2)
 - Lunar Outpost (2)
 - Motorola Solutions (2)
 - North Atlantic Industries (2)
 - Odys Aviation (2)
 - Samsung Semiconductor (2)
+- Scout Space (2)
 - Semtech (2)
 - Shure (2)
 - SK hynix (2)
@@ -419,6 +430,7 @@
 - Aurora Innovation (1)
 - Badger Meter (1)
 - Base Power (1)
+- Boston Scientific (1)
 - Heron Power (1)
 - Honeywell Aerospace (1)
 - i3 (1)
@@ -442,7 +454,6 @@
 - Apex Technology, Inc. (1)
 - Atomic Semi (1)
 - Axon (1)
-- Boston Scientific (1)
 - Daktronics (1)
 - Draper (1)
 - E-Space (1)

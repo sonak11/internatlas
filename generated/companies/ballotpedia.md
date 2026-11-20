@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Ballotpedia | [GIS Analyst Intern](https://apply.workable.com/ballotpedia/j/4AF879CDEA/apply) | Remote | Remote | 2026-11-05 | Rolling | 🟢 Open | ❔ |
+| Ballotpedia | [GIS Analyst Intern](https://apply.workable.com/ballotpedia/j/4AF879CDEA/apply) | Remote | Remote | 2026-11-05 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

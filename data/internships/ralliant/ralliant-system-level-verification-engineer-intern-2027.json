@@ -1,20 +1,18 @@
 {
   "schema_version": "1.0",
-  "id": "motorola-fpga-design-engineering-intern-2027-420497",
+  "id": "ralliant-system-level-verification-engineer-intern-2027",
   "company": {
-    "name": "Motorola",
-    "slug": "motorola"
+    "name": "Ralliant",
+    "slug": "ralliant"
   },
-  "role": "FPGA Design Engineering Intern",
-  "category": "hardware",
-  "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/FPGA-Design-Engineering-Intern---Summer-2027_R68401",
+  "role": "System Level Verification Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11168",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Schaumburg",
-      "state": "IL",
       "country": "USA"
     }
   ],
@@ -40,9 +38,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-09",
-    "discovered": "2026-10-26",
-    "last_verified": "2026-11-19"
+    "posted": "2026-11-19",
+    "discovered": "2026-11-20",
+    "last_verified": "2026-11-20"
   },
   "status": "open",
   "tags": [

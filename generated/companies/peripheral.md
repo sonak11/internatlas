@@ -10,6 +10,7 @@
 | Peripheral | [ML Research Intern, Reconstruction](https://go.vansh.nyc/1rl) | Toronto | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Peripheral | [Robotics Engineering Intern, Capture Systems](https://go.vansh.nyc/1rj) | Toronto | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Peripheral | [Software Engineer Intern, Infrastructure](https://go.vansh.nyc/1ri) | Toronto | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| Peripheral | [Software Engineering Intern, Viewer](https://go.vansh.nyc/1CX) | Toronto | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

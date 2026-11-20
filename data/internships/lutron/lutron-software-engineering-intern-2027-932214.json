@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "medpace-clinical-informatics-intern-2027-15a63f",
+  "id": "lutron-software-engineering-intern-2027-932214",
   "company": {
-    "name": "Medpace",
-    "slug": "medpace"
+    "name": "Lutron",
+    "slug": "lutron"
   },
-  "role": "Clinical Informatics Intern",
+  "role": "Software Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.medpace.com/jobs/12988?icims=1",
+  "apply_url": "https://go.vansh.nyc/1Dh",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cincinnati",
-      "state": "OH",
+      "city": "Boston",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -25,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -43,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-08",
-    "discovered": "2026-10-05",
-    "last_verified": "2026-11-19"
+    "posted": "2026-11-19",
+    "discovered": "2026-11-20",
+    "last_verified": "2026-11-20"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

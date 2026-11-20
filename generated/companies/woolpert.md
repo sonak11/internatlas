@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Woolpert | [Aviation Modeling & Simulation Intern](https://job-boards.greenhouse.io/woolpert/jobs/4430700009) | San Rafael, CA +1 | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| Woolpert | [Aviation Modeling & Simulation Intern](https://job-boards.greenhouse.io/woolpert/jobs/4430700009) | San Rafael, CA +1 | Onsite | 2026-11-11 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

@@ -9,6 +9,7 @@
 | Stripe | [Data Analyst Intern](https://go.vansh.nyc/1nJ) | Toronto | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | Stripe | [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291) | New York | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | Stripe | [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287) | Toronto +1 | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+| Stripe | [Financial Data Analyst Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186442) | Singapore | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | Stripe | [High School Internship, Software Engineering (Summer 2027)](https://stripe.com/jobs/search?gh_jid=8241260) | Seattle +2 | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | Stripe | [Integration Reliability Engineer Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186367) | Singapore | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | Stripe | [Machine Learning Engineer Intern](https://stripe.com/jobs/search?gh_jid=8333074) | Seattle, WA +3 | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
@@ -27,7 +28,6 @@
 | Stripe | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8130805) | Toronto +1 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Stripe | [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8128745) | San Francisco +3 | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | Stripe | [Controllership Intern](https://stripe.com/jobs/search?gh_jid=8357739) | Seattle, WA | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
-| Stripe | [Financial Data Analyst Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186442) | Singapore | Onsite | 2026-09-24 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

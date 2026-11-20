@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Renesas Electronics | [Digital Design Engineer Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000162544079) | Duluth, GA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Renesas Electronics | [Power Management Integrated Circuit Analog Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000161574999) | San Jose, CA +2 | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | Renesas Electronics | [Analog Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000153498869) | San Jose, CA +2 | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | Renesas Electronics | [Analog Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000153500409) | San Jose, CA +2 | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |

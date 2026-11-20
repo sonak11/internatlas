@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**229** tracked · **99** open now
+**232** tracked · **102** open now
 
 ## Current openings
 
@@ -51,6 +51,8 @@
 | [Judi Health](generated/companies/judi-health.md) | [Data Engineer Intern](https://go.vansh.nyc/Fw) | New York, NY +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002998) | Chicago | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [LPL Financial Holdings](generated/companies/lpl-financial-holdings.md) | [Data Engineer Intern - Data](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914) | Austin, TX +2 | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
+| [Lutron](generated/companies/lutron.md) | [Data Engineering Intern](https://go.vansh.nyc/1Dm) | Coopersburg, PA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
+| [Lutron](generated/companies/lutron.md) | [Data Engineering Intern](https://go.vansh.nyc/1Dk) | Philadelphia, PA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [Lyft](generated/companies/lyft.md) | [Data Engineer Intern](https://go.vansh.nyc/Ql) | Toronto | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Lyft](generated/companies/lyft.md) | [Data Engineer Intern](https://app.careerpuck.com/job-board/lyft/job/8797376002?gh_jid=8797376002) | Toronto | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Marmon Holdings](generated/companies/marmon-holdings.md) | [Data Engineering Intern Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) | Milwaukee, WI | Onsite | 2026-05-16 | Rolling | 🟢 Open | ❔ |
@@ -72,6 +74,7 @@
 | [Pacific Life](generated/companies/pacific-life.md) | [Data Engineering Intern](https://go.vansh.nyc/JC) | Newport Beach, CA | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Pella](generated/companies/pella.md) | [Data Engineer Intern - Summer 2027](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253304) | Pella, IA +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Picton Mahoney Asset Management](generated/companies/picton-mahoney-asset-management.md) | [Data Engineer Intern](https://go.vansh.nyc/dc) | Toronto | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [Piper Sandler](generated/companies/piper-sandler.md) | [Data Engineering Intern](https://go.vansh.nyc/1D8) | Minneapolis, MN | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [POET](generated/companies/poet.md) | [Data Engineer Intern](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787) | Sioux Falls, SD | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [POET](generated/companies/poet.md) | [Data Engineer Intern](https://go.vansh.nyc/JK) | Sioux Falls, SD | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Raft Company Website](generated/companies/raft-company-website.md) | [Data Engineering Intern](https://go.vansh.nyc/1jU) | McLean, VA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❌ |
@@ -263,6 +266,7 @@
 - Auto-Owners Insurance (2)
 - IAT Insurance Group (2)
 - ID.me (2)
+- Lutron (2)
 - Lyft (2)
 - Marmon Holdings (2)
 - Medpace (2)
@@ -315,6 +319,7 @@
 - NexusOne (1)
 - Pella (1)
 - Picton Mahoney Asset Management (1)
+- Piper Sandler (1)
 - Raft Company Website (1)
 - SemiAnalysis (1)
 - Simon Property Group (1)

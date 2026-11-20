@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "soros-fund-management-quantitative-strategist-intern-2027-cea2ef",
+  "id": "lutron-data-science-and-machine-learning-intern-2027-e927b2",
   "company": {
-    "name": "Soros Fund Management",
-    "slug": "soros-fund-management"
+    "name": "Lutron",
+    "slug": "lutron"
   },
-  "role": "Quantitative Strategist Intern",
-  "category": "quant",
-  "apply_url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202834003",
+  "role": "Data Science and Machine Learning Intern",
+  "category": "machine-learning",
+  "apply_url": "https://go.vansh.nyc/1Dn",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Boston",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-17",
-    "discovered": "2026-11-17",
-    "last_verified": "2026-11-18"
+    "posted": "2026-11-19",
+    "discovered": "2026-11-20",
+    "last_verified": "2026-11-20"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

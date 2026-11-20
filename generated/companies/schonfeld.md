@@ -10,6 +10,7 @@
 | Schonfeld | [Data Science Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) | NYC | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Schonfeld | [DMFI Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8324611) | NYC | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | Schonfeld | [DMFI Intern](https://go.vansh.nyc/Xw) | New York, NY | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
+| Schonfeld | [PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8400915) | London | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Schonfeld | [Platform Engineering Intern](https://go.vansh.nyc/1Aw) | New York, NY | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | Schonfeld | [AI Enablement Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171694) | NYC | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 | Schonfeld | [Business Analytics Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8171703) | NYC | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "uplinq-software-engineer-intern-asu-2027",
+  "company": {
+    "name": "Uplinq",
+    "slug": "uplinq"
+  },
+  "role": "Software Engineer Intern - ASU",
+  "category": "software-engineering",
+  "apply_url": "https://ats.rippling.com/uplinq/jobs/db54b553-b172-4569-ac5f-933a5f8a8d8c",
+  "season": "winter",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Scottsdale",
+      "state": "AZ",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-19",
+    "discovered": "2026-11-20",
+    "last_verified": "2026-11-20"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

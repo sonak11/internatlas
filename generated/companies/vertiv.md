@@ -6,6 +6,9 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Vertiv | [AI Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621) | Westerville, OH +2 | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
+| Vertiv | [AI Intern](https://go.vansh.nyc/1DF) | Westerville, OH +2 | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
+| Vertiv | [AI Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286620) | Westerville, OH +2 | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Vertiv | [Business Analytics Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278794) | Westerville, OH | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | Vertiv | [Data Analytics Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278852) | Delaware, OH | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | Vertiv | [Data and Analytics Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20280588) | Westerville, OH | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
@@ -48,4 +51,4 @@
 
 ## Related
 
-Browse more roles in: [🎨 Design](../categories/design.md), [⚙️ Embedded](../categories/embedded.md), [🧭 Product](../categories/product.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🎨 Design](../categories/design.md), [⚙️ Embedded](../categories/embedded.md), [🧭 Product](../categories/product.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)

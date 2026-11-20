@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| SurePoint Ag Systems | [Drone Imaging Agronomy Intern](https://surepoint.bamboohr.com/careers/109/) | Manhattan, KS | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
+| SurePoint Ag Systems | [Drone Imaging Agronomy Intern](https://surepoint.bamboohr.com/careers/109/) | Manhattan, KS | Onsite | 2026-11-17 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

@@ -6,6 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Publicis Groupe | [Identity Analytics Intern](https://publicisgroupe.jibeapply.com/jobs/182970?icims=1&lang=en-us) | Chicago, IL | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
+| Publicis Groupe | [Identity Analytics Intern](https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us) | Chicago, IL | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Publicis Groupe | [PhD Data Science Intern](https://publicisgroupe.jibeapply.com/jobs/182898?icims=1&lang=en-us) | Boston, MA +4 | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | Publicis Groupe | [PhD Data Science Intern](https://careers.publicisgroupe.com/jobs/182898?icims=1&lang=en-us) | Boston, MA +4 | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | Publicis Groupe | [PhD Data Visualization Intern](https://publicisgroupe.jibeapply.com/jobs/182963?icims=1&lang=en-us) | Boston, MA +4 | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**269** tracked · **176** open now
+**270** tracked · **178** open now
 
 ## Current openings
 
@@ -151,6 +151,8 @@
 | [ServiceNow](generated/companies/servicenow.md) | [Associate Information Security Engineer Intern](https://go.vansh.nyc/1vY) | San Diego, CA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [ServiceNow](generated/companies/servicenow.md) | [Associate Security Engineering & Automation Intern](https://go.vansh.nyc/1vX) | Santa Clara, CA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [SimVentions](generated/companies/simventions.md) | [Cybersecurity Intern](https://go.vansh.nyc/1uu) | Fredericksburg, VA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| [Snowflake](generated/companies/snowflake.md) | [Software Engineer Intern - Core - Infrastructure & Security](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true) | Menlo Park, CA +1 | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
+| [Snowflake](generated/companies/snowflake.md) | [Software Engineer Intern, Core Infrastructure & Security](https://go.vansh.nyc/1Dq) | Menlo Park, CA +1 | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [State of Wisconsin Investment Board](generated/companies/state-of-wisconsin-investment-board.md) | [Information Security Intern](https://go.vansh.nyc/1C9) | Madison, WI | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | [State Street](generated/companies/state-street.md) | [Cyber Security Operations Center Analyst Intern](https://go.vansh.nyc/1yy) | Quincy, MA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Steel Dynamics](generated/companies/steel-dynamics.md) | [Information Security Intern](https://go.vansh.nyc/1pP) | Fort Wayne, IN | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
@@ -260,7 +262,6 @@
 | [SeatGeek](generated/companies/seatgeek.md) | [Security Engineer Intern](https://go.vansh.nyc/1oZ) | New York, NY | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 | [Seattle Seahawks / First & Goal](generated/companies/seattle-seahawks-first-goal.md) | [Information Security Intern](https://go.vansh.nyc/193) | Renton, WA | Onsite | 2026-10-31 | Rolling | 🔴 Closed | ❔ |
 | [Sierra Nevada Corporation](generated/companies/sierra-nevada-corporation.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/VQ) | Sparks, NV | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❌ |
-| [Snowflake](generated/companies/snowflake.md) | [Software Engineer Intern - Core, Infrastructure & Security](https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69/application?embed=true) | Menlo Park, CA +1 | Onsite | 2026-09-25 | Rolling | 🔴 Closed | ❔ |
 | [Stifel](generated/companies/stifel.md) | [Information Security Intern](https://go.vansh.nyc/D7) | Saint Louis, MO | Onsite | 2026-10-21 | Rolling | 🔴 Closed | ❔ |
 | [SWBC](generated/companies/swbc.md) | [Application Security Intern](https://go.vansh.nyc/1cK) | San Antonio, TX | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | [T-Mobile](generated/companies/t-mobile.md) | [Software Engineer Intern, Cloud Security](https://go.vansh.nyc/dw) | Atlanta, GA +1 | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
@@ -306,6 +307,7 @@
 - Marvell (2)
 - Nintendo (2)
 - ServiceNow (2)
+- Snowflake (2)
 - The Federal Reserve System (2)
 - TikTok (2)
 - TMX Group (2)
@@ -467,7 +469,6 @@
 - SeatGeek (1)
 - Seattle Seahawks / First & Goal (1)
 - Sierra Nevada Corporation (1)
-- Snowflake (1)
 - Stifel (1)
 - SWBC (1)
 - T-Mobile (1)
