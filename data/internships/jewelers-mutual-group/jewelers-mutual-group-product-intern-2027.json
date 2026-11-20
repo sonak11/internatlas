@@ -1,25 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-bs-ms-scenes-2027",
+  "id": "jewelers-mutual-group-product-intern-2027",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "Jewelers Mutual Group",
+    "slug": "jewelers-mutual-group"
   },
-  "role": "2027 Summer Intern, BS/MS, Scenes",
+  "role": "Product Intern",
   "category": "software-engineering",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8210170",
+  "apply_url": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=73e636fd-4bf6-45be-9b83-3f5d3a9315ea",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mountain View",
-      "country": "USA"
-    },
-    {
-      "city": "Mountain View",
-      "state": "CA",
+      "city": "Neenah",
+      "state": "WI",
       "country": "USA"
     }
   ],
@@ -45,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-17",
-    "discovered": "2026-09-17",
+    "posted": "2026-11-20",
+    "discovered": "2026-11-20",
     "last_verified": "2026-11-20"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

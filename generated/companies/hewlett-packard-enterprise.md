@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Hewlett Packard Enterprise | [AI & HPC Performance Engineering Intern](https://go.vansh.nyc/CG) | Spring, TX | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
+| Hewlett Packard Enterprise | [AI Engineering Technical Intern](https://go.vansh.nyc/1ER) | Sunnyvale, CA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [AI/ML Developer Intern](https://go.vansh.nyc/BM) | San Jose, CA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [ASIC Design Engineer Intern](https://go.vansh.nyc/FM) | Sunnyvale, CA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [ASIC Engineer Intern](https://go.vansh.nyc/Gm) | Sunnyvale, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |

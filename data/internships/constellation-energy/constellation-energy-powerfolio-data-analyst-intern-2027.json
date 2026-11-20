@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "intercontinental-exchange-data-science-intern-2027-5363bd",
+  "id": "constellation-energy-powerfolio-data-analyst-intern-2027",
   "company": {
-    "name": "Intercontinental Exchange",
-    "slug": "intercontinental-exchange"
+    "name": "Constellation Energy",
+    "slug": "constellation-energy"
   },
-  "role": "Data Science Intern",
-  "category": "data-science",
-  "apply_url": "https://ice.jibeapply.com/jobs/14113?icims=1",
+  "role": "Powerfolio Data Analyst Intern",
+  "category": "software-engineering",
+  "apply_url": "https://jobs.constellationenergy.com/jobs/143909?icims=1&lang=en-us",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "NYC",
+      "city": "Houston",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -39,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-23",
-    "discovered": "2026-11-01",
+    "posted": "2026-11-20",
+    "discovered": "2026-11-20",
     "last_verified": "2026-11-20"
   },
   "status": "open",

@@ -10,11 +10,11 @@
 | DocuSign | [Security Intern](https://go.vansh.nyc/D2) | San Francisco, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❌ |
 | DocuSign | [Software Engineer Intern](https://go.vansh.nyc/Gw) | Chicago, IL | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | DocuSign | [Software Engineer Intern](https://go.vansh.nyc/FX) | Seattle, WA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
-| DocuSign | [Software Engineer Intern, Self-Service Directory Diagnostics](https://go.vansh.nyc/Ex) | Seattle, WA | Onsite | 2026-10-04 | Rolling | 🟢 Open | ❔ |
-| DocuSign | [Software Engineering Intern, Self-Service Directory Diagnostics](https://go.vansh.nyc/1kf) | Seattle, WA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❌ |
 | DocuSign | [Agentic AI Engineer Intern](https://go.vansh.nyc/BS) | San Francisco, CA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❌ |
 | DocuSign | [AI Platform Engineer Intern](https://go.vansh.nyc/BR) | San Francisco, CA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❌ |
 | DocuSign | [Software Developer Intern](https://go.vansh.nyc/BU) | San Francisco, CA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❌ |
+| DocuSign | [Software Engineer Intern, Self-Service Directory Diagnostics](https://go.vansh.nyc/Ex) | Seattle, WA | Onsite | 2026-10-04 | Rolling | 🔴 Closed | ❔ |
+| DocuSign | [Software Engineering Intern, Self-Service Directory Diagnostics](https://go.vansh.nyc/1kf) | Seattle, WA | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❌ |
 
 ## Related
 

@@ -1,19 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "tiktok-machine-learning-engineer-intern-app-ads-and-gaming-2027-fd0565",
+  "id": "gusto-insights-intern-2027",
   "company": {
-    "name": "TikTok",
-    "slug": "tiktok"
+    "name": "Gusto",
+    "slug": "gusto"
   },
-  "role": "Machine Learning Engineer Intern - App Ads and Gaming",
-  "category": "machine-learning",
-  "apply_url": "https://lifeattiktok.com/search/7669709472078170373",
+  "role": "Insights Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1EO",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
+      "city": "San Francisco",
       "state": "CA",
       "country": "USA"
     }
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-04",
-    "discovered": "2026-11-01",
+    "posted": "2026-11-20",
+    "discovered": "2026-11-20",
     "last_verified": "2026-11-20"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

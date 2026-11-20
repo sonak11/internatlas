@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "id": "ulteig-gis-intern-2027",
+  "company": {
+    "name": "Ulteig",
+    "slug": "ulteig"
+  },
+  "role": "GIS Intern",
+  "category": "software-engineering",
+  "apply_url": "https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Minneapolis",
+      "state": "MN",
+      "country": "USA"
+    },
+    {
+      "city": "Greenwood Village",
+      "state": "CO",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-20",
+    "discovered": "2026-11-20",
+    "last_verified": "2026-11-20"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify",
+    "remote-available"
+  ]
+}

@@ -7,14 +7,19 @@
   },
   "role": "Software Engineering Intern - Multiple Teams",
   "category": "software-engineering",
-  "apply_url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631",
+  "apply_url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Fort Wayne",
-      "state": "IN",
+      "city": "Fremont",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],

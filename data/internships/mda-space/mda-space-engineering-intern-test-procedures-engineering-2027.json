@@ -1,26 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-phd-perception-road-understanding-ml-engi-2027",
+  "id": "mda-space-engineering-intern-test-procedures-engineering-2027",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "MDA Space",
+    "slug": "mda-space"
   },
-  "role": "2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer",
-  "category": "machine-learning",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
-  "season": "summer",
+  "role": "Engineering Intern - Test Procedures Engineering",
+  "category": "software-engineering",
+  "apply_url": "https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=5316ccee-7798-45ab-ab44-613a112b3126",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Mountain View",
-      "country": "USA"
-    },
-    {
-      "city": "Mountain View",
-      "state": "CA",
-      "country": "USA"
+      "city": "Sainte-Anne-de-Bellevue",
+      "country": "QC"
     }
   ],
   "compensation": {
@@ -30,10 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -48,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-23",
-    "discovered": "2026-10-05",
+    "posted": "2026-11-20",
+    "discovered": "2026-11-20",
     "last_verified": "2026-11-20"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

@@ -1,24 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "waymo-2027-summer-intern-ms-phd-perception-systems-engineering-ped-2027",
+  "id": "ptc-full-stack-engineering-intern-cloud-data-management-cad-2027",
   "company": {
-    "name": "Waymo",
-    "slug": "waymo",
-    "career_page": "https://waymo.com/careers"
+    "name": "PTC",
+    "slug": "ptc"
   },
-  "role": "2027 Summer Intern, MS/PhD, Perception Systems Engineering: Pedestrian Detection Precision",
-  "category": "software-engineering",
-  "apply_url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
+  "role": "Full-Stack Engineering Intern, Cloud Data Management (CAD)",
+  "category": "cloud",
+  "apply_url": "https://go.vansh.nyc/1EX",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "country": "USA"
-    },
-    {
-      "city": "SF",
+      "city": "Boston",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -29,10 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -47,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-28",
-    "discovered": "2026-11-05",
+    "posted": "2026-11-19",
+    "discovered": "2026-11-20",
     "last_verified": "2026-11-20"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

@@ -1,25 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "stryker-software-engineering-intern-multiple-teams-2027-0d8ec4",
+  "id": "gci-software-developer-intern-2027",
   "company": {
-    "name": "Stryker",
-    "slug": "stryker"
+    "name": "GCI",
+    "slug": "gci"
   },
-  "role": "Software Engineering Intern - Multiple Teams",
+  "role": "Software Developer Intern",
   "category": "software-engineering",
-  "apply_url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624",
+  "apply_url": "https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=561ce011-a9e5-4635-b991-2c8abd3d88bf",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Fremont",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "San Jose",
-      "state": "CA",
+      "city": "Virginia",
       "country": "USA"
     }
   ],
@@ -30,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -47,8 +39,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-31",
-    "discovered": "2026-08-31",
+    "posted": "2026-11-20",
+    "discovered": "2026-11-20",
     "last_verified": "2026-11-20"
   },
   "status": "open",

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**273** tracked · **179** open now
+**275** tracked · **180** open now
 
 ## Current openings
 
@@ -40,6 +40,7 @@
 | [C.H. Robinson](generated/companies/c-h-robinson.md) | [Cyber Security Intern](https://go.vansh.nyc/gV) | Eden Prairie, MN | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [CACI](generated/companies/caci.md) | [Cybersecurity Intern](https://go.vansh.nyc/1Cd) | USA +1 | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | [CAE](generated/companies/cae.md) | [Cybersecurity Integration Specialist Intern](https://go.vansh.nyc/SA) | Montreal | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
+| [Caesars Entertainment](generated/companies/caesars-entertainment.md) | [IAM Cybersecurity Intern](https://go.vansh.nyc/1ES) | Las Vegas, NV | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Carnegie Mellon University](generated/companies/carnegie-mellon-university.md) | [Cybersecurity Engineer Intern](https://go.vansh.nyc/1yU) | Pittsburgh, PA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern - Security](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926) | Atlanta, GA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern, Security](https://go.vansh.nyc/cp) | Atlanta, GA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
@@ -57,6 +58,7 @@
 | [EHC](generated/companies/ehc.md) | [IT Security Intern](https://go.vansh.nyc/JW) | Birmingham, AL | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
 | [EMC Insurance](generated/companies/emc-insurance.md) | [Cybersecurity Intern](https://go.vansh.nyc/1ei) | USA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Encore Global](generated/companies/encore-global.md) | [IT Security Intern](https://go.vansh.nyc/1xr) | Coppell, TX | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| [EP Wealth Advisors](generated/companies/ep-wealth-advisors.md) | [Cybersecurity Intern](https://go.vansh.nyc/1F5) | Torrance, CA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Ericsson](generated/companies/ericsson.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/Vu) | Plano, TX | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
 | [FHLBank Chicago](generated/companies/fhlbank-chicago.md) | [Cybersecurity Intern](https://go.vansh.nyc/1cN) | Chicago, IL | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Figma](generated/companies/figma.md) | [PhD Intern, Security Engineer (2027)](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) | San Francisco | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
@@ -65,7 +67,6 @@
 | [Fiserv](generated/companies/fiserv.md) | [Technology Intern, Cybersecurity](https://go.vansh.nyc/1AS) | Berkeley Heights, NJ | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | [Garmin](generated/companies/garmin.md) | [Cyber Security Engineer Intern](https://go.vansh.nyc/R5) | Olathe, KS | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [GCM Grosvenor](generated/companies/gcm-grosvenor.md) | [Cybersecurity Intern](https://go.vansh.nyc/10U) | Chicago, IL | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
-| [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [Cybersecurity Associate Intern](https://go.vansh.nyc/1hR) | Bossier City, LA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
 | [General Dynamics Mission Systems, Inc.](generated/companies/general-dynamics-mission-systems-inc.md) | [Systems Intern, Cybersecurity and Linux Administration](https://go.vansh.nyc/1rI) | San Antonio, TX | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❌ |
 | [General Matter](generated/companies/general-matter.md) | [Information Security Engineer Intern](https://go.vansh.nyc/9J) | Los Angeles, CA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [Global Payments](generated/companies/global-payments.md) | [CyberSecurity Intern](https://go.vansh.nyc/1s5) | Columbus, GA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❌ |
@@ -217,6 +218,7 @@
 | [Expedia Group](generated/companies/expedia-group.md) | [Security Engineering Intern](https://go.vansh.nyc/8C) | Seattle, WA | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
 | [Express](generated/companies/express.md) | [Information Security Intern](https://go.vansh.nyc/CT) | Columbus, OH | Onsite | 2024-10-24 | Rolling | 🔴 Closed | ❌ |
 | [Galaxy](generated/companies/galaxy.md) | [Cybersecurity Intern](https://go.vansh.nyc/VT) | USA | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
+| [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [Cybersecurity Associate Intern](https://go.vansh.nyc/1hR) | Bossier City, LA | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❌ |
 | [General Dynamics Mission Systems](generated/companies/general-dynamics-mission-systems.md) | [Cybersecurity Software Engineer Intern](https://careers-gdms.icims.com/jobs/74257/job?mobile=true&needsRedirect=false) | Manassas, VA | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
 | [GeoComply](generated/companies/geocomply.md) | [Browser Security Engineer Intern](https://go.vansh.nyc/QA) | Vancouver | Onsite | 2026-07-09 | Rolling | 🔴 Closed | ❔ |
 | [Guardian Life](generated/companies/guardian-life.md) | [Cybersecurity Intern, Digital & Technology](https://go.vansh.nyc/1cZ) | New York, NY +2 | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
@@ -339,6 +341,7 @@
 - Bread Financial (1)
 - C.H. Robinson (1)
 - CAE (1)
+- Caesars Entertainment (1)
 - Carnegie Mellon University (1)
 - Citizens Energy Group (1)
 - CNA Insurance (1)
@@ -352,13 +355,13 @@
 - EHC (1)
 - EMC Insurance (1)
 - Encore Global (1)
+- EP Wealth Advisors (1)
 - Ericsson (1)
 - FHLBank Chicago (1)
 - Figma (1)
 - Filevine (1)
 - Garmin (1)
 - GCM Grosvenor (1)
-- General Dynamics Information Technology (1)
 - General Dynamics Mission Systems, Inc. (1)
 - General Matter (1)
 - Global Payments (1)
@@ -451,6 +454,7 @@
 - Expedia Group (1)
 - Express (1)
 - Galaxy (1)
+- General Dynamics Information Technology (1)
 - General Dynamics Mission Systems (1)
 - GeoComply (1)
 - Guardian Life (1)

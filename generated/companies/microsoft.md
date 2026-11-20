@@ -15,6 +15,7 @@
 | Microsoft | [Product Manager Intern](https://go.vansh.nyc/5Y) | Remote | Remote | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Research Intern - Deep Learning Group](https://apply.careers.microsoft.com/careers/job/1970393557076095) | Redmond, WA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Research Intern - Frontier Tuning](https://apply.careers.microsoft.com/careers/job/1970393557075074) | Boston, MA +6 | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
+| Microsoft | [Research Intern - Quantum Applications](https://apply.careers.microsoft.com/careers/job/1970393557076525) | Redmond, WA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Research Intern, AI/Machine Learning Numerics & Efficiency](https://go.vansh.nyc/1Dx) | Redmond, WA +1 | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Research Intern, Computer Vision and Deep Learning](https://go.vansh.nyc/1Cv) | Redmond, WA | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | Microsoft | [Research Intern, Firmware Security](https://go.vansh.nyc/1BR) | Redmond, WA | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
@@ -58,4 +59,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [☁️ Cloud](../categories/cloud.md), [📊 Data Science](../categories/data-science.md), [⚙️ Embedded](../categories/embedded.md), [🔩 Hardware](../categories/hardware.md), [🧠 Machine Learning](../categories/machine-learning.md), [🧭 Product](../categories/product.md), [🔬 Research](../categories/research.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [☁️ Cloud](../categories/cloud.md), [📊 Data Science](../categories/data-science.md), [⚙️ Embedded](../categories/embedded.md), [🔩 Hardware](../categories/hardware.md), [🧠 Machine Learning](../categories/machine-learning.md), [🧭 Product](../categories/product.md), [📈 Quant](../categories/quant.md), [🔬 Research](../categories/research.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

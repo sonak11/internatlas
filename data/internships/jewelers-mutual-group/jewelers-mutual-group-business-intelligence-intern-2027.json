@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "ryan-application-development-intern-2027-9d3409",
+  "id": "jewelers-mutual-group-business-intelligence-intern-2027",
   "company": {
-    "name": "Ryan",
-    "slug": "ryan"
+    "name": "Jewelers Mutual Group",
+    "slug": "jewelers-mutual-group"
   },
-  "role": "Application Development Intern",
+  "role": "Business Intelligence Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/CO",
+  "apply_url": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=58e2b100-19b0-4b86-9204-6e04fc06943f",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Plano",
-      "state": "TX",
+      "city": "Neenah",
+      "state": "WI",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-16",
-    "discovered": "2026-11-09",
+    "posted": "2026-11-20",
+    "discovered": "2026-11-20",
     "last_verified": "2026-11-20"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }
