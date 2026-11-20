@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**324** tracked · **170** open now
+**326** tracked · **172** open now
 
 ## Current openings
 
@@ -128,6 +128,8 @@
 | [Saviynt](generated/companies/saviynt.md) | [Research Scientist Intern](https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7/apply) | Milpitas, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Shure](generated/companies/shure.md) | [Applied Research Science Intern](https://careersus-shure.icims.com/jobs/4967/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | [Shure](generated/companies/shure.md) | [Audio Applied Research Science Intern](https://careersus-shure.icims.com/jobs/4968/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| [Smule](generated/companies/smule.md) | [Applied Research Scientist Intern](https://go.vansh.nyc/1Em) | Salt Lake City, UT | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
+| [Smule](generated/companies/smule.md) | [Research Engineer Intern](https://go.vansh.nyc/1Eo) | Salt Lake City, UT | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Snap](generated/companies/snap.md) | [Generative Media Research Intern](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2027-Generative-Media-Researc_R0047179) | LA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Snap](generated/companies/snap.md) | [Generative Media Research Intern](https://go.vansh.nyc/9o) | Los Angeles, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [StackAV](generated/companies/stackav.md) | [Research Intern - Autonomy](https://job-boards.greenhouse.io/stackav/jobs/5287594007) | Pittsburgh, PA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
@@ -373,6 +375,7 @@
 - Peraton (2)
 - Salesforce (2)
 - Shure (2)
+- Smule (2)
 - The Allen Institute for AI (2)
 - Two Six Technologies (2)
 - AMD (2)

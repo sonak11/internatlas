@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "verkada-sales-development-representative-internship-2027-001963",
+  "id": "airbnb-partnerships-enablement-intern-2027",
   "company": {
-    "name": "Verkada",
-    "slug": "verkada",
-    "career_page": "https://www.verkada.com/careers"
+    "name": "Airbnb",
+    "slug": "airbnb",
+    "career_page": "https://careers.airbnb.com/"
   },
-  "role": "Sales Development Representative, Internship",
+  "role": "Partnerships Enablement Intern",
   "category": "software-engineering",
-  "apply_url": "https://job-boards.greenhouse.io/verkada/jobs/4995135007",
+  "apply_url": "https://careers.airbnb.com/positions/8406333?gh_jid=8406333",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Austin",
+      "city": "Paris",
       "country": "USA"
     }
   ],
@@ -40,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-02",
-    "discovered": "2026-11-03",
+    "posted": "2026-11-20",
+    "discovered": "2026-11-20",
     "last_verified": "2026-11-20"
   },
   "status": "open",

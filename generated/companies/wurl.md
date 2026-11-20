@@ -6,8 +6,9 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Wurl | [Data Engineering Intern](https://go.vansh.nyc/1Ep) | USA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | Wurl | [Data Science Intern](https://go.vansh.nyc/13z) | USA | Onsite | 2026-10-31 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
-Browse more roles in: [📊 Data Science](../categories/data-science.md)
+Browse more roles in: [🛠 Data Engineering](../categories/data-engineering.md), [📊 Data Science](../categories/data-science.md)

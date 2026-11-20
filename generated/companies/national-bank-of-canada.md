@@ -6,8 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| National Bank of Canada | [Artificial Intelligence Developer Intern](https://go.vansh.nyc/Cr) | Canada | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
-| National Bank of Canada | [Artificial Intelligence Scientist Intern](https://go.vansh.nyc/Cs) | Canada | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| National Bank of Canada | [Artificial Intelligence Developer Intern](https://go.vansh.nyc/Cr) | Canada | Onsite | 2026-10-14 | Rolling | 🔴 Closed | ❔ |
+| National Bank of Canada | [Artificial Intelligence Scientist Intern](https://go.vansh.nyc/Cs) | Canada | Onsite | 2026-10-14 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
