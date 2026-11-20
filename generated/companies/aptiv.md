@@ -26,8 +26,8 @@
 | Aptiv | [Linux Software Development Intern](https://go.vansh.nyc/1nz) | San Antonio, TX | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | Aptiv | [Software Development Intern](https://go.vansh.nyc/eh) | Troy, MI | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | Aptiv | [Software Engineer Intern](https://go.vansh.nyc/Gf) | Walnut Creek, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
-| Aptiv | [Software Engineering Intern](https://go.vansh.nyc/8u) | CAN Kanata | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | Aptiv | [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242) | Kanata | Onsite | 2026-07-30 | Rolling | 🔴 Closed | ❔ |
+| Aptiv | [Software Engineering Intern](https://go.vansh.nyc/8u) | CAN Kanata | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

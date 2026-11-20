@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "gm-financial-software-development-engineer-intern-2027-3eadac",
+  "id": "lucid-motors-software-qa-engineer-intern-infotainment-2027",
   "company": {
-    "name": "GM Financial",
-    "slug": "gm-financial"
+    "name": "Lucid Motors",
+    "slug": "lucid-motors"
   },
-  "role": "Software Development Engineer Intern",
+  "role": "Software QA Engineer Intern, Infotainment",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1kZ",
+  "apply_url": "https://go.vansh.nyc/1DK",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Arlington",
-      "state": "TX",
+      "city": "Newark",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,7 +40,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-06",
+    "posted": "2026-11-20",
     "discovered": "2026-11-20",
     "last_verified": "2026-11-20"
   },
