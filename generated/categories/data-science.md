@@ -2,13 +2,14 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**446** tracked · **215** open now
+**448** tracked · **216** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | [AARP](generated/companies/aarp.md) | [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) | Washington, DC | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
+| [Acuity Insurance](generated/companies/acuity-insurance.md) | [Data Analytics Intern - Data Science](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7) | Sheboygan, WI | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
 | [Allstate](generated/companies/allstate.md) | [Data Science Intern - Core Telematics](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285) | Illinois | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Allstate](generated/companies/allstate.md) | [Data Science Intern, Core Telematics](https://go.vansh.nyc/ff) | USA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [APEX Analytix](generated/companies/apex-analytix.md) | [Data Science Intern](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53) | Greensboro, NC | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
@@ -100,12 +101,12 @@
 | [Ingredion](generated/companies/ingredion.md) | [Global Supply Chain Data Science Intern](https://go.vansh.nyc/1do) | Westchester, IL | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integrainterns/jobs/5406093008) | Austin, TX | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [Intel](generated/companies/intel.md) | [Data Science / Software Engineering PhD Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138) | Santa Clara, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
-| [Intercontinental Exchange](generated/companies/intercontinental-exchange.md) | [Data Science Intern](https://ice.jibeapply.com/jobs/14113?icims=1) | NYC | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Invesco](generated/companies/invesco.md) | [Data Science Intern - Real Estate](https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091) | Dallas, TX | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Invesco](generated/companies/invesco.md) | [Data Science Intern - Real Estate](https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) | Dallas, TX | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Invesco](generated/companies/invesco.md) | [Real Estate Intern, Data Science](https://go.vansh.nyc/1ly) | Dallas, TX | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Itron](generated/companies/itron.md) | [Data Science Intern, Distributed Intelligence](https://go.vansh.nyc/JJ) | Liberty Lake, WA | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Jewelers Mutual Group](generated/companies/jewelers-mutual-group.md) | [Data Science Intern](https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=31935864-401f-416a-9671-92af3d294895) | Neenah, WI | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
+| [Jewelers Mutual Group](generated/companies/jewelers-mutual-group.md) | [Data Science Intern](https://go.vansh.nyc/1Fe) | Neenah, WI | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Ketjen](generated/companies/ketjen.md) | [Data Science Intern](https://go.vansh.nyc/1fd) | Houston, TX | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Ketjen](generated/companies/ketjen.md) | [Data Science Intern](https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411) | Houston, TX | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Keysight Technologies](generated/companies/keysight-technologies.md) | [Data Scientist Intern](https://go.vansh.nyc/Ey) | Santa Rosa, CA | Onsite | 2026-10-04 | Rolling | 🟢 Open | ❔ |
@@ -333,6 +334,7 @@
 | [Integra FEC](generated/companies/integra-fec.md) | [Data Scientist Intern - PhD](https://job-boards.greenhouse.io/integra/jobs/5134592008) | Austin, TX | Onsite | 2026-04-28 | Rolling | 🔴 Closed | ❔ |
 | [IntelliGenesis](generated/companies/intelligenesis.md) | [Applied Data Scientist Intern](http://intelligenesis.applytojob.com/apply/synY3toJUH/Applied-Data-Scientist-Internship-DoW-SkillBridge) | Columbia, MD | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [Intercontinental Exchange](generated/companies/intercontinental-exchange.md) | [Data Science Intern](https://go.vansh.nyc/12Z) | New York, NY | Onsite | 2026-10-31 | Rolling | 🔴 Closed | ❔ |
+| [Intercontinental Exchange](generated/companies/intercontinental-exchange.md) | [Data Science Intern](https://ice.jibeapply.com/jobs/14113?icims=1) | NYC | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [Intuitive](generated/companies/intuitive.md) | [Data Science Intern](https://go.vansh.nyc/19w) | Sunnyvale, CA | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 | [Invitation-charter](generated/companies/invitation-charter.md) | [Data Science Intern](https://go.vansh.nyc/1ku) | Greenwood Village, CO | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
 | [Itron](generated/companies/itron.md) | [Data Science Intern - Distributed Intelligence](https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942) | Liberty Lake, WA | Onsite | 2026-09-28 | Rolling | 🔴 Closed | ❔ |
@@ -510,7 +512,7 @@
 - GTI Energy (2)
 - Hadrian (2)
 - Honeywell Aerospace (2)
-- Intercontinental Exchange (2)
+- Jewelers Mutual Group (2)
 - Ketjen (2)
 - LexisNexis Risk Solutions (2)
 - Meta (2)
@@ -553,6 +555,7 @@
 - Geotab (2)
 - Gordon Food Service (2)
 - ICF International (2)
+- Intercontinental Exchange (2)
 - NJM Insurance Group (2)
 - Nokia (2)
 - Notion (2)
@@ -569,6 +572,7 @@
 - Visa (2)
 - Xcel Energy (2)
 - AARP (1)
+- Acuity Insurance (1)
 - AspenTech (1)
 - Beli (1)
 - Blue Cross Blue Shield of Michigan (1)
@@ -592,7 +596,6 @@
 - Hewlett Packard Enterprise (1)
 - Ingredion (1)
 - Intel (1)
-- Jewelers Mutual Group (1)
 - Keysight Technologies (1)
 - Lawrence Livermore National Laboratory (LLNL) (1)
 - LLNL (1)

@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Celestica | [Salesforce Developer 1 Intern](https://go.vansh.nyc/1FT) | Toronto | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
 | Celestica | [AI / Data Science Intern](https://go.vansh.nyc/QY) | San Jose, CA | Onsite | 2026-10-18 | Rolling | 🔴 Closed | ❔ |
 | Celestica | [AI Engineer Intern](https://go.vansh.nyc/QX) | USA | Onsite | 2026-10-18 | Rolling | 🔴 Closed | ❔ |
 | Celestica | [IT Business Application Development Intern](https://go.vansh.nyc/1pV) | Toronto | Onsite | 2026-11-10 | Rolling | 🔴 Closed | ❔ |

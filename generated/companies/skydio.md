@@ -9,11 +9,8 @@
 | Skydio | [Autonomy Engineer Intern](https://go.vansh.nyc/BH) | San Mateo, CA | Onsite | 2026-10-25 | Rolling | 🟢 Open | ❔ |
 | Skydio | [Autonomy Engineer Intern - Computer Vision / Deep Learning - Summer 2027](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9/application?embed=true) | San Mateo, CA | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
 | Skydio | [Autonomy Engineer Intern - Deep Learning / Computer Vision](https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f/application?embed=true) | San Mateo, CA | Onsite | 2026-10-25 | Rolling | 🟢 Open | ❔ |
-| Skydio | [Autonomy Engineer Intern - Simulation & Robotics](https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true) | San Mateo, CA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
-| Skydio | [Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools](https://go.vansh.nyc/Sj) | San Mateo, CA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Skydio | [Autonomy Engineer Intern, Computer Vision / Deep Learning](https://go.vansh.nyc/BA) | San Mateo, CA | Onsite | 2026-10-25 | Rolling | 🟢 Open | ❔ |
 | Skydio | [Autonomy Engineer Intern, Deep Learning / Computer Vision](https://go.vansh.nyc/BL) | San Mateo, CA | Onsite | 2026-10-25 | Rolling | 🟢 Open | ❔ |
-| Skydio | [Autonomy Engineer Intern, Simulation & Robotics](https://go.vansh.nyc/Si) | San Mateo, CA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Skydio | [Electrical Engineer Intern](https://jobs.ashbyhq.com/skydio/57336f0f-a8ed-4ede-b6da-d399e5335fe4/application?embed=true) | San Mateo, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Skydio | [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/skydio/d79ccbaa-2901-4303-bd90-675db7802366/application?embed=true) | San Mateo, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Skydio | [Embedded Software Engineer Intern](https://go.vansh.nyc/BD) | San Mateo, CA | Onsite | 2026-10-25 | Rolling | 🟢 Open | ❔ |
@@ -35,6 +32,9 @@
 | Skydio | [Software Engineer Intern](https://go.vansh.nyc/aF) | San Mateo, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | Skydio | [Wireless Hardware Engineer Intern](https://jobs.ashbyhq.com/skydio/1ac972b1-8094-4765-8869-63e1c4d50dea/application?embed=true) | San Mateo, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Skydio | [Wireless Hardware Engineer Intern](https://go.vansh.nyc/i) | San Mateo, CA | Onsite | 2026-10-25 | Rolling | 🟢 Open | ❔ |
+| Skydio | [Autonomy Engineer Intern - Simulation & Robotics](https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17/application?embed=true) | San Mateo, CA | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
+| Skydio | [Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools](https://go.vansh.nyc/Sj) | San Mateo, CA | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
+| Skydio | [Autonomy Engineer Intern, Simulation & Robotics](https://go.vansh.nyc/Si) | San Mateo, CA | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
 | Skydio | [Electrical Engineer Intern](https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee/application?embed=true) | San Mateo, CA | Onsite | 2026-07-28 | Rolling | 🔴 Closed | ❔ |
 | Skydio | [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/skydio/8994767e-fd53-4ca2-b0ef-fe0923c1e260/application?embed=true) | San Mateo, CA | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
 | Skydio | [Embedded Software Engineer Intern](https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34/application?embed=true) | San Mateo, CA | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |

@@ -55,10 +55,7 @@
 | Waymo | [2027 Summer Intern, PhD, Research, World Action Model](https://careers.withwaymo.com/jobs?gh_jid=8243732) | Mountain View, CA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Research, World Modeling Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8265173) | Mountain View, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics](https://careers.withwaymo.com/jobs?gh_jid=8197899) | Mountain View, CA | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
-| Waymo | [Machine Learning Engineer Intern - Road Understanding](https://careers.withwaymo.com/jobs?gh_jid=8224746) | Mountain View, CA | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
-| Waymo | [Scenes Intern](https://careers.withwaymo.com/jobs?gh_jid=8210170) | Mountain View, CA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | Waymo | [Software Engineer Intern, Multiverse](https://go.vansh.nyc/1qh) | San Francisco, CA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
-| Waymo | [Summer Intern - MS/PhD - Perception Systems Engineering: Pedestrian Detection Precision](https://careers.withwaymo.com/jobs?gh_jid=8234670) | SF | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | Waymo | [2027 Summer Intern, BS, Software Engineering, Labeling](https://careers.withwaymo.com/jobs?gh_jid=8238525) | Mountain View, CA | Onsite | 2026-09-30 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [2027 Summer Intern, BS, SysEng Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8174099) | Mountain View +1 | Onsite | 2026-09-03 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [2027 Summer Intern, BS/MS, Embedded, Software Engineer](https://careers.withwaymo.com/jobs?gh_jid=8221198) | Mountain View, CA | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
@@ -80,18 +77,21 @@
 | Waymo | [Depot Automation Intern](https://careers.withwaymo.com/jobs?gh_jid=8234553) | SF | Onsite | 2026-09-28 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [Intern](https://careers.withwaymo.com/jobs?gh_jid=8250220) | Mountain View, CA | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [Intern - Multiple Teams](https://careers.withwaymo.com/jobs?gh_jid=8257660) | Mountain View, CA | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
+| Waymo | [Machine Learning Engineer Intern - Road Understanding](https://careers.withwaymo.com/jobs?gh_jid=8224746) | Mountain View, CA | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [Machine Learning Intern - Computer Vision](https://careers.withwaymo.com/jobs?gh_jid=8202025) | Mountain View, CA | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [ML Ops & Automation Intern](https://careers.withwaymo.com/jobs?gh_jid=8257237) | Mountain View, CA | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [MS/PhD Intern - Sim-Realism ML Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8205680) | London | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [MS/PhD Intern - Weather Perception](https://careers.withwaymo.com/jobs?gh_jid=8335511) | SF | Onsite | 2026-10-30 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [Perception Intern - Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8248327) | Mountain View, CA | Onsite | 2026-10-02 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [Scenes Intern](https://go.vansh.nyc/IK) | Mountain View, CA | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
+| Waymo | [Scenes Intern](https://careers.withwaymo.com/jobs?gh_jid=8210170) | Mountain View, CA | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [Software Engineer Intern - BS/MS](https://careers.withwaymo.com/jobs?gh_jid=8193731) | SF | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [Software Engineer Intern - Driver Refinement Foundations](https://careers.withwaymo.com/jobs?gh_jid=8224900) | Mountain View, CA | Onsite | 2026-09-25 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [Software Engineer Intern - MS/PhD](https://careers.withwaymo.com/jobs?gh_jid=8202801) | Mountain View, CA | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [Software Engineering Intern - Commercialization](https://careers.withwaymo.com/jobs?gh_jid=8198218) | SF +1 | Onsite | 2026-09-14 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [Software Engineering Intern - Maneuvering Tech](https://careers.withwaymo.com/jobs?gh_jid=8203200) | SF | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [Software Engineering Intern, Maneuvering Tech](https://go.vansh.nyc/IF) | San Francisco, CA | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
+| Waymo | [Summer Intern - MS/PhD - Perception Systems Engineering: Pedestrian Detection Precision](https://careers.withwaymo.com/jobs?gh_jid=8234670) | SF | Onsite | 2026-09-28 | Rolling | 🔴 Closed | ❔ |
 | Waymo | [Summer Intern - Multiple Teams](https://careers.withwaymo.com/jobs?gh_jid=8193295) | Mountain View, CA | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

@@ -22,6 +22,7 @@
 | Garmin | [Software Engineer Intern](https://go.vansh.nyc/Fz) | Tucson, AZ | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern](https://careers.garmin.com/jobs/19693?icims=1) | Olathe, KS | Onsite | 2026-08-24 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineer Intern, Real Time Aviation Data](https://go.vansh.nyc/1Bs) | Chanhassen, MN | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
+| Garmin | [Software Engineer Intern, Web/Mobile](https://go.vansh.nyc/1Fa) | Yarmouth, ME | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | Garmin | [Software Engineering Intern](https://go.vansh.nyc/1CN) | Manhattan, KS | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Garmin | [FPGA Engineer Intern](https://go.vansh.nyc/FV) | Olathe, KS | Onsite | 2026-10-07 | Rolling | 🔴 Closed | ❔ |
 | Garmin | [FPGA Engineer Intern](https://careers.garmin.com/jobs/19836?icims=1) | Olathe, KS | Onsite | 2026-10-07 | Rolling | 🔴 Closed | ❔ |

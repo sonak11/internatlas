@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | Ralliant | [Electrical Design Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169) | Beaverton, OR | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Ralliant | [Software Design Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11154) | Beaverton, OR | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
+| Ralliant | [Software Design Engineer Intern](https://go.vansh.nyc/1Ff) | Beaverton, OR | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | Ralliant | [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153) | Beaverton, OR | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Ralliant | [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11231) | Beaverton, OR | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Ralliant | [Software Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11167) | Beaverton, OR | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |

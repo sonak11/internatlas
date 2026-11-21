@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**275** tracked · **180** open now
+**279** tracked · **184** open now
 
 ## Current openings
 
@@ -41,6 +41,7 @@
 | [CACI](generated/companies/caci.md) | [Cybersecurity Intern](https://go.vansh.nyc/1Cd) | USA +1 | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | [CAE](generated/companies/cae.md) | [Cybersecurity Integration Specialist Intern](https://go.vansh.nyc/SA) | Montreal | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Caesars Entertainment](generated/companies/caesars-entertainment.md) | [IAM Cybersecurity Intern](https://go.vansh.nyc/1ES) | Las Vegas, NV | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
+| [Calamos Investments](generated/companies/calamos-investments.md) | [Information Security Intern](https://go.vansh.nyc/1FV) | Naperville, IL | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
 | [Carnegie Mellon University](generated/companies/carnegie-mellon-university.md) | [Cybersecurity Engineer Intern](https://go.vansh.nyc/1yU) | Pittsburgh, PA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern - Security](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926) | Atlanta, GA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern, Security](https://go.vansh.nyc/cp) | Atlanta, GA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
@@ -152,9 +153,12 @@
 | [Schonfeld](generated/companies/schonfeld.md) | [Cybersecurity Operations Intern](https://go.vansh.nyc/1Aj) | New York, NY | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | [ServiceNow](generated/companies/servicenow.md) | [Associate Information Security Engineer Intern](https://go.vansh.nyc/1vY) | San Diego, CA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [ServiceNow](generated/companies/servicenow.md) | [Associate Security Engineering & Automation Intern](https://go.vansh.nyc/1vX) | Santa Clara, CA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
+| [ServiceNow](generated/companies/servicenow.md) | [Security Software Engineer Intern](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) | Kirkland, WA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [SimVentions](generated/companies/simventions.md) | [Cybersecurity Intern](https://go.vansh.nyc/1uu) | Fredericksburg, VA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Snowflake](generated/companies/snowflake.md) | [Software Engineer Intern - Core - Infrastructure & Security](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897/application?embed=true) | Menlo Park, CA +1 | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [Snowflake](generated/companies/snowflake.md) | [Software Engineer Intern, Core Infrastructure & Security](https://go.vansh.nyc/1Dq) | Menlo Park, CA +1 | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
+| [Southern Farm Bureau Life Insurance](generated/companies/southern-farm-bureau-life-insurance.md) | [Cyber Security Intern](https://go.vansh.nyc/1G1) | Jackson, MS | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
+| [Southwest Power Pool](generated/companies/southwest-power-pool.md) | [Identity and Access Management (IAM) Analyst Intern, Information Security and Access Management](https://go.vansh.nyc/1FI) | Little Rock, AR | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❌ |
 | [State of Wisconsin Investment Board](generated/companies/state-of-wisconsin-investment-board.md) | [Information Security Intern](https://go.vansh.nyc/1C9) | Madison, WI | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | [State Street](generated/companies/state-street.md) | [Cyber Security Operations Center Analyst Intern](https://go.vansh.nyc/1yy) | Quincy, MA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Red Team Security Engineer Intern, Vehicle Software](https://go.vansh.nyc/1b1) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
@@ -296,6 +300,7 @@
 - Tesla (4)
 - Adobe (3)
 - Oceaneering (3)
+- ServiceNow (3)
 - Aerospace Corporation (2)
 - American Equity Investment Life Insurance Company (2)
 - Booz Allen (2)
@@ -311,7 +316,6 @@
 - LLNL (2)
 - Marvell (2)
 - Nintendo (2)
-- ServiceNow (2)
 - Snowflake (2)
 - The Federal Reserve System (2)
 - TikTok (2)
@@ -342,6 +346,7 @@
 - C.H. Robinson (1)
 - CAE (1)
 - Caesars Entertainment (1)
+- Calamos Investments (1)
 - Carnegie Mellon University (1)
 - Citizens Energy Group (1)
 - CNA Insurance (1)
@@ -417,6 +422,8 @@
 - Salesforce (1)
 - Schonfeld (1)
 - SimVentions (1)
+- Southern Farm Bureau Life Insurance (1)
+- Southwest Power Pool (1)
 - State of Wisconsin Investment Board (1)
 - State Street (1)
 - The Nuclear Company (1)

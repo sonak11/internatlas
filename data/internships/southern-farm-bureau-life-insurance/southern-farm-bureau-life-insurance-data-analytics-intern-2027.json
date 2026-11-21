@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "id": "southern-farm-bureau-life-insurance-data-analytics-intern-2027",
+  "company": {
+    "name": "Southern Farm Bureau Life Insurance",
+    "slug": "southern-farm-bureau-life-insurance"
+  },
+  "role": "Data Analytics Intern",
+  "category": "software-engineering",
+  "apply_url": "https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=e9883574-85bb-4903-94ff-0dd07f24aedf",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Jackson",
+      "state": "MS",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-20",
+    "discovered": "2026-11-21",
+    "last_verified": "2026-11-21"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

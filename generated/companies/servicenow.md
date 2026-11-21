@@ -16,6 +16,7 @@
 | ServiceNow | [Associate Software Engineer Intern, AI Engineering](https://go.vansh.nyc/8N) | Santa Clara, CA | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | ServiceNow | [Forward Deployed Solution Engineer Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161936020) | Santa Clara, CA +1 | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | ServiceNow | [Inbound Product Manager Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161885234) | San Diego, CA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
+| ServiceNow | [Security Software Engineer Intern](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) | Kirkland, WA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | ServiceNow | [Senior Inbound Product Manager Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161584449) | San Diego, CA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | ServiceNow | [Senior Outbound Product Manager Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161590090) | San Diego, CA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | ServiceNow | [Software Engineer Intern](https://jobs.smartrecruiters.com/ServiceNow/744000155345689) | Santa Clara, CA +3 | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |

@@ -2,15 +2,16 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**280** tracked · **134** open now
+**282** tracked · **136** open now
 
 ## Current openings
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| [AFL](generated/companies/afl.md) | [Web Design/Development Intern](https://go.vansh.nyc/1mq) | Duncan, SC | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [AFL](generated/companies/afl.md) | [Web Design/Development Intern](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80) | Duncan, SC | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [AFL](generated/companies/afl.md) | [Web Design/Development Intern](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=6e9432db-e1de-4103-b8dd-5bfd57365e4d) | Duncan, SC | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
-| [AFL](generated/companies/afl.md) | [Web Design/Development Intern](https://go.vansh.nyc/1mq) | Duncan, SC | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
+| [AFL](generated/companies/afl.md) | [Web Design/Development Intern](https://go.vansh.nyc/1Fd) | Duncan, SC | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Altera](generated/companies/altera.md) | [IP Design Intern](https://go.vansh.nyc/hw) | Toronto | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Ambarella](generated/companies/ambarella.md) | [Physical Design Engineer Intern](https://go.vansh.nyc/gy) | USA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Analog Devices](generated/companies/analog-devices.md) | [Analog Design Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Analog-Design-Engineer-Intern_R265297) | Wilmington, MA +1 | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❔ |
@@ -102,6 +103,7 @@
 | [Qualcomm](generated/companies/qualcomm.md) | [MSIP Digital Design Verification Engineering Intern, HW](https://go.vansh.nyc/IQ) | Toronto | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [Ralliant](generated/companies/ralliant.md) | [Electrical Design Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11169) | Beaverton, OR | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [Ralliant](generated/companies/ralliant.md) | [Software Design Engineer Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11154) | Beaverton, OR | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
+| [Ralliant](generated/companies/ralliant.md) | [Software Design Engineer Intern](https://go.vansh.nyc/1Ff) | Beaverton, OR | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Electronics Design Engineer Co-op Intern - Electronics Design](https://careers.rivian.com/jobs/34040?icims=1) | Palo Alto, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Electronics Design Engineering Intern - Low Voltage Electronics](https://careers.rivian.com/jobs/34370?icims=1) | Champaign, IL | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Engineer Intern Co-op - Design-for-Test](https://careers.rivian.com/jobs/33810?icims=1) | Palo Alto, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
@@ -304,13 +306,14 @@
 - Vertiv (7)
 - Rivian (5)
 - Semtech (5)
+- AFL (4)
 - Jump Trading (4)
 - AMD (4)
 - RTX (4)
-- AFL (3)
 - Cirrus Logic (3)
 - Hewlett Packard Enterprise (3)
 - Neuralink (3)
+- Ralliant (3)
 - Tenstorrent (3)
 - Texas Instruments (3)
 - Zoox (3)
@@ -326,7 +329,6 @@
 - MDA Space (2)
 - onsemi (2)
 - Pinterest (2)
-- Ralliant (2)
 - Stripe (2)
 - Apple (2)
 - Astranis (2)

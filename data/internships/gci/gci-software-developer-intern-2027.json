@@ -7,13 +7,12 @@
   },
   "role": "Software Developer Intern",
   "category": "software-engineering",
-  "apply_url": "https://recruiting.ultipro.com/GCI1000GCI/JobBoard/09636f6c-2fa1-4a76-adb9-57dea469416b/OpportunityDetail?opportunityId=561ce011-a9e5-4635-b991-2c8abd3d88bf",
+  "apply_url": "https://go.vansh.nyc/1Fi",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Virginia",
       "country": "USA"
     }
   ],
@@ -41,11 +40,11 @@
   "dates": {
     "posted": "2026-11-20",
     "discovered": "2026-11-20",
-    "last_verified": "2026-11-20"
+    "last_verified": "2026-11-21"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

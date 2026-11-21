@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**536** tracked · **356** open now
+**536** tracked · **352** open now
 
 ## Current openings
 
@@ -193,8 +193,6 @@
 | [Pinterest](generated/companies/pinterest.md) | [Machine Learning Intern 2027 (Dublin)](https://www.pinterestcareers.com/jobs/?gh_jid=8244922) | Dublin, IE | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [Machine Learning Intern 2027 (Zurich)](https://www.pinterestcareers.com/jobs/?gh_jid=8214757) | Zurich, CH | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [Machine Learning Intern, PhD](https://go.vansh.nyc/1C) | San Francisco, CA +3 | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❔ |
-| [Pony.ai](generated/companies/pony-ai.md) | [Research Intern - Deep Learning](https://go.vansh.nyc/4S) | Fremont, CA | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
-| [pony.ai](generated/companies/pony-ai.md) | [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply) | Fremont, CA | Onsite | 2026-05-29 | Rolling | 🟢 Open | ❔ |
 | [Powertown](generated/companies/powertown.md) | [Machine Learning Engineer Intern](https://go.vansh.nyc/13k) | Boston, MA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Q2](generated/companies/q2.md) | [Machine Learning Engineer Intern](https://go.vansh.nyc/1dh) | Cary, NC | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❌ |
 | [Q2](generated/companies/q2.md) | [Machine Learning Engineer Intern](https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800) | Cary, NC | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
@@ -340,7 +338,6 @@
 | [Toyota Research Institute](generated/companies/toyota-research-institute.md) | [Automated Driving Advanced Development Intern - Machine Learning Research](https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply) | Los Altos, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Trimble](generated/companies/trimble.md) | [Navigation & Machine Learning Engineer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980) | Richmond Hill | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Unity](generated/companies/unity.md) | [Machine Learning Engineer Intern](https://go.vansh.nyc/C5) | Mountain View, CA | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
-| [US Internships Public Careers Site](generated/companies/us-internships-public-careers-site.md) | [Undergraduate Software Development Engineer in Test Intern, AI/ML](https://go.vansh.nyc/1xE) | San Mateo, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [Machine Learning Intern - AI](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101) | San Jose, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model)](https://careers.withwaymo.com/jobs?gh_jid=8358262) | Mountain View +1 | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Machine Learning Engineer](https://careers.withwaymo.com/jobs?gh_jid=8223735) | San Francisco, CA +1 | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
@@ -359,7 +356,6 @@
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Machine Learning, Planning/Prediction](https://careers.withwaymo.com/jobs?gh_jid=8262154) | Mountain View, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8265868) | London +1 | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, PhD, Planner Machine Learning](https://careers.withwaymo.com/jobs?gh_jid=8234876) | San Francisco +1 | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
-| [Waymo](generated/companies/waymo.md) | [Machine Learning Engineer Intern - Road Understanding](https://careers.withwaymo.com/jobs?gh_jid=8224746) | Mountain View, CA | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [Wing](generated/companies/wing.md) | [Machine Learning Engineering Intern](https://go.vansh.nyc/1tH) | Palo Alto, CA | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Workday](generated/companies/workday.md) | [Machine Learning Engineer Intern](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812) | Pleasanton, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Workday](generated/companies/workday.md) | [Machine Learning Engineer Intern](https://go.vansh.nyc/Gs) | Pleasanton, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
@@ -491,6 +487,8 @@
 | [Philips](generated/companies/philips.md) | [Data AI/ML Engineer Intern - Image Guided Therapy Devices - Software R&D](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404) | Plymouth, MN | Onsite | 2026-08-28 | Rolling | 🔴 Closed | ❔ |
 | [Pinterest](generated/companies/pinterest.md) | [PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)](https://www.pinterestcareers.com/jobs/?gh_jid=7255640) | San Francisco, CA | Onsite | 2026-04-20 | Rolling | 🔴 Closed | ❔ |
 | [PlusAI](generated/companies/plusai.md) | [Deep Learning Research Intern - Multimodal BEV Perception](https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62/apply) | Santa Clara, CA | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
+| [Pony.ai](generated/companies/pony-ai.md) | [Research Intern - Deep Learning](https://go.vansh.nyc/4S) | Fremont, CA | Onsite | 2026-07-27 | Rolling | 🔴 Closed | ❔ |
+| [pony.ai](generated/companies/pony-ai.md) | [Research Intern - Deep Learning](https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/apply) | Fremont, CA | Onsite | 2026-05-29 | Rolling | 🔴 Closed | ❔ |
 | [Procter & Gamble](generated/companies/procter-gamble.md) | [Data Science and Machine Learning PhD Intern](https://pg.wd5.myworkdayjobs.com/1000/job/MASON-BUS-AND-INNOVATION-CTR/R-D-PhD-Summer-Intern--Data-Science-and-Machine-Learning_R000158138) | Mason, OH | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | [Quadric](generated/companies/quadric.md) | [Deep Learning Compiler Intern](https://go.vansh.nyc/1n4) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Machine Learning AISW Intern](https://qualcomm.eightfold.ai/careers/job/446721636765) | Markham | Onsite | 2026-10-19 | Rolling | 🔴 Closed | ❔ |
@@ -530,6 +528,7 @@
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Visual Search](https://go.vansh.nyc/18j) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🔴 Closed | ❌ |
 | [TMEIC Corporation Americas](generated/companies/tmeic-corporation-americas.md) | [Applications Intern - AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply) | Roanoke, VA | Onsite | 2026-08-12 | Rolling | 🔴 Closed | ❔ |
 | [Trimble](generated/companies/trimble.md) | [Navigation & Machine Learning Engineering Intern](https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980) | Richmond Hill | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
+| [US Internships Public Careers Site](generated/companies/us-internships-public-careers-site.md) | [Undergraduate Software Development Engineer in Test Intern, AI/ML](https://go.vansh.nyc/1xE) | San Mateo, CA | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 | [USAA](generated/companies/usaa.md) | [AI/ML Engineer Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/AI-ML-Engineer-Intern_R0121196) | Plano, TX | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [Veralto](generated/companies/veralto.md) | [Machine Learning Co-op Intern](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571) | Vancouver | Onsite | 2026-07-23 | Rolling | 🔴 Closed | ❔ |
 | [Verizon Communications](generated/companies/verizon-communications.md) | [AI/ML Engineering Intern - Consumer Group](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--AI-ML-Engineering-Summer-2027-Internship_R-1100605) | Basking Ridge | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
@@ -538,6 +537,7 @@
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, BS/MS/PhD, AI-driven ML Performance Engineering Intern](https://careers.withwaymo.com/jobs?gh_jid=8248060) | Mountain View, CA | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8214350) | San Francisco +1 | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [Waymo](generated/companies/waymo.md) | [2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8208465) | London +1 | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
+| [Waymo](generated/companies/waymo.md) | [Machine Learning Engineer Intern - Road Understanding](https://careers.withwaymo.com/jobs?gh_jid=8224746) | Mountain View, CA | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | [Waymo](generated/companies/waymo.md) | [Machine Learning Intern - Computer Vision](https://careers.withwaymo.com/jobs?gh_jid=8202025) | Mountain View, CA | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
 | [Waymo](generated/companies/waymo.md) | [ML Ops & Automation Intern](https://careers.withwaymo.com/jobs?gh_jid=8257237) | Mountain View, CA | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | [Waymo](generated/companies/waymo.md) | [MS/PhD Intern - Sim-Realism ML Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8205680) | London | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
@@ -673,8 +673,6 @@
 - onepot (1)
 - Peripheral (1)
 - Phonic (1)
-- Pony.ai (1)
-- pony.ai (1)
 - Powertown (1)
 - Riot Games (1)
 - RoboForce (1)
@@ -690,7 +688,6 @@
 - TMEIC (1)
 - Tower Research Capital (1)
 - Unity (1)
-- US Internships Public Careers Site (1)
 - Veeam Software (1)
 - Wing (1)
 - X Development (1)
@@ -729,6 +726,8 @@
 - Persona AI (1)
 - Philips (1)
 - PlusAI (1)
+- Pony.ai (1)
+- pony.ai (1)
 - Procter & Gamble (1)
 - Quadric (1)
 - Quantbot Technologies (1)
@@ -744,6 +743,7 @@
 - The Aerospace Corporation (1)
 - The Home Depot (1)
 - TMEIC Corporation Americas (1)
+- US Internships Public Careers Site (1)
 - USAA (1)
 - Veralto (1)
 - Verizon Communications (1)

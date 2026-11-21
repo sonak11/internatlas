@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Lucid Motors | [ADAS Platform Tools Intern](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007) | Newark, CA | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
 | Lucid Motors | [ADAS Systems Integration Intern](https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007) | Newark, CA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | Lucid Motors | [AI & Data Intern - Applied AI/Machine Learning](https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007) | Newark, CA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Lucid Motors | [AI & Data Intern, Applied AI/Machine Learning](https://go.vansh.nyc/1DI) | Newark, CA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |

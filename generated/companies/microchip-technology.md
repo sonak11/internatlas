@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Microchip Technology | [ASIC Verification Engineer Intern](https://go.vansh.nyc/1F9) | San Jose, CA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | Microchip Technology | [Electronics Technician Intern - Electronics](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/PA---Mount-Holly-Springs/Intern-Technician--Electronics-_R847-26) | Mt Holly Springs, PA | Onsite | 2026-05-16 | Rolling | 🟢 Open | ❔ |
 | Microchip Technology | [Applications Engineering Intern](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---Roseville/Intern---Applications-Engineering_R2542-26) | Roseville, CA | Onsite | 2026-07-09 | Rolling | 🔴 Closed | ❔ |
 | Microchip Technology | [Data Analyst Intern](https://go.vansh.nyc/1gQ) | Gresham, OR | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❔ |

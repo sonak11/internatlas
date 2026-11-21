@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Cisco | [AI Cybersecurity Engineer I Intern](https://go.vansh.nyc/1G5) | Research Triangle Park, NC | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | Cisco | [AI Researcher II Intern](https://go.vansh.nyc/1Eb) | San Francisco, CA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | Cisco | [Data Science Analyst II Intern](https://go.vansh.nyc/1F1) | San Jose, CA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | Cisco | [Software Consulting Engineer I Intern](https://go.vansh.nyc/fX) | Research Triangle Park, NC | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |

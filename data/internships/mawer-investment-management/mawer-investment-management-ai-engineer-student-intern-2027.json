@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "globalfoundries-ai-processor-hardware-software-integration-engineer-intern-2027-e10bec",
+  "id": "mawer-investment-management-ai-engineer-student-intern-2027",
   "company": {
-    "name": "GlobalFoundries",
-    "slug": "globalfoundries"
+    "name": "Mawer Investment Management",
+    "slug": "mawer-investment-management"
   },
-  "role": "AI Processor Hardware/Software Integration Engineer Intern",
+  "role": "AI Engineer Student Intern",
   "category": "ai",
-  "apply_url": "https://go.vansh.nyc/1uH",
-  "season": "summer",
+  "apply_url": "https://go.vansh.nyc/1FQ",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Richardson",
-      "state": "TX",
-      "country": "USA"
+      "city": "Calgary",
+      "country": "Canada"
     }
   ],
   "compensation": {
@@ -40,9 +39,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-11",
-    "discovered": "2026-11-12",
-    "last_verified": "2026-11-20"
+    "posted": "2026-11-20",
+    "discovered": "2026-11-21",
+    "last_verified": "2026-11-21"
   },
   "status": "open",
   "tags": [

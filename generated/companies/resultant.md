@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Resultant | [Data & Analytics Consultant Intern](https://jobs.smartrecruiters.com/Resultant/744000162782371) | Indianapolis, IN | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | Resultant | [Data & Analytics Consultant Intern - Summer 2027](https://jobs.smartrecruiters.com/Resultant/744000151474767) | Chicago, IL | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |
 | Resultant | [Data & Analytics Consultant Intern - Summer 2027](https://jobs.smartrecruiters.com/Resultant/744000150787255) | Chicago, IL | Onsite | 2026-09-21 | Rolling | 🔴 Closed | ❔ |
 | Resultant | [Data & Analytics Consultant Intern - Summer 2027](https://jobs.smartrecruiters.com/Resultant/744000151474719) | Indianapolis, IN | Onsite | 2026-09-23 | Rolling | 🔴 Closed | ❔ |

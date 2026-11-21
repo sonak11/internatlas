@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**377** tracked · **211** open now
+**379** tracked · **213** open now
 
 ## Current openings
 
@@ -139,6 +139,7 @@
 | [MDA](generated/companies/mda.md) | [FPGA Verification Intern](https://go.vansh.nyc/127) | Montreal | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [MDA Space](generated/companies/mda-space.md) | [Engineering Student Intern - FPGA](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=216d347b-2abb-43e8-8fbc-268adecf0aa3) | Sainte-Anne-de-Bellevue | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [MDA Space](generated/companies/mda-space.md) | [Engineering Student Intern - FPGA Verification](https://recruiting.ultipro.ca/MAC5000MCDW/JobBoard/664818ff-3594-4bec-9f30-3394e59e19f3/OpportunityDetail?opportunityId=e40bbead-0940-4adb-9ae8-2b3d4d3d6874) | Sainte-Anne-de-Bellevue | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
+| [Microchip Technology](generated/companies/microchip-technology.md) | [ASIC Verification Engineer Intern](https://go.vansh.nyc/1F9) | San Jose, CA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [ASIC Digital Design Intern](https://go.vansh.nyc/Z8) | Minneapolis, MN | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Electrical Engineer Intern, Robotics and Surgery Engineering](https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003) | South San Francisco | Onsite | 2025-06-13 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Histopathology Intern](https://boards.greenhouse.io/neuralink/jobs/8020751003?gh_jid=8020751003) | Austin | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
@@ -204,6 +205,7 @@
 | [Tesla](generated/companies/tesla.md) | [SI Hardware Physical Design Engineer Intern, SI Hardware](https://go.vansh.nyc/1aW) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [SI Hardware RTL Design Engineer Intern, SI Hardware](https://go.vansh.nyc/1aj) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [SI Hardware Silicon Validation Engineer Intern, SI Hardware](https://go.vansh.nyc/1am) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - SI Hardware Architecture Simulation](https://www.tesla.com/careers/search/job/290756) | Palo Alto, CA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern, SI Hardware Infrastructure](https://go.vansh.nyc/1b3) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Solar Hardware Engineer Intern - PV Cell - Energy Engineering](https://www.tesla.com/careers/search/job/284489) | Palo Alto, CA | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
 | [The Toro Company](generated/companies/the-toro-company.md) | [Hardware and Software Engineering Intern](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183) | Perry, OK | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
@@ -395,7 +397,7 @@
 - Qualcomm (14)
 - Astranis (12)
 - Marvell (12)
-- Tesla (11)
+- Tesla (12)
 - Hewlett Packard Enterprise (10)
 - Amazon (9)
 - Keysight Technologies (8)
@@ -430,6 +432,7 @@
 - Lightmatter (2)
 - MDA (2)
 - MDA Space (2)
+- Microchip Technology (2)
 - Optiver (2)
 - Reliable Robotics (2)
 - Rivian (2)
@@ -490,7 +493,6 @@
 - Kepler Communications (1)
 - L3Harris Technologies (1)
 - Lunar Energy (1)
-- Microchip Technology (1)
 - Motorola (1)
 - Nightwing (1)
 - Nomagic (1)

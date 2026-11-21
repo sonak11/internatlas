@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**239** tracked · **107** open now
+**243** tracked · **111** open now
 
 ## Current openings
 
@@ -21,8 +21,10 @@
 | [Atlassian](generated/companies/atlassian.md) | [Data Engineer Intern](https://campus-americas.icims.com/jobs/26272/data-engineer-intern%2c-2027-summer-u.s./job) | Seattle, WA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Auto-Owners Insurance](generated/companies/auto-owners-insurance.md) | [Data Engineering Intern](https://go.vansh.nyc/1cL) | Lansing, MI | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❌ |
 | [Auto-Owners Insurance](generated/companies/auto-owners-insurance.md) | [Data Engineering Intern - Summer 2027](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Data-Engineering-Internship---Summer-2026_R_12318) | Lansing, MI | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
+| [Calamos Investments](generated/companies/calamos-investments.md) | [Data Engineering Intern](https://go.vansh.nyc/1FY) | Naperville, IL | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
 | [Cambridge Investment Research](generated/companies/cambridge-investment-research.md) | [Data Engineering Intern](https://go.vansh.nyc/1cj) | Phoenix, AZ +1 | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Camping World](generated/companies/camping-world.md) | [Data Engineering Intern](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297) | Chicago, IL +1 | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
+| [Canadian Solar](generated/companies/canadian-solar.md) | [Data Engineering Intern](https://go.vansh.nyc/1G8) | Kitchener | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
 | [CarGurus](generated/companies/cargurus.md) | [Data Analytics Engineer Intern](https://go.vansh.nyc/1xc) | Boston, MA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Citizens Financial Group](generated/companies/citizens-financial-group.md) | [Data Engineer Intern - Enterprise Technology & Security](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) | Plano, TX +2 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Coinbase](generated/companies/coinbase.md) | [Analytics Engineer Intern](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) | Hybrid | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
@@ -49,6 +51,7 @@
 | [ibotta](generated/companies/ibotta.md) | [Data Engineer Intern](https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true) | Denver, CO | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
 | [ID.me](generated/companies/id-me.md) | [Analytics Engineer Intern](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/8041991003) | Mountain View, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [ID.me](generated/companies/id-me.md) | [Analytics Engineer Intern](https://go.vansh.nyc/h1) | Mountain View, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| [Intuitive](generated/companies/intuitive.md) | [Data Engineering Intern](https://go.vansh.nyc/1Fo) | Sunnyvale, CA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Jain Global](generated/companies/jain-global.md) | [Data Engineer Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1) | NYC | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Data Engineer Intern](https://go.vansh.nyc/42) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ✅ |
 | [Judi Health](generated/companies/judi-health.md) | [Data Engineer Intern](https://go.vansh.nyc/Fw) | New York, NY +1 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
@@ -90,6 +93,7 @@
 | [Seaspan](generated/companies/seaspan.md) | [Data Engineering Intern](https://go.vansh.nyc/1zc) | North Vancouver | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [SemiAnalysis](generated/companies/semianalysis.md) | [Data Engineer Intern](https://go.vansh.nyc/1rv) | Chicago, IL | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Shure](generated/companies/shure.md) | [Data Engineer Intern](https://careersus-shure.icims.com/jobs/4982/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| [Southern Farm Bureau Life Insurance](generated/companies/southern-farm-bureau-life-insurance.md) | [Data Engineer Intern](https://go.vansh.nyc/1Fu) | Jackson, MS | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [State of Wisconsin Investment Board](generated/companies/state-of-wisconsin-investment-board.md) | [Data Analytics Engineering Intern](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330) | Madison, WI | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [State of Wisconsin Investment Board](generated/companies/state-of-wisconsin-investment-board.md) | [Data Analytics Engineering Intern](https://go.vansh.nyc/1uG) | Madison, WI | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Systems Planning and Analysis](generated/companies/systems-planning-and-analysis.md) | [Data Engineer Intern](https://spa.jibeapply.com/jobs/23698?icims=1) | Alexandria, VA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
@@ -303,8 +307,10 @@
 - Super (2)
 - TD Bank (2)
 - Workday (2)
+- Calamos Investments (1)
 - Cambridge Investment Research (1)
 - Camping World (1)
+- Canadian Solar (1)
 - CarGurus (1)
 - Citizens Financial Group (1)
 - Disney (1)
@@ -321,6 +327,7 @@
 - Great American Insurance Company (1)
 - iA (1)
 - ibotta (1)
+- Intuitive (1)
 - Jain Global (1)
 - Jane Street (1)
 - Judi Health (1)
@@ -332,6 +339,7 @@
 - Picton Mahoney Asset Management (1)
 - Raft Company Website (1)
 - SemiAnalysis (1)
+- Southern Farm Bureau Life Insurance (1)
 - Tenet Healthcare (1)
 - Trace3 (1)
 - Wurl (1)

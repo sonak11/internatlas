@@ -9,7 +9,6 @@
 | Intercontinental Exchange | [Audit Analytics Intern](https://ice.jibeapply.com/jobs/14069?icims=1) | Atlanta, GA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Audit Analytics Intern](https://careers-ice.icims.com/jobs/14069/job?mobile=true&needsRedirect=false) | Atlanta, GA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Cybersecurity Architect Intern](https://go.vansh.nyc/136) | Atlanta, GA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
-| Intercontinental Exchange | [Data Science Intern](https://ice.jibeapply.com/jobs/14113?icims=1) | NYC | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Financial Engineering Intern](https://ice.jibeapply.com/jobs/14059?icims=1) | Atlanta, GA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Financial Engineering Intern](https://careers-ice.icims.com/jobs/14059/job?mobile=true&needsRedirect=false) | Atlanta, GA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Index Analyst Intern](https://ice.jibeapply.com/jobs/14100?icims=1) | NYC | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
@@ -47,6 +46,7 @@
 | Intercontinental Exchange | [Agentic AI Data Science Intern](https://careers-ice.icims.com/jobs/14070/job?mobile=true&needsRedirect=false) | Jacksonville, FL | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | Intercontinental Exchange | [Data Analyst Intern](https://ice.jibeapply.com/jobs/14089?icims=1) | Jacksonville, FL | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | Intercontinental Exchange | [Data Science Intern](https://go.vansh.nyc/12Z) | New York, NY | Onsite | 2026-10-31 | Rolling | 🔴 Closed | ❔ |
+| Intercontinental Exchange | [Data Science Intern](https://ice.jibeapply.com/jobs/14113?icims=1) | NYC | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | Intercontinental Exchange | [Product Management Intern](https://ice.jibeapply.com/jobs/14065?icims=1) | Atlanta, GA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | Intercontinental Exchange | [Product Management Intern](https://careers-ice.icims.com/jobs/14065/job?mobile=true&needsRedirect=false) | Atlanta, GA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | Intercontinental Exchange | [Software Engineer Intern](https://careers-ice.icims.com/jobs/14105/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |

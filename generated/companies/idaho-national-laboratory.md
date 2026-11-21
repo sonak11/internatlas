@@ -11,6 +11,7 @@
 | Idaho National Laboratory | [Electric Vehicle Charging Data Analysis Intern](https://go.vansh.nyc/1B6) | Idaho Falls, ID | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | Idaho National Laboratory | [PSION Development Intern](https://go.vansh.nyc/1Dz) | Idaho Falls, ID | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Idaho National Laboratory | [Software Engineering Intern, Java/API Development for Neutronics Code](https://go.vansh.nyc/1D6) | Idaho Falls, ID | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
+| Idaho National Laboratory | [Spatial Computing Intern](https://go.vansh.nyc/1G6) | Idaho Falls, ID | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | Idaho National Laboratory | [Cybersecurity Operations Intern](https://go.vansh.nyc/1Am) | Idaho Falls, ID | Onsite | 2026-11-16 | Rolling | 🔴 Closed | ❔ |
 | Idaho National Laboratory | [Cybersecurity Vulnerability Assessment Intern](https://go.vansh.nyc/1xM) | Idaho Falls, ID | Onsite | 2026-11-12 | Rolling | 🔴 Closed | ❔ |
 

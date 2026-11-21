@@ -6,9 +6,11 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Southwest Power Pool | [Identity and Access Management (IAM) Analyst Intern, Information Security and Access Management](https://go.vansh.nyc/1FI) | Little Rock, AR | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❌ |
 | Southwest Power Pool | [Market Monitoring Intern](https://recruiting2.ultipro.com/SOU1052SPPI/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=053a469a-5814-43e3-aff9-af40031df83d) | Little Rock, AR | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | Southwest Power Pool | [Operations Developer Intern](https://recruiting2.ultipro.com/SOU1052SPPI/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=51168e8a-cd42-4169-9c50-0019367a9d83) | Little Rock, AR | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
+| Southwest Power Pool | [Operations Developer Intern](https://go.vansh.nyc/1Fh) | Little Rock, AR | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 
-Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

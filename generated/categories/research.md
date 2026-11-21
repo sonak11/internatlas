@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**327** tracked · **172** open now
+**328** tracked · **173** open now
 
 ## Current openings
 
@@ -140,6 +140,7 @@
 | [Tencent](generated/companies/tencent.md) | [Hunyuan Multimodal Algorithm Researcher Intern, Omni-Modal](https://go.vansh.nyc/1hP) | Palo Alto, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Tencent](generated/companies/tencent.md) | [Multimodal Algorithm Researcher Intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650) | Palo Alto, CA | Onsite | 2026-07-04 | Rolling | 🟢 Open | ❔ |
 | [Tencent](generated/companies/tencent.md) | [Multimodal Algorithm Researcher Intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650-2) | Palo Alto, CA | Onsite | 2026-06-13 | Rolling | 🟢 Open | ❔ |
+| [The Allen Institute for AI](generated/companies/the-allen-institute-for-ai.md) | [Research Intern - Climate Modeling](https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052) | Seattle, WA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [The Allen Institute for AI](generated/companies/the-allen-institute-for-ai.md) | [Research Intern - Open Ecosystem](https://job-boards.greenhouse.io/thealleninstitute/jobs/8319350) | Seattle, WA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [The Allen Institute for AI](generated/companies/the-allen-institute-for-ai.md) | [Research Intern - Robotics](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641) | Seattle, WA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Research Engineer Intern](https://lifeattiktok.com/search/7704986879082907909) | San Jose, CA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
@@ -357,6 +358,7 @@
 - Field AI (3)
 - Procter & Gamble (3)
 - Snap (3)
+- The Allen Institute for AI (3)
 - Canva (3)
 - The Federal Reserve System (3)
 - The Walt Disney Company (3)
@@ -377,7 +379,6 @@
 - Salesforce (2)
 - Shure (2)
 - Smule (2)
-- The Allen Institute for AI (2)
 - Two Six Technologies (2)
 - AMD (2)
 - Autodesk (2)
