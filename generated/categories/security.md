@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**279** tracked · **184** open now
+**281** tracked · **186** open now
 
 ## Current openings
 
@@ -61,9 +61,11 @@
 | [Encore Global](generated/companies/encore-global.md) | [IT Security Intern](https://go.vansh.nyc/1xr) | Coppell, TX | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [EP Wealth Advisors](generated/companies/ep-wealth-advisors.md) | [Cybersecurity Intern](https://go.vansh.nyc/1F5) | Torrance, CA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Ericsson](generated/companies/ericsson.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/Vu) | Plano, TX | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❌ |
+| [Fabri](generated/companies/fabri.md) | [DevOps, IT & Cybersecurity Intern](https://go.vansh.nyc/1Gk) | Billerica, MA | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
 | [FHLBank Chicago](generated/companies/fhlbank-chicago.md) | [Cybersecurity Intern](https://go.vansh.nyc/1cN) | Chicago, IL | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Figma](generated/companies/figma.md) | [PhD Intern, Security Engineer (2027)](https://boards.greenhouse.io/figma/jobs/6238015004?gh_jid=6238015004) | San Francisco | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Filevine](generated/companies/filevine.md) | [Security Specialist Intern](https://go.vansh.nyc/XI) | Salt Lake City, UT | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| [First PREMIER Bank](generated/companies/first-premier-bank.md) | [Information Security Intern](https://go.vansh.nyc/1Gg) | Sioux Falls, SD | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Fiserv](generated/companies/fiserv.md) | [Technology Intern, Cybersecurity](https://go.vansh.nyc/1AT) | Columbus, OH | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | [Fiserv](generated/companies/fiserv.md) | [Technology Intern, Cybersecurity](https://go.vansh.nyc/1AS) | Berkeley Heights, NJ | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | [Garmin](generated/companies/garmin.md) | [Cyber Security Engineer Intern](https://go.vansh.nyc/R5) | Olathe, KS | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
@@ -362,9 +364,11 @@
 - Encore Global (1)
 - EP Wealth Advisors (1)
 - Ericsson (1)
+- Fabri (1)
 - FHLBank Chicago (1)
 - Figma (1)
 - Filevine (1)
+- First PREMIER Bank (1)
 - Garmin (1)
 - GCM Grosvenor (1)
 - General Dynamics Mission Systems, Inc. (1)

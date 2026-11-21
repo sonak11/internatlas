@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-21",
-  "count": 11299,
+  "count": 11310,
   "internships": [
     {
       "schema_version": "1.0",
@@ -6890,6 +6890,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "advance-auto-parts-data-science-intern-2027",
+      "company": {
+        "name": "Advance Auto Parts",
+        "slug": "advance-auto-parts"
+      },
+      "role": "Data Science Intern",
+      "category": "data-science",
+      "apply_url": "https://go.vansh.nyc/1Gi",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Raleigh",
+          "state": "NC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-21",
+        "discovered": "2026-11-21",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -41292,7 +41344,7 @@
         "discovered": "2026-11-17",
         "last_verified": "2026-11-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -49174,6 +49226,58 @@
         "auto-ingested",
         "src:simplify",
         "remote-available"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ariensco-product-management-intern-2027",
+      "company": {
+        "name": "AriensCo",
+        "slug": "ariensco"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Brillion",
+          "state": "WI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-20",
+        "discovered": "2026-11-21",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -70448,9 +70552,9 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-09-14",
-        "last_verified": "2026-10-02"
+        "last_verified": "2026-11-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -75158,6 +75262,60 @@
         "graduation_years": [],
         "degree_levels": [
           "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-16",
+        "discovered": "2026-11-21",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "blizzard-entertainment-data-platform-engineering-intern-data-platform-engineering-2027",
+      "company": {
+        "name": "Blizzard Entertainment",
+        "slug": "blizzard-entertainment"
+      },
+      "role": "Data Platform Engineering Intern - Data Platform Engineering",
+      "category": "cloud",
+      "apply_url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
         ],
         "citizenship_required": false,
         "security_clearance_required": false,
@@ -132755,6 +132913,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "compassion-international-summer-intern-data-and-software-engineering-2027",
+      "company": {
+        "name": "Compassion International",
+        "slug": "compassion-international"
+      },
+      "role": "Summer Intern - Data and Software Engineering",
+      "category": "software-engineering",
+      "apply_url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Colorado Springs",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
+        "discovered": "2026-11-21",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "compeer-financial-data-analytics-intern-2027-a7379d",
       "company": {
         "name": "Compeer Financial",
@@ -182985,6 +183195,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "fabri-devops-it-cybersecurity-intern-2027",
+      "company": {
+        "name": "Fabri",
+        "slug": "fabri"
+      },
+      "role": "DevOps, IT & Cybersecurity Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/1Gk",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Billerica",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-21",
+        "discovered": "2026-11-21",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "faire-applied-ai-ml-scientist-intern-2027",
       "company": {
         "name": "Faire",
@@ -184600,9 +184862,9 @@
       "dates": {
         "posted": "2026-10-29",
         "discovered": "2026-11-13",
-        "last_verified": "2026-11-20"
+        "last_verified": "2026-11-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -190229,6 +190491,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "first-premier-bank-information-security-intern-2027",
+      "company": {
+        "name": "First PREMIER Bank",
+        "slug": "first-premier-bank"
+      },
+      "role": "Information Security Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/1Gg",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Sioux Falls",
+          "state": "SD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-20",
+        "discovered": "2026-11-21",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -211233,9 +211547,9 @@
       "dates": {
         "posted": "2026-09-11",
         "discovered": "2026-09-11",
-        "last_verified": "2026-10-03"
+        "last_verified": "2026-11-21"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -299023,6 +299337,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "littelfuse-r-d-engineering-intern-2027",
+      "company": {
+        "name": "Littelfuse",
+        "slug": "littelfuse"
+      },
+      "role": "R&D Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-University-Relations/job/Rapid-City/R-D-Engineering-Intern_JR-112833-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Rapid City",
+          "state": "SD",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-20",
+        "discovered": "2026-11-21",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "little-caesars-enterprises-cyber-it-intern-2027",
       "company": {
         "name": "Little Caesars Enterprises",
@@ -318036,6 +318404,57 @@
       "dates": {
         "posted": "2026-09-14",
         "discovered": "2026-10-23",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "mbda-software-work-experience-intern-2027",
+      "company": {
+        "name": "MBDA",
+        "slug": "mbda"
+      },
+      "role": "Software Work Experience Intern",
+      "category": "software-engineering",
+      "apply_url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Work-Experience---Stevenage-2027_R40714",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Stevenage",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
+        "discovered": "2026-11-21",
         "last_verified": "2026-11-21"
       },
       "status": "open",
@@ -371937,7 +372356,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-11-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -372314,7 +372733,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -564518,7 +564937,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-11-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -587084,6 +587503,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "walmart-mba-product-manager-intern-mba-2027",
+      "company": {
+        "name": "Walmart",
+        "slug": "walmart"
+      },
+      "role": "MBA Product Manager Intern - MBA",
+      "category": "product",
+      "apply_url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Bentonville",
+          "state": "AR",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-20",
+        "discovered": "2026-11-21",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "walmart-senior-data-scientist-intern-2027",
       "company": {
         "name": "Walmart",
@@ -599150,6 +599621,63 @@
     },
     {
       "schema_version": "1.0",
+      "id": "woodward-governor-ai-intern-2027",
+      "company": {
+        "name": "Woodward Governor",
+        "slug": "woodward-governor"
+      },
+      "role": "AI Intern",
+      "category": "ai",
+      "apply_url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Niles",
+          "state": "IL",
+          "country": "USA"
+        },
+        {
+          "city": "Fort Collins",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-20",
+        "discovered": "2026-11-21",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "woodward-governor-sap-s-4hana-analyst-intern-2027",
       "company": {
         "name": "Woodward Governor",
@@ -600219,6 +600747,58 @@
       "dates": {
         "posted": "2026-10-28",
         "discovered": "2026-10-28",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "worthington-enterprises-ai-intern-2027",
+      "company": {
+        "name": "Worthington Enterprises",
+        "slug": "worthington-enterprises"
+      },
+      "role": "AI Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1Gj",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Columbus",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-20",
+        "discovered": "2026-11-21",
         "last_verified": "2026-11-21"
       },
       "status": "open",

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**319** tracked · **150** open now
+**321** tracked · **152** open now
 
 ## Current openings
 
@@ -26,6 +26,7 @@
 | [APEX Analytix](generated/companies/apex-analytix.md) | [Product Management Intern](https://ats.rippling.com/apexanalytix-careers/jobs/116e13fe-7202-45ba-a119-a81af4fcb4b9) | Greensboro, NC | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Appian](generated/companies/appian.md) | [Product Manager Intern](https://job-boards.greenhouse.io/appian/jobs/8041243) | McLean, VA | Onsite | 2026-07-23 | Rolling | 🟢 Open | ❔ |
 | [Appian](generated/companies/appian.md) | [Product Manager Intern](https://go.vansh.nyc/4G) | McLean, VA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
+| [AriensCo](generated/companies/ariensco.md) | [Product Management Intern](https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305) | Brillion, WI | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [AspenTech](generated/companies/aspentech.md) | [Product Owner Intern - Product Management](https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Bedford-Massachusetts/Product-Owner-Intern---Product-Management----Summer-2027_R9471) | Houston, TX +1 | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Astera Labs](generated/companies/astera-labs.md) | [Platform Solutions Product Management Intern](https://go.vansh.nyc/Fu) | Cary, NC | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [Badger Meter](generated/companies/badger-meter.md) | [Product Management Intern](https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676) | Milwaukee, WI | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
@@ -154,6 +155,7 @@
 | [Vertiv](generated/companies/vertiv.md) | [Product Management Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278958) | Delaware, OH | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❌ |
 | [Vertiv](generated/companies/vertiv.md) | [Product Management Intern - MBA - Power Solutions & Distribution](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278959) | Delaware, OH | Onsite | 2026-08-12 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [Product Management Intern, MBA](https://go.vansh.nyc/7y) | Delaware, OH | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
+| [Walmart](generated/companies/walmart.md) | [MBA Product Manager Intern - MBA](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-Together-Building-AR-Bentonville-Home-Office/Summer-2027-MBA-Intern--APD-Product-Manager---MBA_R-2630166) | Bentonville, AR | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Workday](generated/companies/workday.md) | [Product Manager Intern](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813) | Pleasanton, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Zebra Technologies](generated/companies/zebra-technologies.md) | [Product Management Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652) | Lincolnshire, IL | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Zurn Elkay Water Solutions](generated/companies/zurn-elkay-water-solutions.md) | [Product Management Intern](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109) | Paso Robles, CA | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
@@ -354,6 +356,7 @@
 - ServiceNow (3)
 - Signify (3)
 - Springs Window Fashions (3)
+- Walmart (3)
 - Zurn Elkay Water Solutions (3)
 - Duolingo (3)
 - Goldman Sachs (3)
@@ -390,7 +393,6 @@
 - Publicis Groupe (2)
 - ROCKWOOL Group (2)
 - Sonos (2)
-- Walmart (2)
 - ABB (1)
 - Acuity (1)
 - ADT (1)
@@ -398,6 +400,7 @@
 - Allstate (1)
 - Amplify (1)
 - APEX Analytix (1)
+- AriensCo (1)
 - AspenTech (1)
 - Astera Labs (1)
 - Badger Meter (1)

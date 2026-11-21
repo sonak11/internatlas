@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**1033** tracked · **490** open now
+**1035** tracked · **491** open now
 
 ## Current openings
 
@@ -38,7 +38,6 @@
 | [Amgen](generated/companies/amgen.md) | [AI-Enabled Knowledge Graphs for Patient Journey Analytics Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Knowledge-Graph-Applications--Summer-2027-_R-260625) | Remote | Remote | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Amplify](generated/companies/amplify.md) | [AI Scientist Intern](https://jobs.ashbyhq.com/amplify/bb45b7f6-dd7e-40e5-84e6-52e21650a7b8/application?embed=true) | Remote | Remote | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | [Amplify](generated/companies/amplify.md) | [AI Scientist Intern](https://go.vansh.nyc/c5) | Remote | Remote | 2026-10-19 | Rolling | 🟢 Open | ❔ |
-| [Angel Host](generated/companies/angel-host.md) | [AI Product Engineer Intern Co-op](https://angelhost.bamboohr.com/careers/123/) | Montreal | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | [Aon](generated/companies/aon.md) | [IT / AI Engineer Intern](https://jobs.aon.com/jobs/110099?icims=1) | Chicago, IL | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Aon](generated/companies/aon.md) | [IT/AI Engineer Intern](https://go.vansh.nyc/dU) | Chicago, IL | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Apache Industrial](generated/companies/apache-industrial.md) | [AI Implementation Intern](https://go.vansh.nyc/1ol) | Houston, TX | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
@@ -493,6 +492,8 @@
 | [West Monroe](generated/companies/west-monroe.md) | [Software Engineering Consultant Intern - AI Concentration](https://go.vansh.nyc/1ta) | Seattle, WA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | [William Blair](generated/companies/william-blair.md) | [Agentic AI Development Intern](https://www.williamblair.com/Careers/job-description?gh_jid=5242282007) | Chicago, IL | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [William Blair](generated/companies/william-blair.md) | [Agentic AI Development Intern](https://go.vansh.nyc/1t8) | Chicago, IL | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
+| [Woodward Governor](generated/companies/woodward-governor.md) | [AI Intern](https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291) | Niles, IL +1 | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
+| [Worthington Enterprises](generated/companies/worthington-enterprises.md) | [AI Intern](https://go.vansh.nyc/1Gj) | Columbus, OH | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [xAI](generated/companies/xai.md) | [Spring 2027 Business Operations Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255113007) | Austin, TX | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [xAI](generated/companies/xai.md) | [Summer 2027 Business Operations Internship/Co-op](https://job-boards.greenhouse.io/xai/jobs/5255116007) | Austin, TX | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Yotta Labs](generated/companies/yotta-labs.md) | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | Remote | Remote | 2026-08-02 | Rolling | 🟢 Open | ❔ |
@@ -540,6 +541,7 @@
 | [American Family Insurance Group](generated/companies/american-family-insurance-group.md) | [AI Platform Engineering Intern](https://amfam.wd1.myworkdayjobs.com/en-US/Careers/job/WI-Madison/Product-Data-Engineering-Intern--Hybrid-_R39462) | Madison, WI | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [American Fidelity](generated/companies/american-fidelity.md) | [Agentic AI Intern](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/IT-Intern-1_JR1016) | Oklahoma City, OK | Onsite | 2026-08-17 | Rolling | 🔴 Closed | ❔ |
 | [Amwins](generated/companies/amwins.md) | [Analytics & AI Intern](https://www.amwins.com/who-we-are/careers/open-positions?gh_jid=4302229009) | Hartford, CT | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
+| [Angel Host](generated/companies/angel-host.md) | [AI Product Engineer Intern Co-op](https://angelhost.bamboohr.com/careers/123/) | Montreal | Onsite | 2026-11-17 | Rolling | 🔴 Closed | ❔ |
 | [Apache Industrial](generated/companies/apache-industrial.md) | [AI Implementation Intern](https://go.vansh.nyc/1fA) | Houston, TX | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | [Apple](generated/companies/apple.md) | [Software Engineering Intern, AI-Assisted Baseband Debugging Evaluation](https://go.vansh.nyc/D3) | USA | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 | [Aptura](generated/companies/aptura.md) | [Investment Banking Intern - AI Evaluation](https://jobs.ashbyhq.com/aptura/44d8b5f7-bbb9-434b-8374-7ea1a9426910/application?embed=true) | London | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
@@ -1262,7 +1264,6 @@
 - Amcor (1)
 - Americo Financial Life and Annuity (1)
 - Amgen (1)
-- Angel Host (1)
 - Aptiv (1)
 - Argmax (1)
 - AstraZeneca (1)
@@ -1361,6 +1362,8 @@
 - Virginia Tech Applied Research Corporation (1)
 - Werner Electric Supply (1)
 - West Monroe (1)
+- Woodward Governor (1)
+- Worthington Enterprises (1)
 - Yotta Labs (1)
 - 1X (1)
 - Acumatica (1)
@@ -1373,6 +1376,7 @@
 - American Enterprise Institute (1)
 - American Fidelity (1)
 - Amwins (1)
+- Angel Host (1)
 - Apple (1)
 - Aptura (1)
 - Baringa (1)

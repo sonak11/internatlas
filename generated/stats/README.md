@@ -33,19 +33,19 @@ _Generated 2026-11-21_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 6507 | `██████████████` |
-| ai | 1033 | `██` |
+| software-engineering | 6510 | `██████████████` |
+| ai | 1035 | `██` |
 | machine-learning | 536 | `█` |
-| data-science | 447 | `█` |
+| data-science | 448 | `█` |
 | quant | 401 | `█` |
 | hardware | 380 | `█` |
 | embedded | 346 | `█` |
 | research | 328 | `█` |
-| product | 319 | `█` |
+| product | 321 | `█` |
 | design | 282 | `█` |
-| security | 279 | `█` |
+| security | 281 | `█` |
 | data-engineering | 243 | `█` |
-| cloud | 198 | `█` |
+| cloud | 199 | `█` |
 
 ## Newest listings
 
@@ -53,6 +53,7 @@ _Generated 2026-11-21_
 - 2026-11-21 — **Acuity Insurance**: [Data Analytics Intern - Data Science](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7)
 - 2026-11-21 — **Acuity Insurance**: [Software Engineer Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217)
 - 2026-11-21 — **Acuity Insurance**: [Strategic Information Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7)
+- 2026-11-21 — **Advance Auto Parts**: [Data Science Intern](https://go.vansh.nyc/1Gi)
 - 2026-11-21 — **Applied Research Associates**: [Software Quality Assurance Intern](https://go.vansh.nyc/1FU)
 - 2026-11-21 — **Bombardier**: [Software Engineering Intern](https://go.vansh.nyc/1FS)
 - 2026-11-21 — **Calamos Investments**: [Application Development Intern](https://go.vansh.nyc/1FW)
@@ -63,12 +64,11 @@ _Generated 2026-11-21_
 - 2026-11-21 — **Celestica**: [Salesforce Developer 1 Intern](https://go.vansh.nyc/1FT)
 - 2026-11-21 — **Daikin Comfort**: [Programmer Analyst Intern](https://go.vansh.nyc/1FH)
 - 2026-11-21 — **Etched**: [Signal Integrity and Power Integrity Intern](https://jobs.ashbyhq.com/etched/45639738-0414-43e2-a5e7-b4acc928d62d/application?embed=true)
+- 2026-11-21 — **Fabri**: [DevOps, IT & Cybersecurity Intern](https://go.vansh.nyc/1Gk)
 - 2026-11-21 — **iA**: [Industrial Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1)
 - 2026-11-21 — **Koch Industries**: [Data and Analytics Intern](https://koch.avature.net/en_US/careers/JobDetail/198151)
 - 2026-11-21 — **Lucid Motors**: [ADAS Platform Tools Intern](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007)
 - 2026-11-21 — **Mesirow**: [Cloud Engineering Intern, IT](https://go.vansh.nyc/1FZ)
-- 2026-11-21 — **NVIDIA**: [Technical Marketing Engineering Intern, Digital Biology and Scientific Computing](https://go.vansh.nyc/1Gd)
-- 2026-11-21 — **Rockwell Automation**: [ISM, Cyber Security and AI Intern](https://go.vansh.nyc/1G7)
 
 ## Recently closed
 
@@ -188,6 +188,7 @@ _Generated 2026-11-21_
 - Analog Devices — Algorithm Development Engineer Intern
 - Analog Devices — Information Technology Intern
 - Angel City — Data Analytics Intern
+- Angel Host — AI Product Engineer Intern Co-op
 - AngloGold Ashanti — Diagnostic Intern
 - AngloGold Ashanti — Tailings Intern
 - Antares — Reactor Software Engineering Intern
@@ -544,7 +545,6 @@ _Generated 2026-11-21_
 - Farmers Mutual Hail — QA Automation Engineer Intern
 - Farmers Mutual Hail — Software Developer Intern
 - Farmers Mutual Hail — Software Developer Intern
-- Federal Home Loan Bank of Dallas — Digital Transformation Intern
 - Federal Home Loan Bank of Dallas — Digital Transformation Intern
 - FedEx — Data Science Intern
 - FieldPulse — AI Intern
@@ -984,6 +984,8 @@ _Generated 2026-11-21_
 - NVIDIA — PhD Research Intern - Quantum Simulation and AI
 - NVIDIA — Product Management MBA Intern - Gaming, Content Creation, And PC AI
 - NVIDIA — Systems Software Engineering Intern
+- NXP Semiconductors — Digital Physical Design Intern - P&R
+- NXP Semiconductors — Hardware/Software System and Application Engineer Intern
 - OATEY — Product Management Intern
 - OCC — Quantitative Risk Management Intern
 - OCC — Quantitative Risk Management Intern
@@ -1438,6 +1440,7 @@ _Generated 2026-11-21_
 - Trinity Life Sciences — Data Science Intern
 - Trinity Life Sciences — Data Science Intern
 - TruStage — Information Technology Development and Infrastructure Intern
+- Tyler Technologies — Software Development Intern - Summer 2027
 - UiPath — AI Engineer Intern
 - UiPath — Software Engineer Intern
 - Uline — Systems Administrator Intern

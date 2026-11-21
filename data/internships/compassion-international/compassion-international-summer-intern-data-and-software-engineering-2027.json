@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "id": "compassion-international-summer-intern-data-and-software-engineering-2027",
+  "company": {
+    "name": "Compassion International",
+    "slug": "compassion-international"
+  },
+  "role": "Summer Intern - Data and Software Engineering",
+  "category": "software-engineering",
+  "apply_url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Colorado Springs",
+      "state": "CO",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-11-19",
+    "discovered": "2026-11-21",
+    "last_verified": "2026-11-21"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**198** tracked · **126** open now
+**199** tracked · **127** open now
 
 ## Current openings
 
@@ -19,6 +19,7 @@
 | [Aptiv](generated/companies/aptiv.md) | [Cloud Software Engineer Intern](https://go.vansh.nyc/8t) | CAN Kanata | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Arcesium](generated/companies/arcesium.md) | [Infrastructure Engineer Intern](https://go.vansh.nyc/ga) | New York, NY | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Atomic Semi](generated/companies/atomic-semi.md) | [Infrastructure Software Engineering Intern](https://jobs.ashbyhq.com/atomicsemi/867c67f7-20b5-4726-b9da-85a760d3851e) | San Francisco, CA +1 | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❌ |
+| [Blizzard Entertainment](generated/companies/blizzard-entertainment.md) | [Data Platform Engineering Intern - Data Platform Engineering](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358) | Irvine, CA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Backend Developer Intern - Infrastructure Platform Delivery](https://jobs.bytedance.com/en/position/7668489218234157365/detail) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Backend Development Engineer Intern, Infrastructure Platform Delivery](https://go.vansh.nyc/17L) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US](https://go.vansh.nyc/14h) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
@@ -234,6 +235,7 @@
 - Activision Blizzard (1)
 - APEX Analytix (1)
 - Arcesium (1)
+- Blizzard Entertainment (1)
 - Cadence (1)
 - Calamos Investments (1)
 - Cambridge Consultants (1)

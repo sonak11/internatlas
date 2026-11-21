@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**447** tracked · **215** open now
+**448** tracked · **216** open now
 
 ## Current openings
 
@@ -10,6 +10,7 @@
 |---|---|---|---|---|---|---|---|
 | [AARP](generated/companies/aarp.md) | [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) | Washington, DC | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [Acuity Insurance](generated/companies/acuity-insurance.md) | [Data Analytics Intern - Data Science](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7) | Sheboygan, WI | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
+| [Advance Auto Parts](generated/companies/advance-auto-parts.md) | [Data Science Intern](https://go.vansh.nyc/1Gi) | Raleigh, NC | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
 | [Allstate](generated/companies/allstate.md) | [Data Science Intern - Core Telematics](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285) | Illinois | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Allstate](generated/companies/allstate.md) | [Data Science Intern, Core Telematics](https://go.vansh.nyc/ff) | USA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [APEX Analytix](generated/companies/apex-analytix.md) | [Data Science Intern](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53) | Greensboro, NC | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
@@ -571,6 +572,7 @@
 - Xcel Energy (2)
 - AARP (1)
 - Acuity Insurance (1)
+- Advance Auto Parts (1)
 - AspenTech (1)
 - Beli (1)
 - Blue Cross Blue Shield of Michigan (1)
