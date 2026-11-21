@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "trimble-software-engineering-intern-2027-98b2e4",
+  "id": "nvidia-technical-marketing-engineering-intern-digital-biology-and-s-2027",
   "company": {
-    "name": "Trimble",
-    "slug": "trimble"
+    "name": "NVIDIA",
+    "slug": "nvidia"
   },
-  "role": "Software Engineering Intern",
+  "role": "Technical Marketing Engineering Intern, Digital Biology and Scientific Computing",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/h6",
-  "season": "spring",
+  "apply_url": "https://go.vansh.nyc/1Gd",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Richmond Hill",
-      "country": "Canada"
+      "city": "Santa Clara",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-23",
-    "discovered": "2026-11-10",
+    "posted": "2026-11-21",
+    "discovered": "2026-11-21",
     "last_verified": "2026-11-21"
   },
   "status": "open",

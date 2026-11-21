@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-21",
-  "count": 11295,
+  "count": 11299,
   "internships": [
     {
       "schema_version": "1.0",
@@ -3948,6 +3948,58 @@
         "last_verified": "2026-10-21"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "activision-blizzard-data-platform-engineering-intern-2027",
+      "company": {
+        "name": "Activision Blizzard",
+        "slug": "activision-blizzard"
+      },
+      "role": "Data Platform Engineering Intern",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/1Ge",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-21",
+        "discovered": "2026-11-21",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -59376,6 +59428,60 @@
         "last_verified": "2026-10-29"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "aurora-innovation-hardware-systems-engineer-intern-2027",
+      "company": {
+        "name": "Aurora Innovation",
+        "slug": "aurora-innovation"
+      },
+      "role": "Hardware Systems Engineer Intern",
+      "category": "hardware",
+      "apply_url": "https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Pittsburgh",
+          "state": "PA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-01",
+        "discovered": "2026-11-21",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -117580,7 +117686,7 @@
         "discovered": "2026-10-23",
         "last_verified": "2026-11-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -165684,7 +165790,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -177629,6 +177735,60 @@
         "last_verified": "2026-10-11"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "etched-signal-integrity-and-power-integrity-intern-2027",
+      "company": {
+        "name": "Etched",
+        "slug": "etched"
+      },
+      "role": "Signal Integrity and Power Integrity Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.ashbyhq.com/etched/45639738-0414-43e2-a5e7-b4acc928d62d/application?embed=true",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-21",
+        "discovered": "2026-11-21",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -213014,7 +213174,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "giro-front-end-web-development-intern-2027",
+      "id": "giro-front-end-web-development-intern-2027-feeb12",
       "company": {
         "name": "GIRO",
         "slug": "giro"
@@ -213054,13 +213214,64 @@
       },
       "dates": {
         "posted": "2026-11-12",
-        "discovered": "2026-11-12",
+        "discovered": "2026-11-21",
         "last_verified": "2026-11-21"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "giro-front-end-web-development-intern-2027",
+      "company": {
+        "name": "GIRO",
+        "slug": "giro"
+      },
+      "role": "Front-End Web Development Intern",
+      "category": "software-engineering",
+      "apply_url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Hiver-2027---Stagiaire-en-dveloppement-web--Front-end_R-100000317",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Montreal",
+          "country": "QC"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-01",
+        "discovered": "2026-11-12",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -238733,7 +238944,7 @@
         "discovered": "2026-11-10",
         "last_verified": "2026-11-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -246503,7 +246714,7 @@
         "discovered": "2026-10-24",
         "last_verified": "2026-11-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -247293,6 +247504,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "ia-industrial-engineer-intern-2027",
+      "company": {
+        "name": "iA",
+        "slug": "ia"
+      },
+      "role": "Industrial Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Johnson City",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-21",
+        "discovered": "2026-11-21",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -286628,7 +286891,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -329662,7 +329925,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "microsoft-data-scientist-intern-coreai-2027-5940ef",
+      "id": "microsoft-data-scientist-intern-coreai-2027",
       "company": {
         "name": "Microsoft",
         "slug": "microsoft"
@@ -329670,58 +329933,6 @@
       "role": "Data Scientist Intern, CoreAI",
       "category": "data-science",
       "apply_url": "https://go.vansh.nyc/1wj",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Redmond",
-          "state": "WA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-11-12",
-        "discovered": "2026-11-12",
-        "last_verified": "2026-11-21"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "microsoft-data-scientist-intern-coreai-2027",
-      "company": {
-        "name": "Microsoft",
-        "slug": "microsoft"
-      },
-      "role": "Data Scientist Intern - CoreAI",
-      "category": "data-science",
-      "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393557027390",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
@@ -329763,7 +329974,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -370750,6 +370961,58 @@
       "dates": {
         "posted": "2026-10-18",
         "discovered": "2026-10-21",
+        "last_verified": "2026-11-21"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "nvidia-technical-marketing-engineering-intern-digital-biology-and-s-2027",
+      "company": {
+        "name": "NVIDIA",
+        "slug": "nvidia"
+      },
+      "role": "Technical Marketing Engineering Intern, Digital Biology and Scientific Computing",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1Gd",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Santa Clara",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-21",
+        "discovered": "2026-11-21",
         "last_verified": "2026-11-21"
       },
       "status": "open",
@@ -465113,7 +465376,7 @@
         "discovered": "2026-11-14",
         "last_verified": "2026-11-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -465165,7 +465428,7 @@
         "discovered": "2026-11-14",
         "last_verified": "2026-11-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -465424,7 +465687,7 @@
         "discovered": "2026-11-14",
         "last_verified": "2026-11-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -465475,7 +465738,7 @@
         "discovered": "2026-11-14",
         "last_verified": "2026-11-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -528677,7 +528940,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -561501,7 +561764,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "trimble-software-engineering-intern-2027-98b2e4",
+      "id": "trimble-software-engineering-intern-2027",
       "company": {
         "name": "Trimble",
         "slug": "trimble"
@@ -561541,58 +561804,6 @@
       },
       "dates": {
         "posted": "2026-10-23",
-        "discovered": "2026-11-10",
-        "last_verified": "2026-11-21"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "trimble-software-engineering-intern-2027",
-      "company": {
-        "name": "Trimble",
-        "slug": "trimble"
-      },
-      "role": "Software Engineering Intern",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/1rP",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Knoxville",
-          "state": "TN",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-11-10",
         "discovered": "2026-10-24",
         "last_verified": "2026-11-21"
       },
@@ -586979,7 +587190,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-11-21"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

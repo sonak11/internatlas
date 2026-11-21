@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-21
 
-## 🆕 New this week (533)
+## 🆕 New this week (537)
 
 - **AFL** — [Web Design/Development Intern](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80) · design · —
 - **AFL** — [Web Design/Development Intern](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=6e9432db-e1de-4103-b8dd-5bfd57365e4d) · design · —
@@ -8,6 +8,7 @@
 - **AON3D** — [Software Developer Intern](https://job-boards.greenhouse.io/aon3d/jobs/4504702009) · software-engineering · —
 - **AON3D** — [Software Developer Intern](https://go.vansh.nyc/1EC) · software-engineering · —
 - **APEX Analytix** — [Product Management Intern - DevOps](https://ats.rippling.com/apexanalytix-careers/jobs/101ae05c-1f3c-4d80-9f71-216aa078c164) · cloud · —
+- **Activision Blizzard** — [Data Platform Engineering Intern](https://go.vansh.nyc/1Ge) · cloud · —
 - **Acuity Insurance** — [Data Analytics Intern - Data Science](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7) · data-science · —
 - **Acuity Insurance** — [Software Engineer Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217) · software-engineering · —
 - **Acuity Insurance** — [Strategic Information Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7) · software-engineering · —
@@ -134,6 +135,7 @@
 - **Encore** — [IT Application Development Intern - Summer 2027](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=542e34a6-1977-4fcb-a173-6f32705efcb8) · software-engineering · —
 - **Encore** — [IT Data Analyst Intern](https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=00243c22-9228-4aab-8146-9699c52b1fa0) · software-engineering · —
 - **Ericsson** — [AI Software Engineer Intern](https://go.vansh.nyc/1zB) · ai · —
+- **Etched** — [Signal Integrity and Power Integrity Intern](https://jobs.ashbyhq.com/etched/45639738-0414-43e2-a5e7-b4acc928d62d/application?embed=true) · software-engineering · —
 - **Exowatt** — [Robotics & Physical AI Intern](https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c/apply) · ai · —
 - **Exowatt** — [Robotics & Physical AI Intern](https://go.vansh.nyc/1Bq) · ai · —
 - **Falcomm** — [AI/ML Software Engineer Graduate Intern - AI/CAD Integration](https://apply.workable.com/falcomm/j/41F139E6F7/apply) · machine-learning · —
@@ -328,6 +330,7 @@
 - **Motorola Solutions** — [RFIC Design Engineer Intern](https://go.vansh.nyc/1Cl) · design · —
 - **NBCUniversal** — [Digital Transformation AR/VR Intern](https://go.vansh.nyc/1Ai) · software-engineering · —
 - **NVIDIA** — [Finance AI Engineering Intern](https://go.vansh.nyc/1Eh) · ai · —
+- **NVIDIA** — [Technical Marketing Engineering Intern, Digital Biology and Scientific Computing](https://go.vansh.nyc/1Gd) · software-engineering · —
 - **National Interstate Insurance** — [Data Engineer Developer Intern](https://go.vansh.nyc/1Ek) · data-engineering · —
 - **National Interstate Insurance** — [Predictive Analytics Intern](https://go.vansh.nyc/1AE) · software-engineering · —
 - **Nelnet** — [Data Analytics Intern](https://go.vansh.nyc/1Ev) · software-engineering · —
@@ -531,6 +534,7 @@
 - **Zurich Insurance** — [Data Analytics & AI Intern](https://go.vansh.nyc/1AD) · ai · —
 - **enGen** — [Data Engineer & Analyst Undergraduate Intern](https://go.vansh.nyc/1DQ) · data-engineering · —
 - **i3** — [Embedded Systems Reverse Engineer Intern](https://go.vansh.nyc/1Af) · embedded · —
+- **iA** — [Industrial Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1) · software-engineering · —
 - **iA** — [Software Data Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1) · data-engineering · —
 - **iA** — [Software Development Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936414429_1) · software-engineering · —
 - **iCapital Network** — [Data Solutions Intern](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8945261002) · software-engineering · —

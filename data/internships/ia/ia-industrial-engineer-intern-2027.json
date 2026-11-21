@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "microsoft-data-scientist-intern-coreai-2027-5940ef",
+  "id": "ia-industrial-engineer-intern-2027",
   "company": {
-    "name": "Microsoft",
-    "slug": "microsoft"
+    "name": "iA",
+    "slug": "ia"
   },
-  "role": "Data Scientist Intern, CoreAI",
-  "category": "data-science",
-  "apply_url": "https://go.vansh.nyc/1wj",
+  "role": "Industrial Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Redmond",
-      "state": "WA",
+      "city": "Johnson City",
+      "state": "NY",
       "country": "USA"
     }
   ],
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-12",
-    "discovered": "2026-11-12",
+    "posted": "2026-11-21",
+    "discovered": "2026-11-21",
     "last_verified": "2026-11-21"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

@@ -15,7 +15,7 @@ _Generated 2026-11-21_
 | Marvell | 92 |
 | Qualcomm | 92 |
 | Royal Bank of Canada | 92 |
-| NVIDIA | 90 |
+| NVIDIA | 91 |
 | Waymo | 87 |
 | Booz Allen | 80 |
 | American Express | 79 |
@@ -27,28 +27,29 @@ _Generated 2026-11-21_
 | L3Harris Technologies | 55 |
 | Cloudflare | 50 |
 | Jump Trading | 50 |
-| Microsoft | 50 |
+| Microsoft | 49 |
 
 ## Listings by category
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 6504 | `██████████████` |
+| software-engineering | 6507 | `██████████████` |
 | ai | 1033 | `██` |
 | machine-learning | 536 | `█` |
-| data-science | 448 | `█` |
+| data-science | 447 | `█` |
 | quant | 401 | `█` |
-| hardware | 379 | `█` |
+| hardware | 380 | `█` |
 | embedded | 346 | `█` |
 | research | 328 | `█` |
 | product | 319 | `█` |
 | design | 282 | `█` |
 | security | 279 | `█` |
 | data-engineering | 243 | `█` |
-| cloud | 197 | `█` |
+| cloud | 198 | `█` |
 
 ## Newest listings
 
+- 2026-11-21 — **Activision Blizzard**: [Data Platform Engineering Intern](https://go.vansh.nyc/1Ge)
 - 2026-11-21 — **Acuity Insurance**: [Data Analytics Intern - Data Science](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7)
 - 2026-11-21 — **Acuity Insurance**: [Software Engineer Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217)
 - 2026-11-21 — **Acuity Insurance**: [Strategic Information Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3cb5586d-26d4-442b-9461-5c97f9b52cf7)
@@ -61,14 +62,13 @@ _Generated 2026-11-21_
 - 2026-11-21 — **Canadian Solar**: [Data Engineering Intern](https://go.vansh.nyc/1G8)
 - 2026-11-21 — **Celestica**: [Salesforce Developer 1 Intern](https://go.vansh.nyc/1FT)
 - 2026-11-21 — **Daikin Comfort**: [Programmer Analyst Intern](https://go.vansh.nyc/1FH)
+- 2026-11-21 — **Etched**: [Signal Integrity and Power Integrity Intern](https://jobs.ashbyhq.com/etched/45639738-0414-43e2-a5e7-b4acc928d62d/application?embed=true)
+- 2026-11-21 — **iA**: [Industrial Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1)
 - 2026-11-21 — **Koch Industries**: [Data and Analytics Intern](https://koch.avature.net/en_US/careers/JobDetail/198151)
 - 2026-11-21 — **Lucid Motors**: [ADAS Platform Tools Intern](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007)
 - 2026-11-21 — **Mesirow**: [Cloud Engineering Intern, IT](https://go.vansh.nyc/1FZ)
+- 2026-11-21 — **NVIDIA**: [Technical Marketing Engineering Intern, Digital Biology and Scientific Computing](https://go.vansh.nyc/1Gd)
 - 2026-11-21 — **Rockwell Automation**: [ISM, Cyber Security and AI Intern](https://go.vansh.nyc/1G7)
-- 2026-11-21 — **Southern Farm Bureau Life Insurance**: [Cyber Security Intern](https://go.vansh.nyc/1G1)
-- 2026-11-21 — **Southwest Power Pool**: [Identity and Access Management (IAM) Analyst Intern, Information Security and Access Management](https://go.vansh.nyc/1FI)
-- 2026-11-21 — **Watchfire Signs**: [Software Engineering Intern](https://go.vansh.nyc/1FJ)
-- 2026-11-20 — **AFL**: [Web Design/Development Intern](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80)
 
 ## Recently closed
 
@@ -360,6 +360,7 @@ _Generated 2026-11-21_
 - Charter Manufacturing — Automation & Analytics Intern
 - CIBC — Associate Technology Leadership Advancement Program Intern
 - Ciena — Software Developer Intern
+- Ciena — Software Developer Intern
 - Cigna — Software Engineering Intern
 - Cigna Group — Business Analytics Intern
 - Cigna Group — Healthcare Analytics Intern
@@ -487,6 +488,7 @@ _Generated 2026-11-21_
 - Ecolab — Digital & AI Technology Intern
 - Ecolab — Digital & AI Technology Intern
 - Edison International — Computer Science Intern
+- Edison International — Summer Internship - Data Analytics/Science/Applied Math
 - Eight Sleep — Firmware Intern
 - Elanco — Pet Health Sales Excellence Intern - AI Innovation & Enablement
 - Election Systems & Software — Information Systems Software Developer Intern
@@ -680,6 +682,7 @@ _Generated 2026-11-21_
 - Highmark Health — Provider Delivery Software Engineer Intern
 - Highmark Health — Reimbursement Analyst Intern
 - Highmark Health — Vulnerability Management Analyst Undergraduate Intern
+- Hitachi — DevOps Analyst Intern
 - Hitachi — Software Analyst Intern
 - Hitachi Energy — Hardware Test Engineering Intern
 - Hiya — Engineer Intern
@@ -688,6 +691,7 @@ _Generated 2026-11-21_
 - HP IQ — Software Engineer Intern - Connectivity
 - Humana — Technology Intern - Society of Women Engineers Conference
 - Humble Robotics — Embedded Software Engineer Intern
+- Huntington Bancshares — Enterprise Payments Intern
 - Hyster-Yale Materials Handling — Business Analytics Intern
 - ICF — Data Analytics Intern
 - ICF International — AI Engineer Intern
@@ -807,6 +811,7 @@ _Generated 2026-11-21_
 - KION Group — A.I. Engineering Intern
 - KLA — Software Engineer Intern, C++, Linux
 - KLA — Software Engineering Intern
+- KLA Corporation — Software Engineer Intern
 - KLA Corporation — Software Engineer Intern
 - KLA Corporation — Software Engineer Intern - C++ - Linux
 - Klaviyo — AI Engineer Intern
@@ -1226,6 +1231,10 @@ _Generated 2026-11-21_
 - Schonfeld — Quantitative Research Intern
 - Schweitzer Engineering Laboratories — Software Engineer Intern
 - SDSU Research Foundation — Computer Science Intern
+- Seagate Technology — Embedded Firmware Intern, Research Group
+- Seagate Technology — Embedded Firmware Intern, Research Group
+- Seaspan — Data Engineering Intern
+- Seaspan — Data Engineering Intern
 - Seaspan — Logistics Support Analysis Intern
 - SeatGeek — Data Analyst Intern
 - SeatGeek — Data Analyst - Internship
@@ -1365,6 +1374,7 @@ _Generated 2026-11-21_
 - The Aerospace Corporation — Embedded Software Engineer Intern, Multiple Teams
 - The Boeing Company — Data Analytics Intern
 - The Federal Reserve System — Innovation Intern
+- The Federal Reserve System — REIN Data Intern
 - The Federal Reserve System — Supervision & Regulation Intern - Business Relationship
 - The Federal Reserve System — Supervision & Regulation Intern, Cybersecurity
 - The New York Times — Android Engineer Intern
@@ -1483,6 +1493,7 @@ _Generated 2026-11-21_
 - Voloridge — Quantitative Developer Intern
 - Walmart — Corporate Intern: Data & Tech Transformation Intern
 - Walmart — Data & Tech Transformation Intern
+- Walmart — Software Engineer 2 Intern
 - Wawa — Information Technology Development Intern
 - Waymo — 2027 Summer Intern, BS/MS/PhD, AI-driven ML Performance Engineering Intern
 - Waymo — 2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation
