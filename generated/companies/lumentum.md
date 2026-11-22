@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Lumentum | [AI Engineer Co-op Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/AI-Engineer---Co-op-Intern_20261778) | Ottawa | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | Lumentum | [Data Science & Analytics Intern](https://go.vansh.nyc/1AP) | San Jose, CA | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | Lumentum | [Electrical Engineer Intern Co-op](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Electrical-Engineer-Co-op-Intern_20261433) | Ottawa | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | Lumentum | [SW Developer Support Intern, Program Management Office](https://go.vansh.nyc/1BA) | San Jose, CA | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
@@ -17,4 +18,4 @@
 
 ## Related
 
-Browse more roles in: [📊 Data Science](../categories/data-science.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [📊 Data Science](../categories/data-science.md), [💻 Software Engineering](../categories/software-engineering.md)

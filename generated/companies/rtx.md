@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| RTX | [Advanced Effector Guidance Systems Electrical Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/Advanced-Effector-Guidance-Systems-Electrical-Engineer-Intern--Summer-2027-_01870393-1) | Tucson, AZ | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | RTX | [Cyber Intern](https://go.vansh.nyc/H1) | Cambridge, MA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❌ |
 | RTX | [Cyber Research Intern](https://go.vansh.nyc/1cR) | Cedar Rapids, IA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❌ |
 | RTX | [Electrical Engineer Intern](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Electrical-Engineering-Intern--Summer-2027-_01883292) | El Segundo, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |

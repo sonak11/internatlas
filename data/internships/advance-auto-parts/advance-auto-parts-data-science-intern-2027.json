@@ -7,7 +7,7 @@
   },
   "role": "Data Science Intern",
   "category": "data-science",
-  "apply_url": "https://go.vansh.nyc/1Gi",
+  "apply_url": "https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-21",
+    "posted": "2026-11-20",
     "discovered": "2026-11-21",
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-22"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

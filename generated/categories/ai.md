@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**1035** tracked · **491** open now
+**1036** tracked · **491** open now
 
 ## Current openings
 
@@ -248,6 +248,7 @@
 | [Lennox International](generated/companies/lennox-international.md) | [AI Engineering Intern - Summer 2027](https://uscareers-lennox.icims.com/jobs/54897/job?mobile=true&needsRedirect=false) | Richardson, TX | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [LG AI Research](generated/companies/lg-ai-research.md) | [AI Scientist/Engineer Intern](https://go.vansh.nyc/1q2) | Ann Arbor, MI | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [Lightmatter](generated/companies/lightmatter.md) | [Data & AI Platform Intern](https://boards.greenhouse.io/lightmatter/jobs/5474807008) | Boston, MA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
+| [Lumentum](generated/companies/lumentum.md) | [AI Engineer Co-op Intern](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/AI-Engineer---Co-op-Intern_20261778) | Ottawa | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | [Luminance](generated/companies/luminance.md) | [AI Engineering Intern](https://apply.workable.com/luminance-1/j/E045EF5A7A/apply) | Cambridge | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [M3 USA](generated/companies/m3-usa.md) | [AI Engineering Intern (Remote)](https://go.vansh.nyc/1tm) | USA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
 | [M3USA](generated/companies/m3usa.md) | [AI Engineering Intern](https://go.vansh.nyc/1eD) | USA | Onsite | 2026-09-08 | Rolling | 🟢 Open | ❔ |
@@ -476,7 +477,6 @@
 | [Vantor](generated/companies/vantor.md) | [AI Engineer Intern](https://go.vansh.nyc/13t) | USA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [AI & Automation Engineering Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955296101) | Georgia | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [Customer Care AI Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4972324101) | Columbus, OH | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
-| [Verisk](generated/companies/verisk.md) | [Data Science/AI Intern](https://go.vansh.nyc/1yF) | Lehi, UT | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Verisk](generated/companies/verisk.md) | [Data Science/AI Intern](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184) | Lehi, UT | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Verition Group](generated/companies/verition-group.md) | [AI Associate Intern, Equity Long/Short](https://go.vansh.nyc/11S) | New York, NY +4 | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Vertiv](generated/companies/vertiv.md) | [AI Intern](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20286621) | Westerville, OH +2 | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
@@ -1010,6 +1010,7 @@
 | [Veeam Software](generated/companies/veeam-software.md) | [Software Engineering Intern, Platform, Security & AI](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4857832101) | San Jose, CA | Onsite | 2026-05-09 | Rolling | 🔴 Closed | ❔ |
 | [Veeda AI](generated/companies/veeda-ai.md) | [AI Scientist Intern - Veeda AI Scientist](https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/application?embed=true) | Seattle, WA +2 | Onsite | 2026-07-21 | Rolling | 🔴 Closed | ❔ |
 | [Verisk](generated/companies/verisk.md) | [AI Intern - Summer Internship Program](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682) | Jersey City, NJ | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
+| [Verisk](generated/companies/verisk.md) | [Data Science/AI Intern](https://go.vansh.nyc/1yF) | Lehi, UT | Onsite | 2026-11-13 | Rolling | 🔴 Closed | ❔ |
 | [Verizon Communications](generated/companies/verizon-communications.md) | [AI Science Intern - Multiple Teams](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169) | Basking Ridge | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [Verizon Communications](generated/companies/verizon-communications.md) | [AI Science Intern - Network and Technology](https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167) | Basking Ridge | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [Visa](generated/companies/visa.md) | [Data Science Intern - Data and AI Team](https://visa.wd5.myworkdayjobs.com/Visa_Early_Careers/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W) | Foster City, CA | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❔ |
@@ -1316,6 +1317,7 @@
 - Koniag Cyber Solutions (1)
 - LG AI Research (1)
 - Lightmatter (1)
+- Lumentum (1)
 - Luminance (1)
 - M3 USA (1)
 - M3USA (1)

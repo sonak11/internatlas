@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**321** tracked · **152** open now
+**320** tracked · **153** open now
 
 ## Current openings
 
@@ -107,6 +107,7 @@
 | [Rivian](generated/companies/rivian.md) | [MBA Intern Co-op - Product Management Product Development](https://careers.rivian.com/jobs/33793?icims=1) | Palo Alto, CA | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [Rubrik](generated/companies/rubrik.md) | [Product Management Intern](https://www.rubrik.com/company/careers/departments/job.8350601?gh_jid=8350601) | Palo Alto, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Rubrik](generated/companies/rubrik.md) | [Product Manager Intern - Managed Service Provider](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) | Palo Alto, CA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| [Salesforce](generated/companies/salesforce.md) | [Product Management Intern - Product Management](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659) | SF +1 | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [ServiceNow](generated/companies/servicenow.md) | [Inbound Product Manager Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161885234) | San Diego, CA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | [ServiceNow](generated/companies/servicenow.md) | [Senior Inbound Product Manager Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161584449) | San Diego, CA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [ServiceNow](generated/companies/servicenow.md) | [Senior Outbound Product Manager Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161590090) | San Diego, CA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
@@ -278,8 +279,6 @@
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [Product Management Intern - Global Asset Management](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Global-Asset-Management--Product-Management-Intern-Winter-Spring--8-months-_R-0000185514) | Toronto | Onsite | 2026-08-24 | Rolling | 🔴 Closed | ❔ |
 | [Salesforce](generated/companies/salesforce.md) | [Associate Product Manager Intern - Associate Product Manager](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039) | SF | Onsite | 2026-07-13 | Rolling | 🔴 Closed | ❔ |
 | [Salesforce](generated/companies/salesforce.md) | [Associate Product Manager Intern - Associate Product Manager](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Associate-Product-Manager--APM-_JR348039-1) | SF | Onsite | 2026-07-13 | Rolling | 🔴 Closed | ❔ |
-| [Salesforce](generated/companies/salesforce.md) | [Product Management Intern - Product Management](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659) | SF +1 | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
-| [Salesforce](generated/companies/salesforce.md) | [Product Management Intern - Product Management](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1) | SF +1 | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
 | [Schneider Electric](generated/companies/schneider-electric.md) | [Graduate Product Management Intern](https://se.jibeapply.com/jobs/135310?icims=1) | Nashville, TN | Onsite | 2026-09-30 | Rolling | 🔴 Closed | ❔ |
 | [Signify](generated/companies/signify.md) | [Product Management Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Menlo-Park/Product-Management-Intern---Fall-2026_365521) | Menlo Park, CA | Onsite | 2026-07-16 | Rolling | 🔴 Closed | ❔ |
 | [Skydio](generated/companies/skydio.md) | [Product Management Intern](https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf/application?embed=true) | San Mateo, CA | Onsite | 2026-07-31 | Rolling | 🔴 Closed | ❔ |
@@ -348,11 +347,11 @@
 - Blackhawk Network Holdings (4)
 - Coinbase (4)
 - Microsoft (4)
-- Salesforce (4)
 - USAA (4)
 - Altice USA (3)
 - Illinois Tool Works (3)
 - NVIDIA (3)
+- Salesforce (3)
 - ServiceNow (3)
 - Signify (3)
 - Springs Window Fashions (3)

@@ -1,24 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "servicenow-associate-forward-deployed-solution-engineer-intern-2027-ad382d",
+  "id": "neros-technologies-autonomy-intern-2027",
   "company": {
-    "name": "ServiceNow",
-    "slug": "servicenow"
+    "name": "Neros Technologies",
+    "slug": "neros-technologies"
   },
-  "role": "Associate Forward Deployed Solution Engineer Intern",
+  "role": "Autonomy Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.smartrecruiters.com/ServiceNow/744000161936128",
+  "apply_url": "https://go.vansh.nyc/1Gl",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Santa Clara",
+      "city": "Torrance",
       "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "NYC",
       "country": "USA"
     }
   ],
@@ -44,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-16",
-    "discovered": "2026-11-17",
-    "last_verified": "2026-11-21"
+    "posted": "2026-11-21",
+    "discovered": "2026-11-22",
+    "last_verified": "2026-11-22"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

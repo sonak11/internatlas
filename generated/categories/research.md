@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**328** tracked · **173** open now
+**329** tracked · **174** open now
 
 ## Current openings
 
@@ -96,6 +96,7 @@
 | [Nightwing](generated/companies/nightwing.md) | [Vulnerability Researcher Intern](https://go.vansh.nyc/1C8) | Palm Bay, FL | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❌ |
 | [Nissan Global](generated/companies/nissan-global.md) | [Research Application Intern](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Research-Application-Intern---Summer-2027---Santa-Clara--CA_R00214271) | Santa Clara, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Noblis](generated/companies/noblis.md) | [Applied Research Intern](https://careers.noblis.org/jobs/28089?icims=1&lang=en-us) | USA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| [NVIDIA](generated/companies/nvidia.md) | [Applied Research Scientist Intern - Agentic Biology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307) | USA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Architecture Research Intern - Architecture - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395) | Seattle, WA +2 | Onsite | 2026-09-17 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [Differentiable Simulation Research Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561) | Santa Clara, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [NVIDIA](generated/companies/nvidia.md) | [PhD Research Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Learning-Embodied-Skills-from-Human-Data---2027_JR2025405) | Santa Clara, CA | Onsite | 2026-09-21 | Rolling | 🟢 Open | ❔ |
@@ -339,7 +340,7 @@
 
 ## Hiring companies
 
-- NVIDIA (23)
+- NVIDIA (24)
 - ByteDance (14)
 - TikTok (14)
 - Waymo (13)

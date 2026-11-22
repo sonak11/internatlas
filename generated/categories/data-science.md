@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**448** tracked · **216** open now
+**450** tracked · **218** open now
 
 ## Current openings
 
@@ -11,6 +11,7 @@
 | [AARP](generated/companies/aarp.md) | [Data Science and Advanced Analytics Intern](https://careers.aarp.org/jobs/7437?icims=1) | Washington, DC | Onsite | 2026-08-14 | Rolling | 🟢 Open | ❔ |
 | [Acuity Insurance](generated/companies/acuity-insurance.md) | [Data Analytics Intern - Data Science](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7) | Sheboygan, WI | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
 | [Advance Auto Parts](generated/companies/advance-auto-parts.md) | [Data Science Intern](https://go.vansh.nyc/1Gi) | Raleigh, NC | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
+| [Advance Auto Parts](generated/companies/advance-auto-parts.md) | [Data Science Intern](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1) | Raleigh, NC | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Allstate](generated/companies/allstate.md) | [Data Science Intern - Core Telematics](https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285) | Illinois | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [Allstate](generated/companies/allstate.md) | [Data Science Intern, Core Telematics](https://go.vansh.nyc/ff) | USA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [APEX Analytix](generated/companies/apex-analytix.md) | [Data Science Intern](https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53) | Greensboro, NC | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
@@ -206,6 +207,7 @@
 | [TobogganLabs](generated/companies/tobogganlabs.md) | [Data Science Intern](https://go.vansh.nyc/13r) | Montreal | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | [Toyota](generated/companies/toyota.md) | [Data Science Intern, TFS](https://go.vansh.nyc/dm) | Plano, TX | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [TransUnion](generated/companies/transunion.md) | [Data Science & Analytics Intern](https://go.vansh.nyc/1Ea) | Chicago, IL | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
+| [TransUnion](generated/companies/transunion.md) | [Data Science and Analytics Intern](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450) | Chicago, IL | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [TWG Global](generated/companies/twg-global.md) | [Data Science Intern - MAQR](https://apply.workable.com/twgai/j/AC536E5EE2/apply) | Santa Monica, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [TWG Global](generated/companies/twg-global.md) | [Data Science Intern - SOLT](https://apply.workable.com/twgai/j/263B34D737/apply) | Santa Monica, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [UL Solutions](generated/companies/ul-solutions.md) | [Data Science Intern](https://go.vansh.nyc/DO) | Northbrook, IL +1 | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
@@ -497,6 +499,7 @@
 - Merck (3)
 - Royal Bank of Canada (3)
 - State Farm (3)
+- Advance Auto Parts (2)
 - Allstate (2)
 - APEX Analytix (2)
 - Ardian (2)
@@ -537,6 +540,7 @@
 - Stripe (2)
 - The Nuclear Company (2)
 - Toyota (2)
+- TransUnion (2)
 - TWG Global (2)
 - UL Solutions (2)
 - Vanguard (2)
@@ -572,7 +576,6 @@
 - Xcel Energy (2)
 - AARP (1)
 - Acuity Insurance (1)
-- Advance Auto Parts (1)
 - AspenTech (1)
 - Beli (1)
 - Blue Cross Blue Shield of Michigan (1)
@@ -623,7 +626,6 @@
 - The Hartford (1)
 - Tinder (1)
 - TobogganLabs (1)
-- TransUnion (1)
 - WhiteWater Midstream (1)
 - Wing (1)
 - WTW (1)
