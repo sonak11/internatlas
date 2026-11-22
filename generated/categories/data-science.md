@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**450** tracked · **218** open now
+**450** tracked · **217** open now
 
 ## Current openings
 
@@ -205,7 +205,6 @@
 | [TikTok](generated/companies/tiktok.md) | [Data Scientist Project Intern, TikTok Integrity and Safety](https://go.vansh.nyc/18b) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [Tinder](generated/companies/tinder.md) | [Data Scientist Intern](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply) | SF | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [TobogganLabs](generated/companies/tobogganlabs.md) | [Data Science Intern](https://go.vansh.nyc/13r) | Montreal | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
-| [Toyota](generated/companies/toyota.md) | [Data Science Intern, TFS](https://go.vansh.nyc/dm) | Plano, TX | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [TransUnion](generated/companies/transunion.md) | [Data Science & Analytics Intern](https://go.vansh.nyc/1Ea) | Chicago, IL | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [TransUnion](generated/companies/transunion.md) | [Data Science and Analytics Intern](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450) | Chicago, IL | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [TWG Global](generated/companies/twg-global.md) | [Data Science Intern - MAQR](https://apply.workable.com/twgai/j/AC536E5EE2/apply) | Santa Monica, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -429,6 +428,7 @@
 | [The Walt Disney Company](generated/companies/the-walt-disney-company.md) | [Commercial Data Science Intern](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063) | Celebration, FL | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | [The Walt Disney Company](generated/companies/the-walt-disney-company.md) | [Commercial Data Science Intern - Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Celebration-FL-USA/Commercial-Data-Science-Intern--Spring-2027_10158063-1) | Celebration, FL | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | [Toyota](generated/companies/toyota.md) | [Data Science Intern](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1) | Plano, TX | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
+| [Toyota](generated/companies/toyota.md) | [Data Science Intern, TFS](https://go.vansh.nyc/dm) | Plano, TX | Onsite | 2026-10-21 | Rolling | 🔴 Closed | ❔ |
 | [Trinity Life Sciences](generated/companies/trinity-life-sciences.md) | [Data Science Intern](https://trinitylifesciences.wd108.myworkdayjobs.com/Trinity/job/Waltham-MA---Headquarters/Data-Science-Intern_JR100881) | Waltham, MA +1 | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❔ |
 | [Trinity Life Sciences](generated/companies/trinity-life-sciences.md) | [Data Science Intern](https://go.vansh.nyc/1wF) | Waltham, MA +1 | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❔ |
 | [U.S. Venture](generated/companies/u-s-venture.md) | [Data Science Intern - Breakthrough](https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Green-Bay/Data-Science-Intern---Breakthrough_R8528-1) | Green Bay, WI +1 | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
@@ -539,7 +539,6 @@
 - Simbe Robotics (2)
 - Stripe (2)
 - The Nuclear Company (2)
-- Toyota (2)
 - TransUnion (2)
 - TWG Global (2)
 - UL Solutions (2)
@@ -571,6 +570,7 @@
 - Syngenta Group (2)
 - The Home Depot (2)
 - The Walt Disney Company (2)
+- Toyota (2)
 - Trinity Life Sciences (2)
 - Visa (2)
 - Xcel Energy (2)

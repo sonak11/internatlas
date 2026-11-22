@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**348** tracked · **187** open now
+**349** tracked · **188** open now
 
 ## Current openings
 
@@ -97,6 +97,7 @@
 | [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern - MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1) | Santa Clara, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [Embedded Software Engineering Intern](https://go.vansh.nyc/XX) | Boise, ID | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [SSD Firmware Intern, CICD](https://go.vansh.nyc/1d7) | Longmont, CO | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
+| [Neogen](generated/companies/neogen.md) | [Embedded Systems Engineer Intern](https://go.vansh.nyc/1Gp) | Oakdale, MN | Onsite | 2026-11-22 | Rolling | 🟢 Open | ❔ |
 | [Neros Technologies](generated/companies/neros-technologies.md) | [Firmware/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) | Torrance, CA | Onsite | 2026-11-22 | Rolling | 🟢 Open | ❔ |
 | [Neros Technologies](generated/companies/neros-technologies.md) | [Firmware/Embedded Software Engineer Intern](https://go.vansh.nyc/1Go) | Torrance, CA | Onsite | 2026-11-22 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Electrical Engineer Intern - Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/7702527003) | Austin, TX +1 | Onsite | 2026-04-16 | Rolling | 🟢 Open | ❔ |
@@ -447,6 +448,7 @@
 - KLA (1)
 - Legrand (1)
 - Life Fitness (1)
+- Neogen (1)
 - OTTO Engineering (1)
 - Peripheral (1)
 - Q-Block Computing (1)

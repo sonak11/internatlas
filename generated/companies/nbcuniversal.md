@@ -6,7 +6,6 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| NBCUniversal | [Business Data Intern - Film IT](https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475) | London | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | NBCUniversal | [Cybersecurity, Governance & Security Engineering Intern, Media Tech](https://go.vansh.nyc/1oC) | New York, NY | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | NBCUniversal | [Data Science Intern, Advertising & Partnerships](https://go.vansh.nyc/1oO) | New York, NY | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | NBCUniversal | [Data, AI & Machine Learning Intern, Media Tech](https://go.vansh.nyc/1oE) | New York, NY | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
@@ -22,6 +21,7 @@
 | NBCUniversal | [Software Engineering Intern](https://go.vansh.nyc/1oB) | Universal City, CA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | NBCUniversal | [Software Engineering Intern](https://go.vansh.nyc/1oA) | New York, NY | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | NBCUniversal | [Technology Intern, NBC News Group](https://go.vansh.nyc/1os) | New York, NY | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
+| NBCUniversal | [Business Data Intern - Film IT](https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475) | London | Onsite | 2026-11-20 | Rolling | 🔴 Closed | ❔ |
 | NBCUniversal | [Data Analytics Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000153371465) | London | Onsite | 2026-10-04 | Rolling | 🔴 Closed | ❔ |
 | NBCUniversal | [Feature Technical Direction Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000153538044) | Glendale, CA | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | NBCUniversal | [Software Engineering Intern](https://jobs.smartrecruiters.com/NBCUniversal3/744000121851427) | Universal City, CA | Onsite | 2026-04-20 | Rolling | 🔴 Closed | ❌ |

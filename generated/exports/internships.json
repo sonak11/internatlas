@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 11324,
+  "count": 11323,
   "internships": [
     {
       "schema_version": "1.0",
@@ -33628,7 +33628,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "american-family-insurance-group-business-intelligence-enablement-intern-2027-534673",
+      "id": "american-family-insurance-group-business-intelligence-enablement-intern-2027",
       "company": {
         "name": "American Family Insurance Group",
         "slug": "american-family-insurance-group"
@@ -33674,70 +33674,13 @@
       },
       "dates": {
         "posted": "2026-10-22",
-        "discovered": "2026-10-25",
-        "last_verified": "2026-11-22"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "american-family-insurance-group-business-intelligence-enablement-intern-2027",
-      "company": {
-        "name": "American Family Insurance Group",
-        "slug": "american-family-insurance-group"
-      },
-      "role": "Business Intelligence Enablement Intern",
-      "category": "software-engineering",
-      "apply_url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Business-Intelligence-Enablement_R39531",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Madison",
-          "state": "WI",
-          "country": "USA"
-        },
-        {
-          "city": "Boston",
-          "state": "MA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-22",
         "discovered": "2026-10-23",
         "last_verified": "2026-11-22"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -165935,7 +165878,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -166052,9 +165995,9 @@
       "dates": {
         "posted": "2026-09-01",
         "discovered": "2026-09-01",
-        "last_verified": "2026-11-21"
+        "last_verified": "2026-11-22"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -234540,7 +234483,7 @@
         "discovered": "2026-11-17",
         "last_verified": "2026-11-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -286684,7 +286627,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -348369,7 +348312,7 @@
         "discovered": "2026-11-22",
         "last_verified": "2026-11-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -350465,6 +350408,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "neogen-embedded-systems-engineer-intern-2027",
+      "company": {
+        "name": "Neogen",
+        "slug": "neogen"
+      },
+      "role": "Embedded Systems Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://go.vansh.nyc/1Gp",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Oakdale",
+          "state": "MN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-22",
+        "discovered": "2026-11-22",
+        "last_verified": "2026-11-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -557989,7 +557984,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-11-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -598903,7 +598898,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "wikimedia-foundation-software-engineering-intern-2027-3609fb",
+      "id": "wikimedia-foundation-software-engineering-intern-2027",
       "company": {
         "name": "Wikimedia Foundation",
         "slug": "wikimedia-foundation"
@@ -598938,64 +598933,13 @@
       },
       "dates": {
         "posted": "2026-10-15",
-        "discovered": "2026-10-26",
-        "last_verified": "2026-11-22"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "wikimedia-foundation-software-engineering-intern-2027",
-      "company": {
-        "name": "Wikimedia Foundation",
-        "slug": "wikimedia-foundation"
-      },
-      "role": "Software Engineering Intern",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/CK",
-      "season": "spring",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-15",
         "discovered": "2026-10-16",
         "last_verified": "2026-11-22"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03",
-        "remote-available"
+        "src:simplify"
       ]
     },
     {
@@ -600910,7 +600854,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-11-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -601018,7 +600962,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-11-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -601072,7 +601016,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-11-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

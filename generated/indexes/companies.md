@@ -126,7 +126,7 @@
 | [American Enterprise Institute](../companies/american-enterprise-institute.md) | 2/6 | ai, software-engineering |
 | [American Equity Investment Life Insurance Company](../companies/american-equity-investment-life-insurance-company.md) | 2/2 | security |
 | [American Express](../companies/american-express.md) | 12/79 | ai, data-engineering, data-science, product, security, software-engineering |
-| [American Family Insurance Group](../companies/american-family-insurance-group.md) | 7/28 | ai, data-engineering, data-science, machine-learning, research, security, software-engineering |
+| [American Family Insurance Group](../companies/american-family-insurance-group.md) | 6/27 | ai, data-engineering, data-science, machine-learning, research, security, software-engineering |
 | [American Fidelity](../companies/american-fidelity.md) | 0/5 | ai, software-engineering |
 | [American Heart Association](../companies/american-heart-association.md) | 0/1 | machine-learning |
 | [American Institutes for Research](../companies/american-institutes-for-research.md) | 0/1 | data-science |
@@ -923,7 +923,7 @@
 | [Hewlett Packard (HP)](../companies/hewlett-packard-hp.md) | 5/5 | software-engineering |
 | [Hewlett Packard Enterprise](../companies/hewlett-packard-enterprise.md) | 24/30 | ai, cloud, data-science, design, embedded, hardware, machine-learning, product, research, security, software-engineering |
 | [Hex Technologies](../companies/hex-technologies.md) | 1/1 | ai |
-| [HexArmor](../companies/hexarmor.md) | 1/1 | software-engineering |
+| [HexArmor](../companies/hexarmor.md) | 0/1 | software-engineering |
 | [Hexagon AB](../companies/hexagon-ab.md) | 0/4 | hardware, software-engineering |
 | [HeyGen](../companies/heygen.md) | 0/2 | software-engineering |
 | [Highgate](../companies/highgate.md) | 2/7 | software-engineering |
@@ -1077,7 +1077,7 @@
 | [KBR Wyle Services](../companies/kbr-wyle-services.md) | 3/3 | software-engineering |
 | [KION Group](../companies/kion-group.md) | 0/1 | software-engineering |
 | [KKR](../companies/kkr.md) | 0/2 | data-science, quant |
-| [KLA](../companies/kla.md) | 13/19 | ai, embedded, machine-learning, research, software-engineering |
+| [KLA](../companies/kla.md) | 12/19 | ai, embedded, machine-learning, research, software-engineering |
 | [KLA Corporation](../companies/kla-corporation.md) | 1/4 | research, software-engineering |
 | [KOSTAL Group](../companies/kostal-group.md) | 1/1 | software-engineering |
 | [KPMG](../companies/kpmg.md) | 0/3 | software-engineering |
@@ -1293,7 +1293,7 @@
 | [Mum Industries](../companies/mum-industries.md) | 1/1 | software-engineering |
 | [Muon Space](../companies/muon-space.md) | 10/10 | security, software-engineering |
 | [Muru](../companies/muru.md) | 2/2 | software-engineering |
-| [NBCUniversal](../companies/nbcuniversal.md) | 16/20 | data-science, machine-learning, security, software-engineering |
+| [NBCUniversal](../companies/nbcuniversal.md) | 15/20 | data-science, machine-learning, security, software-engineering |
 | [NBT Bank](../companies/nbt-bank.md) | 0/1 | software-engineering |
 | [NCR Atleos](../companies/ncr-atleos.md) | 3/3 | data-science, product, software-engineering |
 | [NJ Department of Environmental Protection](../companies/nj-department-of-environmental-protection.md) | 0/3 | software-engineering |
@@ -1327,7 +1327,7 @@
 | [Nelnet](../companies/nelnet.md) | 4/5 | ai, cloud, software-engineering |
 | [NeoCognition](../companies/neocognition.md) | 1/1 | research |
 | [NeoSigma](../companies/neosigma.md) | 1/1 | software-engineering |
-| [Neogen](../companies/neogen.md) | 0/1 | software-engineering |
+| [Neogen](../companies/neogen.md) | 1/2 | embedded, software-engineering |
 | [Neros Technologies](../companies/neros-technologies.md) | 5/5 | embedded, software-engineering |
 | [NetApp](../companies/netapp.md) | 3/4 | cloud, software-engineering |
 | [Netflix](../companies/netflix.md) | 5/6 | machine-learning, software-engineering |
@@ -1968,7 +1968,7 @@
 | [Touchdown Labs](../companies/touchdown-labs.md) | 1/1 | software-engineering |
 | [Tower Research](../companies/tower-research.md) | 1/1 | quant |
 | [Tower Research Capital](../companies/tower-research-capital.md) | 8/9 | machine-learning, quant, software-engineering |
-| [Toyota](../companies/toyota.md) | 1/2 | data-science |
+| [Toyota](../companies/toyota.md) | 0/2 | data-science |
 | [Toyota Research Institute](../companies/toyota-research-institute.md) | 14/17 | ai, machine-learning, research, software-engineering |
 | [Trace Labs](../companies/trace-labs.md) | 1/1 | hardware |
 | [Trace3](../companies/trace3.md) | 2/3 | data-engineering, research, security |
@@ -2150,7 +2150,7 @@
 | [Whataburger](../companies/whataburger.md) | 0/1 | data-science |
 | [White Cap Supply Holdings](../companies/white-cap-supply-holdings.md) | 1/1 | security |
 | [WhiteWater Midstream](../companies/whitewater-midstream.md) | 1/2 | data-science, quant |
-| [Wikimedia Foundation](../companies/wikimedia-foundation.md) | 2/2 | software-engineering |
+| [Wikimedia Foundation](../companies/wikimedia-foundation.md) | 1/1 | software-engineering |
 | [William Blair](../companies/william-blair.md) | 2/3 | ai, data-science |
 | [Williams](../companies/williams.md) | 0/1 | software-engineering |
 | [Williams-Sonoma](../companies/williams-sonoma.md) | 0/1 | software-engineering |
@@ -2167,7 +2167,7 @@
 | [Woodward Governor](../companies/woodward-governor.md) | 1/2 | ai, software-engineering |
 | [Woolpert](../companies/woolpert.md) | 1/1 | software-engineering |
 | [Workato](../companies/workato.md) | 0/1 | ai |
-| [Workday](../companies/workday.md) | 5/11 | data-engineering, machine-learning, product, security, software-engineering |
+| [Workday](../companies/workday.md) | 2/11 | data-engineering, machine-learning, product, security, software-engineering |
 | [Workiva](../companies/workiva.md) | 0/1 | machine-learning |
 | [Workshop](../companies/workshop.md) | 2/2 | software-engineering |
 | [Workstream](../companies/workstream.md) | 1/1 | software-engineering |

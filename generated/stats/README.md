@@ -33,13 +33,13 @@ _Generated 2026-11-22_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 6517 | `██████████████` |
+| software-engineering | 6515 | `██████████████` |
 | ai | 1037 | `██` |
 | machine-learning | 537 | `█` |
 | data-science | 450 | `█` |
 | quant | 401 | `█` |
 | hardware | 380 | `█` |
-| embedded | 348 | `█` |
+| embedded | 349 | `█` |
 | research | 329 | `█` |
 | product | 320 | `█` |
 | design | 282 | `█` |
@@ -49,6 +49,7 @@ _Generated 2026-11-22_
 
 ## Newest listings
 
+- 2026-11-22 — **Neogen**: [Embedded Systems Engineer Intern](https://go.vansh.nyc/1Gp)
 - 2026-11-22 — **Neros Technologies**: [Firmware/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007)
 - 2026-11-22 — **Neros Technologies**: [Firmware/Embedded Software Engineer Intern](https://go.vansh.nyc/1Go)
 - 2026-11-21 — **Activision Blizzard**: [Data Platform Engineering Intern](https://go.vansh.nyc/1Ge)
@@ -68,7 +69,6 @@ _Generated 2026-11-22_
 - 2026-11-21 — **Etched**: [Signal Integrity and Power Integrity Intern](https://jobs.ashbyhq.com/etched/45639738-0414-43e2-a5e7-b4acc928d62d/application?embed=true)
 - 2026-11-21 — **Fabri**: [DevOps, IT & Cybersecurity Intern](https://go.vansh.nyc/1Gk)
 - 2026-11-21 — **iA**: [Industrial Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1)
-- 2026-11-21 — **Koch Industries**: [Data and Analytics Intern](https://koch.avature.net/en_US/careers/JobDetail/198151)
 
 ## Recently closed
 
@@ -480,7 +480,7 @@ _Generated 2026-11-22_
 - Ecolab — Digital & AI Technology Intern
 - Ecolab — Digital & AI Technology Intern
 - Edison International — Computer Science Intern
-- Edison International — Summer Internship - Data Analytics/Science/Applied Math
+- Edison International — Intern - Multiple Teams
 - Eight Sleep — Firmware Intern
 - Elanco — Pet Health Sales Excellence Intern - AI Innovation & Enablement
 - Election Systems & Software — Information Systems Software Developer Intern
@@ -661,6 +661,7 @@ _Generated 2026-11-22_
 - Hewlett Packard Enterprise — Firmware Engineer Intern
 - Hewlett Packard Enterprise — Software Engineering Intern
 - Hexagon AB — Digital Hardware Engineer Intern - GNSS Positioning Digital Team
+- HexArmor — Software Engineer Intern
 - HeyGen — Software Engineer Intern
 - HeyGen — Software Engineer Intern
 - Highmark Health — Data Analyst enGen Undergraduate Intern
@@ -786,6 +787,7 @@ _Generated 2026-11-22_
 - Kinaxis — Developer Intern Co-op - Machine Learning
 - Kinaxis — Intern Developer - Back End Technologies
 - KION Group — A.I. Engineering Intern
+- KLA — Software Engineer Intern
 - KLA — Software Engineer Intern, C++, Linux
 - KLA — Software Engineering Intern
 - KLA Corporation — Software Engineer Intern
@@ -911,6 +913,7 @@ _Generated 2026-11-22_
 - National Life — Data Science Intern
 - Navy Federal — Business Intelligence Analyst Intern - Consumer Lending
 - Navy Federal — Data Analytics Intern
+- NBCUniversal — Business Data Intern - Film IT
 - NBCUniversal — Data Analytics Intern
 - Netic — Forward Deployed Engineer Intern
 - Netic — Full-Stack Software Engineer Intern
@@ -1384,6 +1387,7 @@ _Generated 2026-11-22_
 - Together AI — Systems Research Engineer Intern - GPU Programming
 - Toshiba Global Commerce Solutions — AI Automation & Revenue Ops Intern
 - Toyota — Data Science Intern
+- Toyota — Data Science Intern, TFS
 - TPG — Data Analytics Research Assistant Intern - Data Analytics and Reporting - Spring Research Assistant
 - TPG — Research Assistant Intern, Data Analytics and Reporting
 - Trace3 — Innovation Research & Development Lab Intern
@@ -1484,6 +1488,9 @@ _Generated 2026-11-22_
 - Wolters Kluwer — Front-End Developer Intern
 - Wolters Kluwer — Front-End Developer Intern - Se
 - Workday — Machine Learning Engineer Intern
+- Workday — Machine Learning Engineer Intern
+- Workday — Product Manager Intern
+- Workday — Software Application Development Engineer Intern
 - Workday — Software Development Engineer Intern
 - Workday — Software Engineer Intern
 - Workday — Software Engineer Intern

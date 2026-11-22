@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-22
 
-## 🆕 New this week (541)
+## 🆕 New this week (542)
 
 - **AFL** — [Web Design/Development Intern](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80) · design · —
 - **AFL** — [Web Design/Development Intern](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=6e9432db-e1de-4103-b8dd-5bfd57365e4d) · design · —
@@ -340,6 +340,7 @@
 - **National Interstate Insurance** — [Data Engineer Developer Intern](https://go.vansh.nyc/1Ek) · data-engineering · —
 - **National Interstate Insurance** — [Predictive Analytics Intern](https://go.vansh.nyc/1AE) · software-engineering · —
 - **Nelnet** — [Data Analytics Intern](https://go.vansh.nyc/1Ev) · software-engineering · —
+- **Neogen** — [Embedded Systems Engineer Intern](https://go.vansh.nyc/1Gp) · embedded · —
 - **Neros Technologies** — [Autonomy Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007) · software-engineering · —
 - **Neros Technologies** — [Autonomy Intern](https://go.vansh.nyc/1Gl) · software-engineering · —
 - **Neros Technologies** — [Electrical Engineer Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007) · software-engineering · —
