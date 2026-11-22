@@ -1192,7 +1192,7 @@
 | [Magna](../companies/magna.md) | 0/1 | software-engineering |
 | [Magnera](../companies/magnera.md) | 0/1 | software-engineering |
 | [Magnite](../companies/magnite.md) | 0/2 | software-engineering |
-| [Man Group](../companies/man-group.md) | 1/2 | quant |
+| [Man Group](../companies/man-group.md) | 0/2 | quant |
 | [ManTech](../companies/mantech.md) | 0/1 | ai |
 | [Manhattan Associates](../companies/manhattan-associates.md) | 0/1 | cloud |
 | [Manitowoc](../companies/manitowoc.md) | 1/1 | security |
@@ -1348,7 +1348,7 @@
 | [NewsBreak](../companies/newsbreak.md) | 0/1 | software-engineering |
 | [Nex](../companies/nex.md) | 2/2 | software-engineering |
 | [Nexstar](../companies/nexstar.md) | 0/1 | software-engineering |
-| [NextEra Energy](../companies/nextera-energy.md) | 2/2 | software-engineering |
+| [NextEra Energy](../companies/nextera-energy.md) | 1/2 | software-engineering |
 | [Nextiva](../companies/nextiva.md) | 0/2 | ai, data-science |
 | [Nexus Cognitive Technologies](../companies/nexus-cognitive-technologies.md) | 1/1 | data-engineering |
 | [NexusOne](../companies/nexusone.md) | 1/1 | data-engineering |
@@ -1918,7 +1918,7 @@
 | [Terranova](../companies/terranova.md) | 3/7 | ai, embedded, software-engineering |
 | [Terranox AI](../companies/terranox-ai.md) | 0/1 | machine-learning |
 | [Tesco](../companies/tesco.md) | 0/1 | software-engineering |
-| [Tesla](../companies/tesla.md) | 157/299 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
+| [Tesla](../companies/tesla.md) | 156/299 | ai, cloud, data-engineering, design, embedded, hardware, machine-learning, product, security, software-engineering |
 | [Tessera Labs](../companies/tessera-labs.md) | 0/3 | product, software-engineering |
 | [Tevora](../companies/tevora.md) | 13/13 | security |
 | [Texas A&M International University](../companies/texas-a-m-international-university.md) | 0/1 | software-engineering |
@@ -1987,7 +1987,7 @@
 | [Trillium](../companies/trillium.md) | 1/3 | software-engineering |
 | [Trilogy Health Services](../companies/trilogy-health-services.md) | 3/3 | ai, software-engineering |
 | [Trilogy Innovations](../companies/trilogy-innovations.md) | 0/1 | software-engineering |
-| [Trimble](../companies/trimble.md) | 11/13 | ai, hardware, machine-learning, product, software-engineering |
+| [Trimble](../companies/trimble.md) | 10/13 | ai, hardware, machine-learning, product, software-engineering |
 | [Trinity Life Sciences](../companies/trinity-life-sciences.md) | 0/2 | data-science |
 | [TruStage](../companies/trustage.md) | 3/4 | ai, cloud |
 | [True Anomaly](../companies/true-anomaly.md) | 0/1 | software-engineering |
@@ -2150,7 +2150,7 @@
 | [Whataburger](../companies/whataburger.md) | 0/1 | data-science |
 | [White Cap Supply Holdings](../companies/white-cap-supply-holdings.md) | 1/1 | security |
 | [WhiteWater Midstream](../companies/whitewater-midstream.md) | 1/2 | data-science, quant |
-| [Wikimedia Foundation](../companies/wikimedia-foundation.md) | 1/1 | software-engineering |
+| [Wikimedia Foundation](../companies/wikimedia-foundation.md) | 0/1 | software-engineering |
 | [William Blair](../companies/william-blair.md) | 2/3 | ai, data-science |
 | [Williams](../companies/williams.md) | 0/1 | software-engineering |
 | [Williams-Sonoma](../companies/williams-sonoma.md) | 0/1 | software-engineering |

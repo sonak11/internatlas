@@ -822,6 +822,7 @@ _Generated 2026-11-22_
 - Louisiana Blue — Healthcare Price and Transparency Data Analyst Intern
 - Lunar Energy — Hardware Test Engineer Intern
 - Lyte AI — Software Engineering Intern
+- Man Group — Systematic Quant Intern
 - Manulife Financial — AI Intern
 - Manulife Financial — AI Intern - AI
 - Manulife Financial — Software Engineering Co-op Intern
@@ -922,6 +923,7 @@ _Generated 2026-11-22_
 - Neuralink — IT Systems Administrator Intern
 - New York ISO — IT Software Development Intern
 - NewYork-Presbyterian — Finance Intern
+- NextEra Energy — Software Engineering Intern - Technical
 - NJ Department of Environmental Protection — Watershed & Land Management Intern
 - Nokia — Optoelectronics Test Mech Development Intern
 - Nordson — Software Engineering Intern
@@ -1325,6 +1327,7 @@ _Generated 2026-11-22_
 - Tesla — Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027
 - Tesla — Computer Vision Engineer Intern - Cell Engineering
 - Tesla — Electrical Design Engineer Intern - Vehicle Engineering
+- Tesla — Firmware Integration Engineer Intern - Factory Firmware
 - Tesla — Internship - Software Engineering - People Products - Summer 2027
 - Tesla — Optical Engineer Intern - Electronic Systems
 - Tesla — Software Developer Intern - IT Apps
@@ -1392,6 +1395,7 @@ _Generated 2026-11-22_
 - TPG — Research Assistant Intern, Data Analytics and Reporting
 - Trace3 — Innovation Research & Development Lab Intern
 - Trilogy Innovations — Technical Intern
+- Trimble — Software Engineer Intern
 - Trinity Life Sciences — Data Science Intern
 - Trinity Life Sciences — Data Science Intern
 - TruStage — Information Technology Development and Infrastructure Intern
@@ -1483,6 +1487,7 @@ _Generated 2026-11-22_
 - Westinghouse Electric Company — Software Engineering Intern
 - Westinghouse Electric Company — Software Engineering Intern
 - Whataburger — Data Scientist Intern
+- Wikimedia Foundation — Software Engineering Intern
 - Wing — Manufacturing Software Test Intern
 - Wolf & Company — AI & Automation Intern
 - Wolters Kluwer — Front-End Developer Intern
