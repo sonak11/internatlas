@@ -13,9 +13,9 @@ _Generated 2026-11-22_
 | RTX | 239 |
 | ByteDance | 121 |
 | NVIDIA | 93 |
+| Royal Bank of Canada | 93 |
 | Marvell | 92 |
 | Qualcomm | 92 |
-| Royal Bank of Canada | 92 |
 | Waymo | 87 |
 | Booz Allen | 80 |
 | American Express | 79 |
@@ -33,13 +33,13 @@ _Generated 2026-11-22_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 6515 | `██████████████` |
-| ai | 1036 | `██` |
-| machine-learning | 536 | `█` |
+| software-engineering | 6517 | `██████████████` |
+| ai | 1037 | `██` |
+| machine-learning | 537 | `█` |
 | data-science | 450 | `█` |
 | quant | 401 | `█` |
 | hardware | 380 | `█` |
-| embedded | 346 | `█` |
+| embedded | 348 | `█` |
 | research | 329 | `█` |
 | product | 320 | `█` |
 | design | 282 | `█` |
@@ -49,6 +49,8 @@ _Generated 2026-11-22_
 
 ## Newest listings
 
+- 2026-11-22 — **Neros Technologies**: [Firmware/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007)
+- 2026-11-22 — **Neros Technologies**: [Firmware/Embedded Software Engineer Intern](https://go.vansh.nyc/1Go)
 - 2026-11-21 — **Activision Blizzard**: [Data Platform Engineering Intern](https://go.vansh.nyc/1Ge)
 - 2026-11-21 — **Acuity Insurance**: [Data Analytics Intern - Data Science](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=3d8a72b0-b464-4ff8-bd58-555a1e640ef7)
 - 2026-11-21 — **Acuity Insurance**: [Software Engineer Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217)
@@ -67,8 +69,6 @@ _Generated 2026-11-22_
 - 2026-11-21 — **Fabri**: [DevOps, IT & Cybersecurity Intern](https://go.vansh.nyc/1Gk)
 - 2026-11-21 — **iA**: [Industrial Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1)
 - 2026-11-21 — **Koch Industries**: [Data and Analytics Intern](https://koch.avature.net/en_US/careers/JobDetail/198151)
-- 2026-11-21 — **Lucid Motors**: [ADAS Platform Tools Intern](https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007)
-- 2026-11-21 — **Mesirow**: [Cloud Engineering Intern, IT](https://go.vansh.nyc/1FZ)
 
 ## Recently closed
 
@@ -308,6 +308,7 @@ _Generated 2026-11-22_
 - Cadence Solutions — Product Management Intern
 - Cadence Solutions — Software Engineer Intern
 - Cadence Solutions — Software Engineer Intern
+- Capital Group — Global Technology Summer Associate Intern
 - Capital One — MBA Product Intern
 - CapTech Consulting — Consulting Software Engineer Intern
 - CapTech Consulting — Consulting Software Engineer Intern
@@ -1204,6 +1205,7 @@ _Generated 2026-11-22_
 - Selective Insurance — Business Intelligence & Insights Intern
 - Selective Insurance — IT Claims Application Delivery Intern
 - Sentinel Technologies — SOC Intern
+- ServiceNow — Associate Forward Deployed Solution Engineer Intern
 - Sherwin-Williams — R&D Data Visualization Intern
 - Sherwin-Williams — R&D Data Visualization Intern
 - Sherwin-Williams — R&D Product Systems Intern
@@ -1314,6 +1316,7 @@ _Generated 2026-11-22_
 - TC Energy — Enterprise Security Intern, Detection & Response
 - TD Bank — Graduate Leadership Program Commercial Banking Intern
 - TD Bank — Graduate Leadership Program Consumer Deposit and Payment Products Intern
+- TD Bank — Technology Intern
 - Terranova — Software Engineer Intern
 - Terranova — Software Engineering Intern
 - Tesla — Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027
@@ -1333,6 +1336,7 @@ _Generated 2026-11-22_
 - The Boeing Company — Data Analytics Intern
 - The Federal Reserve System — Community and Economic Development Intern
 - The Federal Reserve System — REIN Data Intern
+- The Federal Reserve System — Statistics Intern
 - The Federal Reserve System — Supervision & Regulation Intern - Business Relationship
 - The Federal Reserve System — Supervision & Regulation Intern, Cybersecurity
 - The New York Times — Android Engineer Intern
@@ -1418,6 +1422,7 @@ _Generated 2026-11-22_
 - Veeam Software — Engineering Intern
 - Veolia — Field Engineering Intern
 - Vercel — Software Engineering Intern - Summer '27
+- Verisk — Data Science/AI Intern
 - Verisk — Data Science/AI Intern
 - Versant — Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango
 - Versant — Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango

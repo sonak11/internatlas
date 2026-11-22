@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| NBCUniversal | [Business Data Intern - Film IT](https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475) | London | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | NBCUniversal | [Cybersecurity, Governance & Security Engineering Intern, Media Tech](https://go.vansh.nyc/1oC) | New York, NY | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | NBCUniversal | [Data Science Intern, Advertising & Partnerships](https://go.vansh.nyc/1oO) | New York, NY | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | NBCUniversal | [Data, AI & Machine Learning Intern, Media Tech](https://go.vansh.nyc/1oE) | New York, NY | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |

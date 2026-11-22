@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**536** tracked · **352** open now
+**537** tracked · **353** open now
 
 ## Current openings
 
@@ -82,6 +82,7 @@
 | [Enovation Controls](generated/companies/enovation-controls.md) | [Embedded Machine Learning Engineer Intern](https://go.vansh.nyc/1lN) | Tulsa, OK | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Epic Games](generated/companies/epic-games.md) | [Machine Learning Intern - Special Projects - Epic Research Group](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) | Montreal | Onsite | 2026-08-07 | Rolling | 🟢 Open | ❔ |
 | [Epic Games](generated/companies/epic-games.md) | [Machine Learning Research Intern](https://go.vansh.nyc/7w) | Montreal | Onsite | 2026-08-21 | Rolling | 🟢 Open | ❌ |
+| [Expedia Group](generated/companies/expedia-group.md) | [Machine Learning Science Intern](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737) | London | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
 | [Expedia Group](generated/companies/expedia-group.md) | [Machine Learning Science Intern](https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737-2) | London | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Faire](generated/companies/faire.md) | [Applied AI/ML Scientist Intern](https://boards.greenhouse.io/faire/jobs/8870975002) | SF | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Falcomm](generated/companies/falcomm.md) | [AI/ML Software Engineer Graduate Intern - AI/CAD Integration](https://apply.workable.com/falcomm/j/41F139E6F7/apply) | Atlanta, GA | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
@@ -602,6 +603,7 @@
 - DreamWorks Animation (2)
 - DRW (2)
 - Enovation Controls (2)
+- Expedia Group (2)
 - G-Research (2)
 - Intermountain Healthcare (2)
 - International (2)
@@ -652,7 +654,6 @@
 - Constellation Space (1)
 - Droyd Robotics (1)
 - Elucid (1)
-- Expedia Group (1)
 - Faire (1)
 - Flagship Pioneering (1)
 - Gecko Robotics (1)

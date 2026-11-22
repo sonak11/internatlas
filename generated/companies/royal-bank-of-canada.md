@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Royal Bank of Canada | [Data Analyst Intern - Wealth Management](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/o-2027-Wealth-Management--Winter-Data-Analyst_R-0000192288) | Toronto | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | Royal Bank of Canada | [Data Engineer Intern](https://go.vansh.nyc/OF) | Vancouver | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Royal Bank of Canada | [Developer Intern](https://go.vansh.nyc/OH) | Vancouver | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Royal Bank of Canada | [AI & Stress Testing Analytics Intern](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-3) | Toronto | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |

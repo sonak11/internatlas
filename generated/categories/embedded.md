@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**346** tracked · **185** open now
+**348** tracked · **187** open now
 
 ## Current openings
 
@@ -97,6 +97,8 @@
 | [Marvell](generated/companies/marvell.md) | [Firmware Engineer Intern - MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1) | Santa Clara, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [Embedded Software Engineering Intern](https://go.vansh.nyc/XX) | Boise, ID | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [SSD Firmware Intern, CICD](https://go.vansh.nyc/1d7) | Longmont, CO | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
+| [Neros Technologies](generated/companies/neros-technologies.md) | [Firmware/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) | Torrance, CA | Onsite | 2026-11-22 | Rolling | 🟢 Open | ❔ |
+| [Neros Technologies](generated/companies/neros-technologies.md) | [Firmware/Embedded Software Engineer Intern](https://go.vansh.nyc/1Go) | Torrance, CA | Onsite | 2026-11-22 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Electrical Engineer Intern - Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/7702527003) | Austin, TX +1 | Onsite | 2026-04-16 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Electrical Engineer Intern, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003) | Austin | Onsite | 2026-04-15 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Embedded Software Engineer Intern, Implant Embedded Systems](https://go.vansh.nyc/QF) | Austin, TX +1 | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
@@ -410,6 +412,7 @@
 - Ixana (2)
 - Keysight Technologies (2)
 - Lunar Outpost (2)
+- Neros Technologies (2)
 - North Atlantic Industries (2)
 - Odys Aviation (2)
 - Renesas Electronics (2)

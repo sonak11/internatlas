@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-22",
-  "count": 11318,
+  "count": 11324,
   "internships": [
     {
       "schema_version": "1.0",
@@ -104356,7 +104356,7 @@
         "discovered": "2026-11-14",
         "last_verified": "2026-11-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -180851,6 +180851,59 @@
       "dates": {
         "posted": "2026-10-05",
         "discovered": "2026-10-06",
+        "last_verified": "2026-11-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "expedia-group-machine-learning-science-intern-2027-fdae22",
+      "company": {
+        "name": "Expedia Group",
+        "slug": "expedia-group"
+      },
+      "role": "Machine Learning Science Intern",
+      "category": "machine-learning",
+      "apply_url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-21",
+        "discovered": "2026-11-22",
         "last_verified": "2026-11-22"
       },
       "status": "open",
@@ -348273,6 +348326,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "nbcuniversal-business-data-intern-film-it-2027",
+      "company": {
+        "name": "NBCUniversal",
+        "slug": "nbcuniversal"
+      },
+      "role": "Business Data Intern - Film IT",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-20",
+        "discovered": "2026-11-22",
+        "last_verified": "2026-11-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "nbcuniversal-cybersecurity-governance-security-engineering-intern-media-t-2027",
       "company": {
         "name": "NBCUniversal",
@@ -350571,6 +350675,112 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "neros-technologies-firmware-embedded-software-engineer-intern-2027-a0ce20",
+      "company": {
+        "name": "Neros Technologies",
+        "slug": "neros-technologies"
+      },
+      "role": "Firmware/Embedded Software Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Torrance",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-22",
+        "discovered": "2026-11-22",
+        "last_verified": "2026-11-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "neros-technologies-firmware-embedded-software-engineer-intern-2027",
+      "company": {
+        "name": "Neros Technologies",
+        "slug": "neros-technologies"
+      },
+      "role": "Firmware/Embedded Software Engineer Intern",
+      "category": "embedded",
+      "apply_url": "https://go.vansh.nyc/1Go",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Torrance",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-22",
+        "discovered": "2026-11-22",
+        "last_verified": "2026-11-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -439338,6 +439548,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "royal-bank-of-canada-data-analyst-intern-wealth-management-2027",
+      "company": {
+        "name": "Royal Bank of Canada",
+        "slug": "royal-bank-of-canada"
+      },
+      "role": "Data Analyst Intern - Wealth Management",
+      "category": "software-engineering",
+      "apply_url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/o-2027-Wealth-Management--Winter-Data-Analyst_R-0000192288",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Toronto",
+          "country": "ON"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-06",
+        "discovered": "2026-11-22",
+        "last_verified": "2026-11-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "royal-bank-of-canada-data-engineer-intern-2027-02377b",
       "company": {
         "name": "Royal Bank of Canada",
@@ -463545,6 +463806,73 @@
     },
     {
       "schema_version": "1.0",
+      "id": "schnucks-data-science-generative-ai-intern-2027",
+      "company": {
+        "name": "Schnucks",
+        "slug": "schnucks"
+      },
+      "role": "Data Science Generative AI Intern",
+      "category": "ai",
+      "apply_url": "https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "St. Louis",
+          "state": "MO",
+          "country": "USA"
+        },
+        {
+          "city": "Missouri",
+          "country": "USA"
+        },
+        {
+          "city": "Indiana",
+          "country": "USA"
+        },
+        {
+          "city": "Illinois",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
+        "discovered": "2026-11-22",
+        "last_verified": "2026-11-22"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "schonfeld-ai-enablement-intern-2027",
       "company": {
         "name": "Schonfeld",
@@ -469241,7 +469569,7 @@
         "discovered": "2026-11-17",
         "last_verified": "2026-11-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -506163,7 +506491,7 @@
         "discovered": "2026-10-28",
         "last_verified": "2026-11-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -529984,7 +530312,7 @@
         "discovered": "2026-09-01",
         "last_verified": "2026-11-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -576184,7 +576512,7 @@
         "discovered": "2026-11-13",
         "last_verified": "2026-11-22"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

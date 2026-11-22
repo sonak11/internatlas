@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-22
 
-## 🆕 New this week (537)
+## 🆕 New this week (541)
 
 - **AFL** — [Web Design/Development Intern](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80) · design · —
 - **AFL** — [Web Design/Development Intern](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=6e9432db-e1de-4103-b8dd-5bfd57365e4d) · design · —
@@ -331,6 +331,7 @@
 - **MongoDB** — [2027 - Finance Intern, San Francisco](https://www.mongodb.com/careers/job/?gh_jid=8346144) · software-engineering · —
 - **MongoDB** — [2027 - Tax Intern, New York City](https://www.mongodb.com/careers/job/?gh_jid=8301842) · software-engineering · —
 - **Motorola Solutions** — [RFIC Design Engineer Intern](https://go.vansh.nyc/1Cl) · design · —
+- **NBCUniversal** — [Business Data Intern - Film IT](https://jobs.smartrecruiters.com/NBCUniversal3/744000153444475) · software-engineering · —
 - **NBCUniversal** — [Digital Transformation AR/VR Intern](https://go.vansh.nyc/1Ai) · software-engineering · —
 - **NVIDIA** — [Applied Research Scientist Intern - Agentic Biology](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307) · research · —
 - **NVIDIA** — [Finance AI Engineering Intern](https://go.vansh.nyc/1Eh) · ai · —
@@ -342,6 +343,8 @@
 - **Neros Technologies** — [Autonomy Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007) · software-engineering · —
 - **Neros Technologies** — [Autonomy Intern](https://go.vansh.nyc/1Gl) · software-engineering · —
 - **Neros Technologies** — [Electrical Engineer Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007) · software-engineering · —
+- **Neros Technologies** — [Firmware/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) · embedded · —
+- **Neros Technologies** — [Firmware/Embedded Software Engineer Intern](https://go.vansh.nyc/1Go) · embedded · —
 - **New York City Housing Development Corporation** — [Strategic Operations Graduate Intern](https://jobs.jobvite.com/nychdc/job/o8D0Afw5?nl=1&nl=1&fr=false) · software-engineering · —
 - **Nightwing** — [Vulnerability Researcher Intern](https://go.vansh.nyc/1C8) · research · —
 - **Noblis** — [Environmental Analyst Intern](https://careers.noblis.org/jobs/28139?icims=1&lang=en-us) · software-engineering · —
@@ -430,6 +433,7 @@
 - **Samsung Semiconductor** — [Architecture Research Engineer Intern, MoE Placement for Serving at Scale](https://go.vansh.nyc/1Cm) · research · —
 - **Samsung Semiconductor** — [LLM Inference Acceleration Architecture Intern, Distributed Memory-Centric Accelerators](https://go.vansh.nyc/1Cw) · ai · —
 - **Samsung Semiconductor** — [SSD Firmware Engineer Intern](https://go.vansh.nyc/1Cu) · embedded · —
+- **Schnucks** — [Data Science Generative AI Intern](https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971) · ai · —
 - **Schonfeld** — [Cybersecurity Operations Intern](https://go.vansh.nyc/1Aj) · security · —
 - **Schonfeld** — [PhD Quantitative Research Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8400915) · quant · —
 - **Schonfeld** — [Platform Engineering Intern](https://go.vansh.nyc/1Aw) · cloud · —
