@@ -7,14 +7,17 @@
   },
   "role": "Bioinformatics Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/eG",
+  "apply_url": "https://go.vansh.nyc/1GM",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Baltimore",
-      "state": "MD",
+      "city": "Westborough",
+      "state": "MA",
+      "country": "USA"
+    },
+    {
       "country": "USA"
     }
   ],
@@ -40,13 +43,14 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-22",
+    "posted": "2026-11-22",
     "discovered": "2026-10-22",
-    "last_verified": "2026-11-04"
+    "last_verified": "2026-11-23"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:vanshb03",
+    "remote-available"
   ]
 }

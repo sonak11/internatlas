@@ -1,24 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "ciena-services-business-intelligence-analytics-intern-2027-65988b",
+  "id": "garmin-software-engineer-intern-automotive-oem-2027",
   "company": {
-    "name": "Ciena",
-    "slug": "ciena"
+    "name": "Garmin",
+    "slug": "garmin"
   },
-  "role": "Services Business Intelligence & Analytics Intern",
+  "role": "Software Engineer Intern, Automotive OEM",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/cx",
-  "season": "winter",
+  "apply_url": "https://go.vansh.nyc/1H2",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Montreal",
-      "country": "QC"
-    },
-    {
-      "city": "Ottawa",
-      "country": "ON"
+      "city": "Novi",
+      "state": "MI",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -43,8 +40,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-19",
-    "discovered": "2026-10-25",
+    "posted": "2026-11-23",
+    "discovered": "2026-11-23",
     "last_verified": "2026-11-23"
   },
   "status": "open",

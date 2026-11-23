@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "electronic-arts-software-engineer-intern-2027-bc36d2",
+  "id": "first-resonance-product-management-intern-2027",
   "company": {
-    "name": "Electronic Arts",
-    "slug": "electronic-arts"
+    "name": "First Resonance",
+    "slug": "first-resonance"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/216251",
+  "role": "Product Management Intern",
+  "category": "product",
+  "apply_url": "https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Orlando",
-      "state": "FL",
+      "city": "El Segundo",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,8 +42,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-05",
-    "discovered": "2026-10-06",
+    "posted": "2026-11-23",
+    "discovered": "2026-11-23",
     "last_verified": "2026-11-23"
   },
   "status": "open",
