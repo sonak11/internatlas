@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Statistics
 
-_Generated 2026-11-22_
+_Generated 2026-11-23_
 
 ## Top hiring companies
 
@@ -33,8 +33,8 @@ _Generated 2026-11-22_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 6515 | `██████████████` |
-| ai | 1037 | `██` |
+| software-engineering | 6522 | `██████████████` |
+| ai | 1043 | `██` |
 | machine-learning | 537 | `█` |
 | data-science | 450 | `█` |
 | quant | 401 | `█` |
@@ -42,13 +42,16 @@ _Generated 2026-11-22_
 | embedded | 349 | `█` |
 | research | 329 | `█` |
 | product | 320 | `█` |
+| security | 282 | `█` |
 | design | 282 | `█` |
-| security | 281 | `█` |
 | data-engineering | 243 | `█` |
 | cloud | 199 | `█` |
 
 ## Newest listings
 
+- 2026-11-23 — **Artefact**: [AI Engineer Intern](https://go.vansh.nyc/1Gz)
+- 2026-11-23 — **MITRE**: [Generative and Agentic AI Intern](https://go.vansh.nyc/1GB)
+- 2026-11-22 — **MITRE**: [Embedded Security Intern, Electronics Prototype](https://go.vansh.nyc/1GA)
 - 2026-11-22 — **Neogen**: [Embedded Systems Engineer Intern](https://go.vansh.nyc/1Gp)
 - 2026-11-22 — **Neros Technologies**: [Firmware/Embedded Software Engineer Intern](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007)
 - 2026-11-22 — **Neros Technologies**: [Firmware/Embedded Software Engineer Intern](https://go.vansh.nyc/1Go)
@@ -66,9 +69,6 @@ _Generated 2026-11-22_
 - 2026-11-21 — **Canadian Solar**: [Data Engineering Intern](https://go.vansh.nyc/1G8)
 - 2026-11-21 — **Celestica**: [Salesforce Developer 1 Intern](https://go.vansh.nyc/1FT)
 - 2026-11-21 — **Daikin Comfort**: [Programmer Analyst Intern](https://go.vansh.nyc/1FH)
-- 2026-11-21 — **Etched**: [Signal Integrity and Power Integrity Intern](https://jobs.ashbyhq.com/etched/45639738-0414-43e2-a5e7-b4acc928d62d/application?embed=true)
-- 2026-11-21 — **Fabri**: [DevOps, IT & Cybersecurity Intern](https://go.vansh.nyc/1Gk)
-- 2026-11-21 — **iA**: [Industrial Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1)
 
 ## Recently closed
 
@@ -728,7 +728,6 @@ _Generated 2026-11-22_
 - Invitation-charter — Data Developer Intern
 - Invitation-charter — Data Science Intern
 - Invitation-charter — Software Engineer Intern
-- Iridium Communications — Software Engineering Intern
 - Itron — Artificial Intelligence Intern
 - Itron — Data Science Intern - Distributed Intelligence
 - Itron — Data Science Intern - Distributed Intelligence
@@ -912,6 +911,7 @@ _Generated 2026-11-22_
 - National Information Solutions Cooperative — Information Security (Cybersecurity) Intern
 - National Interstate Insurance — Telematics / Predictive Analytics Intern
 - National Life — Data Science Intern
+- Navy Federal — AI Engineering Intern
 - Navy Federal — Business Intelligence Analyst Intern - Consumer Lending
 - Navy Federal — Data Analytics Intern
 - NBCUniversal — Business Data Intern - Film IT
@@ -924,6 +924,7 @@ _Generated 2026-11-22_
 - New York ISO — IT Software Development Intern
 - NewYork-Presbyterian — Finance Intern
 - NextEra Energy — Software Engineering Intern - Technical
+- NextEra Energy — Software Engineering Intern, Technical
 - NJ Department of Environmental Protection — Watershed & Land Management Intern
 - Nokia — Optoelectronics Test Mech Development Intern
 - Nordson — Software Engineering Intern
@@ -1018,7 +1019,6 @@ _Generated 2026-11-22_
 - Parsons — Software Engineering Intern
 - PathAI — Machine Learning Intern, AI Product and ML Core
 - Pattern — AI Automation Engineer Intern
-- Pebl — Software Engineering Intern
 - Pentair — Product Management Internship
 - Pernod Ricard, créateurs de convivialité — Data & Business Transformation Placement Intern
 - Perpay — Data Engineering Intern
@@ -1032,6 +1032,8 @@ _Generated 2026-11-22_
 - Pilot Company — Process Automation Intern - Process Automation
 - Pilot Company — Program Intern, Cloud Operations
 - Pilot Company — Revenue Growth Management Intern - Revenue Growth Management
+- Plusgrade — Applied AI Engineer Intern
+- Plusgrade — Applied AI Test Engineer Intern
 - Plusgrade — Data Science Intern
 - Pony.ai — Research Intern - Deep Learning
 - pony.ai — Research Intern - Deep Learning
@@ -1075,6 +1077,7 @@ _Generated 2026-11-22_
 - Renesas Electronics — Applications Engineer Intern
 - Renesas Electronics — Applications Engineering Intern
 - Renesas Electronics — Digital Design Engineer Intern
+- Renesas Electronics — System Verification Engineer Intern
 - Renesas Electronics — Validation Intern
 - Republic Airways — Strategic Operations Intern
 - Resideo — Data Science Intern
@@ -1094,10 +1097,7 @@ _Generated 2026-11-22_
 - Revvity — Full-Stack AI Developer Intern
 - Riot Games — Software Engineer Intern
 - Riot Games — Technical Game Design Intern - League of Legends and Teamfight Tactics
-- Riverlane — Hardware Engineer Intern
 - Riverlane — PhD Research Intern
-- Riverlane — Research Intern
-- Riverlane — Software Engineering Intern
 - Riverside Research — Formal Methods Research Intern
 - Riverside Research — Software Applications Intern
 - Riverside Research — Software Applications Intern
@@ -1341,6 +1341,7 @@ _Generated 2026-11-22_
 - The Aerospace Corporation — Embedded Software Engineer Intern, Multiple Teams
 - The Boeing Company — Data Analytics Intern
 - The Federal Reserve System — Community and Economic Development Intern
+- The Federal Reserve System — Information Security Intern
 - The Federal Reserve System — REIN Data Intern
 - The Federal Reserve System — Statistics Intern
 - The Federal Reserve System — Supervision & Regulation Intern - Business Relationship
@@ -1406,6 +1407,7 @@ _Generated 2026-11-22_
 - United Launch Alliance — Software Engineer Intern
 - United Parcel Service — Human Resources Intern - Data Analytics - HR Systems
 - University of Nevada, Reno — Web Development Intern - Marketing & Communications
+- University of Ottawa — Research Assistant Intern - Data Analysis
 - Ursa Major — Embedded Flight Software Intern
 - Ursa Major — IT Infrastructure & Automation Intern
 - Ursa Major — Software Development Intern
@@ -1432,6 +1434,7 @@ _Generated 2026-11-22_
 - Vercel — Software Engineering Intern - Summer '27
 - Verisk — Data Science/AI Intern
 - Verisk — Data Science/AI Intern
+- Verne Robotics — Engineering Intern
 - Versant — Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango
 - Versant — Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango
 - Versant — Technology, Product, Design & Engineering Intern, GolfNow, Full Swing, Rotten Tomatoes, Fandango
@@ -1499,6 +1502,7 @@ _Generated 2026-11-22_
 - Workday — Software Development Engineer Intern
 - Workday — Software Engineer Intern
 - Workday — Software Engineer Intern
+- Workstream — Full Stack Engineer Intern
 - WTW — Data Analyst Intern
 - Xcel Energy — Residential Energy Product Strategy Intern
 - Zebra Technologies — Security Intern
