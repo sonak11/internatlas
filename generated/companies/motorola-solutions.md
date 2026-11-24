@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Motorola Solutions | [Mission Critical Networks Software Engineer Intern](https://go.vansh.nyc/1Hn) | Schaumburg, IL +1 | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❌ |
 | Motorola Solutions | [RFIC Design Engineer Intern](https://go.vansh.nyc/1Cl) | Plantation, FL +1 | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❌ |
 | Motorola Solutions | [Embedded Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/XMLNAME-2027-Summer-Embedded-SW-Engineering-Intern_R67741-1) | Schaumburg, IL | Onsite | 2026-11-11 | Rolling | 🔴 Closed | ❔ |
 | Motorola Solutions | [Embedded SW Engineering Intern](https://go.vansh.nyc/1vC) | Schaumburg, IL | Onsite | 2026-11-11 | Rolling | 🔴 Closed | ❌ |

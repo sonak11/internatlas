@@ -21,19 +21,19 @@
 | Astera Labs | [Digital RTL Design Engineer Intern](https://go.vansh.nyc/C8) | San Jose, CA | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Emulation Engineer Intern](https://go.vansh.nyc/Fl) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Firmware Engineer Co-op Intern](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739544005) | Vancouver | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
-| Astera Labs | [Firmware Engineer Intern](https://go.vansh.nyc/Fk) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
-| Astera Labs | [Firmware Engineer Intern](https://go.vansh.nyc/1of) | Vancouver | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Firmware Engineer Intern Co-op](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4739956005) | San Jose, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Firmware Engineer Intern, Optical](https://go.vansh.nyc/Fn) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
-| Astera Labs | [Firmware Engineer Intern, SCO2](https://go.vansh.nyc/1uT) | San Jose, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Packaging Automation & Data Engineering Intern](https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4738127005) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Packaging Automation & Data Engineering Intern](https://go.vansh.nyc/Fo) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Physical Design Engineer Intern](https://go.vansh.nyc/Fq) | Toronto | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Physical Design Engineer Intern](https://go.vansh.nyc/Fp) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Platform Software Diagnostics Intern](https://go.vansh.nyc/Fs) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Astera Labs | [Platform Solutions Product Management Intern](https://go.vansh.nyc/Fu) | Cary, NC | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| Astera Labs | [Firmware Engineer Intern](https://go.vansh.nyc/Fk) | San Jose, CA | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
+| Astera Labs | [Firmware Engineer Intern](https://go.vansh.nyc/1of) | Vancouver | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 | Astera Labs | [Firmware Engineer Intern, DevSecOps](https://go.vansh.nyc/1uV) | San Jose, CA | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 | Astera Labs | [Firmware Engineer Intern, Leo](https://go.vansh.nyc/1uU) | San Jose, CA | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
+| Astera Labs | [Firmware Engineer Intern, SCO2](https://go.vansh.nyc/1uT) | San Jose, CA | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

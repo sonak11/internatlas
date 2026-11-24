@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "zoox-process-improvement-intern-summer-2027-2027-b10113",
+  "id": "illinois-tool-works-software-or-computer-engineer-intern-2027",
   "company": {
-    "name": "Zoox",
-    "slug": "zoox",
-    "career_page": "https://zoox.com/careers"
+    "name": "Illinois Tool Works",
+    "slug": "illinois-tool-works"
   },
-  "role": "Process Improvement Intern [ Summer 2027]",
+  "role": "Software or Computer Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852",
+  "apply_url": "https://careers.itw.com/global/en/job/JR11356",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Foster City",
-      "state": "CA",
+      "city": "Fairmont",
+      "state": "MN",
       "country": "USA"
     }
   ],
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-07",
-    "discovered": "2026-11-19",
-    "last_verified": "2026-11-23"
+    "posted": "2026-11-23",
+    "discovered": "2026-11-24",
+    "last_verified": "2026-11-24"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

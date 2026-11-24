@@ -75,7 +75,6 @@
 | Qualcomm | [Software Engineering Intern](https://go.vansh.nyc/Rs) | San Diego, CA +7 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Software Validation Engineering Intern](https://go.vansh.nyc/1kR) | Markham | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Telemetry Firmware, Driver and Tools Developer Intern](https://go.vansh.nyc/1jr) | Markham | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
-| Qualcomm | [Verification Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721913769) | Toronto | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [Verification Engineer Intern](https://go.vansh.nyc/1bu) | Toronto | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Qualcomm | [AI Driven Test Automation Engineering Intern](https://go.vansh.nyc/RB) | Haifa District, IL | Onsite | 2026-10-18 | Rolling | 🔴 Closed | ❔ |
 | Qualcomm | [Analog Design Intern - Hardware Engineering](https://qualcomm.eightfold.ai/careers/job/446721140914) | Toronto | Onsite | 2026-09-17 | Rolling | 🔴 Closed | ❔ |
@@ -98,6 +97,7 @@
 | Qualcomm | [Silicon Engineering Intern](https://qualcomm.eightfold.ai/careers/job/446721302528) | Toronto | Onsite | 2026-09-28 | Rolling | 🔴 Closed | ❔ |
 | Qualcomm | [Silicon Validation Intern](https://qualcomm.eightfold.ai/careers/job/446721143274) | Toronto | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
 | Qualcomm | [Soft IP ASIC Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721302471) | Ottawa | Onsite | 2026-09-28 | Rolling | 🔴 Closed | ❔ |
+| Qualcomm | [Verification Engineer Intern](https://qualcomm.eightfold.ai/careers/job/446721913769) | Toronto | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

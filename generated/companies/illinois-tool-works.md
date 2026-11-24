@@ -16,6 +16,8 @@
 | Illinois Tool Works | [Software Engineer Intern, Application Software](https://go.vansh.nyc/1wE) | Eden Prairie, MN | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | Illinois Tool Works | [Software Engineering Intern](https://go.vansh.nyc/1EG) | Rogers, MN | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | Illinois Tool Works | [Software Engineering Intern](https://go.vansh.nyc/1EF) | Appleton, WI | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
+| Illinois Tool Works | [Software or Computer Engineer Intern](https://go.vansh.nyc/1Hv) | Fairmont, MN | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
+| Illinois Tool Works | [Software or Computer Engineer Intern](https://careers.itw.com/global/en/job/JR11356) | Fairmont, MN | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | Illinois Tool Works | [Product Management Intern](https://careers.itw.com/global/en/job/JR10112) | San Luis Obispo, CA | Onsite | 2026-09-16 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

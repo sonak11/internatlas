@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "shield-ai-software-engineer-intern-co-op-2027-326eb9",
+  "id": "strava-machine-learning-engineer-intern-ai-ml-data-products-2027",
   "company": {
-    "name": "Shield AI",
-    "slug": "shield-ai"
+    "name": "Strava",
+    "slug": "strava"
   },
-  "role": "Software Engineer Intern Co-op",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/shield/a28e047a-ee12-452c-883b-ecd995d1b6b2/application?embed=true",
+  "role": "Machine Learning Engineer Intern - AI/ML Data Products",
+  "category": "machine-learning",
+  "apply_url": "https://jobs.ashbyhq.com/Strava/e4e04f82-bc91-4bc1-b775-85b2b2549023/application?embed=true",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Dallas",
-      "state": "TX",
+      "city": "SF",
       "country": "USA"
     }
   ],
@@ -25,9 +24,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -42,9 +39,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-05",
-    "discovered": "2026-11-11",
-    "last_verified": "2026-11-23"
+    "posted": "2026-11-13",
+    "discovered": "2026-11-24",
+    "last_verified": "2026-11-24"
   },
   "status": "open",
   "tags": [

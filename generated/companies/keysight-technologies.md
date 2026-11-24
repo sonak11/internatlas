@@ -20,7 +20,6 @@
 | Keysight Technologies | [R&D Software Engineer Intern](https://go.vansh.nyc/Gc) | Calabasas, CA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [R&D Software Engineer Intern](https://go.vansh.nyc/db) | Santa Rosa, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [R&D Software Engineer Intern](https://jobs.keysight.com/jobs/55110?icims=1) | Santa Rosa, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
-| Keysight Technologies | [R&D Software Engineer Intern](https://go.vansh.nyc/F9) | Colorado Springs, CO | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [R&D Software Engineer Intern](https://go.vansh.nyc/aS) | Austin, TX | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [R&D Software Engineer Intern](https://go.vansh.nyc/aO) | Santa Rosa, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | Keysight Technologies | [R&D Software Engineer QA DevOps Intern](https://go.vansh.nyc/Re) | Santa Rosa, CA +1 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❌ |
@@ -36,6 +35,7 @@
 | Keysight Technologies | [FPGA Design Intern](https://go.vansh.nyc/11u) | Calabasas, CA | Onsite | 2026-10-30 | Rolling | 🔴 Closed | ❔ |
 | Keysight Technologies | [Full Stack Intern](https://jobs.keysight.com/jobs/54165?icims=1) | Colorado Springs, CO | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | Keysight Technologies | [R&D Embedded Software Intern](https://go.vansh.nyc/Rd) | Colorado Springs, CO | Onsite | 2026-10-18 | Rolling | 🔴 Closed | ❔ |
+| Keysight Technologies | [R&D Software Engineer Intern](https://go.vansh.nyc/F9) | Colorado Springs, CO | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 | Keysight Technologies | [R&D Software Engineer Intern](https://jobs.keysight.com/jobs/54848?icims=1) | Austin, TX | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
 | Keysight Technologies | [Software Engineer Intern](https://go.vansh.nyc/1xU) | Tewksbury, MA | Onsite | 2026-11-12 | Rolling | 🔴 Closed | ❔ |
 | Keysight Technologies | [Software Engineer Intern - R&D - FPGA](https://jobs.keysight.com/jobs/53636?icims=1) | Santa Clara, CA +1 | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |

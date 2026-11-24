@@ -1,20 +1,19 @@
 {
   "schema_version": "1.0",
-  "id": "zoox-software-engineer-intern-autonomy-software-summer-2027-2027",
+  "id": "samsung-research-america-phd-intern-ai-research-2027",
   "company": {
-    "name": "Zoox",
-    "slug": "zoox",
-    "career_page": "https://zoox.com/careers"
+    "name": "Samsung Research America",
+    "slug": "samsung-research-america"
   },
-  "role": "Software Engineer Intern, Autonomy Software [Summer 2027]",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877",
-  "season": "summer",
+  "role": "PhD Intern - AI Research",
+  "category": "ai",
+  "apply_url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955762002",
+  "season": "spring",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Foster City",
+      "city": "Mountain View",
       "state": "CA",
       "country": "USA"
     }
@@ -26,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "phd"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -41,13 +42,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-30",
-    "discovered": "2026-11-06",
-    "last_verified": "2026-11-23"
+    "posted": "2026-11-23",
+    "discovered": "2026-11-24",
+    "last_verified": "2026-11-24"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:simplify"
   ]
 }

@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Canadian Tire Corporation, Limited | [Programmer Analyst Intern](https://go.vansh.nyc/1yQ) | Mississauga | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
+| Canadian Tire Corporation, Limited | [Software Development Intern](https://go.vansh.nyc/1Hf) | Toronto | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

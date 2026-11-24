@@ -38,9 +38,6 @@
 | Intercontinental Exchange | [Software Engineering Intern](https://ice.jibeapply.com/jobs/14075?icims=1) | Jacksonville, FL | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Software Engineering Intern](https://careers-ice.icims.com/jobs/14077/job?mobile=true&needsRedirect=false) | Jacksonville, FL | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Software Engineering Intern, Java](https://go.vansh.nyc/131) | Jacksonville, FL | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
-| Intercontinental Exchange | [Trading System Development Intern](https://go.vansh.nyc/1lC) | New York, NY | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
-| Intercontinental Exchange | [Trading System Development Intern](https://ice.jibeapply.com/jobs/14102?icims=1) | NYC | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
-| Intercontinental Exchange | [Trading System Development Intern](https://careers-ice.icims.com/jobs/14102/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Intercontinental Exchange | [Agentic AI Data Science Intern](https://ice.jibeapply.com/jobs/14070?icims=1) | Jacksonville, FL | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | Intercontinental Exchange | [Agentic AI Data Science Intern](https://go.vansh.nyc/134) | Jacksonville, FL | Onsite | 2026-10-31 | Rolling | 🔴 Closed | ❔ |
 | Intercontinental Exchange | [Agentic AI Data Science Intern](https://careers-ice.icims.com/jobs/14070/job?mobile=true&needsRedirect=false) | Jacksonville, FL | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
@@ -53,6 +50,9 @@
 | Intercontinental Exchange | [Software Engineer Intern](https://ice.jibeapply.com/jobs/14105?icims=1) | NYC | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | Intercontinental Exchange | [Software Engineer Intern](https://go.vansh.nyc/1n6) | New York, NY | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | Intercontinental Exchange | [Software Engineering Intern](https://go.vansh.nyc/130) | New York, NY | Onsite | 2026-10-31 | Rolling | 🔴 Closed | ❔ |
+| Intercontinental Exchange | [Trading System Development Intern](https://go.vansh.nyc/1lC) | New York, NY | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
+| Intercontinental Exchange | [Trading System Development Intern](https://ice.jibeapply.com/jobs/14102?icims=1) | NYC | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
+| Intercontinental Exchange | [Trading System Development Intern](https://careers-ice.icims.com/jobs/14102/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
