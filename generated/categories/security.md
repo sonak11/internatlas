@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**288** tracked · **178** open now
+**292** tracked · **182** open now
 
 ## Current openings
 
@@ -90,6 +90,7 @@
 | [Illumio](generated/companies/illumio.md) | [Engineering Intern, Security Platforms](https://go.vansh.nyc/1HB) | Sunnyvale, CA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | [Illumio](generated/companies/illumio.md) | [Security Platforms Engineer Intern - Security Platforms](https://jobs.ashbyhq.com/illumio/95bc7491-9b2f-493c-9297-e9cb36a63b45/application?embed=true) | Sunnyvale, CA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | [Illumio](generated/companies/illumio.md) | [Security Research Intern](https://go.vansh.nyc/cQ) | Sunnyvale, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| [Impulse Space](generated/companies/impulse-space.md) | [Information Security Intern](https://go.vansh.nyc/1HR) | Redondo Beach, CA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [Ingersoll Rand](generated/companies/ingersoll-rand.md) | [Cybersecurity Intern](https://go.vansh.nyc/1x6) | USA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Inmar Intelligence](generated/companies/inmar-intelligence.md) | [Information Security Intern](https://go.vansh.nyc/JO) | Winston Salem, NC | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Intercontinental Exchange](generated/companies/intercontinental-exchange.md) | [Cybersecurity Architect Intern](https://go.vansh.nyc/136) | Atlanta, GA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
@@ -101,6 +102,8 @@
 | [Johns Hopkins APL](generated/companies/johns-hopkins-apl.md) | [Cybersecurity Software Developer Intern](https://go.vansh.nyc/UB) | Laurel, MD | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Cybersecurity Engineer Intern, Critical Infrastructure Protection](https://go.vansh.nyc/Rc) | Laurel, MD | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Military Systems Cybersecurity Engineer Intern](https://go.vansh.nyc/R7) | Laurel, MD | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
+| [Juniper Networks](generated/companies/juniper-networks.md) | [Networking & Cybersecurity Intern](https://go.vansh.nyc/1HU) | San Jose, CA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
+| [Juniper Networks](generated/companies/juniper-networks.md) | [Networking & Cybersecurity Intern](https://go.vansh.nyc/1HT) | Westford, MA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | [L3Harris Technologies](generated/companies/l3harris-technologies.md) | [Information Security Systems Engineer Intern](https://go.vansh.nyc/XU) | Salt Lake City, UT | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❌ |
 | [Lawrence Livermore National Laboratory (LLNL)](generated/companies/lawrence-livermore-national-laboratory-llnl.md) | [Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure](https://go.vansh.nyc/1DP) | Livermore, CA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Cybersecurity Intern](https://go.vansh.nyc/1AO) | Fort Belvoir, VA | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❌ |
@@ -156,6 +159,7 @@
 | [RTX](generated/companies/rtx.md) | [Software Security Intern](https://go.vansh.nyc/1CS) | Cedar Rapids, IA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❌ |
 | [Salesforce](generated/companies/salesforce.md) | [Software Engineer Intern, Security/Government](https://go.vansh.nyc/bA) | San Francisco, CA +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❌ |
 | [Schonfeld](generated/companies/schonfeld.md) | [Cybersecurity Operations Intern](https://go.vansh.nyc/1Aj) | New York, NY | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
+| [Servco Pacific](generated/companies/servco-pacific.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/1HV) | Honolulu, HI | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [ServiceNow](generated/companies/servicenow.md) | [Associate Information Security Engineer Intern](https://go.vansh.nyc/1vY) | San Diego, CA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [ServiceNow](generated/companies/servicenow.md) | [Associate Security Engineering & Automation Intern](https://go.vansh.nyc/1vX) | Santa Clara, CA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [ServiceNow](generated/companies/servicenow.md) | [Security Software Engineer Intern](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) | Kirkland, WA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
@@ -320,6 +324,7 @@
 - Clyde Companies (2)
 - Fiserv (2)
 - HCSC (2)
+- Juniper Networks (2)
 - L3Harris Technologies (2)
 - Leidos (2)
 - LLNL (2)
@@ -394,6 +399,7 @@
 - ICD (1)
 - ID.me (1)
 - IDEMIA (1)
+- Impulse Space (1)
 - Ingersoll Rand (1)
 - Inmar Intelligence (1)
 - Intercontinental Exchange (1)
@@ -431,6 +437,7 @@
 - Rockefeller Capital Management (1)
 - Salesforce (1)
 - Schonfeld (1)
+- Servco Pacific (1)
 - SimVentions (1)
 - Southern Farm Bureau Life Insurance (1)
 - Southwest Power Pool (1)

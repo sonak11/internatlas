@@ -7,18 +7,15 @@
   },
   "role": "Business Analyst Intern",
   "category": "software-engineering",
-  "apply_url": "https://amazon.jobs/en/jobs/10565421/business-analyst-intern-3-6-and-12-months-2027",
-  "season": "spring",
+  "apply_url": "https://amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "city": "Manchester",
-      "country": "UK"
+      "city": "Bellevue",
+      "state": "WA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -45,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-23",
+    "posted": "2026-10-09",
     "discovered": "2026-10-23",
-    "last_verified": "2026-11-04"
+    "last_verified": "2026-11-24"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

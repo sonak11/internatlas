@@ -11,6 +11,7 @@
 | Fanatics | [Product Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507676009) | NYC | Onsite | 2026-11-15 | Rolling | 🟢 Open | ❔ |
 | Fanatics | [Product Intern - Physical Trading Cards](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507757009) | Coppell, TX | Onsite | 2026-11-15 | Rolling | 🟢 Open | ❔ |
 | Fanatics | [Product Management Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009) | Seattle, WA | Onsite | 2026-11-15 | Rolling | 🟢 Open | ❔ |
+| Fanatics | [Product Management Intern - Card Tech](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009) | NYC | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

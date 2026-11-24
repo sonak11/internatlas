@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**200** tracked · **125** open now
+**203** tracked · **128** open now
 
 ## Current openings
 
@@ -36,6 +36,7 @@
 | [Cadence](generated/companies/cadence.md) | [Software Engineering Intern, Circuit Simulation Infrastructure](https://go.vansh.nyc/1EP) | San Jose, CA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Calamos Investments](generated/companies/calamos-investments.md) | [Cloud Engineer Intern](https://go.vansh.nyc/1FX) | Naperville, IL | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
 | [Cambridge Consultants](generated/companies/cambridge-consultants.md) | [Cloud Software Engineer Intern](https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4988184101) | UK | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
+| [CarGurus](generated/companies/cargurus.md) | [Data Platform Engineer Intern](https://job-boards.greenhouse.io/ecjobb/jobs/8230750) | Boston, MA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | [CarGurus](generated/companies/cargurus.md) | [Data Platform Engineer Intern](https://go.vansh.nyc/1x3) | Boston, MA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [CAS](generated/companies/cas.md) | [Infrastructure Engineer Intern, Technology](https://go.vansh.nyc/1Ej) | Columbus, OH | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Cboe Global Markets](generated/companies/cboe-global-markets.md) | [DevOps Intern](https://go.vansh.nyc/1xz) | Overland Park, KS | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
@@ -46,6 +47,7 @@
 | [Dynamic Catholic](generated/companies/dynamic-catholic.md) | [Software Developer Intern, Commerce Cloud](https://go.vansh.nyc/1eB) | Erlanger, KY | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | [Election Systems & Software](generated/companies/election-systems-software.md) | [DevOps Intern](https://go.vansh.nyc/fY) | Omaha, NE | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [fab2](generated/companies/fab2.md) | [Infrastructure Software Engineering Intern](https://go.vansh.nyc/1lp) | Austin, TX +1 | Onsite | 2026-09-05 | Rolling | 🟢 Open | ❔ |
+| [Federal Home Loan Bank of Indianapolis](generated/companies/federal-home-loan-bank-of-indianapolis.md) | [Data Platform Engineer Intern](https://go.vansh.nyc/1I0) | Indianapolis, IN | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [GardaWorld](generated/companies/gardaworld.md) | [Infrastructure Engineer Intern](https://go.vansh.nyc/10Z) | Wayzata, MN | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [Garmin](generated/companies/garmin.md) | [IT DevOps Administrator Intern](https://go.vansh.nyc/1jp) | Olathe, KS | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Garmin International](generated/companies/garmin-international.md) | [IT DevOps Administrator Intern](https://go.vansh.nyc/1xf) | Olathe, KS | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
@@ -55,6 +57,7 @@
 | [Great American Insurance Group](generated/companies/great-american-insurance-group.md) | [Cloud Data Platform Intern](https://go.vansh.nyc/Wu) | Cincinnati, OH | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [HeartFlow](generated/companies/heartflow.md) | [Platform Engineering Intern](https://go.vansh.nyc/1Ds) | San Francisco, CA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Cloud Developer Intern](https://go.vansh.nyc/EL) | San Jose, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
+| [Idaho National Laboratory](generated/companies/idaho-national-laboratory.md) | [Infrastructure Data Integration & Risk-Informed Maintenance Pilot Intern](https://go.vansh.nyc/1I6) | Idaho Falls, ID | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | [Illumio](generated/companies/illumio.md) | [Engineering Intern, SRE](https://go.vansh.nyc/1pl) | Sunnyvale, CA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [Insulet Corporation](generated/companies/insulet-corporation.md) | [DevOps Engineer Intern](https://go.vansh.nyc/JZ) | San Diego, CA | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❌ |
 | [Intercontinental Exchange](generated/companies/intercontinental-exchange.md) | [Infrastructure Development & Automation Intern](https://go.vansh.nyc/1lE) | Atlanta, GA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
@@ -222,6 +225,7 @@
 - LLNL (3)
 - Shure (3)
 - Etched (3)
+- CarGurus (2)
 - Great American Insurance Company (2)
 - Juniper Networks (2)
 - Keysight Technologies (2)
@@ -241,7 +245,6 @@
 - Cadence (1)
 - Calamos Investments (1)
 - Cambridge Consultants (1)
-- CarGurus (1)
 - CAS (1)
 - Cboe Global Markets (1)
 - Corning (1)
@@ -251,6 +254,7 @@
 - Dynamic Catholic (1)
 - Election Systems & Software (1)
 - fab2 (1)
+- Federal Home Loan Bank of Indianapolis (1)
 - GardaWorld (1)
 - Garmin (1)
 - Garmin International (1)
@@ -259,6 +263,7 @@
 - Great American Insurance Group (1)
 - HeartFlow (1)
 - Hewlett Packard Enterprise (1)
+- Idaho National Laboratory (1)
 - Illumio (1)
 - Insulet Corporation (1)
 - Intercontinental Exchange (1)

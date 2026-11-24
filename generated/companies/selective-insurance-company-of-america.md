@@ -6,9 +6,9 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Selective Insurance Company of America | [IT Commercial Lines Intern](https://go.vansh.nyc/1xm) | Hartford, CT +1 | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
-| Selective Insurance Company of America | [IT Information Management Intern](https://go.vansh.nyc/1xo) | Short Hills, NJ | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | Selective Insurance Company of America | [IT Information Management Intern](https://go.vansh.nyc/1xn) | Charlotte, NC | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| Selective Insurance Company of America | [IT Commercial Lines Intern](https://go.vansh.nyc/1xm) | Hartford, CT +1 | Onsite | 2026-11-11 | Rolling | 🔴 Closed | ❔ |
+| Selective Insurance Company of America | [IT Information Management Intern](https://go.vansh.nyc/1xo) | Short Hills, NJ | Onsite | 2026-11-11 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

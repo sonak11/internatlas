@@ -10,6 +10,7 @@
 | MITRE | [Autonomous Systems Intern](https://go.vansh.nyc/gU) | McLean, VA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | MITRE | [Computer Science or Software Engineering Intern](https://go.vansh.nyc/1lX) | McLean, VA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | MITRE | [Critical Infrastructure Protection Intern](https://go.vansh.nyc/10s) | McLean, VA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
+| MITRE | [Cyber Operations Engineer Intern](https://go.vansh.nyc/1HS) | McLean, VA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | MITRE | [Cybersecurity and Information Security Intern](https://go.vansh.nyc/1GC) | McLean, VA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | MITRE | [Data Science and Engineering Intern](https://go.vansh.nyc/10t) | McLean, VA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❌ |
 | MITRE | [Embedded Security Intern, Electronics Prototype](https://go.vansh.nyc/1GA) | Bedford, MA | Onsite | 2026-11-22 | Rolling | 🟢 Open | ❔ |

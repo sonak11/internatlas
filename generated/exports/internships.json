@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-24",
-  "count": 11427,
+  "count": 11460,
   "internships": [
     {
       "schema_version": "1.0",
@@ -19031,18 +19031,15 @@
       },
       "role": "Business Analyst Intern",
       "category": "software-engineering",
-      "apply_url": "https://amazon.jobs/en/jobs/10565421/business-analyst-intern-3-6-and-12-months-2027",
-      "season": "spring",
+      "apply_url": "https://amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027",
+      "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "London",
-          "country": "UK"
-        },
-        {
-          "city": "Manchester",
-          "country": "UK"
+          "city": "Bellevue",
+          "state": "WA",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -19069,11 +19066,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-10-23",
+        "posted": "2026-10-09",
         "discovered": "2026-10-23",
-        "last_verified": "2026-11-04"
+        "last_verified": "2026-11-24"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -50443,6 +50440,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "artefact-ai-engineering-intern-2027",
+      "company": {
+        "name": "Artefact",
+        "slug": "artefact"
+      },
+      "role": "AI Engineering Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1I4",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "New York",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-23",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "arthur-j-gallagher-co-data-analytics-intern-2027",
       "company": {
         "name": "Arthur J. Gallagher & Co.",
@@ -69020,7 +69069,7 @@
         "discovered": "2026-09-09",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -103572,7 +103621,7 @@
         "discovered": "2026-11-14",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -107784,6 +107833,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cargurus-data-analytics-engineer-intern-2027-4decd3",
+      "company": {
+        "name": "CarGurus",
+        "slug": "cargurus"
+      },
+      "role": "Data Analytics Engineer Intern",
+      "category": "data-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231510",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "cargurus-data-analytics-engineer-intern-2027",
       "company": {
         "name": "CarGurus",
@@ -107832,6 +107933,60 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cargurus-data-governance-engineer-intern-2027-129f14",
+      "company": {
+        "name": "CarGurus",
+        "slug": "cargurus"
+      },
+      "role": "Data Governance Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230749",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -107888,6 +108043,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cargurus-data-platform-engineer-intern-2027-0d06d1",
+      "company": {
+        "name": "CarGurus",
+        "slug": "cargurus"
+      },
+      "role": "Data Platform Engineer Intern",
+      "category": "cloud",
+      "apply_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230750",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "cargurus-data-platform-engineer-intern-2027",
       "company": {
         "name": "CarGurus",
@@ -107936,6 +108145,110 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cargurus-finance-ai-solutions-intern-2027",
+      "company": {
+        "name": "CarGurus",
+        "slug": "cargurus"
+      },
+      "role": "Finance AI Solutions Intern",
+      "category": "ai",
+      "apply_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231798",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cargurus-product-data-analyst-intern-2027-ce756a",
+      "company": {
+        "name": "CarGurus",
+        "slug": "cargurus"
+      },
+      "role": "Product Data Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230677",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -107992,6 +108305,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "cargurus-product-management-intern-2027",
+      "company": {
+        "name": "CarGurus",
+        "slug": "cargurus"
+      },
+      "role": "Product Management Intern",
+      "category": "product",
+      "apply_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230686",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "cargurus-site-reliability-engineer-intern-2027",
       "company": {
         "name": "CarGurus",
@@ -108040,6 +108405,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cargurus-software-development-engineer-intern-2027-0ec186",
+      "company": {
+        "name": "CarGurus",
+        "slug": "cargurus"
+      },
+      "role": "Software Development Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8231504",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -108144,6 +108561,110 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cargurus-software-engineer-intern-full-stack-2027-7435de",
+      "company": {
+        "name": "CarGurus",
+        "slug": "cargurus"
+      },
+      "role": "Software Engineer Intern - Full Stack",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230777",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "cargurus-software-engineer-intern-full-stack-2027",
+      "company": {
+        "name": "CarGurus",
+        "slug": "cargurus"
+      },
+      "role": "Software Engineer Intern - Full Stack",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/ecjobb/jobs/8230763",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-30",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -123994,7 +124515,7 @@
         "discovered": "2026-11-08",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -168375,7 +168896,7 @@
         "discovered": "2026-10-10",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -169308,7 +169829,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -171863,6 +172384,98 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "energy-solutions-clean-transportation-intern-2027",
+      "company": {
+        "name": "Energy Solutions",
+        "slug": "energy-solutions"
+      },
+      "role": "Clean Transportation Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/energysolutionsinternships/jobs/5229251007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-09",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "energy-solutions-solar-intern-2027",
+      "company": {
+        "name": "Energy Solutions",
+        "slug": "energy-solutions"
+      },
+      "role": "Solar Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/energysolutionsinternships/jobs/5229243007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "remote",
+      "locations": [],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-09",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -178200,6 +178813,272 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "esri-enterprise-business-intelligence-intern-2027",
+      "company": {
+        "name": "Esri",
+        "slug": "esri"
+      },
+      "role": "Enterprise Business Intelligence Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/studentprogram/jobs/5246028007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redlands",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-09-22",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "esri-gis-engineer-intern-2027",
+      "company": {
+        "name": "Esri",
+        "slug": "esri"
+      },
+      "role": "GIS Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/studentprogram/jobs/5217904007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redlands",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-25",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "esri-software-development-engineer-intern-2027",
+      "company": {
+        "name": "Esri",
+        "slug": "esri"
+      },
+      "role": "Software Development Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/studentprogram/jobs/5217883007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redlands",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters",
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-08-25",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "esri-software-engineer-intern-2027-291338",
+      "company": {
+        "name": "Esri",
+        "slug": "esri"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/studentprogram/jobs/5286753007",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "St. Louis",
+          "state": "MO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-05",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "esri-software-engineer-intern-2027",
+      "company": {
+        "name": "Esri",
+        "slug": "esri"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1I3",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "St. Louis",
+          "state": "MO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-05",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -184974,6 +185853,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "fanatics-product-management-intern-card-tech-2027",
+      "company": {
+        "name": "Fanatics",
+        "slug": "fanatics"
+      },
+      "role": "Product Management Intern - Card Tech",
+      "category": "product",
+      "apply_url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-24",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "fanduel-sports-trader-intern-2027",
       "company": {
         "name": "FanDuel",
@@ -186126,6 +187056,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "federal-home-loan-bank-of-indianapolis-data-platform-engineer-intern-2027",
+      "company": {
+        "name": "Federal Home Loan Bank of Indianapolis",
+        "slug": "federal-home-loan-bank-of-indianapolis"
+      },
+      "role": "Data Platform Engineer Intern",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/1I0",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Indianapolis",
+          "state": "IN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-24",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -250415,6 +251397,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "icapital-network-si-and-annuities-intern-2027",
+      "company": {
+        "name": "iCapital Network",
+        "slug": "icapital-network"
+      },
+      "role": "SI and Annuities Intern",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8958714002",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "NYC",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-24",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "icd-cyber-security-intern-2027",
       "company": {
         "name": "ICD",
@@ -251723,6 +252756,58 @@
       "dates": {
         "posted": "2026-11-17",
         "discovered": "2026-11-17",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "idaho-national-laboratory-infrastructure-data-integration-risk-informed-maintenance-pi-2027",
+      "company": {
+        "name": "Idaho National Laboratory",
+        "slug": "idaho-national-laboratory"
+      },
+      "role": "Infrastructure Data Integration & Risk-Informed Maintenance Pilot Intern",
+      "category": "cloud",
+      "apply_url": "https://go.vansh.nyc/1I6",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Idaho Falls",
+          "state": "ID",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-23",
+        "discovered": "2026-11-24",
         "last_verified": "2026-11-24"
       },
       "status": "open",
@@ -256714,7 +257799,7 @@
         "discovered": "2026-09-10",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -256772,6 +257857,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "impulse-space-information-security-intern-2027",
+      "company": {
+        "name": "Impulse Space",
+        "slug": "impulse-space"
+      },
+      "role": "Information Security Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/1HR",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Redondo Beach",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-24",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -267984,7 +269121,7 @@
         "discovered": "2026-11-06",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -268036,7 +269173,7 @@
         "discovered": "2026-11-06",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -269308,6 +270445,60 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "iso-new-england-market-analysis-tool-intern-market-analysis-tool-2027",
+      "company": {
+        "name": "ISO New England",
+        "slug": "iso-new-england"
+      },
+      "role": "Market Analysis Tool Intern - Market Analysis Tool",
+      "category": "software-engineering",
+      "apply_url": "https://job-boards.greenhouse.io/studentinternships/jobs/4456528009",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Holyoke",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-10-20",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -278456,7 +279647,7 @@
         "discovered": "2026-11-24",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -283107,6 +284298,110 @@
     },
     {
       "schema_version": "1.0",
+      "id": "juniper-networks-networking-cybersecurity-intern-2027-555067",
+      "company": {
+        "name": "Juniper Networks",
+        "slug": "juniper-networks"
+      },
+      "role": "Networking & Cybersecurity Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/1HU",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "San Jose",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-23",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "juniper-networks-networking-cybersecurity-intern-2027",
+      "company": {
+        "name": "Juniper Networks",
+        "slug": "juniper-networks"
+      },
+      "role": "Networking & Cybersecurity Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/1HT",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Westford",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-23",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "k-id-engineering-intern-program-2026",
       "company": {
         "name": "k-ID",
@@ -287291,7 +288586,7 @@
         "discovered": "2026-10-03",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -316976,7 +318271,7 @@
         "discovered": "2026-09-23",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -337478,6 +338773,58 @@
       "dates": {
         "posted": "2026-10-30",
         "discovered": "2026-10-30",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "mitre-cyber-operations-engineer-intern-2027",
+      "company": {
+        "name": "MITRE",
+        "slug": "mitre"
+      },
+      "role": "Cyber Operations Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1HS",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "McLean",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-23",
+        "discovered": "2026-11-24",
         "last_verified": "2026-11-24"
       },
       "status": "open",
@@ -402109,6 +403456,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "plains-all-american-pipeline-operations-management-system-intern-digital-ai-innovation-2027",
+      "company": {
+        "name": "Plains All American Pipeline",
+        "slug": "plains-all-american-pipeline"
+      },
+      "role": "Operations Management System Intern - Digital & AI Innovation",
+      "category": "ai",
+      "apply_url": "https://plains.wd1.myworkdayjobs.com/plains/job/Houston-TX/Intern--Operations-Management-System--Digital---AI-Innovation_R0015266-1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Houston",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-20",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "planview-software-engineer-intern-2027",
       "company": {
         "name": "Planview",
@@ -443588,7 +444989,7 @@
         "discovered": "2026-11-22",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -450700,7 +452101,7 @@
         "discovered": "2026-11-10",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -459014,6 +460415,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "rtx-software-engineering-intern-2027-f0708c",
+      "company": {
+        "name": "RTX",
+        "slug": "rtx"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1HO",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Indianapolis",
+          "state": "IN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-24",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "rtx-software-engineering-intern-2027-f49a9a",
       "company": {
         "name": "RTX",
@@ -461396,7 +462849,7 @@
         "discovered": "2026-11-06",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -472422,7 +473875,7 @@
         "discovered": "2026-11-12",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -472474,7 +473927,7 @@
         "discovered": "2026-11-12",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -473601,6 +475054,58 @@
       "dates": {
         "posted": "2026-07-13",
         "discovered": "2026-11-06",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "servco-pacific-cybersecurity-analyst-intern-2027",
+      "company": {
+        "name": "Servco Pacific",
+        "slug": "servco-pacific"
+      },
+      "role": "Cybersecurity Analyst Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/1HV",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Honolulu",
+          "state": "HI",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-24",
+        "discovered": "2026-11-24",
         "last_verified": "2026-11-24"
       },
       "status": "open",
@@ -567699,6 +569204,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "trimble-ai-software-developer-engineer-in-test-intern-2027",
+      "company": {
+        "name": "Trimble",
+        "slug": "trimble"
+      },
+      "role": "AI Software Developer Engineer in Test Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1I5",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Lake Oswego",
+          "state": "OR",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-24",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "trimble-automated-test-engineering-intern-2027",
       "company": {
         "name": "Trimble",
@@ -581444,6 +583001,58 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "veolia-manufacturing-software-engineer-intern-2027",
+      "company": {
+        "name": "Veolia",
+        "slug": "veolia"
+      },
+      "role": "Manufacturing Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boulder",
+          "state": "CO",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-24",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -605080,7 +606689,7 @@
         "discovered": "2026-11-11",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -605865,7 +607474,7 @@
         "discovered": "2026-11-21",
         "last_verified": "2026-11-24"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -614144,6 +615753,110 @@
         "last_verified": "2026-11-12"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "zoll-medical-corporation-software-automation-intern-2027",
+      "company": {
+        "name": "ZOLL Medical Corporation",
+        "slug": "zoll-medical-corporation"
+      },
+      "role": "Software Automation Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1I1",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chelmsford",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-24",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "zoll-medical-corporation-software-engineering-intern-2027",
+      "company": {
+        "name": "ZOLL Medical Corporation",
+        "slug": "zoll-medical-corporation"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1HW",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chelmsford",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-24",
+        "discovered": "2026-11-24",
+        "last_verified": "2026-11-24"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"

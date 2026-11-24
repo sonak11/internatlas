@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "id": "esri-enterprise-business-intelligence-intern-2027",
+  "company": {
+    "name": "Esri",
+    "slug": "esri"
+  },
+  "role": "Enterprise Business Intelligence Intern",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/studentprogram/jobs/5246028007",
+  "season": "summer",
+  "year": 2027,
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Redlands",
+      "state": "CA",
+      "country": "USA"
+    }
+  ],
+  "compensation": {
+    "currency": "USD",
+    "housing_stipend": false,
+    "relocation_assistance": false
+  },
+  "eligibility": {
+    "graduation_years": [],
+    "degree_levels": [
+      "masters",
+      "phd"
+    ],
+    "citizenship_required": false,
+    "security_clearance_required": false,
+    "visa_sponsorship": "unknown"
+  },
+  "interview": {},
+  "tech": {
+    "required_skills": [],
+    "preferred_skills": [],
+    "languages": [],
+    "frameworks": [],
+    "cloud_platforms": [],
+    "resume_keywords": []
+  },
+  "dates": {
+    "posted": "2026-09-22",
+    "discovered": "2026-11-24",
+    "last_verified": "2026-11-24"
+  },
+  "status": "open",
+  "tags": [
+    "auto-ingested",
+    "src:simplify"
+  ]
+}
