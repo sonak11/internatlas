@@ -7,18 +7,15 @@
   },
   "role": "Embedded Software Engineer Intern",
   "category": "embedded",
-  "apply_url": "https://go.vansh.nyc/Jm",
+  "apply_url": "https://go.vansh.nyc/1Jb",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Toronto",
-      "country": "Canada"
-    },
-    {
-      "city": "Vancouver",
-      "country": "Canada"
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -43,7 +40,7 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-23",
+    "posted": "2026-11-24",
     "discovered": "2026-10-26",
     "last_verified": "2026-11-25"
   },

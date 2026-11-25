@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "jump-trading-campus-ui-software-engineer-intern-2027-76b32d",
+  "id": "celestica-engineering-ai-development-intern-2027",
   "company": {
-    "name": "Jump Trading",
-    "slug": "jump-trading",
-    "career_page": "https://www.jumptrading.com/careers"
+    "name": "Celestica",
+    "slug": "celestica"
   },
-  "role": "Campus UI Software Engineer (Intern)",
-  "category": "design",
-  "apply_url": "https://www.jumptrading.com/hr/job?gh_jid=8003019",
+  "role": "Engineering AI Development Intern",
+  "category": "ai",
+  "apply_url": "https://go.vansh.nyc/1Jn",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Chicago",
-      "country": "USA"
+      "city": "Toronto",
+      "country": "Canada"
     }
   ],
   "compensation": {
@@ -28,7 +27,7 @@
     "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "yes"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-07-08",
-    "discovered": "2026-07-18",
+    "posted": "2026-11-25",
+    "discovered": "2026-11-25",
     "last_verified": "2026-11-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

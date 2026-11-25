@@ -7,14 +7,49 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1pD",
+  "apply_url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
+      "city": "Dayton",
+      "state": "OH",
+      "country": "USA"
+    },
+    {
+      "city": "Knoxville",
+      "state": "TN",
+      "country": "USA"
+    },
+    {
+      "city": "Portsmouth",
+      "state": "NH",
+      "country": "USA"
+    },
+    {
+      "city": "Princeton",
+      "state": "NJ",
+      "country": "USA"
+    },
+    {
       "city": "Lake Oswego",
       "state": "OR",
+      "country": "USA"
+    },
+    {
+      "city": "Westminster",
+      "state": "CO",
+      "country": "USA"
+    },
+    {
+      "city": "Sunnyvale",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "city": "Atlanta",
+      "state": "GA",
       "country": "USA"
     }
   ],
@@ -40,13 +75,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-09",
+    "posted": "2026-09-08",
     "discovered": "2026-09-08",
     "last_verified": "2026-11-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

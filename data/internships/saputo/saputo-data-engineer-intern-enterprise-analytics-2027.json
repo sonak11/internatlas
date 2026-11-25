@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "itron-systems-engineer-intern-2027-9a79d0",
+  "id": "saputo-data-engineer-intern-enterprise-analytics-2027",
   "company": {
-    "name": "Itron",
-    "slug": "itron"
+    "name": "Saputo",
+    "slug": "saputo"
   },
-  "role": "Systems Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-South-Carolina-West-Union/Intern---Systems-Engineer--Spring-2027-_JR102789-1",
-  "season": "spring",
+  "role": "Data Engineer Intern, Enterprise Analytics",
+  "category": "data-engineering",
+  "apply_url": "https://go.vansh.nyc/1Jd",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "West Union",
-      "state": "SC",
-      "country": "USA"
+      "city": "Mississauga",
+      "country": "Canada"
     }
   ],
   "compensation": {
@@ -40,13 +39,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-30",
-    "discovered": "2026-10-31",
+    "posted": "2026-11-25",
+    "discovered": "2026-11-25",
     "last_verified": "2026-11-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

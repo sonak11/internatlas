@@ -1,28 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "apple-gpu-intern-2027-80934b",
+  "id": "aerospace-corporation-embedded-software-engineering-undergrad-intern-2027",
   "company": {
-    "name": "Apple",
-    "slug": "apple"
+    "name": "Aerospace Corporation",
+    "slug": "aerospace-corporation"
   },
-  "role": "GPU Intern",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.apple.com/en-us/details/200679652",
-  "season": "spring",
+  "role": "Embedded Software Engineering Undergrad Intern",
+  "category": "embedded",
+  "apply_url": "https://go.vansh.nyc/1J8",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "London",
-      "country": "UK"
-    },
-    {
-      "city": "Cambridge",
-      "country": "UK"
-    },
-    {
-      "city": "St Albans",
-      "country": "UK"
+      "city": "El Segundo",
+      "state": "CA",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -32,13 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters",
-      "phd"
-    ],
-    "citizenship_required": false,
+    "degree_levels": [],
+    "citizenship_required": true,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -50,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-24",
-    "discovered": "2026-08-24",
+    "posted": "2026-11-24",
+    "discovered": "2026-11-25",
     "last_verified": "2026-11-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

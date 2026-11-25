@@ -1,20 +1,25 @@
 {
   "schema_version": "1.0",
-  "id": "stripe-software-engineer-intern-2027-7b9aeb",
+  "id": "sambanova-machine-learning-engineer-intern-2027",
   "company": {
-    "name": "Stripe",
-    "slug": "stripe",
-    "career_page": "https://stripe.com/jobs/university"
+    "name": "SambaNova",
+    "slug": "sambanova"
   },
-  "role": "Software Engineer, Intern",
-  "category": "software-engineering",
-  "apply_url": "https://stripe.com/jobs/search?gh_jid=8130807",
+  "role": "Machine Learning Engineer Intern",
+  "category": "machine-learning",
+  "apply_url": "https://go.vansh.nyc/1Jr",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Bucharest",
+      "city": "Austin",
+      "state": "TX",
+      "country": "USA"
+    },
+    {
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,13 +45,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-31",
-    "discovered": "2026-09-01",
+    "posted": "2026-11-25",
+    "discovered": "2026-11-25",
     "last_verified": "2026-11-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

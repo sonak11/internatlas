@@ -7,8 +7,8 @@
   },
   "role": "Credit Analyst Intern",
   "category": "software-engineering",
-  "apply_url": "https://jobs.ashbyhq.com/lendable/a2214edc-39e3-4c70-8a09-875bb991062f/application?embed=true",
-  "season": "summer",
+  "apply_url": "https://jobs.ashbyhq.com/lendable/eabb1e2a-86c3-48e6-836c-af967e0e71d2/application?embed=true",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
@@ -39,11 +39,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-29",
+    "posted": "2026-10-09",
     "discovered": "2026-10-09",
-    "last_verified": "2026-10-19"
+    "last_verified": "2026-11-25"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
