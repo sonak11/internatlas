@@ -6,10 +6,10 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Quadric | [AI Kernel Engineer Intern](https://go.vansh.nyc/1n3) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
-| Quadric | [RTL Intern](https://go.vansh.nyc/1n2) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Quadric | [AI Kernel Engineer Intern](https://go.vansh.nyc/1n3) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | Quadric | [Deep Learning Compiler Intern](https://go.vansh.nyc/1n4) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | Quadric | [Design Verification Intern](https://go.vansh.nyc/1n5) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
+| Quadric | [RTL Intern](https://go.vansh.nyc/1n2) | Burlingame, CA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

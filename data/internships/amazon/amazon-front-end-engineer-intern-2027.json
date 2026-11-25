@@ -1,20 +1,30 @@
 {
   "schema_version": "1.0",
-  "id": "tiktok-software-engineer-intern-business-integrity-2027-0ab2b5",
+  "id": "amazon-front-end-engineer-intern-2027",
   "company": {
-    "name": "TikTok",
-    "slug": "tiktok"
+    "name": "Amazon",
+    "slug": "amazon"
   },
-  "role": "Software Engineer Intern - Business Integrity",
+  "role": "Front-End Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://lifeattiktok.com/search/7668584916620527925",
-  "season": "summer",
+  "apply_url": "https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
+      "city": "Seattle",
+      "state": "WA",
+      "country": "USA"
+    },
+    {
+      "city": "Chicago",
+      "state": "IL",
+      "country": "USA"
+    },
+    {
+      "city": "Bellevue",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -42,9 +52,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-08-03",
-    "discovered": "2026-10-25",
-    "last_verified": "2026-11-24"
+    "posted": "2026-11-24",
+    "discovered": "2026-11-25",
+    "last_verified": "2026-11-25"
   },
   "status": "open",
   "tags": [

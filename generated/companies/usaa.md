@@ -6,7 +6,6 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| USAA | [Technology Intern](https://go.vansh.nyc/1zL) | San Antonio, TX +2 | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
 | USAA | [AI/ML Engineer Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/AI-ML-Engineer-Intern_R0121196) | Plano, TX | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | USAA | [Data Intern - Future Leaders Program](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Future-Leaders-Program---Data-Intern_R0120824) | Charlotte, NC +1 | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | USAA | [Data Scientist Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Scientist-Intern_R0121200) | Plano, TX | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
@@ -17,6 +16,7 @@
 | USAA | [Product Management Analyst Intern - Property and Casualty](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949) | San Antonio, TX | Onsite | 2026-09-11 | Rolling | 🔴 Closed | ❔ |
 | USAA | [Quantitative Risk Analyst Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-Intern_R0120753) | San Antonio, TX | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | USAA | [Technology Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Technology-Intern_R0120133) | Plano, TX +2 | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
+| USAA | [Technology Intern](https://go.vansh.nyc/1zL) | San Antonio, TX +2 | Onsite | 2026-11-14 | Rolling | 🔴 Closed | ❔ |
 | USAA | [Visualization Engineer Intern](https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Visualization-Engineer-Intern_R0121201) | San Antonio, TX | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

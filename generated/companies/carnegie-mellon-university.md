@@ -12,11 +12,8 @@
 | Carnegie Mellon University | [AI Engineer Intern - Mission Innovation Lab](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364-1) | Pittsburgh, PA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | Carnegie Mellon University | [AI Engineer Intern - Mission Innovation Lab](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/AI-Engineer-Intern---Mission-Innovation-Lab--Summer-2027-_2025364) | Pittsburgh, PA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❌ |
 | Carnegie Mellon University | [AI Engineer Intern, Mission Innovation Lab](https://go.vansh.nyc/1Az) | Pittsburgh, PA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❌ |
-| Carnegie Mellon University | [Cyber AI Engineer Intern](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2) | Pittsburgh, PA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
-| Carnegie Mellon University | [Cyber AI Engineering Intern](https://go.vansh.nyc/1yV) | Pittsburgh, PA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❌ |
 | Carnegie Mellon University | [Cyber AI Engineering Intern](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-1) | Pittsburgh, PA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❌ |
 | Carnegie Mellon University | [Cyber Range Development Intern](https://go.vansh.nyc/10C) | Pittsburgh, PA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❌ |
-| Carnegie Mellon University | [Cybersecurity Engineer Intern](https://go.vansh.nyc/1yU) | Pittsburgh, PA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | Carnegie Mellon University | [Enabling Mission Capability at Scale Intern](https://go.vansh.nyc/110) | Pittsburgh, PA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❌ |
 | Carnegie Mellon University | [Enabling Mission Capability at Scale Intern](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300-1) | Pittsburgh, PA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | Carnegie Mellon University | [Enabling Mission Capability at Scale Intern](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Enabling-Mission-Capability-at-Scale-Intern---Summer-2027_2025300) | Pittsburgh, PA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❌ |
@@ -26,6 +23,9 @@
 | Carnegie Mellon University | [Advanced Computing Lab Intern](https://go.vansh.nyc/1pb) | Pittsburgh, PA | Onsite | 2026-11-09 | Rolling | 🔴 Closed | ❌ |
 | Carnegie Mellon University | [Advanced Computing Lab Intern](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336-1) | Pittsburgh, PA | Onsite | 2026-11-09 | Rolling | 🔴 Closed | ❔ |
 | Carnegie Mellon University | [Advanced Computing Lab Intern](https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Advanced-Computing-Lab-Intern---Summer-2027-_2025336) | Pittsburgh, PA | Onsite | 2026-11-09 | Rolling | 🔴 Closed | ❌ |
+| Carnegie Mellon University | [Cyber AI Engineer Intern](https://cmu.wd115.myworkdayjobs.com/SEI/job/Pittsburgh-PA/Cyber-AI-Engineering-Intern--Spring-2027-_2025346-2) | Pittsburgh, PA | Onsite | 2026-11-13 | Rolling | 🔴 Closed | ❔ |
+| Carnegie Mellon University | [Cyber AI Engineering Intern](https://go.vansh.nyc/1yV) | Pittsburgh, PA | Onsite | 2026-11-13 | Rolling | 🔴 Closed | ❌ |
+| Carnegie Mellon University | [Cybersecurity Engineer Intern](https://go.vansh.nyc/1yU) | Pittsburgh, PA | Onsite | 2026-11-13 | Rolling | 🔴 Closed | ❔ |
 | Carnegie Mellon University | [Research Intern - School of Computer Science - Language Technologies Institute](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Intern---School-of-Computer-Science---LTI_2024870) | Pittsburgh, PA | Onsite | 2026-07-22 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

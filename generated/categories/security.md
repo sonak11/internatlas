@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**292** tracked · **182** open now
+**294** tracked · **183** open now
 
 ## Current openings
 
@@ -43,7 +43,6 @@
 | [CAE](generated/companies/cae.md) | [Cybersecurity Integration Specialist Intern](https://go.vansh.nyc/SA) | Montreal | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Caesars Entertainment](generated/companies/caesars-entertainment.md) | [IAM Cybersecurity Intern](https://go.vansh.nyc/1ES) | Las Vegas, NV | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Calamos Investments](generated/companies/calamos-investments.md) | [Information Security Intern](https://go.vansh.nyc/1FV) | Naperville, IL | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
-| [Carnegie Mellon University](generated/companies/carnegie-mellon-university.md) | [Cybersecurity Engineer Intern](https://go.vansh.nyc/1yU) | Pittsburgh, PA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern - Security](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926) | Atlanta, GA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern, Security](https://go.vansh.nyc/cp) | Atlanta, GA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Citizens Energy Group](generated/companies/citizens-energy-group.md) | [IT Security Intern](https://go.vansh.nyc/1oR) | Indianapolis, IN | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
@@ -104,6 +103,7 @@
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Military Systems Cybersecurity Engineer Intern](https://go.vansh.nyc/R7) | Laurel, MD | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Juniper Networks](generated/companies/juniper-networks.md) | [Networking & Cybersecurity Intern](https://go.vansh.nyc/1HU) | San Jose, CA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | [Juniper Networks](generated/companies/juniper-networks.md) | [Networking & Cybersecurity Intern](https://go.vansh.nyc/1HT) | Westford, MA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
+| [Kiewit](generated/companies/kiewit.md) | [Cloud Security Intern, Technology Group](https://go.vansh.nyc/1Il) | Omaha, NE | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [L3Harris Technologies](generated/companies/l3harris-technologies.md) | [Information Security Systems Engineer Intern](https://go.vansh.nyc/XU) | Salt Lake City, UT | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❌ |
 | [Lawrence Livermore National Laboratory (LLNL)](generated/companies/lawrence-livermore-national-laboratory-llnl.md) | [Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure](https://go.vansh.nyc/1DP) | Livermore, CA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Cybersecurity Intern](https://go.vansh.nyc/1AO) | Fort Belvoir, VA | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❌ |
@@ -151,6 +151,7 @@
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Information Security Engineer Intern](https://go.vansh.nyc/OK) | New York, NY | Onsite | 2022-08-03 | Rolling | 🟢 Open | ❔ |
 | [Papa John's](generated/companies/papa-john-s.md) | [Cyber Security Intern](https://go.vansh.nyc/W8) | Atlanta, GA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [PayPal](generated/companies/paypal.md) | [Cybersecurity Intern](https://go.vansh.nyc/1iu) | San Jose, CA +3 | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
+| [PCL Construction](generated/companies/pcl-construction.md) | [Cybersecurity Intern](https://go.vansh.nyc/1In) | Edmonton | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [PennState University](generated/companies/pennstate-university.md) | [Cyber Security Engineer Intern](https://go.vansh.nyc/ON) | University Park, PA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❌ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Security Engineering Intern, Product, Systems, Cyber](https://go.vansh.nyc/Rt) | San Diego, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Qube Research and Technologies](generated/companies/qube-research-and-technologies.md) | [Security Engineer Intern](https://go.vansh.nyc/QJ) | New York, NY | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
@@ -205,6 +206,7 @@
 | [CAI](generated/companies/cai.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/1cd) | USA | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | [Capital One](generated/companies/capital-one.md) | [Cyber Security Intern](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Cyber-Security-Internship-Program---Summer-2027_R244319) | McLean, VA +1 | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❌ |
 | [CareSource](generated/companies/caresource.md) | [Cybersecurity Intern](https://go.vansh.nyc/1je) | USA | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❔ |
+| [Carnegie Mellon University](generated/companies/carnegie-mellon-university.md) | [Cybersecurity Engineer Intern](https://go.vansh.nyc/1yU) | Pittsburgh, PA | Onsite | 2026-11-13 | Rolling | 🔴 Closed | ❔ |
 | [Centene Corporation](generated/companies/centene-corporation.md) | [Cybersecurity Intern](https://go.vansh.nyc/eJ) | Remote | Remote | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 | [Cigna](generated/companies/cigna.md) | [Cybersecurity Intern, Technology Development Program](https://go.vansh.nyc/1h8) | Bloomfield, CT +1 | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❔ |
 | [Cincinnati Children’s Hospital and Medical Center](generated/companies/cincinnati-children-s-hospital-and-medical-center.md) | [Student II Security Analyst Intern](https://go.vansh.nyc/1cq) | USA | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
@@ -364,7 +366,6 @@
 - CAE (1)
 - Caesars Entertainment (1)
 - Calamos Investments (1)
-- Carnegie Mellon University (1)
 - Citizens Energy Group (1)
 - CNA Insurance (1)
 - Costco (1)
@@ -409,6 +410,7 @@
 - Jane Street (1)
 - Jobs at UHS (1)
 - Johns Hopkins APL (1)
+- Kiewit (1)
 - Lawrence Livermore National Laboratory (LLNL) (1)
 - LPL Financial Holdings (1)
 - Lucid Motors (1)
@@ -430,6 +432,7 @@
 - Palantir Technologies (1)
 - Papa John's (1)
 - PayPal (1)
+- PCL Construction (1)
 - PennState University (1)
 - Qualcomm (1)
 - Qube Research and Technologies (1)
@@ -463,6 +466,7 @@
 - CAI (1)
 - Capital One (1)
 - CareSource (1)
+- Carnegie Mellon University (1)
 - Centene Corporation (1)
 - Cigna (1)
 - Cincinnati Children’s Hospital and Medical Center (1)

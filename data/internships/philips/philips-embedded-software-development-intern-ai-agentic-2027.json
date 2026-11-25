@@ -1,21 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "zoox-process-improvement-intern-summer-2027-2027",
+  "id": "philips-embedded-software-development-intern-ai-agentic-2027",
   "company": {
-    "name": "Zoox",
-    "slug": "zoox",
-    "career_page": "https://zoox.com/careers"
+    "name": "Philips",
+    "slug": "philips"
   },
-  "role": "Process Improvement Intern [ Summer 2027]",
-  "category": "software-engineering",
-  "apply_url": "https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852",
+  "role": "Embedded Software Development Intern, AI-Agentic",
+  "category": "ai",
+  "apply_url": "https://go.vansh.nyc/1Ij",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Foster City",
-      "state": "CA",
+      "city": "Bothell",
+      "state": "WA",
       "country": "USA"
     }
   ],
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-07",
-    "discovered": "2026-11-12",
-    "last_verified": "2026-11-24"
+    "posted": "2026-11-23",
+    "discovered": "2026-11-25",
+    "last_verified": "2026-11-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:ats"
+    "src:vanshb03"
   ]
 }

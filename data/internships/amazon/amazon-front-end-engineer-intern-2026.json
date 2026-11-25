@@ -1,30 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "expedia-group-software-development-engineer-intern-2027-cc8e0c",
+  "id": "amazon-front-end-engineer-intern-2026",
   "company": {
-    "name": "Expedia Group",
-    "slug": "expedia-group"
+    "name": "Amazon",
+    "slug": "amazon"
   },
-  "role": "Software Development Engineer Intern",
+  "role": "Front-End Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311",
-  "season": "summer",
-  "year": 2027,
+  "apply_url": "https://go.vansh.nyc/1Iu",
+  "season": "fall",
+  "year": 2026,
   "work_mode": "onsite",
   "locations": [
     {
       "city": "Seattle",
       "state": "WA",
-      "country": "USA"
-    },
-    {
-      "city": "Austin",
-      "state": "TX",
-      "country": "USA"
-    },
-    {
-      "city": "San Jose",
-      "state": "CA",
       "country": "USA"
     }
   ],
@@ -35,9 +25,7 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -52,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-05",
-    "discovered": "2026-10-15",
-    "last_verified": "2026-11-24"
+    "posted": "2026-11-20",
+    "discovered": "2026-11-25",
+    "last_verified": "2026-11-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }

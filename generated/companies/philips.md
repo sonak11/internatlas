@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Philips | [Embedded Software Development Intern, AI-Agentic](https://go.vansh.nyc/1Ij) | Bothell, WA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | Philips | [Product Investigations Lab Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Product-Investigations-Lab---New-Kensington--PA---Summer-2027_593027) | New Kensington, PA | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | Philips | [Upstream Product Management Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bedford-Massachusetts-United-States/Intern---Upstream-Product-Management--MBA---PhD----Bedford--MA---Summer-2027_593145) | Bedford, MA | Onsite | 2026-11-15 | Rolling | 🟢 Open | ❔ |
 | Philips | [AI & Analytics Analyst Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012) | Nashville, TN | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |

@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | Indie | [Applications Software Developer Intern](https://go.vansh.nyc/1nq) | Aliso Viejo, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
+| Indie | [Camera Host Tools Intern](https://go.vansh.nyc/1IA) | San Jose, CA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | Indie | [Design Verification Engineer Intern](https://go.vansh.nyc/1td) | Aliso Viejo, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 
 ## Related

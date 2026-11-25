@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Amazon.com Services LLC | [Hardware Development Engineer Intern](https://go.vansh.nyc/cT) | Bellevue, WA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| Amazon.com Services LLC | [Hardware Development Engineer Intern](https://go.vansh.nyc/cT) | Bellevue, WA | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

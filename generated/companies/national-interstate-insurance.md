@@ -20,6 +20,7 @@
 | National Interstate Insurance | [Extreme Programming Engineer Intern](https://go.vansh.nyc/Zd) | Cincinnati, OH | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | National Interstate Insurance | [IT Data Intern](https://go.vansh.nyc/Zf) | Cincinnati, OH | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | National Interstate Insurance | [Platform Operations Developer Intern](https://go.vansh.nyc/Wi) | Cincinnati, OH | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| National Interstate Insurance | [Quality Assurance Intern](https://go.vansh.nyc/1Iy) | Cincinnati, OH | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❌ |
 | National Interstate Insurance | [Predictive Analytics Intern](https://go.vansh.nyc/1AE) | Cincinnati, OH | Onsite | 2026-11-16 | Rolling | 🔴 Closed | ❌ |
 | National Interstate Insurance | [Telematics / Predictive Analytics Intern](https://go.vansh.nyc/1pj) | Cincinnati, OH | Onsite | 2026-11-09 | Rolling | 🔴 Closed | ❌ |
 

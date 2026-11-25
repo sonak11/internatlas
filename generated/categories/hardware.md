@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔩 Hardware Internships
 
-**380** tracked · **213** open now
+**381** tracked · **212** open now
 
 ## Current openings
 
@@ -17,10 +17,8 @@
 | [Amazon](generated/companies/amazon.md) | [ASIC Engineer Intern](https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027) | Sunnyvale, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Cloud Hardware Development Engineer Intern](https://go.vansh.nyc/gL) | Austin, TX +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Cloud Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10517649/cloud-hardware-development-engineer-intern-annapurna-labs-2027) | Austin, TX +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
-| [Amazon](generated/companies/amazon.md) | [Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) | Bellevue, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) | North Reading, MA +2 | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Hardware Development Engineer Intern Co-op - Robotics](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) | North Reading, MA +1 | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
-| [Amazon.com Services LLC](generated/companies/amazon-com-services-llc.md) | [Hardware Development Engineer Intern](https://go.vansh.nyc/cT) | Bellevue, WA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Ambarella](generated/companies/ambarella.md) | [ASIC Design Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/ASIC-Design-Engineer-Intern_JR100357) | USA | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Brand Marketing Intern](https://boards.greenhouse.io/andurilindustries/jobs/5261731007?gh_jid=5261731007) | Costa Mesa | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Anduril](generated/companies/anduril.md) | [2027 Business Operations Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5271672007?gh_jid=5271672007) | Ashville | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
@@ -142,6 +140,7 @@
 | [Microchip Technology](generated/companies/microchip-technology.md) | [ASIC Verification Engineer Intern](https://go.vansh.nyc/1F9) | San Jose, CA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Micron Technology](generated/companies/micron-technology.md) | [ASIC Digital Design Intern](https://go.vansh.nyc/Z8) | Minneapolis, MN | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Electrical Engineer Intern, Robotics and Surgery Engineering](https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003) | South San Francisco | Onsite | 2025-06-13 | Rolling | 🟢 Open | ❔ |
+| [Neuralink](generated/companies/neuralink.md) | [Electrical Test Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/8197808003?gh_jid=8197808003) | South San Francisco | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Histopathology Intern](https://boards.greenhouse.io/neuralink/jobs/8020751003?gh_jid=8020751003) | Austin | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Manufacturing Intern, Surgery & Robot Hardware](https://boards.greenhouse.io/neuralink/jobs/7666761003?gh_jid=7666761003) | South San Francisco | Onsite | 2026-03-19 | Rolling | 🟢 Open | ❔ |
 | [Neuralink](generated/companies/neuralink.md) | [Mechanical Engineering Intern, Brain Interfaces](https://boards.greenhouse.io/neuralink/jobs/6545426003?gh_jid=6545426003) | Austin | Onsite | 2025-04-15 | Rolling | 🟢 Open | ❔ |
@@ -226,7 +225,9 @@
 | [Altera](generated/companies/altera.md) | [FPGA IP Design Engineer Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer----PEY-Intern_R03443) | Toronto | Onsite | 2026-11-12 | Rolling | 🔴 Closed | ❔ |
 | [Altera](generated/companies/altera.md) | [FPGA IP Design Engineer Intern, PEY](https://go.vansh.nyc/1wy) | Toronto | Onsite | 2026-11-12 | Rolling | 🔴 Closed | ❔ |
 | [Altera](generated/companies/altera.md) | [Hardware Design Engineer Intern](https://go.vansh.nyc/10W) | Toronto | Onsite | 2026-10-30 | Rolling | 🔴 Closed | ❔ |
+| [Amazon](generated/companies/amazon.md) | [Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) | Bellevue, WA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Hardware Development Engineer Intern](https://go.vansh.nyc/gD) | Bellevue, WA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
+| [Amazon.com Services LLC](generated/companies/amazon-com-services-llc.md) | [Hardware Development Engineer Intern](https://go.vansh.nyc/cT) | Bellevue, WA | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [ASIC Package Engineer Intern Co-op](https://careers.amd.com/jobs/91469?icims=1) | San Jose, CA +1 | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [ASIC Package Engineering Co-op/Intern](https://careers.amd.com/jobs/91463?icims=1) | San Jose, CA +1 | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
 | [AMD](generated/companies/amd.md) | [ASIC Package Engineering Intern Co-op](https://careers.amd.com/jobs/91471?icims=1) | Secaucus, NJ +5 | Onsite | 2026-08-25 | Rolling | 🔴 Closed | ❔ |
@@ -394,7 +395,7 @@
 - Anduril (40)
 - SpaceX (19)
 - AMD (19)
-- Neuralink (14)
+- Neuralink (15)
 - Qualcomm (14)
 - Astranis (12)
 - Marvell (12)
@@ -453,7 +454,6 @@
 - Nokia (2)
 - Space Dynamics Laboratory (2)
 - The Walt Disney Company (2)
-- Amazon.com Services LLC (1)
 - Ambarella (1)
 - Arc (1)
 - Arista Networks (1)
@@ -475,6 +475,7 @@
 - Trimble (1)
 - Viavi Solutions (1)
 - Akuna Capital (1)
+- Amazon.com Services LLC (1)
 - Amentum (1)
 - Aurora Innovation (1)
 - Carbon Robotics (1)

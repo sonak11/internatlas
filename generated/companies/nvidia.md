@@ -20,6 +20,7 @@
 | NVIDIA | [Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) | Santa Clara, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
 | NVIDIA | [Deep Learning Scientist Intern - LLM, Multimodal and Agentic AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548) | Canada +2 | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | NVIDIA | [Developer and Performance Technology Intern](https://go.vansh.nyc/12i) | Santa Clara, CA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
+| NVIDIA | [Developer Technology Intern, AI](https://go.vansh.nyc/1Im) | Santa Clara, CA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | NVIDIA | [Differentiable Simulation Research Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561) | Santa Clara, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | NVIDIA | [Enterprise Platform Technical Marketing Engineer Intern](https://go.vansh.nyc/12a) | Santa Clara, CA | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
 | NVIDIA | [Finance AI Engineering Intern](https://go.vansh.nyc/1Eh) | Santa Clara, CA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |

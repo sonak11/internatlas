@@ -50,7 +50,6 @@
 | Anduril | [Machine Learning Engineer Intern](https://go.vansh.nyc/1Bo) | Santa Ana, CA | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | Anduril | [Machine Learning Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5274037007) | Santa Ana, CA | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | Anduril | [Software Engineer Intern](https://go.vansh.nyc/3h) | Atlanta, GA +5 | Onsite | 2026-07-07 | Rolling | 🟢 Open | ❔ |
-| Anduril | [Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255902007) | London | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
 | Anduril | [Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007) | Boston, MA +5 | Onsite | 2026-06-11 | Rolling | 🟢 Open | ❔ |
 | Anduril | [Systems Engineer Intern](https://go.vansh.nyc/g5) | Boston, MA +4 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Anduril | [2026 Electrical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5261873007?gh_jid=5261873007) | Sydney | Onsite | 2026-10-08 | Rolling | 🔴 Closed | ❔ |
@@ -63,6 +62,7 @@
 | Anduril | [2027 Mechanical Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5232027007?gh_jid=5232027007) | Dublin | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | Anduril | [2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007) | Dublin | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | Anduril | [2027 Software Quality Assurance Intern](https://boards.greenhouse.io/andurilindustries/jobs/5232025007?gh_jid=5232025007) | Dublin | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
+| Anduril | [Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255902007) | London | Onsite | 2026-10-07 | Rolling | 🔴 Closed | ❔ |
 | Anduril | [Software Engineer Intern](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) | Atlanta, GA +5 | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

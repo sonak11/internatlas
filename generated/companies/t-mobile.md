@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | T-Mobile | [Associate AI Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492) | Frisco, TX +1 | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | T-Mobile | [Associate AI Engineer Intern](https://go.vansh.nyc/Yf) | Frisco, TX +1 | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
+| T-Mobile | [Site Reliability Engineering (SRE) Intern, Database Platform Engineering](https://go.vansh.nyc/1Ik) | Atlanta, GA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❌ |
 | T-Mobile | [Software Engineer Intern](https://go.vansh.nyc/1qA) | Philadelphia, PA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | T-Mobile | [Software Engineering AI Intern](https://go.vansh.nyc/1Bx) | Atlanta, GA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | T-Mobile | [AI Engineering Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381194) | Bellevue, WA | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
@@ -53,4 +54,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [🛠 Data Engineering](../categories/data-engineering.md), [🧭 Product](../categories/product.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [☁️ Cloud](../categories/cloud.md), [🛠 Data Engineering](../categories/data-engineering.md), [🧭 Product](../categories/product.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

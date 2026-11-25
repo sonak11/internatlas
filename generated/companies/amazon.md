@@ -26,8 +26,9 @@
 | Amazon | [Data Engineer Intern](https://go.vansh.nyc/G7) | Seattle, WA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Data Engineer Intern](https://amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us) | Seattle, WA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Economics Intern - Structural IO](https://amazon.jobs/en/jobs/10564110/phd-economics-intern-structural-io-summer-2027) | Seattle, WA +3 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Front-End Engineer Intern](https://go.vansh.nyc/1Iu) | Seattle, WA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Front-End Engineer Intern](https://amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us) | Seattle, WA +2 | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Frontier AI & Robotics Intern](https://go.vansh.nyc/eL) | San Francisco, CA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
-| Amazon | [Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) | Bellevue, WA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10578090/hardware-development-engineer-intern-summer-2027) | North Reading, MA +2 | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Hardware Development Engineer Intern Co-op - Robotics](https://amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027) | North Reading, MA +1 | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Machine Learning Systems Software Development Engineer Intern - Annapurna Labs](https://amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027) | Toronto | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
@@ -67,6 +68,7 @@
 | Amazon | [Applied Science Intern - Science Recruiting](https://amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting) | Toronto +3 | Onsite | 2026-04-16 | Rolling | 🔴 Closed | ❔ |
 | Amazon | [Database Engineer Intern](https://go.vansh.nyc/WF) | Seattle, WA +1 | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❔ |
 | Amazon | [Database Engineer Intern](https://amazon.jobs/en/jobs/10590290/database-engineer-intern-summer-2027) | Seattle, WA +1 | Onsite | 2026-10-27 | Rolling | 🔴 Closed | ❔ |
+| Amazon | [Hardware Development Engineer Intern](https://amazon.jobs/en/jobs/10584121/hardware-development-engineer-intern-winter-2027) | Bellevue, WA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | Amazon | [Hardware Development Engineer Intern](https://go.vansh.nyc/gD) | Bellevue, WA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | Amazon | [Junior Software Development Engineer Intern](https://go.vansh.nyc/gC) | Detroit, MI | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | Amazon | [Junior Software Development Engineer Intern - Jr. Developer Program](https://amazon.jobs/en/jobs/10586548/jr-software-development-engineer-detroit-mi-jr-developer-program) | Detroit, MI | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |

@@ -12,7 +12,6 @@
 | Navy Federal | [Associate Information Security Analyst Intern](https://go.vansh.nyc/1us) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Navy Federal | [Associate Intern - Lending Automation Technology & Solutions](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32359) | Pensacola, FL +1 | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Navy Federal | [Associate Intern, Identity & Access Management](https://go.vansh.nyc/QD) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
-| Navy Federal | [Associate Intern, Penetration Testing](https://go.vansh.nyc/QE) | Pensacola, FL | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Navy Federal | [Associate Intern, Security Automation](https://go.vansh.nyc/N7) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Navy Federal | [Associate Product Security Engineer Intern](https://go.vansh.nyc/1ur) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Navy Federal | [Associate Zero Trust Information Security Analyst Intern](https://go.vansh.nyc/1uq) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
@@ -43,6 +42,7 @@
 | Navy Federal | [AI Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32261) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | Navy Federal | [AI Engineering Intern](https://go.vansh.nyc/bC) | Vienna, VA | Onsite | 2026-10-19 | Rolling | 🔴 Closed | ❔ |
 | Navy Federal | [Associate Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32324) | Pensacola, FL +1 | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
+| Navy Federal | [Associate Intern, Penetration Testing](https://go.vansh.nyc/QE) | Pensacola, FL | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | Navy Federal | [Business Intelligence Analyst Intern - Consumer Lending](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32321) | Pensacola, FL +1 | Onsite | 2026-09-09 | Rolling | 🔴 Closed | ❔ |
 | Navy Federal | [Change Management Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/31728) | Pensacola, FL +1 | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | Navy Federal | [Data Analytics Intern](https://go.vansh.nyc/hL) | Pensacola, FL +1 | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |

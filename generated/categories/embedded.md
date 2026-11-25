@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**353** tracked · **182** open now
+**354** tracked · **183** open now
 
 ## Current openings
 
@@ -14,6 +14,7 @@
 | [AeroVironment](generated/companies/aerovironment.md) | [Embedded Software Engineer Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388) | Dayton, OH +15 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [AGCO](generated/companies/agco.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/b4) | Hesston, KS +1 | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [AGCO](generated/companies/agco.md) | [Embedded Software Engineer Intern](https://careers.agcocorp.com/job/Hesston-Embedded-Software-Engineering-Intern-Summer-2027-KS-67062/1440993300/?ats=successfactors) | Hesston, KS +1 | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| [Altera](generated/companies/altera.md) | [Embedded Solutions Intern](https://go.vansh.nyc/1Ii) | Toronto | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Software Development Engineer Intern, Amazon Leo, Embedded Systems](https://go.vansh.nyc/g6) | Redmond, WA | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❌ |
 | [Amazon](generated/companies/amazon.md) | [Software Development Engineer Intern, Embedded Systems](https://go.vansh.nyc/g0) | Seattle, WA | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [Amazon](generated/companies/amazon.md) | [Software Engineer Intern - Embedded Systems](https://amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa) | Redmond, WA +1 | Onsite | 2026-10-07 | Rolling | 🟢 Open | ❔ |
@@ -445,6 +446,7 @@
 - The Aerospace Corporation (2)
 - The Toro Company (2)
 - Ursa Major (2)
+- Altera (1)
 - Apex (1)
 - Aptiv (1)
 - Badger Meter (1)

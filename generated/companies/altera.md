@@ -6,6 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Altera | [AI Software Development Engineer Intern](https://go.vansh.nyc/1Ih) | Toronto | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
+| Altera | [Embedded Solutions Intern](https://go.vansh.nyc/1Ii) | Toronto | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | Altera | [FPGA Design Verification Intern](https://go.vansh.nyc/1p3) | Toronto | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | Altera | [FPGA Software Engineer Intern](https://go.vansh.nyc/1Et) | Toronto | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | Altera | [IP Design Intern](https://go.vansh.nyc/hw) | Toronto | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
@@ -21,4 +23,4 @@
 
 ## Related
 
-Browse more roles in: [🎨 Design](../categories/design.md), [🔩 Hardware](../categories/hardware.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🎨 Design](../categories/design.md), [⚙️ Embedded](../categories/embedded.md), [🔩 Hardware](../categories/hardware.md), [💻 Software Engineering](../categories/software-engineering.md)

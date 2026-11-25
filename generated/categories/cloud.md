@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**203** tracked · **128** open now
+**204** tracked · **130** open now
 
 ## Current openings
 
@@ -74,6 +74,7 @@
 | [LLNL](generated/companies/llnl.md) | [Critical Infrastructure Analysis Intern, Cyber and Critical Infrastructure Summer Institute](https://go.vansh.nyc/am) | Livermore, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [LPL Financial Holdings](generated/companies/lpl-financial-holdings.md) | [Platform Engineer Intern](https://go.vansh.nyc/QR) | Fort Mill, SC +2 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Mastercard](generated/companies/mastercard.md) | [Platform Engineering Intern](https://go.vansh.nyc/gm) | O'Fallon, MO | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
+| [McDonald's](generated/companies/mcdonald-s.md) | [Global Tech Infrastructure & Operations Intern](https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors) | Chicago, IL | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [MDA](generated/companies/mda.md) | [Engineering Intern, DevOps](https://go.vansh.nyc/Rl) | Montreal | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Mesirow](generated/companies/mesirow.md) | [Cloud Engineering Intern, IT](https://go.vansh.nyc/1FZ) | Chicago, IL | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
 | [Meta](generated/companies/meta.md) | [Software Engineer Intern - Systems and Infrastructure - PhD](https://www.metacareers.com/jobs/945520495299801) | Seattle, WA +6 | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
@@ -107,6 +108,7 @@
 | [Sierra Nevada Corporation](generated/companies/sierra-nevada-corporation.md) | [DevOps Engineer Intern](https://go.vansh.nyc/19u) | Southern Pines, NC | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❌ |
 | [SOTI](generated/companies/soti.md) | [Cloud Administrator Intern](https://go.vansh.nyc/cI) | Mississauga | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [SWBC](generated/companies/swbc.md) | [DevOps Intern](https://go.vansh.nyc/1cJ) | San Antonio, TX | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
+| [T-Mobile](generated/companies/t-mobile.md) | [Site Reliability Engineering (SRE) Intern, Database Platform Engineering](https://go.vansh.nyc/1Ik) | Atlanta, GA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❌ |
 | [Tesla](generated/companies/tesla.md) | [Backend Engineer Intern - Infrastructure Engineering](https://www.tesla.com/careers/search/job/281467) | Fremont, CA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Backend Engineer Intern, Infrastructure Engineering](https://go.vansh.nyc/1aV) | Fremont, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Fullstack Engineer Intern, Infrastructure Engineering](https://go.vansh.nyc/1b2) | Fremont, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
@@ -177,7 +179,6 @@
 | [Lawrence Livermore National Laboratory (LLNL)](generated/companies/lawrence-livermore-national-laboratory-llnl.md) | [Critical Infrastructure Analysis Intern](https://jobs.smartrecruiters.com/LLNL/3743990016165496) | Livermore, CA | Onsite | 2026-10-15 | Rolling | 🔴 Closed | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Cloud Engineering Intern](https://go.vansh.nyc/bl) | Remote | Remote | 2026-10-16 | Rolling | 🔴 Closed | ❌ |
 | [Manhattan Associates](generated/companies/manhattan-associates.md) | [Cloud Intern](https://go.vansh.nyc/MX) | Atlanta, GA | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
-| [McDonald's](generated/companies/mcdonald-s.md) | [Global Tech Infrastructure & Operations Intern](https://jobs.mcdonalds.com/job/Chicago-Global-Tech-Infrastructure-&-Operations-Intern-IL-60607/1449562300/?ats=successfactors) | Chicago, IL | Onsite | 2026-11-11 | Rolling | 🔴 Closed | ❔ |
 | [Microsoft](generated/companies/microsoft.md) | [Software Engineer Intern - Cloud & Distributed Backend](https://apply.careers.microsoft.com/careers/job/1970393556922923) | Redmond, WA | Onsite | 2026-08-04 | Rolling | 🔴 Closed | ❔ |
 | [National Laboratory of the Rockies](generated/companies/national-laboratory-of-the-rockies.md) | [Software and Data Infrastructure Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Undergraduate-graduate-intern---software-and-data-infrastructure-for-autonomous-thin-film-experimentation--Year-Round-_R14394) | Golden, CO | Onsite | 2026-07-08 | Rolling | 🔴 Closed | ❔ |
 | [Northrop Grumman](generated/companies/northrop-grumman.md) | [DevOps Software Engineering Intern](https://go.vansh.nyc/1gk) | Roy, UT | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❌ |
@@ -271,6 +272,7 @@
 - LinkedIn (1)
 - LPL Financial Holdings (1)
 - Mastercard (1)
+- McDonald's (1)
 - MDA (1)
 - Mesirow (1)
 - Meta (1)
@@ -294,6 +296,7 @@
 - Sierra Nevada Corporation (1)
 - SOTI (1)
 - SWBC (1)
+- T-Mobile (1)
 - TransMarket Group (1)
 - Wing (1)
 - AbbVie (1)
@@ -318,7 +321,6 @@
 - Kinaxis (1)
 - Leidos (1)
 - Manhattan Associates (1)
-- McDonald's (1)
 - National Laboratory of the Rockies (1)
 - Northrop Grumman (1)
 - Palantir (1)

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "general-dynamics-information-technology-ai-ml-software-development-and-engineering-intern-2027-202d88",
+  "id": "intuitive-surgical-product-management-mba-intern-2027",
   "company": {
-    "name": "General Dynamics Information Technology",
-    "slug": "general-dynamics-information-technology"
+    "name": "Intuitive Surgical",
+    "slug": "intuitive-surgical"
   },
-  "role": "AI/ML Software Development and Engineering Intern",
-  "category": "machine-learning",
-  "apply_url": "https://go.vansh.nyc/1hT",
+  "role": "Product Management MBA Intern",
+  "category": "product",
+  "apply_url": "https://jobs.smartrecruiters.com/Intuitive/744000163546809",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Bossier City",
-      "state": "LA",
+      "city": "Sunnyvale",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -26,9 +26,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": true,
+    "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "no"
+    "visa_sponsorship": "unknown"
   },
   "interview": {},
   "tech": {
@@ -40,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-05",
-    "discovered": "2026-11-05",
-    "last_verified": "2026-11-24"
+    "posted": "2026-11-24",
+    "discovered": "2026-11-25",
+    "last_verified": "2026-11-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

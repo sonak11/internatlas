@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**541** tracked · **347** open now
+**539** tracked · **344** open now
 
 ## Current openings
 
@@ -93,8 +93,7 @@
 | [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [AI/ML Business Intelligence Development Intern](https://go.vansh.nyc/1s6) | Bossier City, LA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❌ |
 | [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [AI/ML Business Intelligence Development Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935) | Bossier City, LA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [AI/ML Data Science and Engineering Intern](https://go.vansh.nyc/1hS) | Bossier City, LA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
-| [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [AI/ML Software Development and Engineering Intern](https://go.vansh.nyc/1hT) | Bossier City, LA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❌ |
-| [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [AI/ML Software Development and Engineering Intern](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939) | Bossier City, LA | Onsite | 2026-09-26 | Rolling | 🟢 Open | ❔ |
+| [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [AI/ML Software Development and Engineering Intern](https://go.vansh.nyc/1hT) | Bossier City, LA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [AI/ML Engineer Intern - Autonomous Vehicle: Simulation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508) | Sunnyvale, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [AI/ML Engineer Intern - Autonomous Vehicles](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439) | Seattle, WA +1 | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [AI/ML Engineer Intern - Autonomous Vehicles: Simulation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511) | Sunnyvale, CA | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
@@ -316,7 +315,6 @@
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Recommendation Global E-Commerce](https://go.vansh.nyc/18l) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Search Ads](https://go.vansh.nyc/180) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Search Quality](https://go.vansh.nyc/18p) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
-| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking](https://go.vansh.nyc/18c) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, TikTok-Data-Search-Local Service](https://go.vansh.nyc/189) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❌ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Infrastructure Engineer Intern - Ads Infrastructure](https://lifeattiktok.com/search/7668881813744191749) | San Jose, CA | Onsite | 2026-08-04 | Rolling | 🟢 Open | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning MLOps Intern - Global Site Reliability Engineering](https://lifeattiktok.com/search/7670875283026053381) | San Jose, CA | Onsite | 2026-08-19 | Rolling | 🟢 Open | ❔ |
@@ -332,7 +330,6 @@
 | [TMEIC](generated/companies/tmeic.md) | [Intern - Applications, AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/FD4C9770FF/) | Roanoke, VA | Onsite | 2026-05-01 | Rolling | 🟢 Open | ❌ |
 | [Tower Research Capital](generated/companies/tower-research-capital.md) | [Machine Learning Intern](https://go.vansh.nyc/9U) | Montreal | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [Toyota Research Institute](generated/companies/toyota-research-institute.md) | [Automated Driving Advanced Development Intern - Machine Learning Research](https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b/apply) | Los Altos, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
-| [Toyota Research Institute](generated/companies/toyota-research-institute.md) | [Automated Driving Advanced Development Intern - Machine Learning Research](https://jobs.lever.co/tri/62b161d6-21e0-4d10-9997-ff7ae91a2ff4/apply) | Los Altos, CA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Trimble](generated/companies/trimble.md) | [Navigation & Machine Learning Engineer Intern](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980) | Richmond Hill | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | [Unity](generated/companies/unity.md) | [Machine Learning Engineer Intern](https://go.vansh.nyc/C5) | Mountain View, CA | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
 | [Veeam Software](generated/companies/veeam-software.md) | [Machine Learning Intern - AI](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4971207101) | San Jose, CA | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
@@ -528,6 +525,7 @@
 | [The Nuclear Company](generated/companies/the-nuclear-company.md) | [AI/ML Engineer Intern - Platform Integration & AI/Data](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383163008) | Washington, DC | Onsite | 2026-08-07 | Rolling | 🔴 Closed | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern - App Ads](https://lifeattiktok.com/search/7623166673809770757) | San Jose, CA | Onsite | 2026-03-31 | Rolling | 🔴 Closed | ❔ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality](https://lifeattiktok.com/search/7667690418804902149) | San Jose, CA | Onsite | 2026-07-29 | Rolling | 🔴 Closed | ❔ |
+| [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking](https://go.vansh.nyc/18c) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🔴 Closed | ❌ |
 | [TikTok](generated/companies/tiktok.md) | [Machine Learning Engineer Intern, Visual Search](https://go.vansh.nyc/18j) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🔴 Closed | ❌ |
 | [TMEIC Corporation Americas](generated/companies/tmeic-corporation-americas.md) | [Applications Intern - AI and Machine Learning](https://apply.workable.com/tmeic-corporation-americas/j/6FDBF2FD32/apply) | Roanoke, VA | Onsite | 2026-08-12 | Rolling | 🔴 Closed | ❔ |
 | [Trimble](generated/companies/trimble.md) | [Navigation & Machine Learning Engineering Intern](https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980) | Richmond Hill | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
@@ -559,13 +557,13 @@
 - Qualcomm (14)
 - Tesla (11)
 - AMD (8)
-- General Dynamics Information Technology (7)
 - IMC Trading (7)
 - Microsoft (7)
 - NVIDIA (7)
 - Pinterest (7)
 - Rivian (7)
 - Amazon (6)
+- General Dynamics Information Technology (6)
 - Bedrock Robotics (5)
 - JP Morgan Chase (5)
 - Jump Trading (5)
@@ -620,7 +618,6 @@
 - Shopify (2)
 - Sigma Computing (2)
 - Strava (2)
-- Toyota Research Institute (2)
 - Trimble (2)
 - Affirm (2)
 - Amgen (2)
@@ -693,6 +690,7 @@
 - Tinder (1)
 - TMEIC (1)
 - Tower Research Capital (1)
+- Toyota Research Institute (1)
 - Unity (1)
 - Veeam Software (1)
 - Wing (1)

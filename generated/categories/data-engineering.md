@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**245** tracked · **111** open now
+**244** tracked · **110** open now
 
 ## Current openings
 
@@ -36,7 +36,6 @@
 | [Constellation Energy](generated/companies/constellation-energy.md) | [IT Data Engineering Intern](https://go.vansh.nyc/MS) | Baltimore, MD | Onsite | 2026-09-12 | Rolling | 🟢 Open | ❔ |
 | [Disney](generated/companies/disney.md) | [Data Engineering Intern](https://go.vansh.nyc/1AL) | New York, NY | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | [DraftKings](generated/companies/draftkings.md) | [Data Engineer Intern](https://go.vansh.nyc/1Ex) | Boston, MA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
-| [DraftKings](generated/companies/draftkings.md) | [Data Engineer Intern](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Engineer-Intern--Summer-2027-_JR15464) | Boston, MA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [Edison International](generated/companies/edison-international.md) | [Software/Data Engineering Intern](https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors) | Chino, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [enGen](generated/companies/engen.md) | [Data Engineer & Analyst Undergraduate Intern](https://go.vansh.nyc/1DQ) | Pittsburgh, PA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Entegris](generated/companies/entegris.md) | [Data Engineering Intern](https://go.vansh.nyc/1xB) | Aurora, IL | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
@@ -278,7 +277,6 @@
 - Atlassian (2)
 - Auto-Owners Insurance (2)
 - CarGurus (2)
-- DraftKings (2)
 - IAT Insurance Group (2)
 - ID.me (2)
 - Lutron (2)
@@ -317,6 +315,7 @@
 - Canadian Solar (1)
 - Citizens Financial Group (1)
 - Disney (1)
+- DraftKings (1)
 - Edison International (1)
 - enGen (1)
 - Entegris (1)

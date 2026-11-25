@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧭 Product Internships
 
-**329** tracked · **157** open now
+**331** tracked · **158** open now
 
 ## Current openings
 
@@ -72,7 +72,6 @@
 | [Fanatics](generated/companies/fanatics.md) | [Product Management Intern](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009) | Seattle, WA | Onsite | 2026-11-15 | Rolling | 🟢 Open | ❔ |
 | [Fanatics](generated/companies/fanatics.md) | [Product Management Intern - Card Tech](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4519886009) | NYC | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [First Resonance](generated/companies/first-resonance.md) | [Product Management Intern](https://jobs.ashbyhq.com/first-resonance/56d901c8-ad63-4206-b5cb-b5691585b741/application?embed=true) | El Segundo, CA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
-| [Gemini](generated/companies/gemini.md) | [Product Management Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214332&gh_jid=8214332) | NYC | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Product Management Intern - Digital Product](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Product-Management--MBA-_JR-202620538) | Austin, TX +1 | Onsite | 2026-09-18 | Rolling | 🟢 Open | ❔ |
 | [General Motors](generated/companies/general-motors.md) | [Product Management Intern - Vehicle Autonomy](https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---Product-Management--Vehicle-Autonomy--MS-or-MBA-_JR-202622449) | Sunnyvale, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [GoFundMe](generated/companies/gofundme.md) | [MBA Product Management Intern](https://job-boards.greenhouse.io/gofundme/jobs/8304644) | SF | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
@@ -87,6 +86,7 @@
 | [Illumio](generated/companies/illumio.md) | [Technical Product Management Intern](https://jobs.ashbyhq.com/illumio/37c87203-d74b-40f9-8ce6-30559f1594af/application?embed=true) | Sunnyvale, CA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | [Illumio](generated/companies/illumio.md) | [Technical Product Management Intern](https://go.vansh.nyc/1HD) | Sunnyvale, CA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | [Intuit](generated/companies/intuit.md) | [Product Manager Intern](https://jobs.intuit.com/job/mountain-view/summer-2027-product-manager-intern/27595/100620927632) | Mountain View, CA +1 | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
+| [Intuitive Surgical](generated/companies/intuitive-surgical.md) | [Product Management MBA Intern](https://jobs.smartrecruiters.com/Intuitive/744000163546809) | Sunnyvale, CA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [Koch Industries](generated/companies/koch-industries.md) | [Product Management Intern - Aerospace & Defense Solutions](https://koch.avature.net/en_US/careers/JobDetail/197821) | Georgetown, TX | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Legrand](generated/companies/legrand.md) | [Product Management Intern](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837) | Syracuse, NY | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [Lucid](generated/companies/lucid.md) | [Product Management Intern](https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004) | Raleigh, NC | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
@@ -112,6 +112,7 @@
 | [Pyrotek](generated/companies/pyrotek.md) | [Product Management Intern](https://jobs.smartrecruiters.com/Pyrotek3/744000162385949) | Spokane, WA | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [MBA Intern Co-op - Product Management Product Development](https://careers.rivian.com/jobs/33793?icims=1) | Palo Alto, CA | Onsite | 2026-09-22 | Rolling | 🟢 Open | ❔ |
 | [Rubrik](generated/companies/rubrik.md) | [Product Management Intern](https://www.rubrik.com/company/careers/departments/job.8350601?gh_jid=8350601) | Palo Alto, CA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| [Rubrik](generated/companies/rubrik.md) | [Product Management Intern - Managed Service Provider](https://www.rubrik.com/company/careers/departments/job.8412766?gh_jid=8412766) | Palo Alto, CA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [Rubrik](generated/companies/rubrik.md) | [Product Manager Intern - Managed Service Provider](https://www.rubrik.com/company/careers/departments/job.8346967?gh_jid=8346967) | Palo Alto, CA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Salesforce](generated/companies/salesforce.md) | [Product Management Intern - Product Management](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659) | SF +1 | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [ServiceNow](generated/companies/servicenow.md) | [Inbound Product Manager Intern](https://jobs.smartrecruiters.com/ServiceNow/744000161885234) | San Diego, CA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
@@ -227,6 +228,7 @@
 | [GE Vernova](generated/companies/ge-vernova.md) | [Product Management Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Markham/Intern--Product-Management--Summer-2027-_R5056377-1) | Markham | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |
 | [GE Vernova](generated/companies/ge-vernova.md) | [Product Management Intern - Controls Lifecare Services](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Longmont/Product-Management-Intern---Controls-Lifecare-Services_R5050801-2) | Longmont, CO +1 | Onsite | 2026-08-30 | Rolling | 🔴 Closed | ❔ |
 | [Gemini](generated/companies/gemini.md) | [Product Management Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8041452&gh_jid=8041452) | NYC | Onsite | 2026-07-01 | Rolling | 🔴 Closed | ❔ |
+| [Gemini](generated/companies/gemini.md) | [Product Management Intern](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214332&gh_jid=8214332) | NYC | Onsite | 2026-09-18 | Rolling | 🔴 Closed | ❔ |
 | [Geotab](generated/companies/geotab.md) | [Product Management Intern](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008) | Oakville | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [Geotab](generated/companies/geotab.md) | [Product Management Intern - Growth & Marketplace](https://job-boards.greenhouse.io/internshiplist2000/jobs/5291162008) | Oakville | Onsite | 2026-09-02 | Rolling | 🔴 Closed | ❔ |
 | [Goldman Sachs](generated/companies/goldman-sachs.md) | [AWM Product Management Analyst Intern](https://higher.gs.com/roles/171513?type=students) | Dallas, TX | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
@@ -361,6 +363,7 @@
 - Altice USA (3)
 - Illinois Tool Works (3)
 - NVIDIA (3)
+- Rubrik (3)
 - Salesforce (3)
 - ServiceNow (3)
 - Signify (3)
@@ -378,7 +381,6 @@
 - DTCC (2)
 - Entegris (2)
 - Fanatics (2)
-- Gemini (2)
 - General Motors (2)
 - Koch Industries (2)
 - Lucid (2)
@@ -386,13 +388,13 @@
 - Method (2)
 - Oshkosh (2)
 - Philips (2)
-- Rubrik (2)
 - Shure (2)
 - Trimble (2)
 - 1Password (2)
 - Cadence Solutions (2)
 - Datadog (2)
 - Electronic Arts (2)
+- Gemini (2)
 - Geotab (2)
 - Google (2)
 - Intercontinental Exchange (2)
@@ -433,6 +435,7 @@
 - Honeywell (1)
 - iCapital Network (1)
 - Intuit (1)
+- Intuitive Surgical (1)
 - Legrand (1)
 - MANN+HUMMEL (1)
 - Mohawk (1)

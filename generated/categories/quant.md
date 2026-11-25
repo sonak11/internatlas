@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📈 Quant Internships
 
-**401** tracked · **213** open now
+**401** tracked · **212** open now
 
 ## Current openings
 
@@ -174,7 +174,6 @@
 | [SCM](generated/companies/scm.md) | [Quantitative Research Analyst Intern](https://go.vansh.nyc/17s) | Radnor, PA | Onsite | 2026-05-24 | Rolling | 🟢 Open | ❔ |
 | [SESCO](generated/companies/sesco.md) | [Quantitative Research and Trading Intern](https://go.vansh.nyc/1gg) | Pittsburgh, PA | Onsite | 2026-09-12 | Rolling | 🟢 Open | ❔ |
 | [Seven Research](generated/companies/seven-research.md) | [Quantitative Researcher Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4894946008) | NYC | Onsite | 2026-07-01 | Rolling | 🟢 Open | ❔ |
-| [SouthState Bank](generated/companies/southstate-bank.md) | [Quantitative Intern](https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Summer-2027-Quantitative-Intern--Remote-_R-06264) | Texas +7 | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [SouthState Bank](generated/companies/southstate-bank.md) | [Quantitative Intern](https://go.vansh.nyc/1cH) | USA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Squarepoint Capital](generated/companies/squarepoint-capital.md) | [Intern Quant Researcher](https://boards.greenhouse.io/embed/job_app?token=243853) | London +2 | Onsite | 2026-07-27 | Rolling | 🟢 Open | ❔ |
 | [State of Maryland](generated/companies/state-of-maryland.md) | [Quantitative Analyst Intern](https://go.vansh.nyc/1zI) | Baltimore, MD | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
@@ -372,6 +371,7 @@
 | [Soros Fund Management](generated/companies/soros-fund-management.md) | [Quantitative Strategist Intern](https://job-boards.greenhouse.io/familyoffice/jobs/8202834003) | NYC | Onsite | 2026-11-17 | Rolling | 🔴 Closed | ❔ |
 | [Soros Fund Management](generated/companies/soros-fund-management.md) | [Trading Intern - Middle and Back Office Dev](https://job-boards.greenhouse.io/familyoffice/jobs/8202862003) | NYC | Onsite | 2026-11-13 | Rolling | 🔴 Closed | ❔ |
 | [Soros Fund Management](generated/companies/soros-fund-management.md) | [Trading Intern, Middle and Back Office Dev](https://go.vansh.nyc/1AR) | New York, NY | Onsite | 2026-11-13 | Rolling | 🔴 Closed | ❔ |
+| [SouthState Bank](generated/companies/southstate-bank.md) | [Quantitative Intern](https://southstatebank.wd5.myworkdayjobs.com/external/job/Remote-Opportunity---VA-NC-SC-GA--FL-AL-TX--CO/Summer-2027-Quantitative-Intern--Remote-_R-06264) | Texas +7 | Onsite | 2026-09-29 | Rolling | 🔴 Closed | ❔ |
 | [Susquehanna](generated/companies/susquehanna.md) | [Trading System Engineering Intern](https://go.vansh.nyc/2M) | Bala Cynwyd, PA | Onsite | 2026-05-22 | Rolling | 🔴 Closed | ✅ |
 | [Susquehanna International Group](generated/companies/susquehanna-international-group.md) | [Trading Systems Engineer Intern](https://careers-sig.icims.com/jobs/11334/job?mobile=true&needsRedirect=false) | London | Onsite | 2026-08-21 | Rolling | 🔴 Closed | ❔ |
 | [Susquehanna International Group (SIG)](generated/companies/susquehanna-international-group-sig.md) | [Quantitative Trader Intern](https://careers-sig.icims.com/jobs/10849/job?mobile=true&needsRedirect=false) | Chicago, IL | Onsite | 2026-06-30 | Rolling | 🔴 Closed | ❔ |

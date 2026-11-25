@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "draftkings-data-engineer-intern-2027-d3d76b",
+  "id": "indie-camera-host-tools-intern-2027",
   "company": {
-    "name": "DraftKings",
-    "slug": "draftkings"
+    "name": "Indie",
+    "slug": "indie"
   },
-  "role": "Data Engineer Intern",
-  "category": "data-engineering",
-  "apply_url": "https://go.vansh.nyc/1Ex",
+  "role": "Camera Host Tools Intern",
+  "category": "software-engineering",
+  "apply_url": "https://go.vansh.nyc/1IA",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
+      "city": "San Jose",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-20",
-    "discovered": "2026-11-24",
-    "last_verified": "2026-11-24"
+    "posted": "2026-11-24",
+    "discovered": "2026-11-25",
+    "last_verified": "2026-11-25"
   },
   "status": "open",
   "tags": [
