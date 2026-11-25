@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**455** tracked · **221** open now
+**457** tracked · **223** open now
 
 ## Current openings
 
@@ -113,6 +113,8 @@
 | [Ketjen](generated/companies/ketjen.md) | [Data Science Intern](https://go.vansh.nyc/1fd) | Houston, TX | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Ketjen](generated/companies/ketjen.md) | [Data Science Intern](https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411) | Houston, TX | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Keysight Technologies](generated/companies/keysight-technologies.md) | [Data Scientist Intern](https://go.vansh.nyc/Ey) | Santa Rosa, CA | Onsite | 2026-10-04 | Rolling | 🟢 Open | ❔ |
+| [Kimley-Horn](generated/companies/kimley-horn.md) | [Data Science Intern](https://go.vansh.nyc/1IN) | Mesa, AZ | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
+| [Kimley-Horn](generated/companies/kimley-horn.md) | [Data Science Intern](https://careers.kimley-horn.com/jobs/29737?icims=1&lang=en-us) | Mesa, AZ | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [Lawrence Livermore National Laboratory (LLNL)](generated/companies/lawrence-livermore-national-laboratory-llnl.md) | [Data Science Undergraduate Student Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990015289136) | Livermore, CA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [LexisNexis Risk Solutions](generated/companies/lexisnexis-risk-solutions.md) | [Data Science & Fraud Analytics Placement Intern](https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Intern_R119888) | London | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | [LLNL](generated/companies/llnl.md) | [Data Science Institute Undergraduate Intern](https://go.vansh.nyc/1tp) | Livermore, CA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
@@ -523,6 +525,7 @@
 - Honeywell Aerospace (2)
 - Jewelers Mutual Group (2)
 - Ketjen (2)
+- Kimley-Horn (2)
 - LexisNexis Risk Solutions (2)
 - Meta (2)
 - MITRE (2)

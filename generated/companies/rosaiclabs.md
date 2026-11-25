@@ -6,10 +6,10 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| RosaicLabs | [AI Accelerator Design Verification Engineer Intern](https://go.vansh.nyc/Xp) | Austin, TX +1 | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | RosaicLabs | [CPU Architecture & Performance Engineer Intern](https://go.vansh.nyc/1Fj) | Santa Clara, CA +1 | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | RosaicLabs | [CPU Design Verification Engineer Intern](https://go.vansh.nyc/Xn) | Austin, TX +1 | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | RosaicLabs | [Software Engineering Intern](https://go.vansh.nyc/Xo) | Austin, TX +1 | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
+| RosaicLabs | [AI Accelerator Design Verification Engineer Intern](https://go.vansh.nyc/Xp) | Austin, TX +1 | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

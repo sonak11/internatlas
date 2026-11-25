@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**244** tracked · **110** open now
+**246** tracked · **113** open now
 
 ## Current openings
 
@@ -80,6 +80,7 @@
 | [Paccar](generated/companies/paccar.md) | [Data Engineering Intern](https://go.vansh.nyc/1x9) | USA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Pacific Life](generated/companies/pacific-life.md) | [Data Engineering Intern](https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828) | Newport Beach, CA | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Pacific Life](generated/companies/pacific-life.md) | [Data Engineering Intern](https://go.vansh.nyc/JC) | Newport Beach, CA | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
+| [PatientPoint](generated/companies/patientpoint.md) | [Data Engineer Intern](https://go.vansh.nyc/1J3) | Cincinnati, OH | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [Pella](generated/companies/pella.md) | [Data Engineer Intern - Summer 2027](https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253304) | Pella, IA +1 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [Picton Mahoney Asset Management](generated/companies/picton-mahoney-asset-management.md) | [Data Engineer Intern](https://go.vansh.nyc/dc) | Toronto | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Piper Sandler](generated/companies/piper-sandler.md) | [Data Engineering Intern](https://pipersandler.wd501.myworkdayjobs.com/Piper_Sandler_Careers/job/Minneapolis-MN---HQ/XMLNAME-2027-Summer-Internship-Program---Data-Engineering_R-100805) | Minneapolis, MN | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
@@ -95,6 +96,8 @@
 | [Southern Farm Bureau Life Insurance](generated/companies/southern-farm-bureau-life-insurance.md) | [Data Engineer Intern](https://go.vansh.nyc/1Fu) | Jackson, MS | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [State of Wisconsin Investment Board](generated/companies/state-of-wisconsin-investment-board.md) | [Data Analytics Engineering Intern](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330) | Madison, WI | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [State of Wisconsin Investment Board](generated/companies/state-of-wisconsin-investment-board.md) | [Data Analytics Engineering Intern](https://go.vansh.nyc/1uG) | Madison, WI | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| [Super](generated/companies/super.md) | [Data Engineer Intern](https://jobs.ashbyhq.com/super.com/5251792e-093d-42c6-ae9e-08c656e90807/application?embed=true) | Toronto | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
+| [Super](generated/companies/super.md) | [Data Engineering Intern](https://go.vansh.nyc/1IL) | Toronto | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [Systems Planning and Analysis](generated/companies/systems-planning-and-analysis.md) | [Data Engineer Intern](https://spa.jibeapply.com/jobs/23698?icims=1) | Alexandria, VA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Systems Planning and Analysis](generated/companies/systems-planning-and-analysis.md) | [Data Engineer Intern](https://go.vansh.nyc/128) | Alexandria, VA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Systems Planning and Analysis](generated/companies/systems-planning-and-analysis.md) | [Data Engineering Intern](https://go.vansh.nyc/1xq) | Alexandria, VA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
@@ -233,7 +236,6 @@
 | [State of North Carolina](generated/companies/state-of-north-carolina.md) | [Data Engineer Intern](https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Data-Engineering-Intern_JR-125224) | Raleigh, NC | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | [STV](generated/companies/stv.md) | [Data Engineer Intern](https://stvinc.wd5.myworkdayjobs.com/stv/job/Chicago-Illinois/Data-Engineering-Intern---Spring-2027_JR6379) | Chicago, IL | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❔ |
 | [Super](generated/companies/super.md) | [Data Engineer Intern](https://jobs.ashbyhq.com/super.com/c54cf7df-73b3-49d4-acff-5dc04fba15a4/application?embed=true) | Toronto | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
-| [Super](generated/companies/super.md) | [Data Engineer Intern](https://jobs.ashbyhq.com/super.com/5251792e-093d-42c6-ae9e-08c656e90807/application?embed=true) | Toronto | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | [Systems Planning and Analysis](generated/companies/systems-planning-and-analysis.md) | [Data Engineering & Analytics Tools Intern](https://spa.jibeapply.com/jobs/23634?icims=1) | Washington, DC | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
 | [T-Mobile](generated/companies/t-mobile.md) | [Data Engineer Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754) | Frisco, TX +1 | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
 | [T-Mobile](generated/companies/t-mobile.md) | [Data Engineering Intern](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380755) | Frisco, TX +1 | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
@@ -265,6 +267,7 @@
 - Navy Federal (4)
 - Systems Planning and Analysis (4)
 - Constellation Energy (3)
+- Super (3)
 - CHS (3)
 - First National Bank (3)
 - National Information Solutions Cooperative (3)
@@ -306,7 +309,6 @@
 - Leidos (2)
 - MEMX (2)
 - Seaspan (2)
-- Super (2)
 - TD Bank (2)
 - Workday (2)
 - Calamos Investments (1)
@@ -336,6 +338,7 @@
 - LPL Financial Holdings (1)
 - Nexus Cognitive Technologies (1)
 - NexusOne (1)
+- PatientPoint (1)
 - Pella (1)
 - Picton Mahoney Asset Management (1)
 - Raft Company Website (1)

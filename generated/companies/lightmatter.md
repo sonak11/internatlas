@@ -11,6 +11,8 @@
 | Lightmatter | [Analog Engineering Intern - Summer 2027](https://boards.greenhouse.io/lightmatter/jobs/5473774008) | Mountain View, CA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | Lightmatter | [Chip Architecture Intern](https://boards.greenhouse.io/lightmatter/jobs/5468924008) | Boston, MA +1 | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | Lightmatter | [Data & AI Platform Intern](https://boards.greenhouse.io/lightmatter/jobs/5474807008) | Boston, MA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
+| Lightmatter | [Design Verification Intern](https://boards.greenhouse.io/lightmatter/jobs/5493962008) | Boston, MA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
+| Lightmatter | [Design Verification Intern](https://boards.greenhouse.io/lightmatter/jobs/5474684008) | Mountain View, CA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | Lightmatter | [Electrical Engineer Intern](https://boards.greenhouse.io/lightmatter/jobs/5479814008) | Mountain View, CA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | Lightmatter | [Electrical Engineer Intern](https://boards.greenhouse.io/lightmatter/jobs/5473816008) | Boston, MA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | Lightmatter | [Optical Packaging Integration Intern](https://boards.greenhouse.io/lightmatter/jobs/5478834008) | Mountain View, CA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |

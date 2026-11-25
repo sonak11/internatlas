@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔬 Research Internships
 
-**330** tracked · **173** open now
+**330** tracked · **172** open now
 
 ## Current openings
 
@@ -25,7 +25,6 @@
 | [Bobyard](generated/companies/bobyard.md) | [Computer Vision Research Engineer Intern](https://go.vansh.nyc/ES) | San Francisco, CA | Onsite | 2026-10-05 | Rolling | 🟢 Open | ❔ |
 | [Bosch](generated/companies/bosch.md) | [Robotics Research Intern](https://go.vansh.nyc/86) | Sunnyvale, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Brevan Howard](generated/companies/brevan-howard.md) | [Execution Research Intern - Systematic Execution Research](https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595) | NYC | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
-| [Brooks Running](generated/companies/brooks-running.md) | [Run Performance Graduate Intern - Run Research Team](https://jobs.lever.co/brooksrunning/b4462155-4109-43ce-adfa-8e58bb429215/apply) | Seattle, WA | Onsite | 2026-10-03 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Intern - SDN Traffic Intelligence & Control](https://jobs.bytedance.com/en/position/7668118098724079877/detail) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667379218929780997/detail) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern - Distributed NoSQL Database Systems](https://jobs.bytedance.com/en/position/7668371456348326149/detail) | Seattle, WA | Onsite | 2026-08-03 | Rolling | 🟢 Open | ❔ |
@@ -204,6 +203,7 @@
 | [Autodesk](generated/companies/autodesk.md) | [PhD Researcher Intern - Agentic 3D Modeling in Immersive Environments](https://autodesk.wd1.myworkdayjobs.com/Ext/job/New-York-USA---Remote/PhD-Researcher--Agentic-3D-Modeling-in-Immersive-Environments_26WD101374-1) | Boston, MA +1 | Onsite | 2026-10-15 | Rolling | 🔴 Closed | ❔ |
 | [Bank of Montreal](generated/companies/bank-of-montreal.md) | [Technology Research Associate Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Technology-Research-Associate--Winter-2027--Co-op-Internship----4-months_R260024978) | Toronto | Onsite | 2026-11-06 | Rolling | 🔴 Closed | ❔ |
 | [Bosch Home Comfort](generated/companies/bosch-home-comfort.md) | [Research Intern](https://jobs.smartrecruiters.com/BoschGroup/744000136313549) | Sunnyvale, CA | Onsite | 2026-07-07 | Rolling | 🔴 Closed | ❔ |
+| [Brooks Running](generated/companies/brooks-running.md) | [Run Performance Graduate Intern - Run Research Team](https://jobs.lever.co/brooksrunning/b4462155-4109-43ce-adfa-8e58bb429215/apply) | Seattle, WA | Onsite | 2026-10-03 | Rolling | 🔴 Closed | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern](https://jobs.bytedance.com/en/position/7667380188619131189/detail) | San Jose, CA | Onsite | 2026-08-03 | Rolling | 🔴 Closed | ❔ |
 | [ByteDance](generated/companies/bytedance.md) | [Research Scientist Intern](https://jobs.bytedance.com/en/position/7670375041041320245/detail) | San Jose, CA | Onsite | 2026-08-06 | Rolling | 🔴 Closed | ❔ |
 | [CALSTART](generated/companies/calstart.md) | [Zero-Emission Data & Research Intern](https://jobs.lever.co/calstart/faf839b1-8c62-4fcf-991c-71750d8fc909/apply) | Remote | Remote | 2026-07-30 | Rolling | 🔴 Closed | ❔ |
@@ -397,7 +397,6 @@
 - Bobyard (1)
 - Bosch (1)
 - Brevan Howard (1)
-- Brooks Running (1)
 - Capital One (1)
 - Cartesian Systems (1)
 - Category Labs (1)
@@ -461,6 +460,7 @@
 - Atlassian (1)
 - Bank of Montreal (1)
 - Bosch Home Comfort (1)
+- Brooks Running (1)
 - CALSTART (1)
 - Carnegie Mellon University (1)
 - Center for AI Safety (1)

@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
-  "id": "botpress-technologies-software-developer-intern-2027-5a90b6",
+  "id": "neuralink-electrical-test-engineer-intern-2027-b3ac0e",
   "company": {
-    "name": "Botpress Technologies",
-    "slug": "botpress-technologies"
+    "name": "Neuralink",
+    "slug": "neuralink",
+    "career_page": "https://neuralink.com/careers"
   },
-  "role": "Software Developer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1dR",
-  "season": "winter",
+  "role": "Electrical Test Engineer Intern",
+  "category": "hardware",
+  "apply_url": "https://boards.greenhouse.io/neuralink/jobs/8197808003?gh_jid=8197808003",
+  "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Montreal",
-      "country": "Canada"
+      "city": "South San Francisco",
+      "country": "USA"
     }
   ],
   "compensation": {
@@ -39,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-03",
-    "discovered": "2026-11-03",
+    "posted": "2026-11-24",
+    "discovered": "2026-11-25",
     "last_verified": "2026-11-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:ats"
   ]
 }

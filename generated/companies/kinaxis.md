@@ -6,6 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Kinaxis | [Data Foundations Intern - Data & Analytics](https://jobs-kinaxis.icims.com/jobs/36672/job?mobile=true&needsRedirect=false) | Ottawa | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
+| Kinaxis | [Data Foundations Intern, Data & Analytics](https://go.vansh.nyc/1IM) | Ottawa +1 | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | Kinaxis | [Developer Intern - AI Solutions](https://careers-kinaxis.icims.com/jobs/35343/job?mobile=true&needsRedirect=false) | Ottawa | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | Kinaxis | [Full Stack Developer Intern - C#](https://kinaxis.jibeapply.com/jobs/35343?icims=1) | Ottawa | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Kinaxis | [Full Stack Developer Intern, C#](https://go.vansh.nyc/1mc) | Ottawa | Onsite | 2026-11-07 | Rolling | 🟢 Open | ❔ |

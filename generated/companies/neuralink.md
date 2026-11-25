@@ -15,6 +15,7 @@
 | Neuralink | [Electrical Engineer Intern, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/7702527003?gh_jid=7702527003) | Austin | Onsite | 2026-04-15 | Rolling | 🟢 Open | ❔ |
 | Neuralink | [Electrical Engineer Intern, Robotics and Surgery Engineering](https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003) | South San Francisco | Onsite | 2025-06-13 | Rolling | 🟢 Open | ❔ |
 | Neuralink | [Electrical Test Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/8197808003?gh_jid=8197808003) | South San Francisco | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
+| Neuralink | [Electrical Test Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/8197808003) | South SF | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | Neuralink | [Embedded Software Engineer Intern, Implant Embedded Systems](https://go.vansh.nyc/QF) | Austin, TX +1 | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | Neuralink | [Embedded Software Engineer Intern, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003) | Austin | Onsite | 2024-11-26 | Rolling | 🟢 Open | ❔ |
 | Neuralink | [Firmware Engineer Intern, Robotics and Surgery Engineering](https://go.vansh.nyc/QH) | South San Francisco, CA | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |

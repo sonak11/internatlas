@@ -10,8 +10,10 @@
 | Johns Hopkins Applied Physics Laboratory | [Acoustic Algorithm Development Engineer Intern](https://careers.jhuapl.edu/jobs/59784?icims=1) | Laurel, MD | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [AI & Data Science Intern - Analytic Capabilities](https://careers.jhuapl.edu/jobs/60008?icims=1) | Laurel, MD | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [AI & Data Science Intern, Analytic Capabilities](https://go.vansh.nyc/1xh) | USA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| Johns Hopkins Applied Physics Laboratory | [Artificial Intelligence and Complex Systems Intern](https://go.vansh.nyc/1IE) | Laurel, MD | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Artificial Intelligence and Complex Systems Intern](https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us) | Laurel, MD | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Artificial Intelligence Intern - Information Fusion](https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us) | Laurel, MD | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
+| Johns Hopkins Applied Physics Laboratory | [Cyber Physical Systems Intern](https://go.vansh.nyc/1IY) | Laurel, MD | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Cybersecurity Engineer Intern, Critical Infrastructure Protection](https://go.vansh.nyc/Rc) | Laurel, MD | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Engineer/Analyst/Scientist Intern - C2 Resilience Sciences](https://careers.jhuapl.edu/jobs/59832?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Engineer/SW Developer/Analyst Intern - Maritime Force Engagement Control](https://careers.jhuapl.edu/jobs/59598?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -20,6 +22,7 @@
 | Johns Hopkins Applied Physics Laboratory | [Reverse Engineer Intern, Offensive Cyber Capabilities](https://go.vansh.nyc/R9) | Laurel, MD | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Reverse Engineer Intern, Offensive Cyber Capabilities](https://go.vansh.nyc/1xi) | USA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Reverse Engineer Intern, Systems Exploitation](https://go.vansh.nyc/1xg) | USA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| Johns Hopkins Applied Physics Laboratory | [Robotics Intern](https://go.vansh.nyc/1ID) | Laurel, MD | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Software Developer Intern - Tactical System Prototyping and Deployment](https://careers.jhuapl.edu/jobs/59564?icims=1) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Software Developer Intern, Tactical System Prototyping and Deployment](https://go.vansh.nyc/LV) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | Johns Hopkins Applied Physics Laboratory | [Weapon Control Intern](https://go.vansh.nyc/Q5) | Laurel, MD | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |

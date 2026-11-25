@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**294** tracked · **183** open now
+**295** tracked · **183** open now
 
 ## Current openings
 
@@ -73,9 +73,9 @@
 | [General Dynamics Mission Systems, Inc.](generated/companies/general-dynamics-mission-systems-inc.md) | [Systems Intern, Cybersecurity and Linux Administration](https://go.vansh.nyc/1rI) | San Antonio, TX | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❌ |
 | [General Matter](generated/companies/general-matter.md) | [Information Security Engineer Intern](https://go.vansh.nyc/9J) | Los Angeles, CA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
 | [Global Payments](generated/companies/global-payments.md) | [CyberSecurity Intern](https://go.vansh.nyc/1s5) | Columbus, GA | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❌ |
-| [Graco](generated/companies/graco.md) | [Cybersecurity Intern](https://go.vansh.nyc/1cy) | Dayton, MN | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Green Bay Packaging](generated/companies/green-bay-packaging.md) | [Cybersecurity Intern](https://go.vansh.nyc/1xs) | Green Bay, WI | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [HCSC](generated/companies/hcsc.md) | [Cybersecurity Operations Intern](https://go.vansh.nyc/11Z) | Chicago, IL | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Cloud Security Engagement Intern](https://go.vansh.nyc/1IP) | Spring, TX | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | [House of Representatives](generated/companies/house-of-representatives.md) | [HIR Cybersecurity Intern](https://go.vansh.nyc/1zW) | Washington, DC | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
 | [HP Inc.](generated/companies/hp-inc.md) | [Software Product Security Intern, HP IQ](https://go.vansh.nyc/YE) | San Francisco, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [HUB International](generated/companies/hub-international.md) | [Security Architect Intern](https://go.vansh.nyc/1vD) | Chicago, IL | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
@@ -225,6 +225,7 @@
 | [General Dynamics Information Technology](generated/companies/general-dynamics-information-technology.md) | [Cybersecurity Associate Intern](https://go.vansh.nyc/1hR) | Bossier City, LA | Onsite | 2026-11-05 | Rolling | 🔴 Closed | ❌ |
 | [General Dynamics Mission Systems](generated/companies/general-dynamics-mission-systems.md) | [Cybersecurity Software Engineer Intern](https://careers-gdms.icims.com/jobs/74257/job?mobile=true&needsRedirect=false) | Manassas, VA | Onsite | 2026-08-11 | Rolling | 🔴 Closed | ❔ |
 | [GeoComply](generated/companies/geocomply.md) | [Browser Security Engineer Intern](https://go.vansh.nyc/QA) | Vancouver | Onsite | 2026-07-09 | Rolling | 🔴 Closed | ❔ |
+| [Graco](generated/companies/graco.md) | [Cybersecurity Intern](https://go.vansh.nyc/1cy) | Dayton, MN | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | [Guardian Life](generated/companies/guardian-life.md) | [Cybersecurity Intern, Digital & Technology](https://go.vansh.nyc/1cZ) | New York, NY +2 | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | [GuidePoint Security](generated/companies/guidepoint-security.md) | [Application Security Intern](https://go.vansh.nyc/Hf) | USA | Onsite | 2026-10-08 | Rolling | 🔴 Closed | ❔ |
 | [GuidePoint Security](generated/companies/guidepoint-security.md) | [Cybersecurity Intern](https://go.vansh.nyc/VU) | USA | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
@@ -326,6 +327,7 @@
 - Clyde Companies (2)
 - Fiserv (2)
 - HCSC (2)
+- Hewlett Packard Enterprise (2)
 - Juniper Networks (2)
 - L3Harris Technologies (2)
 - Leidos (2)
@@ -390,7 +392,6 @@
 - General Dynamics Mission Systems, Inc. (1)
 - General Matter (1)
 - Global Payments (1)
-- Graco (1)
 - Green Bay Packaging (1)
 - House of Representatives (1)
 - HP Inc. (1)
@@ -485,8 +486,8 @@
 - General Dynamics Information Technology (1)
 - General Dynamics Mission Systems (1)
 - GeoComply (1)
+- Graco (1)
 - Guardian Life (1)
-- Hewlett Packard Enterprise (1)
 - Howmet Aerospace (1)
 - HP IQ (1)
 - Intel (1)

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🧠 Machine Learning Internships
 
-**539** tracked · **344** open now
+**540** tracked · **345** open now
 
 ## Current openings
 
@@ -117,6 +117,7 @@
 | [IMC Trading](generated/companies/imc-trading.md) | [Hardware Machine Learning PhD Research Internship](https://job-boards.eu.greenhouse.io/imc/jobs/4975945101) | Chicago | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Machine Learning Engineer Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) | NYC +1 | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | [IMC Trading](generated/companies/imc-trading.md) | [Machine Learning Engineer Intern](https://go.vansh.nyc/1nv) | New York, NY | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
+| [IMC Trading](generated/companies/imc-trading.md) | [SYD - 2027  - Machine Learning Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4982344101) | Sydney | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [Intermountain Healthcare](generated/companies/intermountain-healthcare.md) | [AI/ML Engineer Intern](https://go.vansh.nyc/1xt) | USA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Intermountain Healthcare](generated/companies/intermountain-healthcare.md) | [Machine Learning Operations (MLOps) Intern](https://go.vansh.nyc/1xu) | USA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Jane Street](generated/companies/jane-street.md) | [Machine Learning Engineer Intern](https://go.vansh.nyc/3Z) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
@@ -556,8 +557,8 @@
 - General Motors (19)
 - Qualcomm (14)
 - Tesla (11)
+- IMC Trading (8)
 - AMD (8)
-- IMC Trading (7)
 - Microsoft (7)
 - NVIDIA (7)
 - Pinterest (7)

@@ -1,17 +1,23 @@
 {
   "schema_version": "1.0",
-  "id": "astreya-ai-infrastructure-dc-design-intern-2027-fd6861",
+  "id": "bandwidth-software-engineer-intern-2027-272f75",
   "company": {
-    "name": "Astreya",
-    "slug": "astreya"
+    "name": "Bandwidth",
+    "slug": "bandwidth"
   },
-  "role": "AI Infrastructure DC Design Intern",
-  "category": "ai",
-  "apply_url": "https://go.vansh.nyc/90",
+  "role": "Software Engineer Intern",
+  "category": "software-engineering",
+  "apply_url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414430",
   "season": "summer",
   "year": 2027,
-  "work_mode": "remote",
-  "locations": [],
+  "work_mode": "onsite",
+  "locations": [
+    {
+      "city": "Raleigh",
+      "state": "NC",
+      "country": "USA"
+    }
+  ],
   "compensation": {
     "currency": "USD",
     "housing_stipend": false,
@@ -34,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-14",
-    "discovered": "2026-10-25",
+    "posted": "2026-11-25",
+    "discovered": "2026-11-25",
     "last_verified": "2026-11-25"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

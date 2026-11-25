@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🤖 AI Internships
 
-**1061** tracked · **494** open now
+**1062** tracked · **494** open now
 
 ## Current openings
 
@@ -55,7 +55,6 @@
 | [AstraZeneca](generated/companies/astrazeneca.md) | [Manufacturing Digital and AI Intern](https://astrazeneca.wd3.myworkdayjobs.com/en-US/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647) | Gaithersburg, MD | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Astreya](generated/companies/astreya.md) | [AI Infrastructure DC Design Intern](https://go.vansh.nyc/91) | Remote | Remote | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Astreya](generated/companies/astreya.md) | [AI Infrastructure DC Design Intern](https://go.vansh.nyc/90) | Remote | Remote | 2026-10-14 | Rolling | 🟢 Open | ❔ |
-| [Astreya](generated/companies/astreya.md) | [AI Infrastructure DC Design Intern](https://go.vansh.nyc/8Z) | Remote | Remote | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | [Atlassian](generated/companies/atlassian.md) | [AI Research Intern](https://campus-americas.icims.com/jobs/26269/ai-research-intern-%28phd%29%2c-2027-summer-u.s./job) | SF | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Atoms](generated/companies/atoms.md) | [AI Research Intern](https://go.vansh.nyc/VZ) | Mountain View, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Axiom Consultants](generated/companies/axiom-consultants.md) | [AI Developer Intern](https://go.vansh.nyc/1mp) | Rockville, MD | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
@@ -237,6 +236,7 @@
 | [Johns Hopkins APL](generated/companies/johns-hopkins-apl.md) | [Artificial Intelligence Intern, Information Fusion](https://go.vansh.nyc/1oQ) | Laurel, MD | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [AI & Data Science Intern - Analytic Capabilities](https://careers.jhuapl.edu/jobs/60008?icims=1) | Laurel, MD | Onsite | 2026-09-10 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [AI & Data Science Intern, Analytic Capabilities](https://go.vansh.nyc/1xh) | USA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Artificial Intelligence and Complex Systems Intern](https://go.vansh.nyc/1IE) | Laurel, MD | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Artificial Intelligence and Complex Systems Intern](https://careers.jhuapl.edu/jobs/60935?icims=1&lang=en-us) | Laurel, MD | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Artificial Intelligence Intern - Information Fusion](https://careers.jhuapl.edu/jobs/60673?icims=1&lang=en-us) | Laurel, MD | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [JP Morgan Chase](generated/companies/jp-morgan-chase.md) | [Quant AI Associate Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936) | Palo Alto, CA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
@@ -369,7 +369,6 @@
 | [Roku](generated/companies/roku.md) | [AI Engineering Intern](https://www.weareroku.com/jobs/8345954?gh_jid=8345954) | Manchester | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Roku](generated/companies/roku.md) | [AI Engineering Intern](https://www.weareroku.com/jobs/8345947?gh_jid=8345947) | Cambridge | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [Roku](generated/companies/roku.md) | [Software Engineer Intern - AI Engineering](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) | San Jose, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
-| [RosaicLabs](generated/companies/rosaiclabs.md) | [AI Accelerator Design Verification Engineer Intern](https://go.vansh.nyc/Xp) | Austin, TX +1 | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Salesforce](generated/companies/salesforce.md) | [AI Labs Intern, Emerging Talent](https://go.vansh.nyc/10J) | San Francisco, CA +1 | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [Salesforce](generated/companies/salesforce.md) | [AI Research Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111) | Palo Alto, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Salesforce](generated/companies/salesforce.md) | [AI Research Intern](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111-1) | Palo Alto, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
@@ -380,6 +379,7 @@
 | [Samsung Research America](generated/companies/samsung-research-america.md) | [PhD Intern - AI Research](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8955762002) | Mountain View, CA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | [Samsung Semiconductor](generated/companies/samsung-semiconductor.md) | [AI Application Engineer Intern](https://go.vansh.nyc/19X) | Folsom, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Samsung Semiconductor](generated/companies/samsung-semiconductor.md) | [LLM Inference Acceleration Architecture Intern, Distributed Memory-Centric Accelerators](https://go.vansh.nyc/1Cw) | San Jose, CA | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
+| [Samsung Semiconductor](generated/companies/samsung-semiconductor.md) | [LLM Inference Acceleration Architecture Intern, MoE & Attention–FFN Disaggregation](https://go.vansh.nyc/1IH) | San Jose, CA | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | [Saronic](generated/companies/saronic.md) | [Enterprise Technology Intern - AI and Automation](https://jobs.ashbyhq.com/saronic/6118e5ce-36b0-4f9a-a0c4-34dceb46b9c1/application?embed=true) | Austin, TX | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [SAS](generated/companies/sas.md) | [Cybersecurity Compliance and AI Automation Intern](https://go.vansh.nyc/1Dy) | Cary, NC | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [Scale AI](generated/companies/scale-ai.md) | [Software Engineering Intern (Summer 2027)](https://job-boards.greenhouse.io/scaleai/jobs/4730834005) | Doha | Onsite | 2026-09-14 | Rolling | 🟢 Open | ❔ |
@@ -928,6 +928,7 @@
 | [Rockwell Automation](generated/companies/rockwell-automation.md) | [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-2) | Austin, TX | Onsite | 2026-07-29 | Rolling | 🔴 Closed | ❔ |
 | [Rockwell Automation](generated/companies/rockwell-automation.md) | [Applied AI Intern](https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Austin-Texas-United-States/Intern--Applied-AI_R26-5631-1) | Austin, TX | Onsite | 2026-07-29 | Rolling | 🔴 Closed | ❔ |
 | [Rogue Fitness](generated/companies/rogue-fitness.md) | [AI Engineer Intern](https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/AI-Engineer-Intern_R-103005) | Columbus, OH | Onsite | 2026-10-19 | Rolling | 🔴 Closed | ❔ |
+| [RosaicLabs](generated/companies/rosaiclabs.md) | [AI Accelerator Design Verification Engineer Intern](https://go.vansh.nyc/Xp) | Austin, TX +1 | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [AI & Stress Testing Analytics Intern](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-3) | Toronto | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [AI & Stress Testing Analytics Intern - Group Risk Management](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790) | Toronto | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | [Royal Bank of Canada](generated/companies/royal-bank-of-canada.md) | [AI and Stress Testing Analytics Intern - Group Risk Management](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI---Stress-Testing-Analytics-Intern--4-Months-_R-0000185790-1) | Toronto | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
@@ -1088,11 +1089,11 @@
 - Autodesk (9)
 - Nissan (8)
 - General Dynamics Information Technology (8)
-- Astreya (7)
 - Micron Technology (7)
 - Bank of Montreal (7)
 - GE Vernova (7)
 - ABB (6)
+- Astreya (6)
 - Boston Scientific (6)
 - Carnegie Mellon University (6)
 - Jump Trading (6)
@@ -1104,6 +1105,7 @@
 - Cisco (5)
 - Exowatt (5)
 - Intel (5)
+- Johns Hopkins Applied Physics Laboratory (5)
 - JP Morgan Chase (5)
 - V2X (5)
 - Veeam Software (5)
@@ -1116,7 +1118,6 @@
 - DwyerOmega (4)
 - Electronic Arts (4)
 - Hewlett Packard Enterprise (4)
-- Johns Hopkins Applied Physics Laboratory (4)
 - Marvell (4)
 - Mawer Investment Management (4)
 - Meta (4)
@@ -1153,6 +1154,7 @@
 - Philips (3)
 - Rivian (3)
 - Roku (3)
+- Samsung Semiconductor (3)
 - Scale AI (3)
 - Sephora (3)
 - ServiceNow (3)
@@ -1226,7 +1228,6 @@
 - Ralliant (2)
 - Revantage Corporate Services (2)
 - Rivian and Volkswagen Group Technologies (2)
-- Samsung Semiconductor (2)
 - Saronic (2)
 - Scout AI (2)
 - Shure (2)
@@ -1374,7 +1375,6 @@
 - Plains All American Pipeline (1)
 - Prologis (1)
 - QSL (1)
-- RosaicLabs (1)
 - Samsung (1)
 - SAS (1)
 - Schnucks (1)
@@ -1517,6 +1517,7 @@
 - RGA Reinsurance Company (1)
 - Robert Bosch LLC (1)
 - Rogue Fitness (1)
+- RosaicLabs (1)
 - RSM (1)
 - Sabre Systems (1)
 - Samsung Research America Internship (1)

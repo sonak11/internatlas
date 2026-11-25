@@ -10,8 +10,9 @@
 | L3Harris Technologies | [Image Processing Engineer Intern](https://go.vansh.nyc/er) | Tulsa, OK | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | L3Harris Technologies | [Information Security Systems Engineer Intern](https://go.vansh.nyc/XU) | Salt Lake City, UT | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❌ |
 | L3Harris Technologies | [Software Engineer Intern](https://go.vansh.nyc/dR) | Salt Lake City, UT | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❔ |
-| L3Harris Technologies | [Software Engineer Intern](https://go.vansh.nyc/Yw) | Carlsbad, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | L3Harris Technologies | [Software Engineer Intern](https://go.vansh.nyc/DP) | Clinton, MD +1 | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
+| L3Harris Technologies | [Software Engineer Intern](https://go.vansh.nyc/Yw) | Carlsbad, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
+| L3Harris Technologies | [Software Engineer Intern](https://go.vansh.nyc/1J1) | Melbourne, FL | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | L3Harris Technologies | [Software Engineering Intern](https://go.vansh.nyc/YO) | Carlsbad, CA | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❌ |
 | L3Harris Technologies | [Software Engineering Intern](https://go.vansh.nyc/1pY) | Rochester, NY | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❌ |
 | L3Harris Technologies | [Artificial Intelligence Intern](https://jobs.l3harris.com/job/Melbourne-Intern-,-Artificial-Intelligence-FL-32919/1423790400/?ats=successfactors) | Rochester, NY +1 | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
