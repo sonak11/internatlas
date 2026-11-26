@@ -33,7 +33,7 @@ _Generated 2026-11-26_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 6657 | `██████████████` |
+| software-engineering | 6665 | `██████████████` |
 | ai | 1069 | `██` |
 | machine-learning | 547 | `█` |
 | data-science | 461 | `█` |
@@ -50,7 +50,11 @@ _Generated 2026-11-26_
 ## Newest listings
 
 - 2026-11-26 — **Digital Control**: [Software Engineering Intern](https://go.vansh.nyc/1K0)
+- 2026-11-26 — **ManTech**: [Developer Intern, C++](https://go.vansh.nyc/1K6)
+- 2026-11-26 — **OpenSesame**: [Software Engineering Intern](https://go.vansh.nyc/1K5)
 - 2026-11-26 — **TikTok**: [Machine Learning Engineer Intern - PhD](https://lifeattiktok.com/search/7712192759532357893)
+- 2026-11-26 — **Verisk**: [Integration Analyst Intern](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4213)
+- 2026-11-25 — **ABB**: [Software Intern](https://go.vansh.nyc/1Kd)
 - 2026-11-25 — **Advanced Energy**: [Firmware Engineer Intern](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Spring-2027-CO-80525/1453648400/?ats=successfactors)
 - 2026-11-25 — **Advanced Energy**: [Firmware Engineer Intern](https://go.vansh.nyc/1IO)
 - 2026-11-25 — **Apex**: [Flight Software Engineer Intern](https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3/application?embed=true)
@@ -65,10 +69,6 @@ _Generated 2026-11-26_
 - 2026-11-25 — **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414436)
 - 2026-11-25 — **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414426)
 - 2026-11-25 — **Bandwidth Inc.**: [Software Engineer Intern](https://go.vansh.nyc/1IW)
-- 2026-11-25 — **Best Egg**: [Software Engineering Intern](https://go.vansh.nyc/1JF)
-- 2026-11-25 — **Cantor Fitzgerald**: [Technology Infrastructure & Automation Intern](https://go.vansh.nyc/1K2)
-- 2026-11-25 — **Cantor Fitzgerald**: [Technology Intern, Development](https://go.vansh.nyc/1Jw)
-- 2026-11-25 — **Cantor Fitzgerald**: [Technology Summer Intern - Development](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/250630)
 
 ## Recently closed
 
@@ -146,7 +146,6 @@ _Generated 2026-11-26_
 - Anduril — 2027 Deployment Logistics Intern
 - Anduril — 2027 Software Engineer Intern
 - Anduril — Software Engineer Intern
-- Angel Host — AI Product Engineer Intern Co-op
 - Antares — Reactor Software Engineering Intern
 - Antares Nuclear — Software Engineer Intern
 - AON3D — Software Developer Intern
@@ -219,6 +218,8 @@ _Generated 2026-11-26_
 - BlackRock — Quantitative Master’s Internship - Technology - Analytics & Modeling
 - BlackRock — Quantitative Masters Intern - Technology - Analytics & Modeling
 - Bloomberg Industry Group — Data Analyst Intern
+- Blue Cross Blue Shield of Michigan — Object Oriented Programming Intern
+- Blue Cross Blue Shield of Michigan — Object Oriented Programming Intern
 - BlueCross BlueShield of Nebraska — Data Intern - Data Science - Data Analytics
 - BlueCross BlueShield of Nebraska — Data Intern, Healthcare
 - BMLL Technologies — Junior Quantitative Analyst Intern
@@ -318,6 +319,7 @@ _Generated 2026-11-26_
 - Cigna Group — Product Analytics Intern
 - Cincinnati Children’s Hospital and Medical Center — Software Engineering Developer Intern
 - Cintas — IT Engineer Intern, Customer Channels
+- Cisco — AI Cybersecurity Engineer I Intern
 - Cisco — AI Researcher II Intern
 - Cisco — Software Engineer Intern, Full-Stack / Backend I
 - Citi — Technology Analyst Intern - Application Development
@@ -332,6 +334,7 @@ _Generated 2026-11-26_
 - Clera — Full-Stack Software Engineering Intern
 - Cloudflare — AI & Automation Intern, Communications
 - Cloudflare — AI & Automation Intern, Communications (Winter 2027)
+- Cloudflare — People Operations Intern (2026/2027 Batch Only)
 - Cloudflare — People Team Intern, HR Transformation (Winter 2027)
 - Cloudflare — People Team: Software Engineer Intern (Winter 2027)
 - CMI Media Group — Business Insights Intern
@@ -586,6 +589,7 @@ _Generated 2026-11-26_
 - HexArmor — Software Engineer Intern
 - HeyGen — Software Engineer Intern
 - HeyGen — Software Engineer Intern
+- Highgate — Data Services Intern - Summer 2027
 - Highmark Health — Data Analyst enGen Undergraduate Intern
 - Highmark Health — Data Analyst Intern
 - Highmark Health — Reimbursement Analyst Intern
@@ -619,10 +623,12 @@ _Generated 2026-11-26_
 - Impulse Space — Flight Software Engineer Intern - Summer 2027
 - Impulse Space — RF Test Engineer Intern - Summer 2027
 - InfiniteQuant — Quantitative Developer Intern
+- Ingredion — AI & Data Scientist Intern
 - Ingredion — Digital Innovation Intern
 - Ingredion — Digital Innovation Intern
 - Insomniac Games — Undergraduate Gameplay Programming Intern
 - Insomniac Games — Undergraduate Tech Art Intern
+- Intel — Design Verification Intern
 - Intel — Platform Hardware and Systems Engineering Intern
 - Intel — Platform Hardware and Systems Engineering Intern - Bachelor's
 - Intel — Silicon Hardware Engineering Intern - Bachelor's
@@ -691,6 +697,7 @@ _Generated 2026-11-26_
 - Johns Hopkins Applied Physics Laboratory — Data Scientist Intern - Data Science - System Performance Evaluation
 - JP Morgan Chase — Applied AI Intern - HR CDAO
 - JP Morgan Chase — Data & AI Intern - Analyst
+- JSX — Commercial Intern
 - Jump Trading — Campus AI Researcher Intern
 - Jump Trading — Campus AI Researcher, PhD/Postdoc (Intern)
 - Jump Trading — Campus Software Engineer (Intern)
@@ -779,6 +786,7 @@ _Generated 2026-11-26_
 - Marvell — Silicon Photonics Intern - PhD - Fall 2026 Start Date
 - Matillion — Computer Science Intern - Software Engineering with AI
 - Mawer Investment Management — AI Engineer Student Intern
+- Mawer Investment Management — AI Orchestrator Student Intern
 - McDonald's — Software Development Engineer Intern
 - McDonald's — Software Development Engineer Intern
 - McDonald's — Software Engineer Intern
@@ -1226,6 +1234,7 @@ _Generated 2026-11-26_
 - Tesla — Advanced Automation Engineer Intern - Cell Engineering - Winter/Spring 2027
 - Tesla — Firmware Engineer Intern - New Programs Engineering
 - Tesla — Firmware Integration Engineer Intern - Factory Firmware
+- Tesla — Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure
 - Tesla — Physics Engine Development Engineer Intern - Optimus
 - Tesla — Physics Engine Development Intern - Physics Engine Development Engineer - Optimus
 - Tesla — Software Developer Intern - IT Apps
@@ -1302,7 +1311,6 @@ _Generated 2026-11-26_
 - Trinity Life Sciences — Data Science Intern
 - TruStage — Information Technology Development and Infrastructure Intern
 - TTP — Electronic Engineer Intern
-- Tyler Technologies — Software Development Intern - Summer 2027
 - UiPath — AI Engineer Intern
 - UiPath — Software Engineer Intern
 - UiPath — Software Engineer Intern

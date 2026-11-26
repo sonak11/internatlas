@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Verisk | [Integration Analyst Intern](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4213) | London | Onsite | 2026-11-26 | Rolling | 🟢 Open | ❔ |
 | Verisk | [AI Intern - Summer Internship Program](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682) | Jersey City, NJ | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
 | Verisk | [Data Science/AI Intern](https://go.vansh.nyc/1yF) | Lehi, UT | Onsite | 2026-11-13 | Rolling | 🔴 Closed | ❔ |
 | Verisk | [Data Science/AI Intern](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184) | Lehi, UT | Onsite | 2026-11-13 | Rolling | 🔴 Closed | ❔ |

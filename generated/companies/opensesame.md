@@ -9,6 +9,7 @@
 | OpenSesame | [AI Product Builder Intern](https://go.vansh.nyc/fx) | USA | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
 | OpenSesame | [Product Intern](https://boards.greenhouse.io/opensesame/jobs/8418204) | Remote | Remote | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | OpenSesame | [Software Engineer Intern](https://boards.greenhouse.io/opensesame/jobs/8418272) | Remote | Remote | 2026-11-25 | Rolling | 🟢 Open | ❔ |
+| OpenSesame | [Software Engineering Intern](https://go.vansh.nyc/1K5) | USA | Onsite | 2026-11-26 | Rolling | 🟢 Open | ❔ |
 | OpenSesame | [Security Analyst Intern](https://go.vansh.nyc/CY) | USA | Onsite | 2026-10-16 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🎨 Design Internships
 
-**284** tracked · **134** open now
+**284** tracked · **133** open now
 
 ## Current openings
 
@@ -57,7 +57,6 @@
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [VLSI Logic Design Intern](https://go.vansh.nyc/GR) | Chippewa Falls, WI | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [HP IQ](generated/companies/hp-iq.md) | [Product Design Engineering Intern](https://job-boards.greenhouse.io/hpiq/jobs/6141235004) | SF | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Indie](generated/companies/indie.md) | [Design Verification Engineer Intern](https://go.vansh.nyc/1td) | Aliso Viejo, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
-| [Intel](generated/companies/intel.md) | [Design Verification Intern](https://go.vansh.nyc/1Ie) | Fort Collins, CO +3 | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8003019) | Chicago | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading](generated/companies/jump-trading.md) | [Campus UI Software Engineer Intern](https://boards.greenhouse.io/embed/job_app?token=8003019) | Chicago, IL | Onsite | 2026-07-08 | Rolling | 🟢 Open | ❔ |
 | [Jump Trading Group](generated/companies/jump-trading-group.md) | [Campus UI Software Engineer Intern](https://go.vansh.nyc/3m) | Chicago, IL | Onsite | 2026-07-09 | Rolling | 🟢 Open | ✅ |
@@ -180,6 +179,7 @@
 | [Heron Power](generated/companies/heron-power.md) | [Electronics Design Engineer Intern](http://jobs.ashbyhq.com/heron-power/796052b0-3811-4282-b1f9-7e6f83c3e87b/application) | Santa Cruz, CA | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
 | [Humanscale](generated/companies/humanscale.md) | [Electrical Design Engineer Intern](https://careers-humanscale.icims.com/jobs/4395/job?mobile=true&needsRedirect=false) | NYC | Onsite | 2026-08-19 | Rolling | 🔴 Closed | ❔ |
 | [Intel](generated/companies/intel.md) | [CPU Core Physical Design Technical Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/CPU-Core-Physical-Design-Technical-Graduate-Intern--Spring_JR0287613) | Folsom, CA | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
+| [Intel](generated/companies/intel.md) | [Design Verification Intern](https://go.vansh.nyc/1Ie) | Fort Collins, CO +3 | Onsite | 2026-11-24 | Rolling | 🔴 Closed | ❔ |
 | [Intel](generated/companies/intel.md) | [Physical Design Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Folsom/Physical-Design-Engineering-Graduate-Intern_JR0283509) | Santa Clara, CA +2 | Onsite | 2026-08-14 | Rolling | 🔴 Closed | ❔ |
 | [Interstates](generated/companies/interstates.md) | [Electrical Engineering Intern - Design Services](https://www.interstates.com/careers/jobs?gh_jid=4368636009&gh_jid=4368636009) | Sioux Falls, SD | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
 | [Interstates](generated/companies/interstates.md) | [Engineering Intern - Design Services](https://www.interstates.com/careers/jobs?gh_jid=4368652009&gh_jid=4368652009) | Omaha, NE | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
@@ -313,13 +313,13 @@
 - RTX (4)
 - Cirrus Logic (3)
 - Hewlett Packard Enterprise (3)
-- Intel (3)
 - Lightmatter (3)
 - Neuralink (3)
 - Ralliant (3)
 - Tenstorrent (3)
 - Texas Instruments (3)
 - Zoox (3)
+- Intel (3)
 - Interstates (3)
 - Renesas Electronics (3)
 - Versant (3)

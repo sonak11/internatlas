@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**358** tracked · **186** open now
+**358** tracked · **185** open now
 
 ## Current openings
 
@@ -174,7 +174,6 @@
 | [Tesla](generated/companies/tesla.md) | [Embedded Systems Software Engineer Intern, SI Platforms](https://go.vansh.nyc/1aL) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Factory Firmware Integration Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283630) | Buffalo, NY | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Firmware Engineer Intern, New Programs Engineering](https://go.vansh.nyc/1aY) | Fremont, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
-| [Tesla](generated/companies/tesla.md) | [Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure](https://www.tesla.com/careers/search/job/287024) | Austin, TX | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Internship - Software Integration Engineer - Factory Firmware Team - Winter/Spring 2027](https://www.tesla.com/careers/search/job/283447) | Palo Alto, CA | Onsite | 2026-09-15 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [SoC Firmware Engineer Intern, SI Hardware Infrastructure](https://go.vansh.nyc/1a8) | Austin, TX | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Industrial Firmware Intern - Energy Engineering](https://www.tesla.com/careers/search/job/284448) | Palo Alto, CA | Onsite | 2026-09-24 | Rolling | 🟢 Open | ❔ |
@@ -347,6 +346,7 @@
 | [Tesla](generated/companies/tesla.md) | [Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/275689) | Palo Alto, CA | Onsite | 2026-07-01 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Firmware Integration Engineer Intern - Factory Firmware](https://www.tesla.com/careers/search/job/284156) | Austin, TX | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware](https://www.tesla.com/careers/search/job/270509) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
+| [Tesla](generated/companies/tesla.md) | [Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure](https://www.tesla.com/careers/search/job/287024) | Austin, TX | Onsite | 2026-10-18 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Internship - Electrical Engineer - Embedded Systems & Test Engineering - Supply Chain - Winter/Spring 2027](https://www.tesla.com/careers/search/job/287407) | Palo Alto, CA +1 | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Power Electronics Firmware Engineer Intern](https://www.tesla.com/careers/search/job/284029) | Palo Alto, CA | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Software Engineer Industrial Firmware - Energy Engineering](https://www.tesla.com/careers/search/job/273820) | Palo Alto, CA | Onsite | 2026-06-16 | Rolling | 🔴 Closed | ❔ |

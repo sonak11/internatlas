@@ -10,6 +10,7 @@
 | Blizzard Entertainment | [Animation & Cinematic Tools Engineering Intern - Animation & Cinematic Tools Engineering](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Animation---Cinematic-Tools-Engineering_R028350) | Irvine, CA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | Blizzard Entertainment | [Applied Science Intern - PhD](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Applied-Science_R028347) | Irvine, CA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | Blizzard Entertainment | [Data Platform Engineering Intern - Data Platform Engineering](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358) | Irvine, CA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
+| Blizzard Entertainment | [Tech Art Intern](https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Tech-Art_R028383) | Irvine, CA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 
 ## Related
 

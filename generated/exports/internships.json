@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-26",
-  "count": 11579,
+  "count": 11587,
   "internships": [
     {
       "schema_version": "1.0",
@@ -2540,6 +2540,57 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "abb-software-intern-2027",
+      "company": {
+        "name": "ABB",
+        "slug": "abb"
+      },
+      "role": "Software Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1Kd",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Dorval",
+          "country": "Canada"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-25",
+        "discovered": "2026-11-26",
+        "last_verified": "2026-11-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -41889,9 +41940,9 @@
       "dates": {
         "posted": "2026-11-17",
         "discovered": "2026-11-17",
-        "last_verified": "2026-11-21"
+        "last_verified": "2026-11-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -76979,6 +77030,60 @@
     },
     {
       "schema_version": "1.0",
+      "id": "blizzard-entertainment-tech-art-intern-2027",
+      "company": {
+        "name": "Blizzard Entertainment",
+        "slug": "blizzard-entertainment"
+      },
+      "role": "Tech Art Intern",
+      "category": "software-engineering",
+      "apply_url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Tech-Art_R028383",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irvine",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-24",
+        "discovered": "2026-11-26",
+        "last_verified": "2026-11-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "block-applied-research-intern-co-op-2026",
       "company": {
         "name": "Block",
@@ -77814,7 +77919,7 @@
         "discovered": "2026-11-20",
         "last_verified": "2026-11-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -77866,7 +77971,7 @@
         "discovered": "2026-11-20",
         "last_verified": "2026-11-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -123259,7 +123364,7 @@
         "discovered": "2026-11-21",
         "last_verified": "2026-11-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -128999,7 +129104,7 @@
         "discovered": "2026-11-23",
         "last_verified": "2026-11-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:ats"
@@ -150178,6 +150283,58 @@
       "dates": {
         "posted": "2026-10-15",
         "discovered": "2026-10-17",
+        "last_verified": "2026-11-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "danaher-corporation-it-data-analyst-intern-2027",
+      "company": {
+        "name": "Danaher Corporation",
+        "slug": "danaher-corporation"
+      },
+      "role": "IT Data Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1K9",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Brea",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-25",
+        "discovered": "2026-11-26",
         "last_verified": "2026-11-26"
       },
       "status": "open",
@@ -172652,6 +172809,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "elevance-health-undergraduate-clinical-analytics-intern-2027",
+      "company": {
+        "name": "Elevance Health",
+        "slug": "elevance-health"
+      },
+      "role": "Undergraduate Clinical Analytics Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1K7",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Chicago",
+          "state": "IL",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-24",
+        "discovered": "2026-11-26",
+        "last_verified": "2026-11-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -239959,7 +240168,7 @@
         "discovered": "2026-09-15",
         "last_verified": "2026-11-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -261480,7 +261689,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -264711,7 +264920,7 @@
         "discovered": "2026-11-25",
         "last_verified": "2026-11-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -284228,7 +284437,7 @@
         "discovered": "2026-11-13",
         "last_verified": "2026-11-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -316598,6 +316807,57 @@
     },
     {
       "schema_version": "1.0",
+      "id": "mantech-developer-intern-c-2027-bd5780",
+      "company": {
+        "name": "ManTech",
+        "slug": "mantech"
+      },
+      "role": "Developer Intern, C++",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1K6",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": true,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-26",
+        "discovered": "2026-11-26",
+        "last_verified": "2026-11-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03",
+        "remote-available"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "mantech-developer-intern-c-2027",
       "company": {
         "name": "ManTech",
@@ -325662,7 +325922,7 @@
         "discovered": "2026-11-21",
         "last_verified": "2026-11-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -387220,6 +387480,57 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "opensesame-software-engineering-intern-2027",
+      "company": {
+        "name": "OpenSesame",
+        "slug": "opensesame"
+      },
+      "role": "Software Engineering Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1K5",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-26",
+        "discovered": "2026-11-26",
+        "last_verified": "2026-11-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03",
+        "remote-available"
       ]
     },
     {
@@ -487675,6 +487986,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "signet-jewelers-software-engineering-intern-digital-commerce-2027",
+      "company": {
+        "name": "Signet Jewelers",
+        "slug": "signet-jewelers"
+      },
+      "role": "Software Engineering Intern, Digital Commerce",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1K8",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Irving",
+          "state": "TX",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-25",
+        "discovered": "2026-11-26",
+        "last_verified": "2026-11-26"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "signify-electrical-engineer-intern-2027",
       "company": {
         "name": "Signify",
@@ -527467,7 +527830,7 @@
         "discovered": "2026-10-18",
         "last_verified": "2026-11-26"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -578318,9 +578681,9 @@
       "dates": {
         "posted": "2026-09-21",
         "discovered": "2026-09-22",
-        "last_verified": "2026-11-23"
+        "last_verified": "2026-11-26"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -589412,6 +589775,59 @@
         "last_verified": "2026-11-22"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "verisk-integration-analyst-intern-2027",
+      "company": {
+        "name": "Verisk",
+        "slug": "verisk"
+      },
+      "role": "Integration Analyst Intern",
+      "category": "software-engineering",
+      "apply_url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4213",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "London",
+          "country": "UK"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "masters"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-26",
+        "discovered": "2026-11-26",
+        "last_verified": "2026-11-26"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"

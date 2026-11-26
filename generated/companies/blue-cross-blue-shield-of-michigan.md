@@ -10,9 +10,9 @@
 | Blue Cross Blue Shield of Michigan | [Data Science / Biostatistician Intern](https://go.vansh.nyc/1xL) | Detroit, MI | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | Blue Cross Blue Shield of Michigan | [Digital Product Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15151) | Detroit, MI | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Blue Cross Blue Shield of Michigan | [Epidemiology / Biostatistics Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14949) | Detroit, MI | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
-| Blue Cross Blue Shield of Michigan | [Object Oriented Programming Intern](https://go.vansh.nyc/1DG) | Detroit, MI | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
-| Blue Cross Blue Shield of Michigan | [Object Oriented Programming Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160) | Detroit, MI | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Blue Cross Blue Shield of Michigan | [IT Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/14393) | Detroit, MI | Onsite | 2026-07-01 | Rolling | 🔴 Closed | ❔ |
+| Blue Cross Blue Shield of Michigan | [Object Oriented Programming Intern](https://go.vansh.nyc/1DG) | Detroit, MI | Onsite | 2026-11-19 | Rolling | 🔴 Closed | ❔ |
+| Blue Cross Blue Shield of Michigan | [Object Oriented Programming Intern](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160) | Detroit, MI | Onsite | 2026-11-19 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 

@@ -53,7 +53,6 @@
 | Tesla | [Engineering Automation Software Engineer Intern, Vehicle Engineering](https://go.vansh.nyc/1b0) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Factory Firmware Integration Intern - Energy Engineering](https://www.tesla.com/careers/search/job/283630) | Buffalo, NY | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Firmware Engineer Intern, New Programs Engineering](https://go.vansh.nyc/1aY) | Fremont, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
-| Tesla | [Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure](https://www.tesla.com/careers/search/job/287024) | Austin, TX | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Fullstack Engineer Intern, Applications Engineering](https://go.vansh.nyc/1aI) | Fremont, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Fullstack Engineer Intern, Infrastructure Engineering](https://go.vansh.nyc/1b2) | Fremont, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | Tesla | [Fullstack Engineer Intern, SI Tooling](https://go.vansh.nyc/1aN) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
@@ -214,6 +213,7 @@
 | Tesla | [Firmware Engineer Intern - Power Electronics Firmware Engineer - Energy Engineering](https://www.tesla.com/careers/search/job/275689) | Palo Alto, CA | Onsite | 2026-07-01 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [Firmware Integration Engineer Intern - Factory Firmware](https://www.tesla.com/careers/search/job/284156) | Austin, TX | Onsite | 2026-09-22 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [Firmware Integration Engineer Intern - Software Integration Engineer - Factory Firmware](https://www.tesla.com/careers/search/job/270509) | Palo Alto, CA | Onsite | 2026-06-07 | Rolling | 🔴 Closed | ❔ |
+| Tesla | [Firmware Intern - SoC Firmware Engineer - SI Hardware Infrastructure](https://www.tesla.com/careers/search/job/287024) | Austin, TX | Onsite | 2026-10-18 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [Fleet Management Algorithms Intern - Vehicle Software](https://www.tesla.com/careers/search/job/282483) | Palo Alto, CA | Onsite | 2026-09-04 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [Fullstack C++ Engineer Intern - Vehicle User Interface](https://www.tesla.com/careers/search/job/280604) | Palo Alto, CA | Onsite | 2026-08-26 | Rolling | 🔴 Closed | ❔ |
 | Tesla | [Fullstack C++ Engineer Intern, Vehicle User Interface](https://go.vansh.nyc/X) | Palo Alto, CA | Onsite | 2025-09-24 | Rolling | 🔴 Closed | ❔ |
