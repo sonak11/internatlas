@@ -6,7 +6,9 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Lockheed Martin | [FPGA Engineer Intern, Security Focus](https://go.vansh.nyc/1Ke) | Owego, NY | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❌ |
 | Lockheed Martin | [Software Development Intern](https://go.vansh.nyc/1pZ) | Bethesda, MD +1 | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| Lockheed Martin | [Software Engineer Intern](https://go.vansh.nyc/1Ki) | Fort Worth, TX | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❌ |
 | Lockheed Martin | [Software Engineer Intern](https://go.vansh.nyc/XV) | Littleton, CO | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❌ |
 | Lockheed Martin | [Software Engineer Intern](https://go.vansh.nyc/Xr) | Sunnyvale, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❌ |
 | Lockheed Martin | [Software Engineer Intern](https://go.vansh.nyc/UC) | Huntsville, AL | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
@@ -15,4 +17,4 @@
 
 ## Related
 
-Browse more roles in: [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

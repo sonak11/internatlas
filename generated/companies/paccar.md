@@ -11,6 +11,7 @@
 | Paccar | [Data Engineering Intern](https://go.vansh.nyc/1x9) | USA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | Paccar | [Data Scientist Intern](https://go.vansh.nyc/1BQ) | Denton, TX | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | Paccar | [Software Developer Intern](https://go.vansh.nyc/1zV) | USA | Onsite | 2026-11-14 | Rolling | 🟢 Open | ❔ |
+| Paccar | [Vehicle Software Integration Engineer Intern](https://go.vansh.nyc/1Km) | USA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | Paccar | [Vehicle Software Integration Engineer Intern](https://jobs.paccar.com/job/Sunnyvale-2027-Spring-Internship-Vehicle-Software-Integration-Engineer-CA-94089/1459888133/?ats=successfactors) | Denton, TX +1 | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | Paccar | [Vehicle Software Integration Engineer Intern](https://go.vansh.nyc/1Hr) | Denton, TX +1 | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | Paccar | [Aftersales Data Analyst Intern](https://jobs.paccar.com/job/Kirkland-Summer-2027-AfterSales-Data-Analyst-Intern-WA-98033/1450518033/?ats=successfactors) | Kirkland, WA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❔ |

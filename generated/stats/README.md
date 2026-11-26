@@ -20,7 +20,7 @@ _Generated 2026-11-26_
 | Amazon | 80 |
 | Booz Allen | 80 |
 | American Express | 79 |
-| AMD | 77 |
+| AMD | 78 |
 | General Motors | 61 |
 | Northrop Grumman | 60 |
 | Anduril | 56 |
@@ -33,22 +33,23 @@ _Generated 2026-11-26_
 
 | Category | Count | Share |
 |---|---|---|
-| software-engineering | 6665 | `██████████████` |
-| ai | 1069 | `██` |
+| software-engineering | 6674 | `██████████████` |
+| ai | 1072 | `██` |
 | machine-learning | 547 | `█` |
-| data-science | 461 | `█` |
+| data-science | 462 | `█` |
 | quant | 402 | `█` |
-| hardware | 384 | `█` |
-| embedded | 358 | `█` |
+| hardware | 385 | `█` |
+| embedded | 360 | `█` |
 | product | 334 | `█` |
 | research | 330 | `█` |
-| security | 298 | `█` |
+| security | 302 | `█` |
 | design | 284 | `█` |
-| data-engineering | 249 | `█` |
-| cloud | 206 | `█` |
+| data-engineering | 250 | `█` |
+| cloud | 208 | `█` |
 
 ## Newest listings
 
+- 2026-11-26 — **AMD**: [Hardware Engineering Intern](https://careers.amd.com/jobs/102333?icims=1&lang=en-us)
 - 2026-11-26 — **Digital Control**: [Software Engineering Intern](https://go.vansh.nyc/1K0)
 - 2026-11-26 — **ManTech**: [Developer Intern, C++](https://go.vansh.nyc/1K6)
 - 2026-11-26 — **OpenSesame**: [Software Engineering Intern](https://go.vansh.nyc/1K5)
@@ -57,18 +58,17 @@ _Generated 2026-11-26_
 - 2026-11-25 — **ABB**: [Software Intern](https://go.vansh.nyc/1Kd)
 - 2026-11-25 — **Advanced Energy**: [Firmware Engineer Intern](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Spring-2027-CO-80525/1453648400/?ats=successfactors)
 - 2026-11-25 — **Advanced Energy**: [Firmware Engineer Intern](https://go.vansh.nyc/1IO)
+- 2026-11-25 — **AeroVironment**: [Cyber Intern](https://go.vansh.nyc/1KF)
 - 2026-11-25 — **Apex**: [Flight Software Engineer Intern](https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3/application?embed=true)
 - 2026-11-25 — **Apex**: [Software Engineering Operating Systems Intern](https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915/application?embed=true)
 - 2026-11-25 — **Apex Technology, Inc.**: [Flight Software Engineering Intern](https://go.vansh.nyc/1Jg)
 - 2026-11-25 — **Apex Technology, Inc.**: [Software Engineering Intern, Operating Systems](https://go.vansh.nyc/1Jf)
+- 2026-11-25 — **Aptima Inc. (All Jobs)**: [AI Engineer Intern](https://go.vansh.nyc/1KA)
 - 2026-11-25 — **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414430)
 - 2026-11-25 — **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414448)
 - 2026-11-25 — **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414452)
 - 2026-11-25 — **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414444)
 - 2026-11-25 — **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414440)
-- 2026-11-25 — **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414436)
-- 2026-11-25 — **Bandwidth**: [Software Engineer Intern](https://job-boards.greenhouse.io/bandwidth/jobs/8414426)
-- 2026-11-25 — **Bandwidth Inc.**: [Software Engineer Intern](https://go.vansh.nyc/1IW)
 
 ## Recently closed
 
@@ -86,6 +86,7 @@ _Generated 2026-11-26_
 - Aechelon Technology — Junior Software Engineer Intern
 - AECOM — Digital Engineering Intern - BIM
 - Aerospace Corporation — Defensive Cyber Operations Intern
+- Aerospace Corporation — Embedded Software Engineering Undergrad Intern
 - Affirm — Software Engineer Intern - Machine Learning
 - Affirm — Software Engineer Intern, Machine Learning
 - AGCO — Agricultural Business Analytics Intern
@@ -186,6 +187,10 @@ _Generated 2026-11-26_
 - Atalanta — Forward Deployed Engineer Intern
 - Atlassian — Product Management Intern
 - Atlassian — Software Engineer Intern
+- Atoms — Software Engineer Intern
+- Atoms — Software Engineer Intern
+- Atoms — Software Engineer Intern
+- Atoms — Software Engineering Intern
 - Aurora Innovation — Embedded Software Engineer Intern, Lidar
 - Aurora Innovation — Hardware Systems Engineer Intern
 - Aurora Innovation — Software Engineer Intern - Vehicle Platforms
@@ -322,6 +327,8 @@ _Generated 2026-11-26_
 - Cisco — AI Cybersecurity Engineer I Intern
 - Cisco — AI Researcher II Intern
 - Cisco — Software Engineer Intern, Full-Stack / Backend I
+- Citadel Securities — Software Engineer Intern
+- Citadel Securities — Software Engineer Intern
 - Citi — Technology Analyst Intern - Application Development
 - Citi — Technology Analyst Intern, Application Development
 - Citi — Technology Analyst Intern, Application Development
@@ -692,10 +699,12 @@ _Generated 2026-11-26_
 - JM Family Enterprises — Software Engineer Intern
 - JMP Statistical Discovery — C++ Software Development Intern
 - JMP Statistical Discovery — Software Development Intern, C++
+- Johns Hopkins Applied Physics Laboratory — Artificial Intelligence and Complex Systems Intern
+- Johns Hopkins Applied Physics Laboratory — Artificial Intelligence and Complex Systems Intern
 - Johns Hopkins Applied Physics Laboratory — Cyber Security Intern, Cyber Dominance
 - Johns Hopkins Applied Physics Laboratory — Cybersecurity Engineer/Mathematician Intern, Constrained Cyber Solutions
 - Johns Hopkins Applied Physics Laboratory — Data Scientist Intern - Data Science - System Performance Evaluation
-- JP Morgan Chase — Applied AI Intern - HR CDAO
+- Johns Hopkins Applied Physics Laboratory — Robotics Intern
 - JP Morgan Chase — Data & AI Intern - Analyst
 - JSX — Commercial Intern
 - Jump Trading — Campus AI Researcher Intern
@@ -748,6 +757,7 @@ _Generated 2026-11-26_
 - LinkedIn — Software Engineer Intern - First Play
 - LinkedIn — Software Engineer Intern, First Play
 - Llbean — Software Developer Intern
+- Loft Orbital — Test Engineering Intern - Test Engineering
 - Louisiana Blue — Healthcare Price and Transparency Data Analyst Intern
 - Lucid Motors — Embedded Software Intern - BSP/Platform - ADAS/Autonomous Driving
 - Lucid Motors — Embedded Software Intern, BSP/Platform, ADAS/Autonomous Driving
@@ -1284,6 +1294,7 @@ _Generated 2026-11-26_
 - TikTok — Client Solutions Intern
 - TikTok — Client Solutions Intern - Global Business Solutions
 - TikTok — Fullstack Software Engineer Intern - Global E-Commerce
+- TikTok — Machine Learning Engineer Intern
 - TikTok — Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking
 - TikTok — Machine Learning Engineer Intern - Tiktok-Data-Search-Search Quality
 - TikTok — Machine Learning Engineer Intern, Visual Search
@@ -1307,10 +1318,12 @@ _Generated 2026-11-26_
 - Trilogy Innovations — Technical Intern
 - Trimble — QA Engineer Intern
 - Trimble — Software Engineer Intern
+- Trimble — Software Engineering Intern
 - Trinity Life Sciences — Data Science Intern
 - Trinity Life Sciences — Data Science Intern
 - TruStage — Information Technology Development and Infrastructure Intern
 - TTP — Electronic Engineer Intern
+- Tyler Technologies — Software Development Intern - Summer 2027
 - UiPath — AI Engineer Intern
 - UiPath — Software Engineer Intern
 - UiPath — Software Engineer Intern
@@ -1416,7 +1429,6 @@ _Generated 2026-11-26_
 - Workday — Software Engineer Intern
 - Workstream — Full Stack Engineer Intern
 - WTW — Data Analyst Intern
-- Zebra Technologies — Product Management Intern
 - Zebra Technologies — Security Intern
 - Zillow — Applied Scientist Intern - Economics
 - Zillow — Data Science Intern

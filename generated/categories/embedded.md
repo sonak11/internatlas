@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**358** tracked · **185** open now
+**360** tracked · **186** open now
 
 ## Current openings
 
@@ -11,7 +11,6 @@
 | [Advanced Energy](generated/companies/advanced-energy.md) | [Firmware Engineer Intern](https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Firmware-Engineer-Spring-2027-CO-80525/1453648400/?ats=successfactors) | Fort Collins, CO | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | [Advanced Energy](generated/companies/advanced-energy.md) | [Firmware Engineer Intern](https://go.vansh.nyc/1IO) | Fort Collins, CO | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | [Aerospace Corporation](generated/companies/aerospace-corporation.md) | [Embedded Engineering Intern](https://go.vansh.nyc/OQ) | USA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❌ |
-| [Aerospace Corporation](generated/companies/aerospace-corporation.md) | [Embedded Software Engineering Undergrad Intern](https://go.vansh.nyc/1J8) | El Segundo, CA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❌ |
 | [Aerospace Corporation](generated/companies/aerospace-corporation.md) | [Intern Bachelors Embedded Eng](https://go.vansh.nyc/1hl) | Kanata | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | [AeroVironment](generated/companies/aerovironment.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/Ly) | Dayton, OH +15 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | [AeroVironment](generated/companies/aerovironment.md) | [Embedded Software Engineer Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388) | Dayton, OH +15 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -180,6 +179,7 @@
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Industrial Firmware Intern, Energy Engineering](https://go.vansh.nyc/1aq) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Validation Engineer Intern, Vehicle Firmware](https://go.vansh.nyc/1aR) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [TETRAMEM](generated/companies/tetramem.md) | [Software Engineer Intern, Embedded](https://go.vansh.nyc/1x) | San Jose, CA | Onsite | 2026-04-20 | Rolling | 🟢 Open | ❔ |
+| [Toshiba America Electronic Components](generated/companies/toshiba-america-electronic-components.md) | [Firmware Engineer Intern](https://go.vansh.nyc/1Kk) | San Jose, CA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [Toshiba International Corporation](generated/companies/toshiba-international-corporation.md) | [Firmware Engineer Intern](https://go.vansh.nyc/11O) | San Jose, CA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Valmont](generated/companies/valmont.md) | [Embedded Systems Engineer Intern](https://go.vansh.nyc/1br) | Valley, NE | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Verkada](generated/companies/verkada.md) | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/verkada/jobs/5211595007) | San Mateo, CA +1 | Onsite | 2026-08-25 | Rolling | 🟢 Open | ❔ |
@@ -189,10 +189,12 @@
 | [Vertiv](generated/companies/vertiv.md) | [Firmware Engineer Intern - Summer 2027](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20278957) | Delaware, OH | Onsite | 2026-08-26 | Rolling | 🟢 Open | ❔ |
 | [ViaSat](generated/companies/viasat.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/1Hz) | Tempe, AZ | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | [ViaSat](generated/companies/viasat.md) | [Embedded Software Engineer Intern](https://careers.viasat.com/jobs/10478?icims=1&lang=en-us) | Tempe, AZ | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
+| [ViaSat](generated/companies/viasat.md) | [Embedded Software Engineer Intern, Government](https://go.vansh.nyc/1Kl) | Tempe, AZ | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❌ |
 | [Zipline](generated/companies/zipline.md) | [Firmware Engineer Intern](https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003) | South SF | Onsite | 2026-10-10 | Rolling | 🟢 Open | ❔ |
 | [Zipline](generated/companies/zipline.md) | [Firmware Engineer Intern](https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003) | South SF | Onsite | 2026-10-10 | Rolling | 🟢 Open | ❔ |
 | [Zurn Elkay Water Solutions](generated/companies/zurn-elkay-water-solutions.md) | [Embedded Hardware Intern](https://go.vansh.nyc/MW) | Milwaukee, WI | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
 | [Zurn Elkay Water Solutions](generated/companies/zurn-elkay-water-solutions.md) | [Embedded Hardware Intern](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151) | Milwaukee, WI | Onsite | 2026-09-25 | Rolling | 🟢 Open | ❔ |
+| [Aerospace Corporation](generated/companies/aerospace-corporation.md) | [Embedded Software Engineering Undergrad Intern](https://go.vansh.nyc/1J8) | El Segundo, CA | Onsite | 2026-11-24 | Rolling | 🔴 Closed | ❌ |
 | [AeroVironment](generated/companies/aerovironment.md) | [Embedded Software Engineer Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549) | Simi Valley, CA | Onsite | 2026-09-10 | Rolling | 🔴 Closed | ❔ |
 | [Allegion](generated/companies/allegion.md) | [Firmware Engineer Intern, Advanced Development](https://go.vansh.nyc/1c1) | Indianapolis, IN | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | [Altera Corporation](generated/companies/altera-corporation.md) | [Embedded Solutions Intern](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Embedded-Solutions-Intern_R02832) | Toronto | Onsite | 2026-08-13 | Rolling | 🔴 Closed | ❔ |
@@ -403,6 +405,7 @@
 - Nokia (3)
 - Rivian (3)
 - Seagate Technology (3)
+- ViaSat (3)
 - CoStar Group (3)
 - Etched (3)
 - Geotab (3)
@@ -437,7 +440,6 @@
 - Terranova (2)
 - Verkada (2)
 - Vermeer (2)
-- ViaSat (2)
 - Cirrus Logic (2)
 - Eaton (2)
 - Fab2 (2)
@@ -471,6 +473,7 @@
 - stealth-startup-community (1)
 - TASI Measurement (1)
 - TETRAMEM (1)
+- Toshiba America Electronic Components (1)
 - Toshiba International Corporation (1)
 - Valmont (1)
 - Vertiv (1)

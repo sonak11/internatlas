@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**461** tracked · **226** open now
+**462** tracked · **227** open now
 
 ## Current openings
 
@@ -145,6 +145,7 @@
 | [Neighbor](generated/companies/neighbor.md) | [Data Scientist Intern - Current PhD](https://jobs.lever.co/neighbor/b5f73774-1d5a-4edc-a184-d1734731cd9c/apply) | Lehi, UT | Onsite | 2026-09-29 | Rolling | 🟢 Open | ❔ |
 | [New York Mets](generated/companies/new-york-mets.md) | [Data Science Intern](https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508) | Queens, NY | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
 | [New York Mets](generated/companies/new-york-mets.md) | [Data Science Intern](https://go.vansh.nyc/Em) | Queens, NY | Onsite | 2026-10-02 | Rolling | 🟢 Open | ❔ |
+| [NinjaHoldings](generated/companies/ninjaholdings.md) | [Data Science Intern](https://go.vansh.nyc/1Kf) | Chicago, IL | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❌ |
 | [Nissan](generated/companies/nissan.md) | [Data Science Intern](https://go.vansh.nyc/GJ) | Smyrna, TN | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Nissan](generated/companies/nissan.md) | [Data Science Intern](https://go.vansh.nyc/GI) | Franklin, TN | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
 | [Nissan Global](generated/companies/nissan-global.md) | [Data Science Intern](https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331) | Smyrna, TN | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
@@ -628,6 +629,7 @@
 - NBCUniversal (1)
 - NCR Atleos (1)
 - Neighbor (1)
+- NinjaHoldings (1)
 - Northwaysports (1)
 - OneMain Financial (1)
 - Pattern (1)

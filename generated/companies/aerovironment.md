@@ -8,6 +8,7 @@
 |---|---|---|---|---|---|---|---|
 | AeroVironment | [Autonomy & Robotics Engineer Intern](https://go.vansh.nyc/G2) | Germantown, MD +13 | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | AeroVironment | [Autonomy & Robotics Engineer Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556) | Germantown, MD +13 | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
+| AeroVironment | [Cyber Intern](https://go.vansh.nyc/1KF) | Sunrise, FL | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❌ |
 | AeroVironment | [Embedded Software Engineer Intern](https://go.vansh.nyc/Ly) | Dayton, OH +15 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | AeroVironment | [Embedded Software Engineer Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388) | Dayton, OH +15 | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | AeroVironment | [Machine Learning Engineering Intern](https://go.vansh.nyc/cz) | Centreville, VA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❌ |

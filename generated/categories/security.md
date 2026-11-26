@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**298** tracked · **184** open now
+**302** tracked · **188** open now
 
 ## Current openings
 
@@ -43,6 +43,7 @@
 | [CAE](generated/companies/cae.md) | [Cybersecurity Integration Specialist Intern](https://go.vansh.nyc/SA) | Montreal | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | [Caesars Entertainment](generated/companies/caesars-entertainment.md) | [IAM Cybersecurity Intern](https://go.vansh.nyc/1ES) | Las Vegas, NV | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Calamos Investments](generated/companies/calamos-investments.md) | [Information Security Intern](https://go.vansh.nyc/1FV) | Naperville, IL | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
+| [Capital Blue Cross](generated/companies/capital-blue-cross.md) | [Cybersecurity Intern](https://go.vansh.nyc/1KD) | Harrisburg, PA | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern - Security](https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Engineer--Security----Intern--Winter-2027-_R031926) | Atlanta, GA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Software Engineer Intern, Security](https://go.vansh.nyc/cp) | Atlanta, GA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
 | [Cisco](generated/companies/cisco.md) | [Security Engineer I Intern](https://go.vansh.nyc/1JA) | Research Triangle Park, NC | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❌ |
@@ -105,12 +106,14 @@
 | [Johns Hopkins Applied Physics Laboratory](generated/companies/johns-hopkins-applied-physics-laboratory.md) | [Military Systems Cybersecurity Engineer Intern](https://go.vansh.nyc/R7) | Laurel, MD | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Juniper Networks](generated/companies/juniper-networks.md) | [Networking & Cybersecurity Intern](https://go.vansh.nyc/1HU) | San Jose, CA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | [Juniper Networks](generated/companies/juniper-networks.md) | [Networking & Cybersecurity Intern](https://go.vansh.nyc/1HT) | Westford, MA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
+| [Kiewit](generated/companies/kiewit.md) | [Cloud Security Intern, Technology Group](https://go.vansh.nyc/1KC) | La Vista, NE | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | [Kiewit](generated/companies/kiewit.md) | [Cloud Security Intern, Technology Group](https://go.vansh.nyc/1Il) | Omaha, NE | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [L3Harris Technologies](generated/companies/l3harris-technologies.md) | [Information Security Systems Engineer Intern](https://go.vansh.nyc/XU) | Salt Lake City, UT | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❌ |
 | [Lawrence Livermore National Laboratory (LLNL)](generated/companies/lawrence-livermore-national-laboratory-llnl.md) | [Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure](https://go.vansh.nyc/1DP) | Livermore, CA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [Leidos](generated/companies/leidos.md) | [Cybersecurity Intern](https://go.vansh.nyc/1AO) | Fort Belvoir, VA | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❌ |
 | [LLNL](generated/companies/llnl.md) | [Cybersecurity Intern, Cyber and Critical Infrastructure Summer Institute](https://go.vansh.nyc/al) | Livermore, CA | Onsite | 2026-10-16 | Rolling | 🟢 Open | ❔ |
 | [LLNL](generated/companies/llnl.md) | [Cybersecurity Undergraduate Intern, Cyber and Critical Infrastructure](https://go.vansh.nyc/1fR) | Livermore, CA | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
+| [Lockheed Martin](generated/companies/lockheed-martin.md) | [FPGA Engineer Intern, Security Focus](https://go.vansh.nyc/1Ke) | Owego, NY | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❌ |
 | [LPL Financial Holdings](generated/companies/lpl-financial-holdings.md) | [Cybersecurity Analyst Intern](https://go.vansh.nyc/QQ) | Fort Mill, SC +2 | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Lucid Motors](generated/companies/lucid-motors.md) | [Product Security Engineering Intern](https://go.vansh.nyc/1DW) | Newark, CA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [Manitowoc](generated/companies/manitowoc.md) | [Cybersecurity Intern](https://go.vansh.nyc/Vt) | Shady Grove, PA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
@@ -139,6 +142,7 @@
 | [Navy Federal](generated/companies/navy-federal.md) | [Security Workflow Engineer Intern](https://go.vansh.nyc/My) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [Navy Federal](generated/companies/navy-federal.md) | [Security Workflow Engineer Intern](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382) | Vienna, VA | Onsite | 2026-09-09 | Rolling | 🟢 Open | ❔ |
 | [NBCUniversal](generated/companies/nbcuniversal.md) | [Cybersecurity, Governance & Security Engineering Intern, Media Tech](https://go.vansh.nyc/1oC) | New York, NY | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
+| [NHA](generated/companies/nha.md) | [IT Security Intern](https://go.vansh.nyc/1KB) | Grand Rapids, MI | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | [Nintendo](generated/companies/nintendo.md) | [Software Engineer Intern - Platform Security](https://careers.nintendo.com/?gh_jid=4469778009) | Redmond, WA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Nintendo](generated/companies/nintendo.md) | [Software Engineer Intern, Platform Security](https://go.vansh.nyc/12o) | Redmond, WA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | [Nissan](generated/companies/nissan.md) | [Cyber Security Intern](https://go.vansh.nyc/eD) | Smyrna, TN | Onsite | 2026-10-22 | Rolling | 🟢 Open | ❔ |
@@ -334,6 +338,7 @@
 - HCSC (2)
 - Hewlett Packard Enterprise (2)
 - Juniper Networks (2)
+- Kiewit (2)
 - L3Harris Technologies (2)
 - Leidos (2)
 - LLNL (2)
@@ -373,6 +378,7 @@
 - CAE (1)
 - Caesars Entertainment (1)
 - Calamos Investments (1)
+- Capital Blue Cross (1)
 - Citizens Energy Group (1)
 - CNA Insurance (1)
 - Costco (1)
@@ -415,8 +421,8 @@
 - Jane Street (1)
 - Jobs at UHS (1)
 - Johns Hopkins APL (1)
-- Kiewit (1)
 - Lawrence Livermore National Laboratory (LLNL) (1)
+- Lockheed Martin (1)
 - LPL Financial Holdings (1)
 - Lucid Motors (1)
 - Manitowoc (1)
@@ -428,6 +434,7 @@
 - Muon Space (1)
 - National Laboratory of the Rockies (1)
 - NBCUniversal (1)
+- NHA (1)
 - Nissan (1)
 - OCC (1)
 - OneAmerica Financial (1)

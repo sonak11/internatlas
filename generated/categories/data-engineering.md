@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**249** tracked · **113** open now
+**250** tracked · **114** open now
 
 ## Current openings
 
@@ -25,6 +25,7 @@
 | [Cambridge Investment Research](generated/companies/cambridge-investment-research.md) | [Data Engineering Intern](https://go.vansh.nyc/1cj) | Phoenix, AZ +1 | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |
 | [Camping World](generated/companies/camping-world.md) | [Data Engineering Intern](https://campingworld.wd5.myworkdayjobs.com/en-US/Jobs/job/Chicago-IL/Data-Engineering-Intern_26_09297) | Chicago, IL +1 | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Canadian Solar](generated/companies/canadian-solar.md) | [Data Engineering Intern](https://go.vansh.nyc/1G8) | Kitchener | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
+| [Capital Blue Cross](generated/companies/capital-blue-cross.md) | [Data Engineering Intern](https://go.vansh.nyc/1Kv) | Harrisburg, PA | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | [CarGurus](generated/companies/cargurus.md) | [Data Analytics Engineer Intern](https://job-boards.greenhouse.io/ecjobb/jobs/8231510) | Boston, MA | Onsite | 2026-09-30 | Rolling | 🟢 Open | ❔ |
 | [CarGurus](generated/companies/cargurus.md) | [Data Analytics Engineer Intern](https://go.vansh.nyc/1xc) | Boston, MA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Citizens Financial Group](generated/companies/citizens-financial-group.md) | [Data Engineer Intern - Enterprise Technology & Security](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285) | Plano, TX +2 | Onsite | 2026-09-11 | Rolling | 🟢 Open | ❔ |
@@ -319,6 +320,7 @@
 - Cambridge Investment Research (1)
 - Camping World (1)
 - Canadian Solar (1)
+- Capital Blue Cross (1)
 - Citizens Financial Group (1)
 - Edison International (1)
 - enGen (1)

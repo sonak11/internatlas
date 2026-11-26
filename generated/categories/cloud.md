@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**206** tracked · **130** open now
+**208** tracked · **132** open now
 
 ## Current openings
 
@@ -57,6 +57,7 @@
 | [Great American Insurance Company](generated/companies/great-american-insurance-company.md) | [Cloud Data Platform Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Cloud-Data-Platform-Intern---Summer-2027_R9795) | Cincinnati, OH | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [Great American Insurance Group](generated/companies/great-american-insurance-group.md) | [Cloud Data Platform Intern](https://go.vansh.nyc/Wu) | Cincinnati, OH | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | [HeartFlow](generated/companies/heartflow.md) | [Platform Engineering Intern](https://go.vansh.nyc/1Ds) | San Francisco, CA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
+| [HII](generated/companies/hii.md) | [DevOps Engineer Intern](https://go.vansh.nyc/1KE) | Columbia, MD | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❌ |
 | [Idaho National Laboratory](generated/companies/idaho-national-laboratory.md) | [Infrastructure Data Integration & Risk-Informed Maintenance Pilot Intern](https://go.vansh.nyc/1I6) | Idaho Falls, ID | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | [Illumio](generated/companies/illumio.md) | [Engineering Intern, SRE](https://go.vansh.nyc/1pl) | Sunnyvale, CA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | [Insulet Corporation](generated/companies/insulet-corporation.md) | [DevOps Engineer Intern](https://go.vansh.nyc/JZ) | San Diego, CA | Onsite | 2026-09-23 | Rolling | 🟢 Open | ❌ |
@@ -95,6 +96,7 @@
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Software Engineer Intern, Production Infrastructure](https://go.vansh.nyc/4s) | New York, NY | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Software Engineer Intern, Production Infrastructure](https://go.vansh.nyc/4t) | Seattle, WA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Peripheral](generated/companies/peripheral.md) | [Software Engineer Intern, Infrastructure](https://go.vansh.nyc/1ri) | Toronto | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
+| [ProCogia](generated/companies/procogia.md) | [DevOps & Cloud Platform Intern](https://go.vansh.nyc/1Kh) | Vancouver | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | [PTC](generated/companies/ptc.md) | [Full-Stack Engineering Intern, Cloud Data Management (CAD)](https://go.vansh.nyc/1EX) | Boston, MA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [Punch Through Design](generated/companies/punch-through-design.md) | [Cloud Software Engineer Intern](https://go.vansh.nyc/1yY) | Minneapolis, MN | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [IT Infrastructure & Cloud Engineering Intern](https://go.vansh.nyc/Rv) | San Diego, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
@@ -266,6 +268,7 @@
 - GM Financial (1)
 - Great American Insurance Group (1)
 - HeartFlow (1)
+- HII (1)
 - Idaho National Laboratory (1)
 - Illumio (1)
 - Insulet Corporation (1)
@@ -288,6 +291,7 @@
 - Oceaneering (1)
 - Pacific Fusion (1)
 - Peripheral (1)
+- ProCogia (1)
 - PTC (1)
 - Punch Through Design (1)
 - Qualcomm (1)
