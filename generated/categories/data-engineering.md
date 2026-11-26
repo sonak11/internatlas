@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**248** tracked · **112** open now
+**249** tracked · **113** open now
 
 ## Current openings
 
@@ -85,6 +85,7 @@
 | [Piper Sandler](generated/companies/piper-sandler.md) | [Data Engineering Intern](https://go.vansh.nyc/1D8) | Minneapolis, MN | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [POET](generated/companies/poet.md) | [Data Engineer Intern](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Data-Engineering-Intern_R101787) | Sioux Falls, SD | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [POET](generated/companies/poet.md) | [Data Engineer Intern](https://go.vansh.nyc/JK) | Sioux Falls, SD | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
+| [QuEra Computing](generated/companies/quera-computing.md) | [Photonics Data Engineer Intern - Data Management](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495029008) | Boston, MA | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | [Raft Company Website](generated/companies/raft-company-website.md) | [Data Engineering Intern](https://go.vansh.nyc/1jU) | McLean, VA | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❌ |
 | [Riot Games](generated/companies/riot-games.md) | [Data Engineer Intern](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716) | Remote | Remote | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [Riot Games](generated/companies/riot-games.md) | [Data Engineering Intern](https://go.vansh.nyc/1sS) | Los Angeles, CA | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❌ |
@@ -294,6 +295,7 @@
 - Pacific Life (2)
 - Piper Sandler (2)
 - POET (2)
+- QuEra Computing (2)
 - Riot Games (2)
 - Shure (2)
 - State of Wisconsin Investment Board (2)
@@ -389,7 +391,6 @@
 - Perpay (1)
 - Post Holdings (1)
 - Principal Financial Group (1)
-- QuEra Computing (1)
 - Ragle Inc (1)
 - Simon Property Group (1)
 - Solidigm (1)

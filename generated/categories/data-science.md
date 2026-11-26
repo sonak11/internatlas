@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 📊 Data Science Internships
 
-**458** tracked · **223** open now
+**461** tracked · **226** open now
 
 ## Current openings
 
@@ -211,6 +211,9 @@
 | [TikTok](generated/companies/tiktok.md) | [Data Scientist Project Intern, TikTok Integrity and Safety](https://go.vansh.nyc/18b) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | [Tinder](generated/companies/tinder.md) | [Data Scientist Intern](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff/apply) | SF | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [TobogganLabs](generated/companies/tobogganlabs.md) | [Data Science Intern](https://go.vansh.nyc/13r) | Montreal | Onsite | 2026-10-31 | Rolling | 🟢 Open | ❔ |
+| [Tombras](generated/companies/tombras.md) | [Data Science Intern](https://ats.rippling.com/tombrascareers/jobs/fe7d5efc-78ca-4e57-8f46-2b9a1c9e8cf9) | Knoxville, TN | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
+| [Total Quality Logistics](generated/companies/total-quality-logistics.md) | [Data Science & Analytics Intern](https://tql.avature.net/en_US/TQLexternalcareers/JobDetail/19764) | Cincinnati, OH | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
+| [Total Quality Logistics](generated/companies/total-quality-logistics.md) | [Data Science & Analytics Intern](https://go.vansh.nyc/1JP) | Cincinnati, OH | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | [TransUnion](generated/companies/transunion.md) | [Data Science & Analytics Intern](https://go.vansh.nyc/1Ea) | Chicago, IL | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [TransUnion](generated/companies/transunion.md) | [Data Science and Analytics Intern](https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450) | Chicago, IL | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [TWG Global](generated/companies/twg-global.md) | [Data Science Intern - MAQR](https://apply.workable.com/twgai/j/AC536E5EE2/apply) | Santa Monica, CA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
@@ -551,6 +554,7 @@
 - Stantec (2)
 - Stripe (2)
 - The Nuclear Company (2)
+- Total Quality Logistics (2)
 - TransUnion (2)
 - TWG Global (2)
 - UL Solutions (2)
@@ -638,6 +642,7 @@
 - The Hartford (1)
 - Tinder (1)
 - TobogganLabs (1)
+- Tombras (1)
 - WhiteWater Midstream (1)
 - Wing (1)
 - WTW (1)

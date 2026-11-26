@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | KLA | [Algorithm Engineering Intern, GPU/CUDA](https://go.vansh.nyc/8h) | Milpitas, CA | Onsite | 2026-10-12 | Rolling | 🟢 Open | ❔ |
+| KLA | [Computational & Electromagnetics Intern](https://go.vansh.nyc/1Jz) | Ann Arbor, MI | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | KLA | [Computer Vision/Machine Learning Intern](https://go.vansh.nyc/9f) | Milpitas, CA | Onsite | 2026-10-14 | Rolling | 🟢 Open | ❔ |
 | KLA | [Firmware Intern](https://go.vansh.nyc/1AJ) | Milpitas, CA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | KLA | [Research Scientist Intern - Plasma Light Source Characterization](https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033) | Ann Arbor, MI | Onsite | 2026-10-13 | Rolling | 🟢 Open | ❔ |
