@@ -7,14 +7,12 @@
   },
   "role": "Developer Intern, C++",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1JD",
+  "apply_url": "https://go.vansh.nyc/1K6",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Lexington Park",
-      "state": "MD",
       "country": "USA"
     }
   ],
@@ -26,9 +24,9 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": false,
+    "citizenship_required": true,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -40,13 +38,14 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-25",
+    "posted": "2026-11-26",
     "discovered": "2026-11-26",
     "last_verified": "2026-11-27"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:vanshb03",
+    "remote-available"
   ]
 }

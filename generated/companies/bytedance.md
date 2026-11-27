@@ -98,6 +98,8 @@
 | ByteDance | [Software Engineer Intern, Traffic Infrastructure](https://go.vansh.nyc/146) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Software Engineer Project Intern, Developer Infrastructure](https://go.vansh.nyc/14a) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Software Engineer Project Intern, Security-Data](https://go.vansh.nyc/14C) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
+| ByteDance | [Student Researcher Intern](https://jobs.bytedance.com/en/position/7623552947364317445/detail) | Seattle, WA | Onsite | 2026-06-04 | Rolling | 🟢 Open | ❔ |
+| ByteDance | [Student Researcher Intern - Seed Model - AI Foundation Model Infrastructure](https://jobs.bytedance.com/en/position/7623552847531493685/detail) | Seattle, WA | Onsite | 2026-06-04 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/14s) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure](https://go.vansh.nyc/140) | San Jose, CA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |
 | ByteDance | [Student Researcher Intern, Seed Model - AI Foundation Models Infrastructure](https://go.vansh.nyc/15E) | Seattle, WA | Onsite | 2026-11-01 | Rolling | 🟢 Open | ❔ |

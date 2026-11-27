@@ -13,7 +13,6 @@
 | Aerospace Corporation | [Embedded Engineering Intern](https://go.vansh.nyc/OQ) | USA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❌ |
 | Aerospace Corporation | [Hardware Security Engineering Intern](https://go.vansh.nyc/dv) | El Segundo, CA +1 | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❌ |
 | Aerospace Corporation | [Intern Bachelors Embedded Eng](https://go.vansh.nyc/1hl) | Kanata | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
-| Aerospace Corporation | [Machine Learning Engineer Undergrad Intern](https://go.vansh.nyc/1Jh) | El Segundo, CA +1 | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❌ |
 | Aerospace Corporation | [Semiconductor Engineering Intern](https://go.vansh.nyc/Q9) | USA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❌ |
 | Aerospace Corporation | [Signal Processing and RF Engineering Intern](https://go.vansh.nyc/ee) | El Segundo, CA | Onsite | 2026-10-21 | Rolling | 🟢 Open | ❌ |
 | Aerospace Corporation | [Software AI Intern](https://go.vansh.nyc/OR) | USA | Onsite | 2026-08-28 | Rolling | 🟢 Open | ❌ |
@@ -22,6 +21,7 @@
 | Aerospace Corporation | [Cloud Solutions Engineer Intern, Site Reliability](https://go.vansh.nyc/gq) | El Segundo, CA +2 | Onsite | 2026-10-21 | Rolling | 🔴 Closed | ❌ |
 | Aerospace Corporation | [Defensive Cyber Operations Intern](https://go.vansh.nyc/h5) | El Segundo, CA | Onsite | 2026-10-23 | Rolling | 🔴 Closed | ❌ |
 | Aerospace Corporation | [Embedded Software Engineering Undergrad Intern](https://go.vansh.nyc/1J8) | El Segundo, CA | Onsite | 2026-11-24 | Rolling | 🔴 Closed | ❌ |
+| Aerospace Corporation | [Machine Learning Engineer Undergrad Intern](https://go.vansh.nyc/1Jh) | El Segundo, CA +1 | Onsite | 2026-11-24 | Rolling | 🔴 Closed | ❌ |
 | Aerospace Corporation | [Software Engineering Undergrad Intern](https://go.vansh.nyc/19W) | El Segundo, CA | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❌ |
 
 ## Related

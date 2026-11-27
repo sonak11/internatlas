@@ -1,20 +1,18 @@
 {
   "schema_version": "1.0",
-  "id": "kla-software-engineer-intern-2027-61c1d9",
+  "id": "highmark-health-network-cybersecurity-engineer-undergraduate-intern-2027",
   "company": {
-    "name": "KLA",
-    "slug": "kla"
+    "name": "Highmark Health",
+    "slug": "highmark-health"
   },
-  "role": "Software Engineer Intern",
-  "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/YS",
+  "role": "Network Cybersecurity Engineer Undergraduate Intern",
+  "category": "security",
+  "apply_url": "https://go.vansh.nyc/1Lg",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Milpitas",
-      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,8 +38,8 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-29",
-    "discovered": "2026-11-03",
+    "posted": "2026-11-20",
+    "discovered": "2026-11-27",
     "last_verified": "2026-11-27"
   },
   "status": "open",

@@ -1,18 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "mantech-developer-intern-c-2027-bd5780",
+  "id": "state-street-data-engineering-product-intern-technology-2027-c62a6f",
   "company": {
-    "name": "ManTech",
-    "slug": "mantech"
+    "name": "State Street",
+    "slug": "state-street"
   },
-  "role": "Developer Intern, C++",
-  "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1K6",
-  "season": "summer",
+  "role": "Data Engineering & Product Intern, Technology",
+  "category": "data-engineering",
+  "apply_url": "https://go.vansh.nyc/1Ld",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
+      "city": "Boston",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -24,7 +26,7 @@
   "eligibility": {
     "graduation_years": [],
     "degree_levels": [],
-    "citizenship_required": true,
+    "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "no"
   },
@@ -38,14 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-26",
-    "discovered": "2026-11-26",
+    "posted": "2026-11-19",
+    "discovered": "2026-11-27",
     "last_verified": "2026-11-27"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03",
-    "remote-available"
+    "src:vanshb03"
   ]
 }

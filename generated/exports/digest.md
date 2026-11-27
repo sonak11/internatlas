@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-27
 
-## 🆕 New this week (521)
+## 🆕 New this week (526)
 
 - **ABB** — [Software Intern](https://go.vansh.nyc/1Kd) · software-engineering · —
 - **AFL** — [Web Design/Development Intern](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80) · design · —
@@ -174,11 +174,13 @@
 - **Garmin** — [Software Engineer Intern, Web/Mobile](https://go.vansh.nyc/1Fa) · software-engineering · —
 - **Garmin** — [Software Engineering Intern](https://go.vansh.nyc/1GZ) · software-engineering · —
 - **Garmin** — [Software Engineering Intern](https://go.vansh.nyc/1GY) · software-engineering · —
+- **Genentech** — [Community College Program Intern, Informatics](https://go.vansh.nyc/1Li) · software-engineering · —
 - **Genentech** — [Service Data and Analytics Intern](https://go.vansh.nyc/1L0) · software-engineering · —
 - **Genentech** — [Software Engineer Intern, Robotics Lab Automation](https://go.vansh.nyc/1KV) · software-engineering · —
 - **General Dynamics Information Technology** — [AI and Estimation Intern - Interns](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-AI-and-Estimation-Intern_RQ232867) · ai · —
 - **General Motors** — [Software Verification Engineer Intern, AV/AI Platform](https://go.vansh.nyc/1Ir) · ai · —
 - **Genworth** — [Data Analytics Intern](https://go.vansh.nyc/1Jc) · software-engineering · —
+- **GlobalFoundries** — [AI-Enabled PDK Development Intern](https://go.vansh.nyc/1Lh) · ai · —
 - **GlobalFoundries** — [AI/ML Analytics Intern, Digital Manufacturing](https://go.vansh.nyc/1EA) · machine-learning · —
 - **GrayMatter Robotics** — [Robotics Engineering Intern: Systems & Applications](https://jobs.ashbyhq.com/graymatter-robotics/347cbb66-c542-4c41-bdfc-3f9fa242b20b/application?embed=true) · software-engineering · —
 - **Great Southern Wood Preserving** — [Engineering Intern - Data Analyst](https://recruiting2.ultipro.com/GRE1058GRES/JobBoard/45bb5d77-f6b4-402a-ab83-43464bee8ea0/OpportunityDetail?opportunityId=63980dd2-ba31-4338-b0a6-2556736485a1) · software-engineering · —
@@ -187,6 +189,7 @@
 - **HII** — [DevOps Engineer Intern](https://go.vansh.nyc/1KE) · cloud · —
 - **Harvard Companies** — [AI Engineering Intern](https://go.vansh.nyc/1JB) · ai · —
 - **Hewlett Packard Enterprise** — [Cloud Security Engagement Intern](https://go.vansh.nyc/1IP) · security · —
+- **Highmark Health** — [Network Cybersecurity Engineer Undergraduate Intern](https://go.vansh.nyc/1Lg) · security · —
 - **Hitachi** — [Data and Business Intelligence Analyst Intern](https://go.vansh.nyc/1Ia) · software-engineering · —
 - **Honeywell Aerospace** — [AI Software Engineer Intern](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119899) · ai · —
 - **Honeywell Aerospace** — [AI Software Engineer Intern](https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/119880) · ai · —
@@ -301,7 +304,6 @@
 - **ManTech** — [C++ Developer Intern](https://mantech.avature.net/en_US/careers/JobDetail/67268) · software-engineering · —
 - **ManTech** — [CNO Developer Intern](https://go.vansh.nyc/1H5) · software-engineering · —
 - **ManTech** — [Developer Intern, C++](https://go.vansh.nyc/1K6) · software-engineering · —
-- **ManTech** — [Developer Intern, C++](https://go.vansh.nyc/1JD) · software-engineering · —
 - **Marias Technology** — [Software Developer Intern](https://go.vansh.nyc/1E4) · software-engineering · —
 - **Marias Technology** — [Software Tester Intern](https://go.vansh.nyc/1Ei) · software-engineering · —
 - **Mawer Investment Management** — [AI Engineer Student Intern](https://recruiting.ultipro.ca/MAW5000MAIM/JobBoard/3f78f9b9-d39a-d361-1db7-d1d2ab5df39b/OpportunityDetail?opportunityId=09d2702a-9b47-440c-be30-f0a46e32a199) · ai · —
@@ -435,6 +437,8 @@
 - **Shield AI** — [Operational Analysis Intern - Operational Analysis](https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a/application?embed=true) · software-engineering · —
 - **Shield AI** — [Operational Analysis Intern - Operational Analysis](https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/683deced-ddc9-4857-8783-323994263f2a/application?embed=true) · software-engineering · —
 - **Shield AI** — [Software Engineering Intern](https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503/application?embed=true) · software-engineering · —
+- **Siemens** — [Agentic Analytics & Data Intern](https://go.vansh.nyc/1Ll) · software-engineering · —
+- **Siemens** — [Software Engineer Intern](https://go.vansh.nyc/1Lk) · software-engineering · —
 - **Sierra Space** — [Electrical Engineering Intern - Electrical Engineering](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Electrical-Engineering_R26563-1) · software-engineering · —
 - **Sierra Space** — [Software Engineering Intern](https://go.vansh.nyc/1EY) · software-engineering · —
 - **Sierra Space** — [Software Engineering Intern - Software Engineering](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1) · software-engineering · —
@@ -496,6 +500,7 @@
 - **Veeva Systems** — [Software Engineer Intern](https://go.vansh.nyc/1JM) · software-engineering · —
 - **Veolia** — [Manufacturing Software Engineer Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000163377969) · software-engineering · —
 - **Verisk** — [Integration Analyst Intern](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4213) · software-engineering · —
+- **Vertex Pharmaceuticals** — [Digital Pathology and AI Validation Intern](https://go.vansh.nyc/1Lj) · ai · —
 - **ViaSat** — [Embedded Software Engineer Intern](https://go.vansh.nyc/1Hz) · embedded · —
 - **ViaSat** — [Embedded Software Engineer Intern](https://careers.viasat.com/jobs/10478?icims=1&lang=en-us) · embedded · —
 - **ViaSat** — [Embedded Software Engineer Intern, Government](https://go.vansh.nyc/1Kl) · embedded · —

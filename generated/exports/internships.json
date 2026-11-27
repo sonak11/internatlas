@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-27",
-  "count": 11636,
+  "count": 11647,
   "internships": [
     {
       "schema_version": "1.0",
@@ -8369,7 +8369,7 @@
         "discovered": "2026-11-25",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -17327,7 +17327,7 @@
         "discovered": "2026-10-30",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -37758,7 +37758,7 @@
         "discovered": "2026-11-18",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -51959,7 +51959,7 @@
         "discovered": "2026-10-24",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -52170,7 +52170,7 @@
         "discovered": "2026-11-13",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -52222,7 +52222,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -52536,7 +52536,7 @@
         "discovered": "2026-10-23",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -85173,7 +85173,7 @@
         "discovered": "2026-11-11",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -92547,7 +92547,7 @@
         "discovered": "2026-10-28",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -99183,6 +99183,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "bytedance-student-researcher-intern-2027",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Student Researcher Intern",
+      "category": "research",
+      "apply_url": "https://jobs.bytedance.com/en/position/7623552947364317445/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-04",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "bytedance-student-researcher-intern-seed-model-ai-foundation-model-inf-2027-175de8",
       "company": {
         "name": "ByteDance",
@@ -99231,6 +99283,60 @@
       "tags": [
         "auto-ingested",
         "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "bytedance-student-researcher-intern-seed-model-ai-foundation-model-inf-2027-362a89",
+      "company": {
+        "name": "ByteDance",
+        "slug": "bytedance"
+      },
+      "role": "Student Researcher Intern - Seed Model - AI Foundation Model Infrastructure",
+      "category": "ai",
+      "apply_url": "https://jobs.bytedance.com/en/position/7623552847531493685/detail",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Seattle",
+          "state": "WA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [
+          "phd"
+        ],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-06-04",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:simplify"
       ]
     },
     {
@@ -100866,7 +100972,7 @@
         "discovered": "2026-11-13",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -105430,7 +105536,7 @@
         "discovered": "2026-11-19",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -105740,7 +105846,7 @@
         "discovered": "2026-11-13",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -124187,7 +124293,7 @@
         "discovered": "2026-11-20",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -125278,7 +125384,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -125380,7 +125486,7 @@
         "discovered": "2026-08-10",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -125434,7 +125540,7 @@
         "discovered": "2026-07-17",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -126214,7 +126320,7 @@
         "discovered": "2026-10-25",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -132038,7 +132144,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -132090,7 +132196,7 @@
         "discovered": "2026-11-03",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -132457,7 +132563,7 @@
         "discovered": "2026-11-26",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -145778,7 +145884,7 @@
         "discovered": "2026-11-18",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -163372,7 +163478,7 @@
         "discovered": "2026-11-18",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -172989,7 +173095,7 @@
         "discovered": "2026-11-05",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -176675,7 +176781,7 @@
         "discovered": "2026-11-13",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -176781,7 +176887,7 @@
         "discovered": "2026-11-12",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -193574,7 +193680,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -196361,7 +196467,7 @@
         "discovered": "2026-11-17",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -196413,7 +196519,7 @@
         "discovered": "2026-11-17",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -208309,6 +208415,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "genentech-community-college-program-intern-informatics-2027",
+      "company": {
+        "name": "Genentech",
+        "slug": "genentech"
+      },
+      "role": "Community College Program Intern, Informatics",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1Li",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "South San Francisco",
+          "state": "CA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-21",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "genentech-data-science-machine-learning-intern-agentic-ai-discovery-pr-2027",
       "company": {
         "name": "Genentech",
@@ -209592,7 +209750,7 @@
         "discovered": "2026-10-29",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -220097,6 +220255,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "globalfoundries-ai-enabled-pdk-development-intern-2027",
+      "company": {
+        "name": "GlobalFoundries",
+        "slug": "globalfoundries"
+      },
+      "role": "AI-Enabled PDK Development Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1Lh",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Malta",
+          "state": "NY",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-21",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "globalfoundries-ai-ml-analytics-intern-digital-manufacturing-2027",
       "company": {
         "name": "GlobalFoundries",
@@ -220306,7 +220516,7 @@
         "discovered": "2026-11-11",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -239990,7 +240200,7 @@
         "discovered": "2026-10-29",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -243368,6 +243578,56 @@
     },
     {
       "schema_version": "1.0",
+      "id": "highmark-health-network-cybersecurity-engineer-undergraduate-intern-2027",
+      "company": {
+        "name": "Highmark Health",
+        "slug": "highmark-health"
+      },
+      "role": "Network Cybersecurity Engineer Undergraduate Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/1Lg",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-20",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "highmark-health-population-health-analytics-graduate-intern-2027",
       "company": {
         "name": "Highmark Health",
@@ -245925,7 +246185,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -245977,7 +246237,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -250153,59 +250413,6 @@
     },
     {
       "schema_version": "1.0",
-      "id": "hp-inc-software-quality-assurance-intern-2027-99d1df",
-      "company": {
-        "name": "HP Inc.",
-        "slug": "hp-inc"
-      },
-      "role": "Software Quality Assurance Intern",
-      "category": "software-engineering",
-      "apply_url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "SF",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [
-          "masters"
-        ],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-28",
-        "discovered": "2026-10-29",
-        "last_verified": "2026-11-27"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
       "id": "hp-inc-software-quality-assurance-intern-2027-f17d13",
       "company": {
         "name": "HP Inc.",
@@ -250266,14 +250473,13 @@
       },
       "role": "Software Quality Assurance Intern",
       "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/YA",
+      "apply_url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "San Francisco",
-          "state": "CA",
+          "city": "SF",
           "country": "USA"
         }
       ],
@@ -250284,7 +250490,9 @@
       },
       "eligibility": {
         "graduation_years": [],
-        "degree_levels": [],
+        "degree_levels": [
+          "masters"
+        ],
         "citizenship_required": false,
         "security_clearance_required": false,
         "visa_sponsorship": "unknown"
@@ -250306,7 +250514,7 @@
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -250362,7 +250570,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "hp-inc-software-systems-intern-iq-2027-dfe9c1",
+      "id": "hp-inc-software-systems-intern-iq-2027",
       "company": {
         "name": "HP Inc.",
         "slug": "hp-inc"
@@ -250409,58 +250617,6 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "hp-inc-software-systems-intern-iq-2027",
-      "company": {
-        "name": "HP Inc.",
-        "slug": "hp-inc"
-      },
-      "role": "Software Systems Intern, IQ",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/Yz",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "San Francisco",
-          "state": "CA",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-28",
-        "discovered": "2026-10-29",
-        "last_verified": "2026-11-27"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
       ]
     },
     {
@@ -251345,7 +251501,7 @@
         "discovered": "2026-11-12",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -284050,7 +284206,7 @@
         "discovered": "2026-11-24",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -294809,7 +294965,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -295181,7 +295337,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "kla-software-engineer-intern-2027-61c1d9",
+      "id": "kla-software-engineer-intern-2027",
       "company": {
         "name": "KLA",
         "slug": "kla"
@@ -295222,58 +295378,6 @@
       },
       "dates": {
         "posted": "2026-10-29",
-        "discovered": "2026-11-03",
-        "last_verified": "2026-11-27"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "kla-software-engineer-intern-2027",
-      "company": {
-        "name": "KLA",
-        "slug": "kla"
-      },
-      "role": "Software Engineer Intern",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/19L",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Totowa",
-          "state": "NJ",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-11-02",
         "discovered": "2026-10-29",
         "last_verified": "2026-11-27"
       },
@@ -295589,7 +295693,7 @@
         "discovered": "2026-11-08",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -306685,7 +306789,7 @@
         "discovered": "2026-10-22",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -308440,7 +308544,7 @@
         "discovered": "2026-11-05",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -308492,7 +308596,7 @@
         "discovered": "2026-11-05",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -308544,7 +308648,7 @@
         "discovered": "2026-11-06",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -318115,7 +318219,7 @@
         "discovered": "2026-11-26",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -318174,7 +318278,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "mantech-developer-intern-c-2027-bd5780",
+      "id": "mantech-developer-intern-c-2027",
       "company": {
         "name": "ManTech",
         "slug": "mantech"
@@ -318221,58 +318325,6 @@
         "auto-ingested",
         "src:vanshb03",
         "remote-available"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "mantech-developer-intern-c-2027",
-      "company": {
-        "name": "ManTech",
-        "slug": "mantech"
-      },
-      "role": "Developer Intern, C++",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/1JD",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Lexington Park",
-          "state": "MD",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-11-25",
-        "discovered": "2026-11-26",
-        "last_verified": "2026-11-27"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:vanshb03"
       ]
     },
     {
@@ -342467,7 +342519,7 @@
         "discovered": "2026-11-01",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -352850,7 +352902,7 @@
         "discovered": "2026-10-29",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -353162,7 +353214,7 @@
         "discovered": "2026-10-29",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -353370,7 +353422,7 @@
         "discovered": "2026-10-27",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -374219,7 +374271,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -377566,7 +377618,7 @@
         "discovered": "2026-11-10",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -385915,7 +385967,7 @@
         "discovered": "2026-11-06",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -429858,7 +429910,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -448948,7 +449000,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -449517,7 +449569,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -452171,7 +452223,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -453452,7 +453504,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -487944,6 +487996,56 @@
     },
     {
       "schema_version": "1.0",
+      "id": "siemens-agentic-analytics-data-intern-2027",
+      "company": {
+        "name": "Siemens",
+        "slug": "siemens"
+      },
+      "role": "Agentic Analytics & Data Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1Ll",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-26",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "siemens-python-backend-developer-intern-energy-flexibility-platform-2027",
       "company": {
         "name": "Siemens",
@@ -488044,6 +488146,56 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "siemens-software-engineer-intern-2027",
+      "company": {
+        "name": "Siemens",
+        "slug": "siemens"
+      },
+      "role": "Software Engineer Intern",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1Lk",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-26",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -499035,7 +499187,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -507040,6 +507192,215 @@
     },
     {
       "schema_version": "1.0",
+      "id": "state-street-agentic-ai-engineering-intern-technology-2027-82112a",
+      "company": {
+        "name": "State Street",
+        "slug": "state-street"
+      },
+      "role": "Agentic AI Engineering Intern, Technology",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1Lp",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Burlington",
+          "state": "MA",
+          "country": "USA"
+        },
+        {
+          "city": "Quincy",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "state-street-agentic-ai-engineering-intern-technology-2027",
+      "company": {
+        "name": "State Street",
+        "slug": "state-street"
+      },
+      "role": "Agentic AI Engineering Intern, Technology",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1Le",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "state-street-ai-engineering-intern-2027",
+      "company": {
+        "name": "State Street",
+        "slug": "state-street"
+      },
+      "role": "AI Engineering Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1Lb",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Cambridge",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "state-street-ai-security-cybersecurity-intern-technology-2027",
+      "company": {
+        "name": "State Street",
+        "slug": "state-street"
+      },
+      "role": "AI Security & Cybersecurity Intern, Technology",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1Lf",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "state-street-cyber-security-operations-center-analyst-intern-2027",
       "company": {
         "name": "State Street",
@@ -507085,6 +507446,110 @@
         "last_verified": "2026-11-27"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "state-street-data-engineering-product-intern-technology-2027-c62a6f",
+      "company": {
+        "name": "State Street",
+        "slug": "state-street"
+      },
+      "role": "Data Engineering & Product Intern, Technology",
+      "category": "data-engineering",
+      "apply_url": "https://go.vansh.nyc/1Ld",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "state-street-data-engineering-product-intern-technology-2027",
+      "company": {
+        "name": "State Street",
+        "slug": "state-street"
+      },
+      "role": "Data Engineering & Product Intern, Technology",
+      "category": "data-engineering",
+      "apply_url": "https://go.vansh.nyc/1Lc",
+      "season": "spring",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Quincy",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -507186,6 +507651,58 @@
       "dates": {
         "posted": "2026-11-17",
         "discovered": "2026-11-18",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "state-street-software-engineer-intern-integration-services-2027",
+      "company": {
+        "name": "State Street",
+        "slug": "state-street"
+      },
+      "role": "Software Engineer Intern, Integration Services",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1La",
+      "season": "winter",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Quincy",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-18",
+        "discovered": "2026-11-27",
         "last_verified": "2026-11-27"
       },
       "status": "open",
@@ -517691,7 +518208,7 @@
         "discovered": "2026-10-16",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -518010,7 +518527,7 @@
         "discovered": "2026-11-18",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -542563,7 +543080,7 @@
         "discovered": "2026-10-24",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -548704,7 +549221,7 @@
         "discovered": "2026-10-21",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -569745,7 +570262,7 @@
         "discovered": "2026-10-26",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -577793,7 +578310,7 @@
         "discovered": "2026-10-24",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -594578,6 +595095,58 @@
       "tags": [
         "auto-ingested",
         "src:simplify"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "vertex-pharmaceuticals-digital-pathology-and-ai-validation-intern-2027",
+      "company": {
+        "name": "Vertex Pharmaceuticals",
+        "slug": "vertex-pharmaceuticals"
+      },
+      "role": "Digital Pathology and AI Validation Intern",
+      "category": "ai",
+      "apply_url": "https://go.vansh.nyc/1Lj",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Boston",
+          "state": "MA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "no"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-25",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
       ]
     },
     {
@@ -614808,7 +615377,7 @@
         "discovered": "2026-11-22",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -616543,7 +617112,7 @@
         "discovered": "2026-11-13",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"

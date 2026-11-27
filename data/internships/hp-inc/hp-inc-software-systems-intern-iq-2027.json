@@ -5,16 +5,15 @@
     "name": "HP Inc.",
     "slug": "hp-inc"
   },
-  "role": "Software Systems Intern, IQ",
+  "role": "Software Systems Intern - IQ",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/Yz",
+  "apply_url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/Software-Systems-Intern_UNI4801",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Francisco",
-      "state": "CA",
+      "city": "SF",
       "country": "USA"
     }
   ],
@@ -47,6 +46,6 @@
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

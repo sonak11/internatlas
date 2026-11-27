@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "hp-inc-software-quality-assurance-intern-2027-99d1df",
+  "id": "vertex-pharmaceuticals-digital-pathology-and-ai-validation-intern-2027",
   "company": {
-    "name": "HP Inc.",
-    "slug": "hp-inc"
+    "name": "Vertex Pharmaceuticals",
+    "slug": "vertex-pharmaceuticals"
   },
-  "role": "Software Quality Assurance Intern",
-  "category": "software-engineering",
-  "apply_url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
+  "role": "Digital Pathology and AI Validation Intern",
+  "category": "ai",
+  "apply_url": "https://go.vansh.nyc/1Lj",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "SF",
+      "city": "Boston",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -24,12 +25,10 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [
-      "masters"
-    ],
+    "degree_levels": [],
     "citizenship_required": false,
     "security_clearance_required": false,
-    "visa_sponsorship": "unknown"
+    "visa_sponsorship": "no"
   },
   "interview": {},
   "tech": {
@@ -41,13 +40,13 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-28",
-    "discovered": "2026-10-29",
+    "posted": "2026-11-25",
+    "discovered": "2026-11-27",
     "last_verified": "2026-11-27"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:simplify"
+    "src:vanshb03"
   ]
 }
