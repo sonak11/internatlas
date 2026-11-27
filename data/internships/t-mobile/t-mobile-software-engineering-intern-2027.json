@@ -7,14 +7,12 @@
   },
   "role": "Software Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1kt",
+  "apply_url": "https://go.vansh.nyc/1Lq",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Overland Park",
-      "state": "KS",
       "country": "USA"
     }
   ],
@@ -40,11 +38,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-06",
+    "posted": "2026-11-25",
     "discovered": "2026-11-02",
-    "last_verified": "2026-11-13"
+    "last_verified": "2026-11-27"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:vanshb03"

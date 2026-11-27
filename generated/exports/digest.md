@@ -1,6 +1,6 @@
 # 📬 InternAtlas Weekly Digest — 2026-11-27
 
-## 🆕 New this week (526)
+## 🆕 New this week (530)
 
 - **ABB** — [Software Intern](https://go.vansh.nyc/1Kd) · software-engineering · —
 - **AFL** — [Web Design/Development Intern](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f8bbce67-bdc3-4356-8e17-d3b6b4e71a80) · design · —
@@ -114,6 +114,7 @@
 - **Cisco** — [AI Researcher II Intern](https://go.vansh.nyc/1Eb) · ai · —
 - **Cisco** — [Data Science Analyst II Intern](https://go.vansh.nyc/1F1) · data-science · —
 - **Cisco** — [Security Engineer I Intern](https://go.vansh.nyc/1JA) · security · —
+- **Clera** — [Product Engineer Intern, Mobile](https://go.vansh.nyc/1Lw) · software-engineering · —
 - **Cloudflare** — [People Operations Intern (2026/2027 Batch Only)](https://boards.greenhouse.io/cloudflare/jobs/8392302?gh_jid=8392302) · software-engineering · —
 - **CodeRabbit** — [Software Engineer Intern](https://go.vansh.nyc/1JE) · software-engineering · —
 - **Coinbase** — [Security Engineer Intern](https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869) · security · —
@@ -398,6 +399,7 @@
 - **Renesas Electronics** — [System Verification Engineer Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000162824903) · software-engineering · —
 - **Resultant** — [Data & Analytics Consultant Intern](https://jobs.smartrecruiters.com/Resultant/744000162782371) · software-engineering · —
 - **Revvity** — [Software Engineering Intern, In Vivo Imaging](https://go.vansh.nyc/1KR) · software-engineering · —
+- **Richmond National** — [Cyber Security Intern](https://go.vansh.nyc/1Lu) · security · —
 - **Rivian** — [Software Engineering Intern, AI Platform, Autonomy](https://go.vansh.nyc/1F3) · ai · —
 - **Rockwell Automation** — [Content IDE Software Development Intern](https://go.vansh.nyc/1Hm) · software-engineering · —
 - **Rockwell Automation** — [Firmware Engineering Intern](https://go.vansh.nyc/1Ey) · embedded · —
@@ -468,6 +470,7 @@
 - **Synopsys** — [Technical-Engineering Intern](https://synopsys.avature.net/careers/JobDetail/19725) · software-engineering · —
 - **Systems Planning and Analysis** — [Integrated Analytics Intern](https://spa.jibeapply.com/jobs/23729?icims=1&lang=en-us) · software-engineering · —
 - **T-Mobile** — [Site Reliability Engineering (SRE) Intern, Database Platform Engineering](https://go.vansh.nyc/1Ik) · cloud · —
+- **T-Mobile** — [Software Engineering Intern](https://go.vansh.nyc/1Lq) · software-engineering · —
 - **TASI Measurement** — [Embedded Engineer Intern](https://go.vansh.nyc/1Fr) · embedded · —
 - **TCOM** — [Software Engineer Intern](https://go.vansh.nyc/1FB) · software-engineering · —
 - **TMX Group** — [DevOps Analyst Intern](https://go.vansh.nyc/1FF) · cloud · —
@@ -475,6 +478,7 @@
 - **Tesla** — [Robotics Audio DSP Engineer Intern](https://www.tesla.com/careers/search/job/291227) · software-engineering · —
 - **Tesla** — [Software Engineer Intern - SI Hardware Architecture Simulation](https://www.tesla.com/careers/search/job/290756) · hardware · —
 - **The Allen Institute for AI** — [Research Intern - Climate Modeling](https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052) · research · —
+- **The Home Depot** — [Full Stack Software Developer Intern](https://go.vansh.nyc/1Lv) · software-engineering · —
 - **The SilverLogic** — [AI Engineer/Consultant Intern](https://go.vansh.nyc/1EE) · ai · —
 - **The Tech Interactive** — [STEM Impact & Data Reporting Intern](https://ats.rippling.com/the-tech/jobs/1681a3cc-c0d0-4161-8fcc-6edac78f0475) · software-engineering · —
 - **The Toro Company** — [Data Science Intern](https://go.vansh.nyc/1L5) · data-science · —

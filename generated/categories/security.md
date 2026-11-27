@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**304** tracked · **180** open now
+**307** tracked · **183** open now
 
 ## Current openings
 
@@ -71,6 +71,8 @@
 | [GCM Grosvenor](generated/companies/gcm-grosvenor.md) | [Cybersecurity Intern](https://go.vansh.nyc/10U) | Chicago, IL | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [General Dynamics Mission Systems, Inc.](generated/companies/general-dynamics-mission-systems-inc.md) | [Systems Intern, Cybersecurity and Linux Administration](https://go.vansh.nyc/1rI) | San Antonio, TX | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❌ |
 | [General Matter](generated/companies/general-matter.md) | [Information Security Engineer Intern](https://go.vansh.nyc/9J) | Los Angeles, CA | Onsite | 2026-10-15 | Rolling | 🟢 Open | ❔ |
+| [German American Bank](generated/companies/german-american-bank.md) | [Information Security Intern](https://go.vansh.nyc/1Lt) | Whitehall, OH | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
+| [German American Bank](generated/companies/german-american-bank.md) | [Information Security Intern](https://go.vansh.nyc/1Ls) | Jasper, IN +1 | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [Green Bay Packaging](generated/companies/green-bay-packaging.md) | [Cybersecurity Intern](https://go.vansh.nyc/1xs) | Green Bay, WI | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [HCSC](generated/companies/hcsc.md) | [Cybersecurity Operations Intern](https://go.vansh.nyc/11Z) | Chicago, IL | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Hewlett Packard Enterprise](generated/companies/hewlett-packard-enterprise.md) | [Cloud Security Engagement Intern](https://go.vansh.nyc/1IP) | Spring, TX | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
@@ -156,6 +158,7 @@
 | [PennState University](generated/companies/pennstate-university.md) | [Cyber Security Engineer Intern](https://go.vansh.nyc/ON) | University Park, PA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❌ |
 | [Qualcomm](generated/companies/qualcomm.md) | [Security Engineering Intern, Product, Systems, Cyber](https://go.vansh.nyc/Rt) | San Diego, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
 | [Qube Research and Technologies](generated/companies/qube-research-and-technologies.md) | [Security Engineer Intern](https://go.vansh.nyc/QJ) | New York, NY | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| [Richmond National](generated/companies/richmond-national.md) | [Cyber Security Intern](https://go.vansh.nyc/1Lu) | Glen Allen, VA | Onsite | 2026-11-26 | Rolling | 🟢 Open | ❔ |
 | [Rivian](generated/companies/rivian.md) | [Cybersecurity Intern](https://go.vansh.nyc/Hk) | Palo Alto, CA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❌ |
 | [Rockefeller Capital Management](generated/companies/rockefeller-capital-management.md) | [Analyst Intern, Information Security](https://go.vansh.nyc/1mv) | New York, NY | Onsite | 2026-11-07 | Rolling | 🟢 Open | ❔ |
 | [Salesforce](generated/companies/salesforce.md) | [Software Engineer Intern, Security/Government](https://go.vansh.nyc/bA) | San Francisco, CA +1 | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❌ |
@@ -335,6 +338,7 @@
 - Cisco (2)
 - Clyde Companies (2)
 - Coinbase (2)
+- German American Bank (2)
 - HCSC (2)
 - Hewlett Packard Enterprise (2)
 - Juniper Networks (2)
@@ -448,6 +452,7 @@
 - PennState University (1)
 - Qualcomm (1)
 - Qube Research and Technologies (1)
+- Richmond National (1)
 - Rivian (1)
 - Rockefeller Capital Management (1)
 - Salesforce (1)

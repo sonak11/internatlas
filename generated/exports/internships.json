@@ -1,6 +1,6 @@
 {
   "generated": "2026-11-27",
-  "count": 11647,
+  "count": 11650,
   "internships": [
     {
       "schema_version": "1.0",
@@ -108271,7 +108271,7 @@
         "discovered": "2026-11-13",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127262,7 +127262,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -127515,7 +127515,7 @@
         "discovered": "2026-09-11",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -128556,6 +128556,56 @@
         "last_verified": "2026-11-25"
       },
       "status": "closed",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "clera-product-engineer-intern-mobile-2027",
+      "company": {
+        "name": "Clera",
+        "slug": "clera"
+      },
+      "role": "Product Engineer Intern, Mobile",
+      "category": "software-engineering",
+      "apply_url": "https://go.vansh.nyc/1Lw",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-26",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -219212,6 +219262,115 @@
     },
     {
       "schema_version": "1.0",
+      "id": "german-american-bank-information-security-intern-2027-17120e",
+      "company": {
+        "name": "German American Bank",
+        "slug": "german-american-bank"
+      },
+      "role": "Information Security Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/1Lt",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Whitehall",
+          "state": "OH",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
+      "id": "german-american-bank-information-security-intern-2027",
+      "company": {
+        "name": "German American Bank",
+        "slug": "german-american-bank"
+      },
+      "role": "Information Security Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/1Ls",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Jasper",
+          "state": "IN",
+          "country": "USA"
+        },
+        {
+          "city": "Evansville",
+          "state": "IN",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-19",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "gilead-sciences-research-intern-clinical-virology-ai-2027",
       "company": {
         "name": "Gilead Sciences",
@@ -237491,7 +237650,7 @@
         "discovered": "2026-11-19",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -237543,7 +237702,7 @@
         "discovered": "2026-11-19",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -284206,7 +284365,7 @@
         "discovered": "2026-11-24",
         "last_verified": "2026-11-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -359021,7 +359180,7 @@
         "discovered": "2026-11-09",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -368431,7 +368590,7 @@
     },
     {
       "schema_version": "1.0",
-      "id": "njm-insurance-group-it-data-administration-intern-2027-f718fd",
+      "id": "njm-insurance-group-it-data-administration-intern-2027",
       "company": {
         "name": "NJM Insurance Group",
         "slug": "njm-insurance-group"
@@ -368472,65 +368631,13 @@
       },
       "dates": {
         "posted": "2026-10-01",
-        "discovered": "2026-10-26",
-        "last_verified": "2026-11-27"
-      },
-      "status": "open",
-      "tags": [
-        "auto-ingested",
-        "src:simplify"
-      ]
-    },
-    {
-      "schema_version": "1.0",
-      "id": "njm-insurance-group-it-data-administration-intern-2027",
-      "company": {
-        "name": "NJM Insurance Group",
-        "slug": "njm-insurance-group"
-      },
-      "role": "IT Data Administration Intern",
-      "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/Ed",
-      "season": "summer",
-      "year": 2027,
-      "work_mode": "onsite",
-      "locations": [
-        {
-          "city": "Trenton",
-          "state": "NJ",
-          "country": "USA"
-        }
-      ],
-      "compensation": {
-        "currency": "USD",
-        "housing_stipend": false,
-        "relocation_assistance": false
-      },
-      "eligibility": {
-        "graduation_years": [],
-        "degree_levels": [],
-        "citizenship_required": false,
-        "security_clearance_required": false,
-        "visa_sponsorship": "unknown"
-      },
-      "interview": {},
-      "tech": {
-        "required_skills": [],
-        "preferred_skills": [],
-        "languages": [],
-        "frameworks": [],
-        "cloud_platforms": [],
-        "resume_keywords": []
-      },
-      "dates": {
-        "posted": "2026-10-01",
         "discovered": "2026-10-02",
         "last_verified": "2026-11-27"
       },
       "status": "open",
       "tags": [
         "auto-ingested",
-        "src:vanshb03"
+        "src:simplify"
       ]
     },
     {
@@ -438750,6 +438857,58 @@
     },
     {
       "schema_version": "1.0",
+      "id": "richmond-national-cyber-security-intern-2027",
+      "company": {
+        "name": "Richmond National",
+        "slug": "richmond-national"
+      },
+      "role": "Cyber Security Intern",
+      "category": "security",
+      "apply_url": "https://go.vansh.nyc/1Lu",
+      "season": "summer",
+      "year": 2027,
+      "work_mode": "onsite",
+      "locations": [
+        {
+          "city": "Glen Allen",
+          "state": "VA",
+          "country": "USA"
+        }
+      ],
+      "compensation": {
+        "currency": "USD",
+        "housing_stipend": false,
+        "relocation_assistance": false
+      },
+      "eligibility": {
+        "graduation_years": [],
+        "degree_levels": [],
+        "citizenship_required": false,
+        "security_clearance_required": false,
+        "visa_sponsorship": "unknown"
+      },
+      "interview": {},
+      "tech": {
+        "required_skills": [],
+        "preferred_skills": [],
+        "languages": [],
+        "frameworks": [],
+        "cloud_platforms": [],
+        "resume_keywords": []
+      },
+      "dates": {
+        "posted": "2026-11-26",
+        "discovered": "2026-11-27",
+        "last_verified": "2026-11-27"
+      },
+      "status": "open",
+      "tags": [
+        "auto-ingested",
+        "src:vanshb03"
+      ]
+    },
+    {
+      "schema_version": "1.0",
       "id": "ricoh-robotics-engineer-intern-2027",
       "company": {
         "name": "Ricoh",
@@ -444426,7 +444585,7 @@
         "discovered": "2026-08-31",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -449467,7 +449626,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -449518,7 +449677,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -449620,7 +449779,7 @@
         "discovered": "2026-11-04",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -518702,14 +518861,12 @@
       },
       "role": "Software Engineering Intern",
       "category": "software-engineering",
-      "apply_url": "https://go.vansh.nyc/1kt",
+      "apply_url": "https://go.vansh.nyc/1Lq",
       "season": "summer",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Overland Park",
-          "state": "KS",
           "country": "USA"
         }
       ],
@@ -518735,11 +518892,11 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-11-06",
+        "posted": "2026-11-25",
         "discovered": "2026-11-02",
-        "last_verified": "2026-11-13"
+        "last_verified": "2026-11-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -546075,7 +546232,7 @@
         "discovered": "2026-10-17",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"
@@ -546895,14 +547052,14 @@
       },
       "role": "Full Stack Software Developer Intern",
       "category": "software-engineering",
-      "apply_url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012",
+      "apply_url": "https://go.vansh.nyc/1Lv",
       "season": "winter",
       "year": 2027,
       "work_mode": "onsite",
       "locations": [
         {
-          "city": "Toronto",
-          "country": "ON"
+          "city": "Canada",
+          "country": "USA"
         }
       ],
       "compensation": {
@@ -546927,14 +547084,14 @@
         "resume_keywords": []
       },
       "dates": {
-        "posted": "2026-10-01",
+        "posted": "2026-11-27",
         "discovered": "2026-10-02",
-        "last_verified": "2026-10-18"
+        "last_verified": "2026-11-27"
       },
-      "status": "closed",
+      "status": "open",
       "tags": [
         "auto-ingested",
-        "src:simplify"
+        "src:vanshb03"
       ]
     },
     {
@@ -561750,7 +561907,7 @@
         "discovered": "2026-11-01",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -569250,7 +569407,7 @@
         "discovered": "2026-11-01",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:vanshb03"
@@ -581543,7 +581700,7 @@
         "discovered": "2026-09-22",
         "last_verified": "2026-11-27"
       },
-      "status": "open",
+      "status": "closed",
       "tags": [
         "auto-ingested",
         "src:simplify"

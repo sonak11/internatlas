@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Clera | [Product Engineer Intern, Mobile](https://go.vansh.nyc/1Lw) | USA | Onsite | 2026-11-26 | Rolling | 🟢 Open | ❔ |
 | Clera | [Computer Vision & Robotics Intern](https://go.vansh.nyc/aG) | San Francisco, CA | Onsite | 2026-10-17 | Rolling | 🔴 Closed | ❔ |
 | Clera | [Full-Stack Software Engineering Intern](https://go.vansh.nyc/1AN) | New York, NY | Onsite | 2026-11-17 | Rolling | 🔴 Closed | ❔ |
 
