@@ -6,10 +6,11 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Revvity | [Software Engineering Intern, In Vivo Imaging](https://go.vansh.nyc/1KR) | Morrisville, NC | Onsite | 2026-11-26 | Rolling | 🟢 Open | ❔ |
 | Revvity | [Full-Stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905) | Remote | Remote | 2026-07-15 | Rolling | 🔴 Closed | ❔ |
 | Revvity | [Full-Stack AI Developer Intern](https://go.vansh.nyc/116) | Canada | Onsite | 2026-10-30 | Rolling | 🔴 Closed | ❔ |
 | Revvity | [Product Manager Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Product-Manager-Intern_JR-044907) | Remote | Remote | 2026-07-15 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [🧭 Product](../categories/product.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🧭 Product](../categories/product.md), [💻 Software Engineering](../categories/software-engineering.md)

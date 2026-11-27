@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "sallie-mae-software-engineer-intern-2027-ae3ef6",
+  "id": "first-premier-bank-it-architecture-intern-2027",
   "company": {
-    "name": "Sallie Mae",
-    "slug": "sallie-mae"
+    "name": "First PREMIER Bank",
+    "slug": "first-premier-bank"
   },
-  "role": "Software Engineer Intern",
+  "role": "IT Architecture Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1Gx",
+  "apply_url": "https://go.vansh.nyc/1KG",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Newark",
-      "state": "DE",
+      "city": "Sioux Falls",
+      "state": "SD",
       "country": "USA"
     }
   ],
@@ -40,9 +40,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-11-18",
-    "discovered": "2026-11-23",
-    "last_verified": "2026-11-26"
+    "posted": "2026-11-25",
+    "discovered": "2026-11-27",
+    "last_verified": "2026-11-27"
   },
   "status": "open",
   "tags": [

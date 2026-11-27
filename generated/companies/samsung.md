@@ -8,8 +8,10 @@
 |---|---|---|---|---|---|---|---|
 | Samsung | [Business Intelligence & Data Analytics Intern](https://go.vansh.nyc/1lG) | Plano, TX | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | Samsung | [Care AI Data Analytic Intern](https://go.vansh.nyc/1le) | Plano, TX | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
+| Samsung | [Data Engineer Intern](https://go.vansh.nyc/1L3) | Plano, TX | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
+| Samsung | [Software Development Engineer Intern](https://go.vansh.nyc/1L4) | Mountain View, CA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | Samsung | [Research Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/5060-Station-Road-Cambridge-United-Kingdom/Research-Intern_R117158-1) | Cambridge | Onsite | 2026-07-22 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🛠 Data Engineering](../categories/data-engineering.md), [🔬 Research](../categories/research.md), [💻 Software Engineering](../categories/software-engineering.md)

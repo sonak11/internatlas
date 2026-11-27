@@ -5,17 +5,16 @@
     "name": "Synopsys",
     "slug": "synopsys"
   },
-  "role": "Technical Engineering Intern",
+  "role": "Technical-Engineering Intern",
   "category": "software-engineering",
-  "apply_url": "https://synopsys.avature.net/careers/JobDetail/19536",
+  "apply_url": "https://synopsys.avature.net/careers/JobDetail/19725",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Sunnyvale",
-      "state": "CA",
-      "country": "USA"
+      "city": "Mississauga",
+      "country": "ON"
     }
   ],
   "compensation": {
@@ -43,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-30",
+    "posted": "2026-11-27",
     "discovered": "2026-10-17",
-    "last_verified": "2026-11-04"
+    "last_verified": "2026-11-27"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

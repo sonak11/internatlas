@@ -6,7 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Saputo | [Data Engineer Intern, Enterprise Analytics](https://go.vansh.nyc/1Jd) | Mississauga | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
+| Saputo | [Data Engineer Intern, Enterprise Analytics](https://go.vansh.nyc/1Jd) | Mississauga | Onsite | 2026-11-25 | Rolling | 🔴 Closed | ❔ |
 
 ## Related
 
