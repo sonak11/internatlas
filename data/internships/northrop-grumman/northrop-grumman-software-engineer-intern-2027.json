@@ -7,13 +7,13 @@
   },
   "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://go.vansh.nyc/1mX",
+  "apply_url": "https://go.vansh.nyc/1LM",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Colorado Springs",
+      "city": "Boulder",
       "state": "CO",
       "country": "USA"
     }
@@ -44,9 +44,9 @@
   "dates": {
     "posted": "2026-10-27",
     "discovered": "2026-07-25",
-    "last_verified": "2026-11-13"
+    "last_verified": "2026-11-28"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:vanshb03"

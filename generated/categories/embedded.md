@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ⚙️ Embedded Internships
 
-**361** tracked · **184** open now
+**363** tracked · **185** open now
 
 ## Current openings
 
@@ -37,7 +37,6 @@
 | [Astranis](generated/companies/astranis.md) | [Embedded Software Developer – Network/Payload Software Intern](https://job-boards.greenhouse.io/astranis/jobs/4704571006) | SF | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | [Badger Meter](generated/companies/badger-meter.md) | [Firmware Test Engineer Intern](https://go.vansh.nyc/1hi) | Milwaukee, WI | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | [Base Power](generated/companies/base-power.md) | [Firmware Engineer Intern](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application?embed=true) | Austin, TX | Onsite | 2026-05-27 | Rolling | 🟢 Open | ❔ |
-| [CACI](generated/companies/caci.md) | [Embedded Software Development Intern](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147) | Westminster, CO | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Castelion](generated/companies/castelion.md) | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/castelioncorporation/jobs/4386047009) | Torrance, CA | Onsite | 2026-09-07 | Rolling | 🟢 Open | ❔ |
 | [Castelion](generated/companies/castelion.md) | [Embedded Software Engineer Intern](https://go.vansh.nyc/1gh) | Torrance, CA | Onsite | 2026-10-30 | Rolling | 🟢 Open | ❔ |
 | [CesiumAstro](generated/companies/cesiumastro.md) | [Embedded Software Engineer Intern](https://jobs.lever.co/CesiumAstro/96e97f22-a5b2-4e95-af84-b4f765343663/apply) | Westminster, CO | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
@@ -140,6 +139,8 @@
 | [SharkNinja](generated/companies/sharkninja.md) | [Firmware Engineering Intern, Advanced Development](https://go.vansh.nyc/1HJ) | Needham, MA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [Shure](generated/companies/shure.md) | [Embedded Software Intern](https://go.vansh.nyc/1ka) | Niles, IL | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❌ |
 | [Shure](generated/companies/shure.md) | [Embedded Software Intern](https://careersus-shure.icims.com/jobs/5018/job?mobile=true&needsRedirect=false) | Niles, IL | Onsite | 2026-09-03 | Rolling | 🟢 Open | ❔ |
+| [Signify](generated/companies/signify.md) | [Firmware Development Engineer Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Atlanta/Firmware-Development-Engineer-Intern--Cooper-Lighting-Solutions---Spring-2027_367134) | Atlanta, GA +1 | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
+| [Signify](generated/companies/signify.md) | [Firmware Development Engineer Intern](https://go.vansh.nyc/1LS) | Atlanta, GA +1 | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | [SK hynix](generated/companies/sk-hynix.md) | [Embedded Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4504499009) | San Jose, CA | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [SK hynix](generated/companies/sk-hynix.md) | [SSD Firmware Development Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4387708009) | San Jose, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | [SK Hynix Memory Solution](generated/companies/sk-hynix-memory-solution.md) | [SSD Firmware Development Engineer Intern](https://go.vansh.nyc/OS) | San Jose, CA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
@@ -219,6 +220,7 @@
 | [Axon](generated/companies/axon.md) | [Embedded Engineer Intern](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003) | Boston, MA +1 | Onsite | 2026-08-27 | Rolling | 🔴 Closed | ❔ |
 | [Boston Scientific](generated/companies/boston-scientific.md) | [R&D Firmware Engineer Intern](https://bostonscientific.eightfold.ai/careers/job/563602813547669) | Arden Hills, MN | Onsite | 2026-09-29 | Rolling | 🔴 Closed | ❔ |
 | [CACI](generated/companies/caci.md) | [Embedded Software Development Intern](https://go.vansh.nyc/1xA) | Denver, CO | Onsite | 2026-11-12 | Rolling | 🔴 Closed | ❔ |
+| [CACI](generated/companies/caci.md) | [Embedded Software Development Intern](https://caci.wd1.myworkdayjobs.com/external/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147) | Westminster, CO | Onsite | 2026-11-12 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Embedded Software Developer Intern](https://go.vansh.nyc/CD) | Ottawa | Onsite | 2026-10-15 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Embedded Software Developer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Wavelogic-Embedded-Software-Developer-Intern--Winter-2027-_R031890) | Ottawa | Onsite | 2026-10-15 | Rolling | 🔴 Closed | ❔ |
 | [Ciena](generated/companies/ciena.md) | [Embedded Software Engineer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer-Intern--4-months---September-2026-_R031232) | Ottawa | Onsite | 2026-06-23 | Rolling | 🔴 Closed | ❔ |
@@ -414,7 +416,6 @@
 - Sierra Nevada Corporation (3)
 - Advanced Energy (2)
 - AGCO (2)
-- CACI (2)
 - Castelion (2)
 - fab2 (2)
 - Gecko Robotics (2)
@@ -434,12 +435,14 @@
 - Semtech (2)
 - SharkNinja (2)
 - Shure (2)
+- Signify (2)
 - SK hynix (2)
 - Solidigm (2)
 - Stanley Black & Decker (2)
 - Terranova (2)
 - Verkada (2)
 - Vermeer (2)
+- CACI (2)
 - Cirrus Logic (2)
 - Eaton (2)
 - Entegris (2)

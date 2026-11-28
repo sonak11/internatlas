@@ -6,6 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Regeneron Pharmaceuticals | [Environment Intern - Health & Safety Training & Analytics](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Environment--Health---Safety-Training---Analytics_R53151-2) | Tarrytown, NY | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
+| Regeneron Pharmaceuticals | [Workplace Strategy & Planning Analytics Intern](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Workplace-Strategy---Planning-Analytics_R53154-1) | Tarrytown, NY | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | Regeneron Pharmaceuticals | [AI/ML & Data Engineering Intern](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-AI-ML---Data-Engineering_R52560-1) | Cambridge, MA +4 | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 | Regeneron Pharmaceuticals | [AI/ML & Data Engineering Intern](https://go.vansh.nyc/Ys) | Cambridge, MA +4 | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 | Regeneron Pharmaceuticals | [Data Analytics Intern - Dashboards & Business Process Automation](https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Data-Analytics--Dashboards---Business-Process-Automation_R52559-1) | Armonk, NY +2 | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |

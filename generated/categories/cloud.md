@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # ☁️ Cloud Internships
 
-**208** tracked · **128** open now
+**209** tracked · **129** open now
 
 ## Current openings
 
@@ -95,6 +95,7 @@
 | [Palantir Technologies](generated/companies/palantir-technologies.md) | [Software Engineer Intern, Production Infrastructure](https://go.vansh.nyc/4t) | Seattle, WA | Onsite | 2026-07-24 | Rolling | 🟢 Open | ❔ |
 | [Peripheral](generated/companies/peripheral.md) | [Software Engineer Intern, Infrastructure](https://go.vansh.nyc/1ri) | Toronto | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | [ProCogia](generated/companies/procogia.md) | [DevOps & Cloud Platform Intern](https://go.vansh.nyc/1Kh) | Vancouver | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
+| [PTC](generated/companies/ptc.md) | [Full-Stack Engineer Intern - Cloud Data Management - CAD](https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Creo-Software-Engineering-Intern--Summer-2027-_JR113015) | Boston, MA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [PTC](generated/companies/ptc.md) | [Full-Stack Engineering Intern, Cloud Data Management (CAD)](https://go.vansh.nyc/1EX) | Boston, MA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [Punch Through Design](generated/companies/punch-through-design.md) | [Cloud Software Engineer Intern](https://go.vansh.nyc/1yY) | Minneapolis, MN | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Qualcomm](generated/companies/qualcomm.md) | [IT Infrastructure & Cloud Engineering Intern](https://go.vansh.nyc/Rv) | San Diego, CA | Onsite | 2026-10-18 | Rolling | 🟢 Open | ❔ |
@@ -236,6 +237,7 @@
 - Keysight Technologies (2)
 - Microsoft (2)
 - Nintendo (2)
+- PTC (2)
 - TMX Group (2)
 - TruStage (2)
 - Western Alliance Bancorporation (2)
@@ -290,7 +292,6 @@
 - Pacific Fusion (1)
 - Peripheral (1)
 - ProCogia (1)
-- PTC (1)
 - Punch Through Design (1)
 - Qualcomm (1)
 - Raft Company Website (1)

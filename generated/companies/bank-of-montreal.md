@@ -6,8 +6,12 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Bank of Montreal | [Agile Center of Excellence Co-op Intern - 4 Months](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Agile-Center-of-Excellence--Summer-2027--Co-op-Internship----4-Months_R260031148-3) | Toronto | Onsite | 2026-11-27 | Rolling | 🟢 Open | ❔ |
+| Bank of Montreal | [Business Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Business-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031168-3) | Toronto | Onsite | 2026-11-27 | Rolling | 🟢 Open | ❔ |
+| Bank of Montreal | [Product Associate Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Product-Associate--Summer-2027--Co-op-Internship----4-Months_R260031145-2) | Toronto | Onsite | 2026-11-27 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [Quantitative Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) | Toronto | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [Quantitative Analyst Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097-1) | Toronto | Onsite | 2026-11-06 | Rolling | 🟢 Open | ❔ |
+| Bank of Montreal | [Software Engineer Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/San-Ramon-CA-USA/Software-Engineer--Winter-2027--Co-op-Internship---4-months_R260031974) | San Ramon, CA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [Treasury & Payment Solutions Strategy Intern](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382) | Toronto | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [Treasury & Payment Solutions Strategy Intern](https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Treasury---Payment-Solutions-Strategy-Internship--Summer-2027--4-months-_R260031382-1) | Toronto | Onsite | 2026-11-10 | Rolling | 🟢 Open | ❔ |
 | Bank of Montreal | [AI Developer Co-op Intern](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Developer--Winter-2027--Co-op-Internship----4-months_R260026323) | Toronto | Onsite | 2026-11-12 | Rolling | 🔴 Closed | ❔ |

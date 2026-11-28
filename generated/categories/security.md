@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🔐 Security Internships
 
-**307** tracked · **183** open now
+**307** tracked · **182** open now
 
 ## Current openings
 
@@ -171,7 +171,6 @@
 | [Southern Farm Bureau Life Insurance](generated/companies/southern-farm-bureau-life-insurance.md) | [Cyber Security Intern](https://go.vansh.nyc/1G1) | Jackson, MS | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
 | [Southwest Power Pool](generated/companies/southwest-power-pool.md) | [Identity and Access Management (IAM) Analyst Intern, Information Security and Access Management](https://go.vansh.nyc/1FI) | Little Rock, AR | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❌ |
 | [State of Wisconsin Investment Board](generated/companies/state-of-wisconsin-investment-board.md) | [Information Security Intern](https://go.vansh.nyc/1C9) | Madison, WI | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
-| [Strava](generated/companies/strava.md) | [Software Engineering Intern, Server, Security](https://go.vansh.nyc/1Ha) | San Francisco, CA | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Red Team Security Engineer Intern, Vehicle Software](https://go.vansh.nyc/1b1) | Palo Alto, CA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern - Information Security - Spring 2027](https://www.tesla.com/careers/search/job/281473) | Bellevue, WA | Onsite | 2026-08-27 | Rolling | 🟢 Open | ❔ |
 | [Tesla](generated/companies/tesla.md) | [Software Engineer Intern, Information Security](https://go.vansh.nyc/1b8) | Bellevue, WA | Onsite | 2026-11-02 | Rolling | 🟢 Open | ❔ |
@@ -288,6 +287,7 @@
 | [State Street](generated/companies/state-street.md) | [Cyber Security Operations Center Analyst Intern](https://go.vansh.nyc/1yy) | Quincy, MA | Onsite | 2026-11-13 | Rolling | 🔴 Closed | ❔ |
 | [Steel Dynamics](generated/companies/steel-dynamics.md) | [Information Security Intern](https://go.vansh.nyc/1pP) | Fort Wayne, IN | Onsite | 2026-11-10 | Rolling | 🔴 Closed | ❔ |
 | [Stifel](generated/companies/stifel.md) | [Information Security Intern](https://go.vansh.nyc/D7) | Saint Louis, MO | Onsite | 2026-10-21 | Rolling | 🔴 Closed | ❔ |
+| [Strava](generated/companies/strava.md) | [Software Engineering Intern, Server, Security](https://go.vansh.nyc/1Ha) | San Francisco, CA | Onsite | 2026-11-13 | Rolling | 🔴 Closed | ❔ |
 | [SWBC](generated/companies/swbc.md) | [Application Security Intern](https://go.vansh.nyc/1cK) | San Antonio, TX | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | [T-Mobile](generated/companies/t-mobile.md) | [Software Engineer Intern, Cloud Security](https://go.vansh.nyc/dw) | Atlanta, GA +1 | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |
 | [TC Energy](generated/companies/tc-energy.md) | [Enterprise Security Intern, Detection & Response](https://go.vansh.nyc/1gW) | Calgary | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❔ |
@@ -462,7 +462,6 @@
 - Southern Farm Bureau Life Insurance (1)
 - Southwest Power Pool (1)
 - State of Wisconsin Investment Board (1)
-- Strava (1)
 - The Nuclear Company (1)
 - Trace3 (1)
 - Two Six Technologies (1)
@@ -531,6 +530,7 @@
 - State Street (1)
 - Steel Dynamics (1)
 - Stifel (1)
+- Strava (1)
 - SWBC (1)
 - T-Mobile (1)
 - TC Energy (1)

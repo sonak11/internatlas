@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Roche | [Service Data and Analytics Intern](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/XMLNAME-2027-Summer-Intern---Service-Data-and-Analytics_202611-129686) | Indianapolis, IN | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | Roche | [Assay Bioinformatics Intern, CSI](https://go.vansh.nyc/1qi) | Pleasanton, CA | Onsite | 2026-11-09 | Rolling | 🔴 Closed | ❔ |
 | Roche | [Computer Science Industrial Placement Student Intern - Data Capability](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student-CS-CoE-DDC-Data-Capability_202610-124915) | Welwyn | Onsite | 2026-10-21 | Rolling | 🔴 Closed | ❔ |
 | Roche | [Data Expert Intern - Compliance by Design - Data Capability](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student---Data-Expert--Compliance-by-Design--Data-Capability--DDC--Computational-Sciences-Center-of-Excellence_202610-127533) | Welwyn | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |

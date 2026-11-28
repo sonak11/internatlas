@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| The Home Depot | [Full Stack Software Developer Intern](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--Full-Stack-Software-Developer_Req195012) | Toronto | Onsite | 2026-10-01 | Rolling | 🟢 Open | ❔ |
 | The Home Depot | [Full Stack Software Developer Intern](https://go.vansh.nyc/1Lv) | Canada | Onsite | 2026-11-27 | Rolling | 🟢 Open | ❔ |
 | The Home Depot | [AI Engineer Intern](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547) | Toronto | Onsite | 2026-07-30 | Rolling | 🔴 Closed | ❔ |
 | The Home Depot | [AI Machine Learning Developer Intern](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Machine-Learning-Developer_Req195010) | Toronto | Onsite | 2026-10-01 | Rolling | 🔴 Closed | ❔ |

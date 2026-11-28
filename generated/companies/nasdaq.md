@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Nasdaq | [Data Engineer Intern](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Denver-18-Street/Data-Engineering-Intern---2027-Summer-Internship_R0027379) | Denver, CO | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | Nasdaq | [Data Engineering Intern](https://go.vansh.nyc/1Jl) | Denver, CO | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | Nasdaq | [Technical Research Intern](https://go.vansh.nyc/1p2) | Richmond, VA | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | Nasdaq | [Intelligent Automation Intern](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Intelligent-Automation-Intern---2027-Summer-Internship_R0027113) | NYC | Onsite | 2026-10-14 | Rolling | 🔴 Closed | ❔ |

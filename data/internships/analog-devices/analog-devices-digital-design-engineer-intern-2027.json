@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "draftkings-data-science-intern-2027-264382",
+  "id": "analog-devices-digital-design-engineer-intern-2027",
   "company": {
-    "name": "DraftKings",
-    "slug": "draftkings"
+    "name": "Analog Devices",
+    "slug": "analog-devices"
   },
-  "role": "Data Science Intern",
-  "category": "data-science",
-  "apply_url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960",
+  "role": "Digital Design Engineer Intern",
+  "category": "design",
+  "apply_url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Austin-Plaza-on-the-Lake/Digital-Design-Engineering-Intern---Summer-2027_R268548",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Boston",
-      "state": "MA",
+      "city": "Austin",
+      "state": "TX",
       "country": "USA"
     }
   ],
@@ -25,7 +25,9 @@
   },
   "eligibility": {
     "graduation_years": [],
-    "degree_levels": [],
+    "degree_levels": [
+      "masters"
+    ],
     "citizenship_required": false,
     "security_clearance_required": false,
     "visa_sponsorship": "unknown"
@@ -40,9 +42,9 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-01",
-    "discovered": "2026-11-13",
-    "last_verified": "2026-11-27"
+    "posted": "2026-11-18",
+    "discovered": "2026-11-28",
+    "last_verified": "2026-11-28"
   },
   "status": "open",
   "tags": [

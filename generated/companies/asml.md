@@ -6,11 +6,16 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| ASML | [Artificial Intelligence Intern, Integrate GUI and LLM](https://go.vansh.nyc/1LN) | San Jose, CA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | ASML | [Data & AI Intern, Controls](https://go.vansh.nyc/1KZ) | San Diego, CA | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
+| ASML | [Data Analyst Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Internship---Data-Analyst_J-00355833) | San Jose, CA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | ASML | [Data Scientist Intern](https://go.vansh.nyc/1yl) | Wilton, CT | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | ASML | [Data Scientist Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Data-Scientist_J-00356462) | Wilton, CT | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
+| ASML | [Electrical Engineer Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Electrical-Engineer_J-00358102) | Wilton, CT | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | ASML | [Internship - Software Development Engineer in Test](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071) | San Jose, CA | Onsite | 2025-12-22 | Rolling | 🟢 Open | ❔ |
 | ASML | [Optical Engineer Co-op Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Co-op---Optical-Engineer--Internship-_J-00354451) | Wilton, CT | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
+| ASML | [Optical Engineer Co-op Intern](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Optical-Engineer--Co-op-_J-00357286) | Wilton, CT | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
+| ASML | [Optical Engineering Intern - Non Product Metrology](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship---Optical-Engineering--Non-Product-Metrology_J-00355369) | San Diego, CA | Onsite | 2026-11-17 | Rolling | 🟢 Open | ❔ |
 | ASML | [Platform Software Engineer In Test Intern](https://go.vansh.nyc/hQ) | San Jose, CA | Onsite | 2026-10-24 | Rolling | 🟢 Open | ❔ |
 | ASML | [Software Development Engineer in Test Intern](https://go.vansh.nyc/Y2) | San Diego, CA | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
 | ASML | [Software Engineer Intern](https://go.vansh.nyc/1KQ) | San Diego, CA | Onsite | 2026-11-26 | Rolling | 🟢 Open | ❔ |

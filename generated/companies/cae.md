@@ -7,6 +7,7 @@
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
 | CAE | [Artificial Intelligence Intern](https://go.vansh.nyc/EZ) | Montreal | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
+| CAE | [Business Intelligence and Applied AI Intern - Sustainable Procurement](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GSS-157-Business-Intelligence-and-Applied-AI-Intern---Sustainable-Procurement_124528) | Montreal | Onsite | 2026-11-26 | Rolling | 🟢 Open | ❔ |
 | CAE | [Cybersecurity Integration Specialist Intern](https://go.vansh.nyc/SA) | Montreal | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | CAE | [Data Specialist Intern](https://go.vansh.nyc/EY) | Montreal | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | CAE | [Full Stack Developer Intern, Training Center Operations Experience](https://go.vansh.nyc/F1) | Montreal | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |

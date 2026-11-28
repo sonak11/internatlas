@@ -9,6 +9,7 @@
 | Micron Technology | [Advanced Modeling and AI Solutions Intern](https://go.vansh.nyc/1GW) | Boise, ID | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [AI Engineer Platform Intern](https://go.vansh.nyc/1z5) | Boise, ID | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [ASIC Digital Design Intern](https://go.vansh.nyc/Z8) | Minneapolis, MN | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
+| Micron Technology | [Data Science Intern](https://go.vansh.nyc/1LB) | Boise, ID | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [Data Science Intern, SMAI](https://go.vansh.nyc/1Ap) | Boise, ID | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [DRAM Design Engineer Intern](https://go.vansh.nyc/1h3) | Boise, ID | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
 | Micron Technology | [Embedded Software Engineering Intern](https://go.vansh.nyc/XX) | Boise, ID | Onsite | 2026-10-28 | Rolling | 🟢 Open | ❔ |
@@ -24,7 +25,6 @@
 | Micron Technology | [AI Engineering Intern, SMAI TD](https://go.vansh.nyc/1d5) | Boise, ID | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | Micron Technology | [AI Systems and Infrastructure Engineering Intern](https://micron.wd1.myworkdayjobs.com/External/job/Austin-TX/Intern---AI-Systems-and-Infrastructure-Engineering_JR109990) | Austin, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Micron Technology | [Data Center SSD Firmware Intern](https://go.vansh.nyc/1d3) | Longmont, CO | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
-| Micron Technology | [Data Science Intern](https://go.vansh.nyc/XF) | San Jose, CA +1 | Onsite | 2026-10-28 | Rolling | 🔴 Closed | ❔ |
 | Micron Technology | [Design Architecture Intern - HBM](https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern----Design-Architecture--HBM_JR110177) | Richardson, TX | Onsite | 2026-08-31 | Rolling | 🔴 Closed | ❔ |
 | Micron Technology | [Design Engineer Intern, HBM](https://go.vansh.nyc/bq) | Richardson, TX | Onsite | 2026-10-19 | Rolling | 🔴 Closed | ❔ |
 | Micron Technology | [Design Engineer Intern, Pathfinding](https://go.vansh.nyc/d7) | San Jose, CA +1 | Onsite | 2026-10-20 | Rolling | 🔴 Closed | ❔ |

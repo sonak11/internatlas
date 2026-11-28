@@ -2,7 +2,7 @@
      Edit JSON in data/internships/ and run `python -m internatlas generate`. -->
 # 🛠 Data Engineering Internships
 
-**253** tracked · **112** open now
+**258** tracked · **117** open now
 
 ## Current openings
 
@@ -43,6 +43,8 @@
 | [GM Financial](generated/companies/gm-financial.md) | [Data Engineer Intern](https://go.vansh.nyc/Zs) | Arlington, TX | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [GM financial](generated/companies/gm-financial.md) | [Data Engineer Intern](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197) | Arlington, TX | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | [Great American Insurance Company](generated/companies/great-american-insurance-company.md) | [Data Engineer Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineering-Intern---Summer-2027_R9794) | Cincinnati, OH | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
+| [Great American Insurance Company](generated/companies/great-american-insurance-company.md) | [Data Engineer Intern](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Data-Engineer-Developer-Intern---Summer-2027_R9919) | Cincinnati, OH | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
+| [Highmark Health](generated/companies/highmark-health.md) | [Healthcare Interoperability Data Engineer & Analyst Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Engineer---Analyst-enGen-Undergraduate-Intern_J291722) | Pittsburgh, PA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | [iA](generated/companies/ia.md) | [Software Data Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1) | Indianapolis, IN | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [IAT Insurance Group](generated/companies/iat-insurance-group.md) | [Data Engineering & Visualization Intern](https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Data-Engineering---Visualization-Internship_JR100441) | Raleigh, NC | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
 | [IAT Insurance Group](generated/companies/iat-insurance-group.md) | [Data Engineering & Visualization Intern](https://go.vansh.nyc/JL) | Raleigh, NC | Onsite | 2026-09-28 | Rolling | 🟢 Open | ❔ |
@@ -62,6 +64,7 @@
 | [Marmon Holdings](generated/companies/marmon-holdings.md) | [Data Engineering Intern Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) | Milwaukee, WI | Onsite | 2026-05-16 | Rolling | 🟢 Open | ❔ |
 | [Medpace](generated/companies/medpace.md) | [Data Engineer Intern](https://go.vansh.nyc/1wk) | Cincinnati, OH | Onsite | 2026-11-12 | Rolling | 🟢 Open | ❔ |
 | [Medpace](generated/companies/medpace.md) | [Data Engineer Intern - Spring 2027](https://careers.medpace.com/jobs/12921?icims=1) | Cincinnati, OH | Onsite | 2026-08-10 | Rolling | 🟢 Open | ❔ |
+| [Nasdaq](generated/companies/nasdaq.md) | [Data Engineer Intern](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Denver-18-Street/Data-Engineering-Intern---2027-Summer-Internship_R0027379) | Denver, CO | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [Nasdaq](generated/companies/nasdaq.md) | [Data Engineering Intern](https://go.vansh.nyc/1Jl) | Denver, CO | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | [National Interstate Insurance](generated/companies/national-interstate-insurance.md) | [Data Engineer Developer Intern](https://go.vansh.nyc/1Ek) | Cincinnati, OH | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | [National Interstate Insurance](generated/companies/national-interstate-insurance.md) | [Data Engineering Intern](https://go.vansh.nyc/Wd) | Cincinnati, OH | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
@@ -93,6 +96,8 @@
 | [Southern Farm Bureau Life Insurance](generated/companies/southern-farm-bureau-life-insurance.md) | [Data Engineer Intern](https://go.vansh.nyc/1Fu) | Jackson, MS | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | [State of Wisconsin Investment Board](generated/companies/state-of-wisconsin-investment-board.md) | [Data Analytics Engineering Intern](https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Data-Analytics-Engineering-Intern_R-001330) | Madison, WI | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | [State of Wisconsin Investment Board](generated/companies/state-of-wisconsin-investment-board.md) | [Data Analytics Engineering Intern](https://go.vansh.nyc/1uG) | Madison, WI | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
+| [State Street](generated/companies/state-street.md) | [Data Engineering & Product Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Data-Engineering---Product--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801276) | Quincy, MA | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
+| [State Street](generated/companies/state-street.md) | [Data Engineering & Product Intern](https://statestreet.wd1.myworkdayjobs.com/Global/job/Boston-Massachusetts/Data-Engineering---Product--Technology-Intern---Full-time-Internship--Jan---June-2027-_R-801274) | Boston, MA | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | [State Street](generated/companies/state-street.md) | [Data Engineering & Product Intern, Technology](https://go.vansh.nyc/1Ld) | Boston, MA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❌ |
 | [State Street](generated/companies/state-street.md) | [Data Engineering & Product Intern, Technology](https://go.vansh.nyc/1Lc) | Quincy, MA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❌ |
 | [Super](generated/companies/super.md) | [Data Engineer Intern](https://jobs.ashbyhq.com/super.com/5251792e-093d-42c6-ae9e-08c656e90807/application?embed=true) | Toronto | Onsite | 2026-09-04 | Rolling | 🟢 Open | ❔ |
@@ -272,6 +277,7 @@
 - American Express (6)
 - CVS Health (5)
 - Navy Federal (4)
+- State Street (4)
 - Systems Planning and Analysis (4)
 - Constellation Energy (3)
 - Super (3)
@@ -287,12 +293,14 @@
 - Atlassian (2)
 - Auto-Owners Insurance (2)
 - CarGurus (2)
+- Great American Insurance Company (2)
 - IAT Insurance Group (2)
 - ID.me (2)
 - Lutron (2)
 - Lyft (2)
 - Marmon Holdings (2)
 - Medpace (2)
+- Nasdaq (2)
 - National Interstate Insurance (2)
 - Octaura (2)
 - Pacific Life (2)
@@ -302,7 +310,6 @@
 - Riot Games (2)
 - Shure (2)
 - State of Wisconsin Investment Board (2)
-- State Street (2)
 - Veeam Software (2)
 - 7-Eleven (2)
 - Alstom (2)
@@ -333,7 +340,7 @@
 - Firework (1)
 - GM Financial (1)
 - GM financial (1)
-- Great American Insurance Company (1)
+- Highmark Health (1)
 - iA (1)
 - ibotta (1)
 - Intuitive (1)
@@ -342,7 +349,6 @@
 - Judi Health (1)
 - Jump Trading (1)
 - LPL Financial Holdings (1)
-- Nasdaq (1)
 - Nexus Cognitive Technologies (1)
 - NexusOne (1)
 - PatientPoint (1)

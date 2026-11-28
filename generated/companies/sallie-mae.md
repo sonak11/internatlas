@@ -6,6 +6,8 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Sallie Mae | [Data Lifecycle and Governance Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Lifecycle-and-Governance-Intern_R26_000697) | Newark, DE | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
+| Sallie Mae | [Data Lifecycle and Governance Intern](https://go.vansh.nyc/1LE) | Newark, DE | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |
 | Sallie Mae | [Data Science and Engineering Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659) | Newark, DE +1 | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | Sallie Mae | [Data Science and Engineering Intern](https://go.vansh.nyc/1zR) | Newark, DE +1 | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | Sallie Mae | [Software Engineer Intern](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Software-Engineering-Intern_R26_000688) | Newark, DE | Onsite | 2026-11-18 | Rolling | 🟢 Open | ❔ |

@@ -7,19 +7,14 @@
   },
   "role": "Data Science Intern",
   "category": "data-science",
-  "apply_url": "https://go.vansh.nyc/XF",
+  "apply_url": "https://go.vansh.nyc/1LB",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "San Jose",
-      "state": "CA",
-      "country": "USA"
-    },
-    {
-      "city": "Folsom",
-      "state": "CA",
+      "city": "Boise",
+      "state": "ID",
       "country": "USA"
     }
   ],
@@ -45,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-10-28",
+    "posted": "2026-11-16",
     "discovered": "2026-10-28",
-    "last_verified": "2026-11-13"
+    "last_verified": "2026-11-28"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:vanshb03"

@@ -12,6 +12,7 @@
 | Draper | [HWIL & Real Time Simulation Intern](https://go.vansh.nyc/1Ib) | Cambridge, MA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❌ |
 | Draper | [Operational Analysis Intern - Summer 2027](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Operational-Analysis-Intern--Summer-2027-_JR003182) | Cambridge, MA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
 | Draper | [Optics-Physics Sensor Engineer Intern](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094) | Cambridge, MA | Onsite | 2026-11-04 | Rolling | 🟢 Open | ❔ |
+| Draper | [Simulation Engineer Intern](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Simulation-Engineering-Intern--Summer-2027-_JR003181) | Cambridge, MA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | Draper | [Simulation Engineering Intern](https://go.vansh.nyc/1J9) | Cambridge, MA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | Draper | [Cable and Harnessing Intern](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Cable-And-Harnessing-Intern--Summer-2027-_JR002963) | Cambridge, MA | Onsite | 2026-09-30 | Rolling | 🔴 Closed | ❔ |
 | Draper | [Classified Cybersecurity/IT Intern](https://go.vansh.nyc/8B) | Cambridge, MA | Onsite | 2026-10-13 | Rolling | 🔴 Closed | ❌ |

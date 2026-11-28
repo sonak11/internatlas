@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| State Employees' Credit Union | [Product Strategy Business Intelligence Analyst Intern](https://ncsecu.wd1.myworkdayjobs.com/secu/job/North-Carolina/Intern---Product-Strategy-Business-Intelligence-Analyst_JR-16978) | North Carolina | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | State Employees' Credit Union | [Server Engineering and Operations Intern](https://ncsecu.wd1.myworkdayjobs.com/secu/job/North-Carolina/Intern---Server-Engineering-and-Operations-Part-time-Spring-2027_JR-16564) | North Carolina | Onsite | 2026-10-06 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

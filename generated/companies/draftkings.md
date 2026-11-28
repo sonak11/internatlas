@@ -8,16 +8,15 @@
 |---|---|---|---|---|---|---|---|
 | DraftKings | [Analytics Intern - Summer 2027](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR15148) | Boston, MA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
 | DraftKings | [Analytics Intern - Summer 2027](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Analyst-Intern--Summer-2027-_JR15147) | Boston, MA | Onsite | 2026-09-16 | Rolling | 🟢 Open | ❔ |
-| DraftKings | [Data Science Intern](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960) | Boston, MA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | DraftKings | [Data Science Intern](https://go.vansh.nyc/en) | Boston, MA | Onsite | 2026-09-19 | Rolling | 🟢 Open | ❔ |
-| DraftKings | [Data Science Intern](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1) | London | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
-| DraftKings | [Data Science Intern](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149) | London | Onsite | 2026-11-13 | Rolling | 🟢 Open | ❔ |
+| DraftKings | [Data Science Intern](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Data-Science-Intern-Referral--Summer-2027-_JR14960) | Boston, MA | Onsite | 2026-09-01 | Rolling | 🟢 Open | ❔ |
 | DraftKings | [Software Engineer Intern](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150-1) | London | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | DraftKings | [Software Engineer Intern](https://go.vansh.nyc/1hI) | Boston, MA | Onsite | 2026-11-05 | Rolling | 🟢 Open | ❔ |
 | DraftKings | [Software Engineer Intern](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/London-UK/Software-Engineering-Intern--Summer-2027-_JR15150) | London | Onsite | 2026-11-11 | Rolling | 🟢 Open | ❔ |
 | DraftKings | [Software Engineer Intern - Summer 2027](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928) | Boston, MA | Onsite | 2026-08-31 | Rolling | 🟢 Open | ❔ |
 | DraftKings | [Analytics Intern](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-Intern-Referral--Summer-2027-_JR15187) | Boston, MA | Onsite | 2026-09-30 | Rolling | 🔴 Closed | ❔ |
 | DraftKings | [Data Engineer Intern](https://go.vansh.nyc/1Ex) | Boston, MA | Onsite | 2026-11-20 | Rolling | 🔴 Closed | ❔ |
+| DraftKings | [Data Science Intern](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/London-UK/Data-Science-Intern--Summer-2027-_JR15149-1) | London | Onsite | 2026-11-13 | Rolling | 🔴 Closed | ❔ |
 | DraftKings | [Data Science Intern - Summer 2027](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Intern--Summer-2027-_JR14958) | Boston, MA | Onsite | 2026-09-01 | Rolling | 🔴 Closed | ❔ |
 
 ## Related

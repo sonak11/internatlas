@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
-  "id": "hy-vee-data-integration-intern-2027-44a565",
+  "id": "state-street-software-engineer-intern-2027-3d8112",
   "company": {
-    "name": "Hy-Vee",
-    "slug": "hy-vee"
+    "name": "State Street",
+    "slug": "state-street"
   },
-  "role": "Data Integration Intern",
+  "role": "Software Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Data-Integration-Intern---Summer-2027_R250148",
-  "season": "summer",
+  "apply_url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Software-Engineering-Intern---Full-time-Internship--Jan---June-2027-_R-801241",
+  "season": "winter",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "West Des Moines",
-      "state": "IA",
+      "city": "Quincy",
+      "state": "MA",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-04",
-    "discovered": "2026-10-26",
-    "last_verified": "2026-10-31"
+    "posted": "2026-11-17",
+    "discovered": "2026-11-28",
+    "last_verified": "2026-11-28"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

@@ -17,6 +17,7 @@
 | Hewlett Packard Enterprise | [Cloud Security Engagement Intern](https://go.vansh.nyc/1IP) | Spring, TX | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [Data Science Intern](https://go.vansh.nyc/OD) | Andover, MA +9 | Onsite | 2026-08-30 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [Embedded Software Engineer Intern](https://go.vansh.nyc/dn) | Roseville, CA | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| Hewlett Packard Enterprise | [Enterprise Architect Intern](https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Enterprise-Architect-Intern_1216773) | Winnersh | Onsite | 2026-11-26 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [Hardware Engineer Intern](https://go.vansh.nyc/1nA) | Sunnyvale, CA | Onsite | 2026-10-06 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [Hardware Engineering Design Intern](https://go.vansh.nyc/c3) | Roseville, CA | Onsite | 2026-10-19 | Rolling | 🟢 Open | ❔ |
 | Hewlett Packard Enterprise | [Hardware Engineering Intern](https://go.vansh.nyc/1ed) | Westford, MA | Onsite | 2026-11-03 | Rolling | 🟢 Open | ❔ |

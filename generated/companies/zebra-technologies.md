@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Zebra Technologies | [Electrical Engineer Intern - Advanced Data Capture](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Electrical-Engineer--Advanced-Data-Capture_JR103913) | Holtsville, NY | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | Zebra Technologies | [Product Management Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103660) | Lincolnshire, IL | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | Zebra Technologies | [WWAN Cellular Engineer Intern](https://go.vansh.nyc/1GV) | Holtsville, NY | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | Zebra Technologies | [AI Intern](https://go.vansh.nyc/19O) | Lincolnshire, IL | Onsite | 2026-11-02 | Rolling | 🔴 Closed | ❔ |

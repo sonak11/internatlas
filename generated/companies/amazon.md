@@ -18,6 +18,8 @@
 | Amazon | [ASIC Engineer Intern](https://go.vansh.nyc/hA) | Seattle, WA +2 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [ASIC Engineer Intern](https://amazon.jobs/en/jobs/10576619/asic-engineer-intern-summer-2027) | Sunnyvale, CA | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Associate Delivery Consultant Intern - AWS Professional Services](https://amazon.jobs/en/jobs/10585774/associate-delivery-consultant-intern-aws-professional-services) | Arlington County +1 | Onsite | 2026-10-23 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Associate Delivery Consultant Intern, AIML, AWS Professional Services](https://go.vansh.nyc/1M1) | Montreal | Onsite | 2026-11-28 | Rolling | 🟢 Open | ❔ |
+| Amazon | [Associate Delivery Consultant Intern, AIML, AWS Professional Services](https://go.vansh.nyc/1M0) | Toronto | Onsite | 2026-11-28 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Business Analyst Intern](https://amazon.jobs/en/jobs/10575250/business-analyst-intern-summer-2027) | Bellevue, WA | Onsite | 2026-10-09 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Business Intelligence Engineer Intern](https://go.vansh.nyc/PX) | Seattle, WA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |
 | Amazon | [Business Intelligence Engineer Intern](https://amazon.jobs/en/jobs/10553765/business-intelligence-engineer-internship-2027-us) | Seattle, WA | Onsite | 2026-10-08 | Rolling | 🟢 Open | ❔ |

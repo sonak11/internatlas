@@ -7,14 +7,14 @@
   },
   "role": "Digital Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Digital-Engineer-Intern---Baltimore-MD_R10251150-1",
+  "apply_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Digital-Engineer-Intern---Manhattan-Beach-CA_R10262090",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Baltimore",
-      "state": "MD",
+      "city": "Manhattan Beach",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -42,11 +42,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-21",
+    "posted": "2026-11-24",
     "discovered": "2026-09-21",
-    "last_verified": "2026-09-25"
+    "last_verified": "2026-11-28"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"

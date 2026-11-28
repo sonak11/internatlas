@@ -6,19 +6,21 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
-| Highmark Health | [Clinical and Population Health Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Clinical-and-Population-Health-Graduate-Intern_J288011) | New Mexico +49 | Onsite | 2026-10-29 | Rolling | 🟢 Open | ❔ |
 | Highmark Health | [Cyber Risk Management Analyst Undergraduate Intern](https://go.vansh.nyc/UF) | Camp Hill, PA | Onsite | 2026-10-27 | Rolling | 🟢 Open | ❔ |
 | Highmark Health | [Enterprise Architecture Software Engineer & Architect Intern](https://go.vansh.nyc/SS) | Pittsburgh, PA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Highmark Health | [Enterprise Data Governance Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Data-Governance-enGen-Undergraduate-Internship_J289807) | Pittsburgh, PA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Highmark Health | [Enterprise Data Warehouse Systems Engineering Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Enterprise-Data-Warehouse-Systems-enGen-Undergraduate-Intern_J289826) | Pittsburgh, PA | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Highmark Health | [Enterprise Master Data Management Analyst Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Enterprise-Master-Data-Management-Analyst-Graduate-Intern_J289856) | New Mexico +50 | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Highmark Health | [Evaluation Analytics Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Evaluation-Analytics-Graduate-Intern_J288013) | New Mexico +50 | Onsite | 2026-10-20 | Rolling | 🟢 Open | ❔ |
+| Highmark Health | [Healthcare Interoperability Data Engineer & Analyst Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Engineer---Analyst-enGen-Undergraduate-Intern_J291722) | Pittsburgh, PA | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Highmark Health | [Network Cybersecurity Engineer Undergraduate Intern](https://go.vansh.nyc/1Lg) | USA | Onsite | 2026-11-20 | Rolling | 🟢 Open | ❔ |
+| Highmark Health | [Product Management and Development Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Product-Management-and-Development-Intern_J287159) | New Mexico +50 | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
 | Highmark Health | [Reporting and Analytics Undergraduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-UCD-Reporting-and-Analytics-Undergraduate-Intern_J287987) | New Mexico +49 | Onsite | 2026-11-09 | Rolling | 🟢 Open | ❔ |
 | Highmark Health | [Software Engineer Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Graduate-Intern_J289845) | New Mexico +49 | Onsite | 2026-10-26 | Rolling | 🟢 Open | ❔ |
 | Highmark Health | [Technical Analyst Intern, enGen Undergraduate](https://go.vansh.nyc/1AK) | Pittsburgh, PA | Onsite | 2026-11-16 | Rolling | 🟢 Open | ❔ |
 | Highmark Health | [AI Services and Platforms Software Engineer Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-AI-Services-and-Platforms-Software-Engineer-Graduate-Intern_J288322) | New Mexico +50 | Onsite | 2026-11-03 | Rolling | 🔴 Closed | ❔ |
 | Highmark Health | [Applied Gen AI/Data Scientist Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Applied-Gen-AI-Data-Scientist-Graduate-Intern_J288007) | New Mexico +50 | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
+| Highmark Health | [Clinical and Population Health Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Clinical-and-Population-Health-Graduate-Intern_J288011) | New Mexico +49 | Onsite | 2026-10-29 | Rolling | 🔴 Closed | ❔ |
 | Highmark Health | [Data Analyst enGen Undergraduate Intern](https://go.vansh.nyc/1qu) | Pittsburgh, PA | Onsite | 2026-11-10 | Rolling | 🔴 Closed | ❔ |
 | Highmark Health | [Data Analyst Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826) | Pittsburgh, PA | Onsite | 2026-10-26 | Rolling | 🔴 Closed | ❔ |
 | Highmark Health | [Data Analyst Undergraduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017) | Pittsburgh, PA | Onsite | 2026-10-19 | Rolling | 🔴 Closed | ❔ |
@@ -36,4 +38,4 @@
 
 ## Related
 
-Browse more roles in: [🤖 AI](../categories/ai.md), [📊 Data Science](../categories/data-science.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)
+Browse more roles in: [🤖 AI](../categories/ai.md), [🛠 Data Engineering](../categories/data-engineering.md), [📊 Data Science](../categories/data-science.md), [🧭 Product](../categories/product.md), [🔐 Security](../categories/security.md), [💻 Software Engineering](../categories/software-engineering.md)

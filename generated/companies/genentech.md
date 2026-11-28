@@ -6,9 +6,12 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Genentech | [AI for Drug Discovery Intern](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery_202611-129909) | South SF | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | Genentech | [AI for Drug Discovery Intern - AI for Drug Discovery - AIDD](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/XMLNAME-2027-Summer-Intern---AI-for-Drug-Discovery--AIDD-_202611-129550-1) | NYC | Onsite | 2026-11-19 | Rolling | 🟢 Open | ❔ |
+| Genentech | [Clinical Pharmacology Intern](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Clinical-Pharmacology_202611-129678) | South SF | Onsite | 2026-11-25 | Rolling | 🟢 Open | ❔ |
 | Genentech | [Community College Program Intern, Informatics](https://go.vansh.nyc/1Li) | South San Francisco, CA | Onsite | 2026-11-21 | Rolling | 🟢 Open | ❔ |
 | Genentech | [Service Data and Analytics Intern](https://go.vansh.nyc/1L0) | Indianapolis, IN | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
+| Genentech | [Software Engineer Intern - Robotics - Lab Automation](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Summer-Intern---Software-Engineer--Robotics----Lab-Automation_202611-129832) | South SF | Onsite | 2026-11-23 | Rolling | 🟢 Open | ❔ |
 | Genentech | [Software Engineer Intern, Robotics Lab Automation](https://go.vansh.nyc/1KV) | South San Francisco, CA | Onsite | 2026-11-24 | Rolling | 🟢 Open | ❔ |
 | Genentech | [Applied GenAI Scientist Intern - GenAI Applications](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---GenAI-Applications_202610-125229) | South SF | Onsite | 2026-10-05 | Rolling | 🔴 Closed | ❔ |
 | Genentech | [Data Science & Machine Learning Intern - Agentic AI Discovery & Prototyping](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2027-Spring-Intern---Data-Science---Machine-Learning_202609-124657) | South SF | Onsite | 2026-10-22 | Rolling | 🔴 Closed | ❔ |

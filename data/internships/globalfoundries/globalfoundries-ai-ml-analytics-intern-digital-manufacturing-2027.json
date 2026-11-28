@@ -5,18 +5,13 @@
     "name": "GlobalFoundries",
     "slug": "globalfoundries"
   },
-  "role": "AI/ML Analytics Intern, Digital Manufacturing",
+  "role": "AI/ML Analytics Intern - Digital Manufacturing",
   "category": "machine-learning",
-  "apply_url": "https://go.vansh.nyc/1EA",
+  "apply_url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-ML-Analytics-Intern--Digital-Manufacturing--Summer-2027-_JR-2604570",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
-    {
-      "city": "New York",
-      "state": "NY",
-      "country": "USA"
-    },
     {
       "city": "Malta",
       "state": "NY",
@@ -47,11 +42,11 @@
   "dates": {
     "posted": "2026-11-20",
     "discovered": "2026-11-20",
-    "last_verified": "2026-11-27"
+    "last_verified": "2026-11-28"
   },
   "status": "open",
   "tags": [
     "auto-ingested",
-    "src:vanshb03"
+    "src:simplify"
   ]
 }

@@ -6,6 +6,7 @@
 
 | Company | Role | Location | Mode | Posted | Deadline | Status | Visa |
 |---|---|---|---|---|---|---|---|
+| Parsons | [Engineering Internship/Co-op](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Engineering-Internship---Co-Op-Summer-2027_R185683) | Charlotte, NC +1 | Onsite | 2026-09-02 | Rolling | 🟢 Open | ❔ |
 | Parsons | [AI/ML Engineer Intern](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194) | Centreville, VA +1 | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❔ |
 | Parsons | [AI/ML Engineer Intern](https://go.vansh.nyc/1gF) | Centreville, VA | Onsite | 2026-11-04 | Rolling | 🔴 Closed | ❔ |
 | Parsons | [Computer Vision/Robotics Intern](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Westminster/Computer-Vision-Robotics-Intern_R187402) | Westminster, CO | Onsite | 2026-10-21 | Rolling | 🔴 Closed | ❔ |

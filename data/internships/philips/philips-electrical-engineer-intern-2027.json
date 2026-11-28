@@ -7,14 +7,14 @@
   },
   "role": "Electrical Engineer Intern",
   "category": "software-engineering",
-  "apply_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Intern---Electrical-Engineering---Cambridge--MA---Summer-2027_592605",
+  "apply_url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/San-Diego-California-United-States/Intern---Electrical-Engineer---San-Diego--CA---Summer-2027_594811",
   "season": "summer",
   "year": 2027,
   "work_mode": "onsite",
   "locations": [
     {
-      "city": "Cambridge",
-      "state": "MA",
+      "city": "San Diego",
+      "state": "CA",
       "country": "USA"
     }
   ],
@@ -40,11 +40,11 @@
     "resume_keywords": []
   },
   "dates": {
-    "posted": "2026-09-25",
+    "posted": "2026-11-20",
     "discovered": "2026-09-26",
-    "last_verified": "2026-10-03"
+    "last_verified": "2026-11-28"
   },
-  "status": "closed",
+  "status": "open",
   "tags": [
     "auto-ingested",
     "src:simplify"
